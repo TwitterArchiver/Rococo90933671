@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2055407350471925838",
+    "created_at": "2026-05-15T23:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T00:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055431744263016646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507211443938025472",
+          "start": 0,
+          "username": "suqingming2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055431744263016646",
+    "in_reply_to_user_id": "1507211443938025472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055407350471925838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suqingming2 2022年的时候去福建，我就发现那里的药店太稀疏了，比起我家乡真的是少了很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2055407350471925838",
+        "created_at": "2026-05-15T23:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055431744263016646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507211443938025472",
+              "start": 0,
+              "username": "suqingming2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055431744263016646",
+        "in_reply_to_user_id": "1507211443938025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055407350471925838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suqingming2 2022年的时候去福建，我就发现那里的药店太稀疏了，比起我家乡真的是少了很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507211443938025472",
+        "conversation_id": "2055407350471925838",
+        "created_at": "2026-05-15T21:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055407350471925838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055407350471925838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "江浙沪的早餐店也太稀疏了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11526,
+          "following_count": 3046,
+          "like_count": 38139,
+          "listed_count": 37,
+          "media_count": 3979,
+          "tweet_count": 21507
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T04:23:16.000Z",
+        "description": "咸鱼钓鱼佬\n恋人 @karasu2layer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "karasu2layer"
+              }
+            ]
+          }
+        },
+        "id": "1507211443938025472",
+        "location": "清明节葬于海底",
+        "name": "SSS.清明咸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021913224900489218/qSy9ZFXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 612,
+          "like_count": 104519,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 10982
+        },
+        "username": "suqingming2",
+        "verified": false
+      }
+    ]
+  }
+}

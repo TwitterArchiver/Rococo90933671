@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025873505204785152"
+      ],
+      "media_source_tweet_id": [
+        "2025888382208151589"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2026815122061275247",
+    "created_at": "2026-02-26T00:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026815122061275247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3011966756",
+          "start": 3,
+          "username": "hanasakichu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oejx2y10Gs",
+          "end": 43,
+          "expanded_url": "https://x.com/hanasakichu/status/2025888382208151589/photo/1",
+          "media_key": "3_2025873505204785152",
+          "start": 20,
+          "url": "https://t.co/oejx2y10Gs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026815122061275247",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025888382208151589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanasakichu: 🐳🪄 https://t.co/oejx2y10Gs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2025873505204785152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1ZOC2bUAArn-r.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025873505204785152"
+          ],
+          "media_source_tweet_id": [
+            "2025888382208151589"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2026815122061275247",
+        "created_at": "2026-02-26T00:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026815122061275247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3011966756",
+              "start": 3,
+              "username": "hanasakichu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oejx2y10Gs",
+              "end": 43,
+              "expanded_url": "https://x.com/hanasakichu/status/2025888382208151589/photo/1",
+              "media_key": "3_2025873505204785152",
+              "start": 20,
+              "url": "https://t.co/oejx2y10Gs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026815122061275247",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025888382208151589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanasakichu: 🐳🪄 https://t.co/oejx2y10Gs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025873505204785152"
+          ]
+        },
+        "author_id": "3011966756",
+        "conversation_id": "2025888382208151589",
+        "created_at": "2026-02-23T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025888382208151589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oejx2y10Gs",
+              "end": 26,
+              "expanded_url": "https://x.com/hanasakichu/status/2025888382208151589/photo/1",
+              "media_key": "3_2025873505204785152",
+              "start": 3,
+              "url": "https://t.co/oejx2y10Gs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025888382208151589",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7028,
+          "like_count": 502,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "🐳🪄 https://t.co/oejx2y10Gs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7794,
+          "following_count": 2257,
+          "like_count": 30195,
+          "listed_count": 22,
+          "media_count": 3219,
+          "tweet_count": 18169
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T05:23:37.000Z",
+        "description": "イラストレーター＆Vtuber✨\n「ロリ可愛い」特化の絵描きです🐇🎨\nイラスト希望の方は\nSkebリクエストからどうぞ💌\nお仕事のご依頼はHPへ🙇‍\nSkeb➡https://t.co/LPoXQyeNLx\nHP➡https://t.co/GocxdIP6XC\nFANBOX➡https://t.co/1J4ma4sTXS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hanasakichu",
+                "end": 103,
+                "expanded_url": "http://skeb.jp/@hanasakichu",
+                "start": 80,
+                "url": "https://t.co/LPoXQyeNLx"
+              },
+              {
+                "display_url": "x.gd/aMwT7",
+                "end": 130,
+                "expanded_url": "https://x.gd/aMwT7",
+                "start": 107,
+                "url": "https://t.co/GocxdIP6XC"
+              },
+              {
+                "display_url": "x.gd/z2gsm",
+                "end": 161,
+                "expanded_url": "https://x.gd/z2gsm",
+                "start": 138,
+                "url": "https://t.co/1J4ma4sTXS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/hanasakichu",
+                "end": 23,
+                "expanded_url": "http://youtube.com/c/hanasakichu",
+                "start": 0,
+                "url": "https://t.co/XW0oPxr7Wj"
+              }
+            ]
+          }
+        },
+        "id": "3011966756",
+        "location": "Vtuberとしても毎週配信中【YouTubeチャンネル】⇓",
+        "name": "花咲ちゆ🌸Vtuberさきちゅ🐇🎨",
+        "pinned_tweet_id": "2025525990366007376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987480133691953152/NNwCeBCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32551,
+          "following_count": 381,
+          "like_count": 72547,
+          "listed_count": 305,
+          "media_count": 2541,
+          "tweet_count": 53718
+        },
+        "url": "https://t.co/XW0oPxr7Wj",
+        "username": "hanasakichu",
+        "verified": true
+      }
+    ]
+  }
+}

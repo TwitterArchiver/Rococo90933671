@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066659607121145856",
+        "3_2066659607100190720"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066689464454271111",
+    "created_at": "2026-06-16T01:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066689464454271111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0zxlpPOGW8",
+          "end": 48,
+          "expanded_url": "https://x.com/Rococo90933671/status/2066689464454271111/video/1",
+          "media_key": "13_2066659607121145856",
+          "start": 25,
+          "url": "https://t.co/0zxlpPOGW8"
+        },
+        {
+          "display_url": "pic.x.com/0zxlpPOGW8",
+          "end": 48,
+          "expanded_url": "https://x.com/Rococo90933671/status/2066689464454271111/video/1",
+          "media_key": "3_2066659607100190720",
+          "start": 25,
+          "url": "https://t.co/0zxlpPOGW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066689464454271111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我偷了伞，但是我是借用一下，难道你就没有错吗 https://t.co/0zxlpPOGW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11753,
+        "height": 3378,
+        "media_key": "13_2066659607121145856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066659607121145856/img/UQTm0J0CxwTEMn3Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/vid/avc1/320x568/wKLwF7XUseKC_PNZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/pl/V1yKnJNaePfGHLzN.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/vid/avc1/1900x3378/nHtssB1cRMJ_6eeg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/vid/avc1/480x852/HhTGUPvgbZ-BPTC_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/vid/avc1/1080x1920/g_Og9tsrqGY-rdIW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066659607121145856/vid/avc1/720x1280/Iy4o9xkkIrxVU0FW.mp4"
+          }
+        ],
+        "width": 1900
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2066659607100190720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4_9oja8AAmPVN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066659607121145856",
+            "3_2066659607100190720"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066689464454271111",
+        "created_at": "2026-06-16T01:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066689464454271111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zxlpPOGW8",
+              "end": 48,
+              "expanded_url": "https://x.com/Rococo90933671/status/2066689464454271111/video/1",
+              "media_key": "13_2066659607121145856",
+              "start": 25,
+              "url": "https://t.co/0zxlpPOGW8"
+            },
+            {
+              "display_url": "pic.x.com/0zxlpPOGW8",
+              "end": 48,
+              "expanded_url": "https://x.com/Rococo90933671/status/2066689464454271111/video/1",
+              "media_key": "3_2066659607100190720",
+              "start": 25,
+              "url": "https://t.co/0zxlpPOGW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066689464454271111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我偷了伞，但是我是借用一下，难道你就没有错吗 https://t.co/0zxlpPOGW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12797,
+          "following_count": 3107,
+          "like_count": 40724,
+          "listed_count": 41,
+          "media_count": 4346,
+          "tweet_count": 22635
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

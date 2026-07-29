@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2044062152525525230",
+    "created_at": "2026-04-14T23:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T00:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044193235690762711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        },
+        {
+          "end": 33,
+          "id": "2001998644673994752",
+          "start": 17,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044193235690762711",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044062152525525230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi @morganofliberal 我操我也在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044062149409157124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF33sepasAQQzWU.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2044062152525525230",
+        "created_at": "2026-04-14T23:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044193235690762711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 33,
+              "id": "2001998644673994752",
+              "start": 17,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044193235690762711",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044062152525525230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @morganofliberal 我操我也在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044062149409157124"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044062152525525230",
+        "created_at": "2026-04-14T14:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044062152525525230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2001998644673994752",
+              "start": 10,
+              "username": "morganofliberal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziXbeHl62Y",
+              "end": 59,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2044062152525525230/photo/1",
+              "media_key": "3_2044062149409157124",
+              "start": 36,
+              "url": "https://t.co/ziXbeHl62Y"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044062152525525230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 612,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 這是什麼圈子？ @morganofliberal 怎麼你也上榜了？ https://t.co/ziXbeHl62Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9964,
+          "following_count": 2885,
+          "like_count": 35029,
+          "listed_count": 30,
+          "media_count": 3662,
+          "tweet_count": 20423
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 421,
+          "like_count": 10668,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 3004
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "免于匮乏和恐惧，自由而自尊地生活，直至生命消逝的时刻的权利",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "pinned_tweet_id": "2004869400487493943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037426839099195392/Ymo2CbTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 459,
+          "like_count": 4576,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 2602
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

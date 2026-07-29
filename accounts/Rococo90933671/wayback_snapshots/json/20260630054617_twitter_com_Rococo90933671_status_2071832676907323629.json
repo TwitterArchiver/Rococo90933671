@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2071790847285149978",
+    "created_at": "2026-06-30T05:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071832676907323629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 61,
+          "expanded_url": "https://x.com/Rococo90933671/status/1945731012543254708?s=20",
+          "start": 38,
+          "url": "https://t.co/bIav1OF8ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071832676907323629",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945731012543254708",
+        "type": "quoted"
+      },
+      {
+        "id": "2071790847285149978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 我当年发了个类似的，还有人破防拉黑了：\n\nhttps://t.co/bIav1OF8ZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_1945731008763981824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCgCyXW8AADs8Z.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2071775373029982208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBsuZvawAAQhL0.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2071790847285149978",
+        "created_at": "2026-06-30T05:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071832676907323629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 61,
+              "expanded_url": "https://x.com/Rococo90933671/status/1945731012543254708?s=20",
+              "start": 38,
+              "url": "https://t.co/bIav1OF8ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071832676907323629",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945731012543254708",
+            "type": "quoted"
+          },
+          {
+            "id": "2071790847285149978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 我当年发了个类似的，还有人破防拉黑了：\n\nhttps://t.co/bIav1OF8ZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945731008763981824"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1945731012543254708",
+        "created_at": "2025-07-17T06:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945731012543254708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxTVFjxdmA",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/1945731012543254708/photo/1",
+              "media_key": "3_1945731008763981824",
+              "start": 33,
+              "url": "https://t.co/zxTVFjxdmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945731012543254708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 1071604,
+          "like_count": 1305,
+          "quote_count": 11,
+          "reply_count": 196,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "没想到有一天这位也会翻车，所以真的，不要造神，不要造神，不要造神 https://t.co/zxTVFjxdmA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071775373029982208"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2071790847285149978",
+        "created_at": "2026-06-30T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071790847285149978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PyFsKcUeP",
+              "end": 38,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2071790847285149978/photo/1",
+              "media_key": "3_2071775373029982208",
+              "start": 15,
+              "url": "https://t.co/2PyFsKcUeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071790847285149978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7290,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我可能是第一个做出这个图的人 https://t.co/2PyFsKcUeP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13061,
+          "following_count": 3165,
+          "like_count": 42141,
+          "listed_count": 41,
+          "media_count": 4526,
+          "tweet_count": 23335
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1967,
+          "like_count": 3282,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 7260
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

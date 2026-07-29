@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1953485155877941592",
+    "created_at": "2025-08-08T01:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T02:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953627318746038410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "M0ry_Wh1sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953627318746038410",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953485155877941592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M0ry_Wh1sp 原来推友里真有在现场的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953485155877941592].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953485155877941592",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953485155877941592"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1953485155877941592",
+        "created_at": "2025-08-08T01:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T02:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953627318746038410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "M0ry_Wh1sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953627318746038410",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953485155877941592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M0ry_Wh1sp 原来推友里真有在现场的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 2184,
+          "like_count": 26517,
+          "listed_count": 11,
+          "media_count": 2459,
+          "tweet_count": 15340
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "小男娘也是对象:@Seiunsky8964｜可以叫我Mory                  ｜幽默人柱力｜ 妈妈们: @imilkdragon923 @HyotoChandesuyo｜唐猫 @Paranoia23334｜查成分回fo/粉红滚/block必回｜里推 @Charming_xy04｜bilibili空间↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "Seiunsky8964"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "imilkdragon923"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Paranoia23334"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Charming_xy04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "牢语TV",
+        "name": "陌小语mory",
+        "pinned_tweet_id": "1929405208448143823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953406531955007488/c1Dkpdxb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1369,
+          "like_count": 72600,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 5233
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "M0ry_Wh1sp",
+        "verified": false
+      }
+    ]
+  }
+}

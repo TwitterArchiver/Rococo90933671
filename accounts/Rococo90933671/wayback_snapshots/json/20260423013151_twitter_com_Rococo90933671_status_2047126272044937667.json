@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2046982368427208756",
+    "created_at": "2026-04-23T01:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047126272044937667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1402458223857176578",
+          "start": 0,
+          "username": "yuidesu12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047126272044937667",
+    "in_reply_to_user_id": "1402458223857176578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047001738620637442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuidesu12 羡慕快乐喵，我很久没有真正快乐过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2046982368427208756",
+        "created_at": "2026-04-23T01:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047126272044937667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402458223857176578",
+              "start": 0,
+              "username": "yuidesu12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047126272044937667",
+        "in_reply_to_user_id": "1402458223857176578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047001738620637442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuidesu12 羡慕快乐喵，我很久没有真正快乐过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402458223857176578",
+        "conversation_id": "2046982368427208756",
+        "created_at": "2026-04-22T17:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047001738620637442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047001738620637442",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046982368427208756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 生日快乐\n我快25了，照样母单，但是有朋友们，蛮快乐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10298,
+          "following_count": 2931,
+          "like_count": 35922,
+          "listed_count": 31,
+          "media_count": 3747,
+          "tweet_count": 20802
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-09T02:51:20.000Z",
+        "description": "アメリカで留学してる中国人です。専攻は数学だった。中国語、英語、簡単な日本語がOK！音ゲーマー、maimai🌈、sound voltex或帝ゲット",
+        "id": "1402458223857176578",
+        "name": "yui_de_su",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402458862922264577/yXLPQRTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 1510,
+          "like_count": 34843,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 6216
+        },
+        "username": "yuidesu12",
+        "verified": false
+      }
+    ]
+  }
+}

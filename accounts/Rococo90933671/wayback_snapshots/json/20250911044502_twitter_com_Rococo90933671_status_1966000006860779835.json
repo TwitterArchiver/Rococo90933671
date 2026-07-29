@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1965986493660557374",
+    "created_at": "2025-09-11T04:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T05:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966000006860779835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674281529852174341",
+          "start": 0,
+          "username": "Frost_SZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966000006860779835",
+    "in_reply_to_user_id": "1674281529852174341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965986493660557374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frost_SZH 和阿拉伯文好像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1965986474501058561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iWSEXbsAExO0N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2070,
+        "media_key": "3_1965986477697019906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iWSQRaMAIO7aB.jpg",
+        "width": 1888
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1965986479114694657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iWSVjaMAES2UC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1965986493660557374",
+        "created_at": "2025-09-11T04:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966000006860779835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674281529852174341",
+              "start": 0,
+              "username": "Frost_SZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966000006860779835",
+        "in_reply_to_user_id": "1674281529852174341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965986493660557374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frost_SZH 和阿拉伯文好像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965986474501058561",
+            "3_1965986477697019906",
+            "3_1965986479114694657"
+          ]
+        },
+        "author_id": "1674281529852174341",
+        "conversation_id": "1965986493660557374",
+        "created_at": "2025-09-11T03:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965986493660557374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6Jgv3L9cD",
+              "end": 52,
+              "expanded_url": "https://x.com/Frost_SZH/status/1965986493660557374/photo/1",
+              "media_key": "3_1965986474501058561",
+              "start": 29,
+              "url": "https://t.co/Y6Jgv3L9cD"
+            },
+            {
+              "display_url": "pic.x.com/Y6Jgv3L9cD",
+              "end": 52,
+              "expanded_url": "https://x.com/Frost_SZH/status/1965986493660557374/photo/1",
+              "media_key": "3_1965986477697019906",
+              "start": 29,
+              "url": "https://t.co/Y6Jgv3L9cD"
+            },
+            {
+              "display_url": "pic.x.com/Y6Jgv3L9cD",
+              "end": 52,
+              "expanded_url": "https://x.com/Frost_SZH/status/1965986493660557374/photo/1",
+              "media_key": "3_1965986479114694657",
+              "start": 29,
+              "url": "https://t.co/Y6Jgv3L9cD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965986493660557374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学习写爪夷文，图二是我练字的结果，图三是我英文名字的拼法 https://t.co/Y6Jgv3L9cD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5484,
+          "following_count": 2208,
+          "like_count": 27963,
+          "listed_count": 13,
+          "media_count": 2637,
+          "tweet_count": 16095
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生",
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "霜在華",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953915525354205189/3yeNoPX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 948,
+          "like_count": 27609,
+          "listed_count": 4,
+          "media_count": 758,
+          "tweet_count": 6639
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

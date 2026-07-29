@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1822127618306519329",
+    "created_at": "2024-08-11T12:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T13:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822613484812554243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739852038497067008",
+          "start": 0,
+          "username": "MIKUMagic39C5BB"
+        },
+        {
+          "end": 29,
+          "id": "1554729072621604865",
+          "start": 17,
+          "username": "EDUCATE1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822613484812554243",
+    "in_reply_to_user_id": "1739852038497067008",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822290360036384896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUMagic39C5BB @EDUCATE1991 很难不吱呲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822290360036384896].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822290360036384896",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822290360036384896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1822127618306519329",
+        "created_at": "2024-08-11T12:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T13:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822613484812554243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739852038497067008",
+              "start": 0,
+              "username": "MIKUMagic39C5BB"
+            },
+            {
+              "end": 29,
+              "id": "1554729072621604865",
+              "start": 17,
+              "username": "EDUCATE1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822613484812554243",
+        "in_reply_to_user_id": "1739852038497067008",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822290360036384896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUMagic39C5BB @EDUCATE1991 很难不吱呲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/互fo可能看不到请直接私聊不用拘束Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1531,
+          "like_count": 13106,
+          "listed_count": 1,
+          "tweet_count": 7006
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T03:33:54.000Z",
+        "description": "圆环五色\n@Kuna54188\n@Kyouko_1917\n@M600_spitfire\n@Score_Tmig\n被迫家里蹲的痴呆前女神/魔法少女。双性恋，温和极左（？），讨厌对线，哲学爱好者，前古典五人推AU，战地痴，猫左造饭少女，出卖灵魂许愿终结绝望螺旋。水平低下如有冒犯请见谅。不代表且不参加任何阵营，切勿刻板印象。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Kuna54188"
+              },
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Kyouko_1917"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Score_Tmig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "http://madoka-magica.com",
+                "start": 0,
+                "url": "https://t.co/V1TBJykDOc"
+              }
+            ]
+          }
+        },
+        "id": "1739852038497067008",
+        "location": "圆环领域",
+        "name": "见泷原圆脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822281966051303424/0tFxm80u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 365,
+          "like_count": 23334,
+          "listed_count": 1,
+          "tweet_count": 10886
+        },
+        "url": "https://t.co/V1TBJykDOc",
+        "username": "MIKUMagic39C5BB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T07:21:21.000Z",
+        "description": "理论在补\nstandwith🇺🇸🇺🇦🇰🇷🇮🇱🇪🇺🇯🇵喜欢三星 尊重和理解每一个信徒💒✨ 教育界的明日之星? 2024师范生 用卐让激进逼和白左着陆 Arcaeaplayer 我成分由你们定 某不知名安的私人教育者 教育闭环的维护者 热爱F1,WRC 性别你猜猜看🥺 这里是EDU或小E编辑中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/professor199125",
+                "end": 23,
+                "expanded_url": "http://t.me/professor199125",
+                "start": 0,
+                "url": "https://t.co/NNX5dZWnzF"
+              }
+            ]
+          }
+        },
+        "id": "1554729072621604865",
+        "location": "United States Of America",
+        "name": "⸸EDUCATION/Politician's Educator🏁⸸",
+        "pinned_tweet_id": "1803415058783105266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822307215098691584/zcyUlENT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 4586,
+          "like_count": 24066,
+          "listed_count": 8,
+          "tweet_count": 17978
+        },
+        "url": "https://t.co/NNX5dZWnzF",
+        "username": "EDUCATE1991",
+        "verified": false
+      }
+    ]
+  }
+}

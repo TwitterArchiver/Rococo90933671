@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1869399167635976382",
+    "created_at": "2024-12-18T15:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869400589911933316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "DeadMacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869400589911933316",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869399167635976382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadMacao 就美术方面而言还算好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1869399167635976382",
+        "created_at": "2024-12-18T15:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869400589911933316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "DeadMacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869400589911933316",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869399167635976382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadMacao 就美术方面而言还算好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869399157204828160"
+          ]
+        },
+        "author_id": "1655093096710021120",
+        "conversation_id": "1869399167635976382",
+        "created_at": "2024-12-18T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869399167635976382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOyrp1e0jh",
+              "end": 43,
+              "expanded_url": "https://x.com/DeadMacao/status/1869399167635976382/photo/1",
+              "media_key": "3_1869399157204828160",
+              "start": 20,
+              "url": "https://t.co/OOyrp1e0jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869399167635976382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放眼望去每走五步都有一整個橫幅qwq… https://t.co/OOyrp1e0jh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 1962,
+          "like_count": 19572,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 10905
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "🇲🇴🏳️‍⚧️/ 08 MtF HRT 2024.09.14 / 長居澳門 / 中文 Eng 日本語 ⭕️ / 一隻可愛的貓貓💕 / 喜歡vocaloid音樂 / 在自學平面設計&後期動畫 / 不時會玩音游 / 自殘od / 即將考JLPT N3 (2024 Dec) // 鍵垢: @dyingmacao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "dyingmacao"
+              }
+            ]
+          }
+        },
+        "id": "1655093096710021120",
+        "name": "まかお・真顔醬OwO🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1865452985935081576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859081678519480321/zZ0FVwfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1034,
+          "like_count": 23563,
+          "listed_count": 4,
+          "media_count": 745,
+          "tweet_count": 7972
+        },
+        "username": "DeadMacao",
+        "verified": true
+      }
+    ]
+  }
+}

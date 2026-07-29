@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2062220846220095579",
+    "created_at": "2026-06-06T10:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063199917200527487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889300758212055040",
+          "start": 0,
+          "username": "mikulovermua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063199917200527487",
+    "in_reply_to_user_id": "1889300758212055040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062220846220095579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikulovermua 我给不了建议，只觉得好看😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062220823176663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ566Z3b0AAQGHU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062220823407296512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ566aubAAA4plS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062220823180824576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ566Z4bUAAaLJj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062220823197581313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ566Z8bAAEVgKg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2062220846220095579",
+        "created_at": "2026-06-06T10:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063199917200527487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889300758212055040",
+              "start": 0,
+              "username": "mikulovermua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063199917200527487",
+        "in_reply_to_user_id": "1889300758212055040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062220846220095579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikulovermua 我给不了建议，只觉得好看😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062220823176663040",
+            "3_2062220823407296512",
+            "3_2062220823180824576",
+            "3_2062220823197581313"
+          ]
+        },
+        "author_id": "1889300758212055040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2062220846220095579",
+        "created_at": "2026-06-03T17:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062220846220095579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwDDW5OykV",
+              "end": 143,
+              "expanded_url": "https://x.com/mikulovermua/status/2062220846220095579/photo/1",
+              "media_key": "3_2062220823176663040",
+              "start": 120,
+              "url": "https://t.co/nwDDW5OykV"
+            },
+            {
+              "display_url": "pic.x.com/nwDDW5OykV",
+              "end": 143,
+              "expanded_url": "https://x.com/mikulovermua/status/2062220846220095579/photo/1",
+              "media_key": "3_2062220823407296512",
+              "start": 120,
+              "url": "https://t.co/nwDDW5OykV"
+            },
+            {
+              "display_url": "pic.x.com/nwDDW5OykV",
+              "end": 143,
+              "expanded_url": "https://x.com/mikulovermua/status/2062220846220095579/photo/1",
+              "media_key": "3_2062220823180824576",
+              "start": 120,
+              "url": "https://t.co/nwDDW5OykV"
+            },
+            {
+              "display_url": "pic.x.com/nwDDW5OykV",
+              "end": 143,
+              "expanded_url": "https://x.com/mikulovermua/status/2062220846220095579/photo/1",
+              "media_key": "3_2062220823197581313",
+              "start": 120,
+              "url": "https://t.co/nwDDW5OykV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062220846220095579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 218,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "范思哲和迪奥，推荐哪个。\n我希望持久留香，因为我有鼻炎，所以我并不介意香水“味道大一些”，因为我大概率只能感觉到50%的程度。\n我想买个范思哲的小样体验一下，感觉小瓶子好看！\n另外是还是觉得CK很诱人。😭\n\n图文无关，图片来自苏州博物馆。 https://t.co/nwDDW5OykV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12629,
+          "following_count": 3083,
+          "like_count": 40040,
+          "listed_count": 41,
+          "media_count": 4225,
+          "tweet_count": 22280
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T13:09:52.000Z",
+        "description": "السلام عليكم！ 主账@CPUP2024 Chinese🇨🇳 二次元爱好者 #重返未来1999 #Reverse1999 #Valorant 爱友善有必要认知的所有人。 同志骄傲🏳️‍🌈ALLY&非二元性别 Pro☪️在读Quran 杜绝反智的人 好朋友 @qinglongxiangmo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 43,
+                "tag": "重返未来1999"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "Reverse1999"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "tag": "Valorant"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "CPUP2024"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/dmLlIVZdBl"
+              }
+            ]
+          }
+        },
+        "id": "1889300758212055040",
+        "location": "中华人民共和国🇨🇳",
+        "name": "激推诺谛卡的葱娘酱🇨🇳🏳️‍🌈😾",
+        "pinned_tweet_id": "2061503113731989791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047927294988255232/-ntLYu5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 1000,
+          "like_count": 12161,
+          "listed_count": 6,
+          "media_count": 412,
+          "tweet_count": 3553
+        },
+        "url": "https://t.co/dmLlIVZdBl",
+        "username": "mikulovermua",
+        "verified": false
+      }
+    ]
+  }
+}

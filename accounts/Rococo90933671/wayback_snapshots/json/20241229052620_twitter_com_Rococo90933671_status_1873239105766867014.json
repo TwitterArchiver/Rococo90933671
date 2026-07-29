@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1873173013451182364",
+    "created_at": "2024-12-29T05:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T06:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873239105766867014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830129345899188224",
+          "start": 0,
+          "username": "y6302448844989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873239105766867014",
+    "in_reply_to_user_id": "1830129345899188224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873173013451182364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6302448844989 chatgpt也贵的一比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1873173013451182364",
+        "created_at": "2024-12-29T05:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873239105766867014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830129345899188224",
+              "start": 0,
+              "username": "y6302448844989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873239105766867014",
+        "in_reply_to_user_id": "1830129345899188224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873173013451182364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6302448844989 chatgpt也贵的一比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873172998301335553"
+          ]
+        },
+        "author_id": "1830129345899188224",
+        "conversation_id": "1873173013451182364",
+        "created_at": "2024-12-29T01:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873173013451182364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mh30Si9lxe",
+              "end": 38,
+              "expanded_url": "https://x.com/y6302448844989/status/1873173013451182364/photo/1",
+              "media_key": "3_1873172998301335553",
+              "start": 15,
+              "url": "https://t.co/mh30Si9lxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873173013451182364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也想奢侈一下但是太贵了😇🫥 https://t.co/mh30Si9lxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 1989,
+          "like_count": 20315,
+          "listed_count": 5,
+          "media_count": 1443,
+          "tweet_count": 11284
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "蓝孩纸，重度精神病患者+郁抑症，双重人格，不反对任何思想，喜欢看番òᆺó，手游的主流基本都玩🇺🇸🇩🇪🇯🇵🇹🇼🇨🇳友好。好朋友@LiberateTW2027，@baojiangdilei，@jcgcdldgcdhxzxh欢迎大家互fo🍊提前祝大家元旦快乐！一起迈向2025吧！🎉(=^▽^=)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "LiberateTW2027"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "jcgcdldgcdhxzxh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "360.com",
+                "end": 23,
+                "expanded_url": "http://360.com",
+                "start": 0,
+                "url": "https://t.co/meYbAu8Goz"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "location": "死者の楽園",
+        "name": "回復中の猫",
+        "pinned_tweet_id": "1867855306459676801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872880612807524352/go99Kt7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1292,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/meYbAu8Goz",
+        "username": "y6302448844989",
+        "verified": false
+      }
+    ]
+  }
+}

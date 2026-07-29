@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1854808816103440688",
+    "created_at": "2024-11-29T15:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T16:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862519681527193739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        },
+        {
+          "end": 25,
+          "id": "1480951429888024578",
+          "start": 9,
+          "username": "chachaeryoudia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862519681527193739",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854822418495213813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T @chachaeryoudia1 我也是这个月才知道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1854822418495213813].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1854822418495213813",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1854822418495213813"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1854808816103440688",
+        "created_at": "2024-11-29T15:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T16:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862519681527193739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            },
+            {
+              "end": 25,
+              "id": "1480951429888024578",
+              "start": 9,
+              "username": "chachaeryoudia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862519681527193739",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854822418495213813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T @chachaeryoudia1 我也是这个月才知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|从不主动b任何人|b只为记录谁先b了我|大家都是朋友|欢迎找中间人沟通互相解b❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 1938,
+          "like_count": 18527,
+          "listed_count": 5,
+          "media_count": 1259,
+          "tweet_count": 10418
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz😿📝",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861707278648504320/OyAG1Gaw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 2089,
+          "like_count": 151069,
+          "listed_count": 7,
+          "media_count": 634,
+          "tweet_count": 16107
+        },
+        "username": "ZW3333T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T17:17:03.000Z",
+        "description": "你好，我是茶酱😋排忧解难茶姐姐(－ｏ⌒)",
+        "id": "1480951429888024578",
+        "location": "Tokyo-to, Japan",
+        "name": "长岛冰茶茶",
+        "pinned_tweet_id": "1808797761904783527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796843583158603776/cSfjmFNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 160,
+          "like_count": 14271,
+          "listed_count": 16,
+          "media_count": 917,
+          "tweet_count": 9184
+        },
+        "username": "chachaeryoudia1",
+        "verified": false
+      }
+    ]
+  }
+}

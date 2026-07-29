@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027026960149573632"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2027027521263550947",
+    "created_at": "2026-02-26T14:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027027521263550947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGHnqvCrhy",
+          "end": 54,
+          "expanded_url": "https://x.com/Rococo90933671/status/2027027521263550947/photo/1",
+          "media_key": "3_2027026960149573632",
+          "start": 31,
+          "url": "https://t.co/xGHnqvCrhy"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1873292313197490348",
+          "start": 55,
+          "url": "https://t.co/aXE4lkRYaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027027521263550947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873292313197490348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明信片依然夹在那本书里，可是缘分却化为乌有了\n\n想念你……😢 https://t.co/xGHnqvCrhy https://t.co/aXE4lkRYaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2027026960149573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFyR9Xa8AALr9h.png",
+        "width": 747
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1873292309682679808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf9FbjcbcAAJOAY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1873292309313486848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf9FbiEaAAAfHeg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027026960149573632"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2027027521263550947",
+        "created_at": "2026-02-26T14:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027027521263550947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGHnqvCrhy",
+              "end": 54,
+              "expanded_url": "https://x.com/Rococo90933671/status/2027027521263550947/photo/1",
+              "media_key": "3_2027026960149573632",
+              "start": 31,
+              "url": "https://t.co/xGHnqvCrhy"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1873292313197490348",
+              "start": 55,
+              "url": "https://t.co/aXE4lkRYaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027027521263550947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873292313197490348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明信片依然夹在那本书里，可是缘分却化为乌有了\n\n想念你……😢 https://t.co/xGHnqvCrhy https://t.co/aXE4lkRYaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873292309682679808",
+            "3_1873292309313486848"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "1873292313197490348",
+        "created_at": "2024-12-29T08:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873292313197490348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mWrT1GUNK",
+              "end": 90,
+              "expanded_url": "https://x.com/Rococo90933671/status/1873292313197490348/photo/1",
+              "media_key": "3_1873292309682679808",
+              "start": 67,
+              "url": "https://t.co/2mWrT1GUNK"
+            },
+            {
+              "display_url": "pic.x.com/2mWrT1GUNK",
+              "end": 90,
+              "expanded_url": "https://x.com/Rococo90933671/status/1873292313197490348/photo/1",
+              "media_key": "3_1873292309313486848",
+              "start": 67,
+              "url": "https://t.co/2mWrT1GUNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873292313197490348",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666\n素敵なポストカードを送っていただき、ありがとうございます！\nめんまも明けましておめでとうございますよ🥰 https://t.co/2mWrT1GUNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7788,
+          "following_count": 2257,
+          "like_count": 30215,
+          "listed_count": 22,
+          "media_count": 3225,
+          "tweet_count": 18187
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

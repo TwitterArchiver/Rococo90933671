@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2031995893596184592",
+    "created_at": "2026-03-12T10:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032040264274206820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594951264109928448",
+          "start": 0,
+          "username": "MiniGoatYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032040264274206820",
+    "in_reply_to_user_id": "1594951264109928448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031995893596184592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiniGoatYY 这里给一个公式：\nfrom:@你的ID since:2016-11-2 until:2016-11-4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2031995893596184592",
+        "created_at": "2026-03-12T10:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032040264274206820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594951264109928448",
+              "start": 0,
+              "username": "MiniGoatYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032040264274206820",
+        "in_reply_to_user_id": "1594951264109928448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031995893596184592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiniGoatYY 这里给一个公式：\nfrom:@你的ID since:2016-11-2 until:2016-11-4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594951264109928448",
+        "conversation_id": "2031995893596184592",
+        "created_at": "2026-03-12T07:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031995893596184592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031995893596184592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特能不能出一个检索自己发过的推文的功能啊。\n\n尤其是那种可以按照年，月，日这种分类的。\n\n我自己很多老推文都找不到了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9282,
+          "following_count": 2667,
+          "like_count": 31435,
+          "listed_count": 25,
+          "media_count": 3329,
+          "tweet_count": 18687
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T07:09:57.000Z",
+        "description": "蝻的，Z世代，现居老挝🇱🇦，Crypto用来挣零花钱，鉴证老资历（已退休），现役工地测量员，梦想是环游世界。",
+        "id": "1594951264109928448",
+        "location": "大东亚共荣圈",
+        "name": "Goat阳阳",
+        "pinned_tweet_id": "2023350871011258618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017889740633313280/kgMsFc7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 2153,
+          "like_count": 146001,
+          "listed_count": 4,
+          "media_count": 977,
+          "tweet_count": 11601
+        },
+        "username": "MiniGoatYY",
+        "verified": true
+      }
+    ]
+  }
+}

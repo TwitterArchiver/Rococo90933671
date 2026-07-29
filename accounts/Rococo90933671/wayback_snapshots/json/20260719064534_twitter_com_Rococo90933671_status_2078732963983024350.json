@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2078430174836875617",
+    "created_at": "2026-07-19T06:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078732963983024350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2949548617",
+          "start": 0,
+          "username": "cdog34_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078732963983024350",
+    "in_reply_to_user_id": "2949548617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078430174836875617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdog34_ 哇还有老资历，羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2078430174836875617",
+        "created_at": "2026-07-19T06:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078732963983024350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2949548617",
+              "start": 0,
+              "username": "cdog34_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078732963983024350",
+        "in_reply_to_user_id": "2949548617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078430174836875617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdog34_ 哇还有老资历，羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2949548617",
+        "conversation_id": "2078430174836875617",
+        "created_at": "2026-07-18T10:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078430174836875617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/tangeorange/status/2078228892062814538",
+              "start": 20,
+              "url": "https://t.co/TIO3AMiE4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078430174836875617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7383,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078228892062814538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xs我当年随手留的彩蛋还在被反复鞭尸（ https://t.co/TIO3AMiE4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13379,
+          "following_count": 3191,
+          "like_count": 43969,
+          "listed_count": 40,
+          "media_count": 4724,
+          "tweet_count": 24061
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-29T07:44:54.000Z",
+        "description": "シードッグと読む/中文/English/日本語/ウェブ開発者/オタク/すこん部🦊🌽/観測者花組/音ゲー/元SE @bilibili_en/より広げた世界を目指す",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "bilibili_en"
+              }
+            ]
+          }
+        },
+        "id": "2949548617",
+        "location": "東京",
+        "name": "CDog34",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278711656227340289/9XOKZHE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2832,
+          "like_count": 13229,
+          "listed_count": 17,
+          "media_count": 313,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "cdog34_",
+        "verified": true
+      }
+    ]
+  }
+}

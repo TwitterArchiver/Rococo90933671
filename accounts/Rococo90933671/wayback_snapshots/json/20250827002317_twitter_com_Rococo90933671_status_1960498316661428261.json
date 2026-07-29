@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1960374424416461161",
+    "created_at": "2025-08-27T00:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T01:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960498316661428261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507065882211610625",
+          "start": 0,
+          "username": "neko_murasame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960498316661428261",
+    "in_reply_to_user_id": "1507065882211610625",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960374424416461161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_murasame 😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1960374419681087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSmJe_akAAgTzg.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1960374424416461161",
+        "created_at": "2025-08-27T00:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960498316661428261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507065882211610625",
+              "start": 0,
+              "username": "neko_murasame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960498316661428261",
+        "in_reply_to_user_id": "1507065882211610625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960374424416461161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_murasame 😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960374419681087488"
+          ]
+        },
+        "author_id": "1507065882211610625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1960374424416461161",
+        "created_at": "2025-08-26T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960374424416461161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/RNXNk2fWOm"
+            },
+            {
+              "display_url": "pic.x.com/VQxTDA9ukl",
+              "end": 64,
+              "expanded_url": "https://x.com/neko_murasame/status/1960374424416461161/photo/1",
+              "media_key": "3_1960374419681087488",
+              "start": 41,
+              "url": "https://t.co/VQxTDA9ukl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960374424416461161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/RNXNk2fWOm https://t.co/VQxTDA9ukl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5366,
+          "following_count": 2195,
+          "like_count": 27220,
+          "listed_count": 14,
+          "media_count": 2563,
+          "tweet_count": 15768
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T18:44:51.000Z",
+        "description": "一般路过丛雨厨\nCiallo～(∠・ω&lt; )⌒☆",
+        "id": "1507065882211610625",
+        "location": "穂織",
+        "name": "ムラサメ",
+        "pinned_tweet_id": "1924357599769841681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507066156435210242/sYRVckL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 435,
+          "like_count": 6501,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 5066
+        },
+        "username": "neko_murasame",
+        "verified": false
+      }
+    ]
+  }
+}

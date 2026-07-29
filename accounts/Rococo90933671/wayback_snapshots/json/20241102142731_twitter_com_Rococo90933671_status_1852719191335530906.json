@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852315543585554892",
+    "created_at": "2024-11-02T14:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T15:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852719191335530906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780966705269014528",
+          "start": 0,
+          "username": "congniangmiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/peter75076638/…",
+          "end": 59,
+          "expanded_url": "https://x.com/peter75076638/status/1797632928601813049?t=RU8q2JRM3mDjstZNlnTlzg&s=19",
+          "start": 36,
+          "url": "https://t.co/Dxb0vvNqde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852719191335530906",
+    "in_reply_to_user_id": "1780966705269014528",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797632928601813049",
+        "type": "quoted"
+      },
+      {
+        "id": "1852315543585554892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congniangmiku 如有冒犯，很抱歉，我想起了一些往事……\n\nhttps://t.co/Dxb0vvNqde"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852315543585554892].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852315543585554892",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852315543585554892"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852315543585554892",
+        "created_at": "2024-11-02T14:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T15:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852719191335530906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780966705269014528",
+              "start": 0,
+              "username": "congniangmiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/peter75076638/…",
+              "end": 59,
+              "expanded_url": "https://x.com/peter75076638/status/1797632928601813049?t=RU8q2JRM3mDjstZNlnTlzg&s=19",
+              "start": 36,
+              "url": "https://t.co/Dxb0vvNqde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852719191335530906",
+        "in_reply_to_user_id": "1780966705269014528",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797632928601813049",
+            "type": "quoted"
+          },
+          {
+            "id": "1852315543585554892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congniangmiku 如有冒犯，很抱歉，我想起了一些往事……\n\nhttps://t.co/Dxb0vvNqde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1797632924327796737"
+          ]
+        },
+        "author_id": "1704765137499066368",
+        "conversation_id": "1789469755726062016",
+        "created_at": "2024-06-03T14:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T15:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797632928601813049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpbPwKPKvC",
+              "end": 45,
+              "expanded_url": "https://x.com/peter75076638/status/1797632928601813049/photo/1",
+              "media_key": "3_1797632924327796737",
+              "start": 22,
+              "url": "https://t.co/zpbPwKPKvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797632928601813049",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789469755726062016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 我的大龟头 https://t.co/zpbPwKPKvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1890,
+          "like_count": 17063,
+          "listed_count": 5,
+          "tweet_count": 9538
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T14:29:11.000Z",
+        "description": "俺葱酱の二代目😎～贴贴可爱的推友们～小号坚决不键政！",
+        "id": "1780966705269014528",
+        "location": "大宇宙歌姬初音未来的怀里",
+        "name": "俺葱酱二代目",
+        "pinned_tweet_id": "1797294619069198448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814948623270191104/MgG7zt_V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 58,
+          "like_count": 1498,
+          "listed_count": 2,
+          "tweet_count": 532
+        },
+        "username": "congniangmiku",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T07:51:07.000Z",
+        "description": "26岁，海南省琼中县人，毕业于海南省琼中县农垦加钗中学，乃至为了撸管从学校里品学兼优的学生变成了差下生。毕业后应征入伍，在部队任文书。退伍后在湖南长沙，深圳等地做物业公司保安",
+        "id": "1704765137499066368",
+        "name": "韦云飞",
+        "pinned_tweet_id": "1833749893812511125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812723337912635392/d3BXRLOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1168,
+          "like_count": 857,
+          "listed_count": 0,
+          "tweet_count": 2692
+        },
+        "username": "peter75076638",
+        "verified": false
+      }
+    ]
+  }
+}

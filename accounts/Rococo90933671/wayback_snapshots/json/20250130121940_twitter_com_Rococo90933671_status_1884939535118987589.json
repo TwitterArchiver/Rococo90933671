@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1884924593007394932",
+    "created_at": "2025-01-30T12:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884939535118987589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1730908696727711746",
+          "start": 0,
+          "username": "7NaNote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884939535118987589",
+    "in_reply_to_user_id": "1730908696727711746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884924593007394932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7NaNote 我也一直觉得不会有人喜欢我，这也是我母单的原因🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884924593007394932].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884924593007394932",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884924593007394932"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1884924593007394932",
+        "created_at": "2025-01-30T12:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884939535118987589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1730908696727711746",
+              "start": 0,
+              "username": "7NaNote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884939535118987589",
+        "in_reply_to_user_id": "1730908696727711746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884924593007394932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7NaNote 我也一直觉得不会有人喜欢我，这也是我母单的原因🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 2128,
+          "like_count": 22151,
+          "listed_count": 8,
+          "media_count": 1643,
+          "tweet_count": 12344
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T11:16:26.000Z",
+        "description": "@NanaNana_os的避难所｜聆听情绪的风暴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "NanaNana_os"
+              }
+            ]
+          }
+        },
+        "id": "1730908696727711746",
+        "location": "北京",
+        "name": "7Na_Note",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795703070472728576/SrJxklX5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 49,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 506
+        },
+        "username": "7NaNote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1835649977286042026",
+    "created_at": "2024-09-16T13:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T14:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835667186876326085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723291140030623744",
+          "start": 0,
+          "username": "xsli137173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835667186876326085",
+    "in_reply_to_user_id": "1723291140030623744",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835649977286042026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsli137173 不要哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1835649977286042026",
+        "created_at": "2024-09-16T13:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835667186876326085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723291140030623744",
+              "start": 0,
+              "username": "xsli137173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835667186876326085",
+        "in_reply_to_user_id": "1723291140030623744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835649977286042026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsli137173 不要哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835649972349571072"
+          ]
+        },
+        "author_id": "1723291140030623744",
+        "conversation_id": "1835649977286042026",
+        "created_at": "2024-09-16T12:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835649977286042026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlfn6ureey",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xsli137173/status/1835649977286042026/photo/1",
+              "media_key": "3_1835649972349571072",
+              "start": 27,
+              "url": "https://t.co/MlfN6urEEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835649977286042026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大脑：想割手\n我的工具：☹️☹️(这一刀下去手都断了 https://t.co/MlfN6urEEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 1795,
+          "like_count": 16481,
+          "listed_count": 3,
+          "tweet_count": 8729
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T10:48:33.000Z",
+        "description": "中国大陆人，支持中国国民党，坚定的左翼，100%互fo,社会民主主义者，极端的天主教徒😤✝️ ,支持🇵🇸🇺🇦与两国方案,可爱的❤️小男娘🥵,上海独立主义者，想要变成女生🤔，反抗准备中ing",
+        "id": "1723291140030623744",
+        "location": "乌克兰自由地区",
+        "name": "xs-li🇵🇸🇺🇦🇺🇿🇦🇲🏳️‍⚧️✝️",
+        "pinned_tweet_id": "1834536664510738719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723291620316246016/b4uuk4LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1786,
+          "like_count": 92082,
+          "listed_count": 7,
+          "tweet_count": 3378
+        },
+        "username": "xsli137173",
+        "verified": false
+      }
+    ]
+  }
+}

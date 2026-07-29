@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1766436741945462793",
+    "created_at": "2024-11-18T15:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T16:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858535844086161625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        },
+        {
+          "end": 31,
+          "id": "1540995183348793350",
+          "start": 17,
+          "username": "Chizuru_trans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858535844086161625",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1766436741945462793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba @Chizuru_trans 我想问一下她去哪里了😢"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Chizuru_trans].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chizuru_trans",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chizuru_trans"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1766436741945462793",
+        "created_at": "2024-11-18T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858535844086161625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            },
+            {
+              "end": 31,
+              "id": "1540995183348793350",
+              "start": 17,
+              "username": "Chizuru_trans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858535844086161625",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1766436741945462793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba @Chizuru_trans 我想问一下她去哪里了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1766436739818881024"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "conversation_id": "1766436741945462793",
+        "created_at": "2024-03-09T12:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-09T13:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1766436741945462793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1540995183348793350",
+              "start": 22,
+              "username": "Chizuru_trans"
+            },
+            {
+              "end": 53,
+              "id": "1679859499476086788",
+              "start": 37,
+              "username": "Bigbrother19227"
+            },
+            {
+              "end": 70,
+              "id": "1845117126346244096",
+              "start": 60,
+              "username": "yuhan2680"
+            },
+            {
+              "end": 89,
+              "id": "1583422861099692032",
+              "start": 77,
+              "username": "kanade_taka"
+            },
+            {
+              "end": 102,
+              "id": "1617419399572643840",
+              "start": 90,
+              "username": "jingqngrng1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "funxgames.me/twitterfamily?…",
+              "end": 130,
+              "expanded_url": "https://funxgames.me/twitterfamily?lang=zh&gameId=9e958b7ea7",
+              "start": 107,
+              "status": 200,
+              "unwound_url": "https://funxgames.me/twitterfamily?lang=zh&gameId=9e958b7ea7",
+              "url": "https://t.co/VvKHNOT7ML"
+            },
+            {
+              "display_url": "pic.x.com/P96RvZMw3y",
+              "end": 154,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1766436741945462793/photo/1",
+              "media_key": "3_1766436739818881024",
+              "start": 131,
+              "url": "https://t.co/P96RvZMw3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1766436741945462793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 570,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Chizuru_trans @Bigbrother19227\n👰 配偶: @yuhan2680\n👶 孩子: @kanade_taka @jingqngrng1\n\n➡️ https://t.co/VvKHNOT7ML https://t.co/P96RvZMw3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 1942,
+          "like_count": 18316,
+          "listed_count": 5,
+          "tweet_count": 10265
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "盼来盼去盼不尽天涯何处是归处",
+        "id": "943439286287851520",
+        "location": "Hong Kong",
+        "name": "💮西行寺 千羽🌸",
+        "pinned_tweet_id": "1851165126587805970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839612053327351808/fsrXlmxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 4651,
+          "like_count": 76758,
+          "listed_count": 9,
+          "tweet_count": 21910
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

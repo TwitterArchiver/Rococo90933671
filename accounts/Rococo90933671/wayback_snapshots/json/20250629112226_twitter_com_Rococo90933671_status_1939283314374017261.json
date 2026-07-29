@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939280690157133824"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1939283314374017261",
+    "created_at": "2025-06-29T11:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939283314374017261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/swisiWFQlw",
+          "end": 166,
+          "expanded_url": "https://x.com/Rococo90933671/status/1939283314374017261/video/1",
+          "media_key": "13_1939280690157133824",
+          "start": 143,
+          "url": "https://t.co/swisiWFQlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939283314374017261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女，16岁，学生，每晚睡不着，要凌晨3、4点才能勉强睡着，白天懒洋洋，每日把零食当主食，双手臂长淀粉样皮炎及下肢湿疹伴瘙痒，面色萎黄，乏力，双眼白珠充满血丝，舌肥大苔白腻，双关弦滑，左寸左尺均细弱不及。予以调形，调气，治神。扎上针几分钟就呼呼大睡，至留针60分钟未被就诊患者说话声吵醒 https://t.co/swisiWFQlw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939283314374017261].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939283314374017261",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939283314374017261"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8365,
+        "height": 3840,
+        "media_key": "13_1939280690157133824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939280690157133824/img/x-gmKAJgy89zyj5H.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939280690157133824/vid/avc1/320x568/EuumbfZhvYjm3G2h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939280690157133824/vid/avc1/480x852/uUdU9WWc2laPGuxQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939280690157133824/vid/avc1/720x1280/d5pHsKl1o-rbUvWC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939280690157133824/pl/XuYuX08DX4HqDynq.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 2163,
+          "like_count": 25208,
+          "listed_count": 9,
+          "media_count": 2272,
+          "tweet_count": 14633
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

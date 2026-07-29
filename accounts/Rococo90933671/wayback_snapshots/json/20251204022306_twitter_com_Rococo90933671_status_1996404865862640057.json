@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1996133308774969852",
+    "created_at": "2025-12-04T02:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T03:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996404865862640057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2446210904",
+          "start": 0,
+          "username": "JazzGarlic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996404865862640057",
+    "in_reply_to_user_id": "2446210904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996133308774969852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JazzGarlic 那我还是裸奔吧，随便挂个梯子谷歌浏览器就上了。反正电脑里就是片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1996133308774969852",
+        "created_at": "2025-12-04T02:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996404865862640057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2446210904",
+              "start": 0,
+              "username": "JazzGarlic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996404865862640057",
+        "in_reply_to_user_id": "2446210904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996133308774969852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JazzGarlic 那我还是裸奔吧，随便挂个梯子谷歌浏览器就上了。反正电脑里就是片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2446210904",
+        "conversation_id": "1996133308774969852",
+        "created_at": "2025-12-03T08:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996133308774969852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996133308774969852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "目前为止电脑终端终于可以上X了，虽然方法有点绕。方法如下\n\n1. 搞个腾讯云，地点选海外，我选择的是硅谷\n2. SSH密匙搞起来\n3. 使用SSH连接云服务器 ssh -i private.pem -D 1080 -C -N username[@]ipaddr\n4. 在浏览器中安装FoxyProxy插件\n5. 在FoxyProxy中新增 Socks5, 地址127.0.0.1， 端口1080后开启使用\n6. 在浏览器中打入google[.]com测试\n\n一个月花费40元，虽说隐私啥的基本上等于没有了，但是挂着VPN也差不多。那么，我的缝纫机又可以启动了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1623,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前为止电脑终端终于可以上X了，虽然方法有点绕。方法如下\n\n1. 搞个腾讯云，地点选海外，我选择的是硅谷\n2. SSH密匙搞起来\n3. 使用SSH连接云服务器 ssh -i private.pem -D 1080 -C -N username[@]ipaddr\n4. 在浏览器中安装FoxyProxy插件\n5. 在FoxyProxy中新增 Socks5, 地址127.0.0.1，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7231,
+          "following_count": 2221,
+          "like_count": 29204,
+          "listed_count": 18,
+          "media_count": 2918,
+          "tweet_count": 17026
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-15T23:37:48.000Z",
+        "description": "最近的口头禅：我是左派。 爱国的简中键政圈代码老师。 照片为网图，非本人。 Yes, I do speak English.",
+        "id": "2446210904",
+        "name": "北美打字员",
+        "pinned_tweet_id": "1991355684407898612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953585926967377920/o01QEC9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 316,
+          "like_count": 4413,
+          "listed_count": 41,
+          "media_count": 171,
+          "tweet_count": 4133
+        },
+        "username": "JazzGarlic",
+        "verified": true
+      }
+    ]
+  }
+}

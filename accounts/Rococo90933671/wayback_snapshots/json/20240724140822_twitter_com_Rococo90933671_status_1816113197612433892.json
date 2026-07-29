@@ -1,0 +1,484 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "1816106263455097328",
+    "created_at": "2024-07-24T14:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T15:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816113197612433892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        },
+        {
+          "end": 29,
+          "id": "1699450928431300608",
+          "start": 17,
+          "username": "Aspho_delus"
+        },
+        {
+          "end": 44,
+          "id": "1528798633168347137",
+          "start": 30,
+          "username": "TomoriNao2022"
+        },
+        {
+          "end": 61,
+          "id": "2949771186",
+          "start": 45,
+          "username": "Alipay_Free_bot"
+        },
+        {
+          "end": 71,
+          "id": "1713520270198358016",
+          "start": 62,
+          "username": "D_D_ovO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816113197612433892",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816106263455097328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 @Aspho_delus @TomoriNao2022 @Alipay_Free_bot @D_D_ovO_ たくさんの人と一緒に食事ができるのが羨ましいかな\n\n毎日はすごく寂しい🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "1816106263455097328",
+        "created_at": "2024-07-24T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816113197612433892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            },
+            {
+              "end": 29,
+              "id": "1699450928431300608",
+              "start": 17,
+              "username": "Aspho_delus"
+            },
+            {
+              "end": 44,
+              "id": "1528798633168347137",
+              "start": 30,
+              "username": "TomoriNao2022"
+            },
+            {
+              "end": 61,
+              "id": "2949771186",
+              "start": 45,
+              "username": "Alipay_Free_bot"
+            },
+            {
+              "end": 71,
+              "id": "1713520270198358016",
+              "start": 62,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816113197612433892",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816106263455097328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 @Aspho_delus @TomoriNao2022 @Alipay_Free_bot @D_D_ovO_ たくさんの人と一緒に食事ができるのが羨ましいかな\n\n毎日はすごく寂しい🥹"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816106259755720707"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1816106263455097328",
+        "created_at": "2024-07-24T13:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T14:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816106263455097328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1699450928431300608",
+              "start": 20,
+              "username": "Aspho_delus"
+            },
+            {
+              "end": 42,
+              "id": "1103830967163117568",
+              "start": 33,
+              "username": "anblk984"
+            },
+            {
+              "end": 57,
+              "id": "1528798633168347137",
+              "start": 43,
+              "username": "TomoriNao2022"
+            },
+            {
+              "end": 74,
+              "id": "2949771186",
+              "start": 58,
+              "username": "Alipay_Free_bot"
+            },
+            {
+              "end": 85,
+              "id": "1713520270198358016",
+              "start": 76,
+              "username": "D_D_ovO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8XP2dbThDy",
+              "end": 109,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1816106263455097328/photo/1",
+              "media_key": "3_1816106259755720707",
+              "start": 86,
+              "url": "https://t.co/8XP2dbThDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816106263455097328",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶😆\n今天和一起吃了頓美美的しゃぶ葉\n@Aspho_delus\n@anblk984\n@TomoriNao2022\n@Alipay_Free_bot \n@D_D_ovO_ https://t.co/8XP2dbThDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1394,
+          "like_count": 11974,
+          "listed_count": 2,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "在日二次元，喜歡ACG。偶像厨，音游狗「プロセカ皆伝260」，管人痴，喊call应援家，ヲた芸初級打師，厄介小鬼，MIX警察。喜歡二次元不是一種罪，偌大一個國家，連人們喜歡二次元的愛好都要進行打壓，不允許人們擁有自己的小天地。那就別談實現所謂的民族偉大復興，更別扯爲世界指明方向 愛我家 @kotorichyandesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "kotorichyandesu"
+              }
+            ]
+          }
+        },
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋芥懆🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 1996,
+          "like_count": 86993,
+          "listed_count": 8,
+          "tweet_count": 29214
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:54:34.000Z",
+        "description": "性别男，健全保守退步",
+        "id": "1699450928431300608",
+        "location": "Federation of Enchenia",
+        "name": "花绯黑莓❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787857623087480832/12njgXY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 422,
+          "like_count": 22250,
+          "listed_count": 2,
+          "tweet_count": 1491
+        },
+        "username": "Aspho_delus",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "もうどうだっていいや． 思人:@dongxuelianhaha 笨蛋妹妹：@Neko96650208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "Neko96650208"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "東京",
+        "name": "友利 奈緒 Tomori Nao",
+        "pinned_tweet_id": "1777474771896410539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788577160338591745/Rz76kBBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13175,
+          "following_count": 546,
+          "like_count": 9530,
+          "listed_count": 41,
+          "tweet_count": 8351
+        },
+        "username": "TomoriNao2022",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-29T09:56:30.000Z",
+        "description": "一般通过炒饭bot",
+        "id": "2949771186",
+        "location": "Toshima-ku, Tokyo",
+        "name": "川和支付宝🇯🇵🏹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726424157620248576/sRG_zGMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 444,
+          "like_count": 3037,
+          "listed_count": 0,
+          "tweet_count": 3060
+        },
+        "username": "Alipay_Free_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T11:40:55.000Z",
+        "description": "音楽＆アニメ＆料理好き、ヨルシカ推し、ギター歴二年目。「前世◂Ⓘ▸後書き」日本語/English/中文",
+        "id": "1713520270198358016",
+        "name": "DD🎸◂Ⓘ▸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812484357786931200/qlFrAzA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 312,
+          "like_count": 65567,
+          "listed_count": 4,
+          "tweet_count": 11778
+        },
+        "username": "D_D_ovO_",
+        "verified": false
+      }
+    ]
+  }
+}

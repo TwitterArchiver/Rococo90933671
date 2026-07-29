@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2048522766631285069",
+    "created_at": "2026-04-27T07:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048660549396033595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556187726558515201",
+          "start": 0,
+          "username": "__Lucas04__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048660549396033595",
+    "in_reply_to_user_id": "1556187726558515201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048644599867171112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Lucas04__ 这是被举报了吧？感觉不至于，又不是真的有信息……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2048522766631285069",
+        "created_at": "2026-04-27T07:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048660549396033595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556187726558515201",
+              "start": 0,
+              "username": "__Lucas04__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048660549396033595",
+        "in_reply_to_user_id": "1556187726558515201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048644599867171112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Lucas04__ 这是被举报了吧？感觉不至于，又不是真的有信息……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556187726558515201",
+        "conversation_id": "2048522766631285069",
+        "created_at": "2026-04-27T06:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048644599867171112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048644599867171112",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048522766631285069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 想起了两个月前我一哥们把这图发QQ群里结果号没了的故事🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 2970,
+          "like_count": 36605,
+          "listed_count": 33,
+          "media_count": 3793,
+          "tweet_count": 21009
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 405,
+          "like_count": 8244,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

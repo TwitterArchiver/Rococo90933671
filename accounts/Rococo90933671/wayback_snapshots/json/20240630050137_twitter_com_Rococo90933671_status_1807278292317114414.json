@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807278253742432256"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1807278292317114414",
+    "created_at": "2024-06-30T05:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T06:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807278292317114414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FoCaXuyzWf",
+          "end": 23,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1807278292317114414/video/1",
+          "media_key": "7_1807278253742432256",
+          "start": 0,
+          "url": "https://t.co/FoCaXuyzWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807278292317114414",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FoCaXuyzWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24659,
+        "height": 480,
+        "media_key": "7_1807278253742432256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807278253742432256/pu/img/Uou32q8PjEfUK2_M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807278253742432256/pu/vid/avc1/270x480/UQ0iwN2pwQx52MAc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807278253742432256/pu/pl/7Vt3yWXckKUqdhTI.m3u8?tag=12"
+          }
+        ],
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807278253742432256"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1807278292317114414",
+        "created_at": "2024-06-30T05:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T06:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807278292317114414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FoCaXuyzWf",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1807278292317114414/video/1",
+              "media_key": "7_1807278253742432256",
+              "start": 0,
+              "url": "https://t.co/FoCaXuyzWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807278292317114414",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FoCaXuyzWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 1229,
+          "like_count": 10945,
+          "listed_count": 3,
+          "tweet_count": 5725
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1785949583748833590",
+    "created_at": "2024-08-06T13:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T14:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820810397211140462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756163274524225536",
+          "start": 0,
+          "username": "err_yy5809"
+        },
+        {
+          "end": 26,
+          "id": "1347265835082141703",
+          "start": 12,
+          "username": "shipin_xiazai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820810397211140462",
+    "in_reply_to_user_id": "1756163274524225536",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785949583748833590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@err_yy5809 @shipin_xiazai"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1785949583748833590].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1785949583748833590",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1785949583748833590"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1785949583748833590",
+        "created_at": "2024-08-06T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820810397211140462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756163274524225536",
+              "start": 0,
+              "username": "err_yy5809"
+            },
+            {
+              "end": 26,
+              "id": "1347265835082141703",
+              "start": 12,
+              "username": "shipin_xiazai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820810397211140462",
+        "in_reply_to_user_id": "1756163274524225536",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785949583748833590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@err_yy5809 @shipin_xiazai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1489,
+          "like_count": 12635,
+          "listed_count": 1,
+          "tweet_count": 6753
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T03:48:59.000Z",
+        "description": "Soy Chino🇨🇳,soy marxista , me encanta la latinoamerica🇦🇷🇨🇱🇨🇴🇵🇷🇸🇻🇻🇪🇺🇾…, me gusta la literatura , el anime , el baloncesto y el fútbol…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/1521241220114051073",
+                "start": 0,
+                "url": "https://t.co/Q2czWvy6In"
+              }
+            ]
+          }
+        },
+        "id": "1756163274524225536",
+        "location": "Segunda República",
+        "name": "Êren (¬､¬)🟥️☭🟥️🟥️↩️（淡推）",
+        "pinned_tweet_id": "1787004686433992725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798766296374628352/rDErWyJT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 375,
+          "like_count": 10405,
+          "listed_count": 1,
+          "tweet_count": 3993
+        },
+        "url": "https://t.co/Q2czWvy6In",
+        "username": "err_yy5809",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T19:36:41.000Z",
+        "description": "请在推文中提及@shipin_xiazai 我将在几秒内回复您推特视频下载链接。请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "shipin_xiazai"
+              }
+            ]
+          }
+        },
+        "id": "1347265835082141703",
+        "name": "推特视频下载机器人",
+        "pinned_tweet_id": "1766830564638855578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627378676424736771/opzBXYEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436923,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 353,
+          "tweet_count": 167094
+        },
+        "username": "shipin_xiazai",
+        "verified": true
+      }
+    ]
+  }
+}

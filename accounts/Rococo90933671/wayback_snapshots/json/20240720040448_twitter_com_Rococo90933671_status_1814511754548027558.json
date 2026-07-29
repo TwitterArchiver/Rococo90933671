@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1814511752698339483",
+    "created_at": "2024-07-20T04:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T05:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814511754548027558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1814511754548027558",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814511752698339483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "0308"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1814511752698339483",
+        "created_at": "2024-07-20T04:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T05:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814511754548027558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814511754548027558",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814511752698339483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0308"
+      },
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1814511752698339483",
+        "created_at": "2024-07-20T04:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T05:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814511752698339483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1814189845822198260",
+              "start": 86,
+              "url": "https://t.co/VGAeFFRyib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814511752698339483",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814189845822198260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每日一诗12\n\n雕刻家！\n你能用这神来之笔\n刻出完美的万物。\n可是，\n最重要的，\n你是否未曾雕刻好自己？\n那是任何材料都无法弥补的！\n不过我了解，\n你永远都没有时间悲哀。 https://t.co/VGAeFFRyib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1382,
+          "like_count": 11799,
+          "listed_count": 2,
+          "tweet_count": 6237
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

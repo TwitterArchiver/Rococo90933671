@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1824053971029262477",
+    "created_at": "2024-08-15T12:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T13:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824056093284380885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817906917391380480",
+          "start": 0,
+          "username": "duxin11th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824056093284380885",
+    "in_reply_to_user_id": "1817906917391380480",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824053971029262477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxin11th 😂😋🤡😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1824053971029262477].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824053971029262477",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1824053971029262477"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1824053971029262477",
+        "created_at": "2024-08-15T12:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T13:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824056093284380885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817906917391380480",
+              "start": 0,
+              "username": "duxin11th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824056093284380885",
+        "in_reply_to_user_id": "1817906917391380480",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824053971029262477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxin11th 😂😋🤡😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1560,
+          "like_count": 13561,
+          "listed_count": 1,
+          "tweet_count": 7238
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:56:12.000Z",
+        "description": "号主已永远的离开了我们。 “我只是做了一个梦 绝对是这样啦”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dadudalalully1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/dadudalalully1",
+                "start": 0,
+                "url": "https://t.co/bTvMGvSe7l"
+              }
+            ]
+          }
+        },
+        "id": "1817906917391380480",
+        "location": "竹林里",
+        "name": "✝️蚀·都心✝️",
+        "pinned_tweet_id": "1823963838657564775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823390433847709697/jCwAk-j7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 184,
+          "like_count": 1560,
+          "listed_count": 0,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/bTvMGvSe7l",
+        "username": "duxin11th",
+        "verified": false
+      }
+    ]
+  }
+}

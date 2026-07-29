@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2073589521866973256",
+    "created_at": "2026-07-05T06:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073661392260124928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942081492508905473",
+          "start": 0,
+          "username": "ABC20111222szx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073661392260124928",
+    "in_reply_to_user_id": "1942081492508905473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073661008049225863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC20111222szx 因为其他国家得花钱，要固定用一个节点也要氪金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2073589521866973256",
+        "created_at": "2026-07-05T06:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073661392260124928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942081492508905473",
+              "start": 0,
+              "username": "ABC20111222szx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661392260124928",
+        "in_reply_to_user_id": "1942081492508905473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073661008049225863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC20111222szx 因为其他国家得花钱，要固定用一个节点也要氪金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942081492508905473",
+        "conversation_id": "2073589521866973256",
+        "created_at": "2026-07-05T06:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073661008049225863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661008049225863",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073660685268242708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 这个好慢，而且只有两三个国家，但之前挺好用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13087,
+          "following_count": 3173,
+          "like_count": 42718,
+          "listed_count": 41,
+          "media_count": 4584,
+          "tweet_count": 23550
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T04:41:35.000Z",
+        "description": "16岁 准高一喵 男生 身高163 / 55kg \n二次元+玩游戏+会点电脑+会发生活\n支持🏳️‍⚧️   不吃糖 不割手)  求抱抱💕",
+        "id": "1942081492508905473",
+        "location": "冰岛",
+        "name": "𝕬𝖎𝖒𝖊𝖗¹☭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071166294414524416/wJ-BJ88a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 476,
+          "like_count": 778,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "ABC20111222szx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965215478932275205"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1965215481796985089",
+    "created_at": "2025-09-09T00:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T01:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965215481796985089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsQfxNiNMn",
+          "end": 27,
+          "expanded_url": "https://x.com/Rococo90933671/status/1965215481796985089/photo/1",
+          "media_key": "3_1965215478932275205",
+          "start": 4,
+          "url": "https://t.co/TsQfxNiNMn"
+        },
+        {
+          "display_url": "x.com/Akid_Poet/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Akid_Poet/status/1689261752561909761",
+          "start": 28,
+          "url": "https://t.co/0anltsCkTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965215481796985089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1689261752561909761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/TsQfxNiNMn https://t.co/0anltsCkTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1965215478932275205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0XZEODbgAU4R32.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965215478932275205"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1965215481796985089",
+        "created_at": "2025-09-09T00:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T01:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965215481796985089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsQfxNiNMn",
+              "end": 27,
+              "expanded_url": "https://x.com/Rococo90933671/status/1965215481796985089/photo/1",
+              "media_key": "3_1965215478932275205",
+              "start": 4,
+              "url": "https://t.co/TsQfxNiNMn"
+            },
+            {
+              "display_url": "x.com/Akid_Poet/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Akid_Poet/status/1689261752561909761",
+              "start": 28,
+              "url": "https://t.co/0anltsCkTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965215481796985089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1689261752561909761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/TsQfxNiNMn https://t.co/0anltsCkTF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18325616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "1689261752561909761",
+        "created_at": "2023-08-09T13:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-09T14:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1689261752561909761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/disclosetv/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/disclosetv/status/1689237870396022785",
+              "start": 8,
+              "url": "https://t.co/z8RayAOR4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1689261752561909761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 489946,
+          "like_count": 139,
+          "quote_count": 150,
+          "reply_count": 486,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1689237870396022785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饿殍遍野的未来 https://t.co/z8RayAOR4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 2208,
+          "like_count": 27898,
+          "listed_count": 13,
+          "media_count": 2625,
+          "tweet_count": 16069
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-23T03:46:48.000Z",
+        "description": "祖传苗蛊师。测八字业务开展中。命主请 DM 。 Donate me akidjp@iCloud.com （PayPal）",
+        "id": "18325616",
+        "name": "AkidIsPoet",
+        "pinned_tweet_id": "1281196754327633920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621818686515609600/EZJ0Hwl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19772,
+          "following_count": 3877,
+          "like_count": 19638,
+          "listed_count": 222,
+          "media_count": 2875,
+          "tweet_count": 50950
+        },
+        "username": "Akid_Poet",
+        "verified": false
+      }
+    ]
+  }
+}

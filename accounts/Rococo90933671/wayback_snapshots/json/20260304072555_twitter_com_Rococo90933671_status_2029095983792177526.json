@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2029090162345689319",
+    "created_at": "2026-03-04T07:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029095983792177526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782771317223378944",
+          "start": 0,
+          "username": "CrstKatze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029095983792177526",
+    "in_reply_to_user_id": "1782771317223378944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029090162345689319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrstKatze 我反正觉得，一个免费但是限额的模型确实比一开始就没有更烦人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2029089891594985472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjGgX3a4AAlDmH.jpg",
+        "width": 1906
+      },
+      {
+        "height": 1631,
+        "media_key": "3_2029089949577035777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjGjv3awAEYIqe.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2029090162345689319",
+        "created_at": "2026-03-04T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029095983792177526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782771317223378944",
+              "start": 0,
+              "username": "CrstKatze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029095983792177526",
+        "in_reply_to_user_id": "1782771317223378944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029090162345689319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrstKatze 我反正觉得，一个免费但是限额的模型确实比一开始就没有更烦人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029089891594985472",
+            "3_2029089949577035777"
+          ]
+        },
+        "author_id": "1782771317223378944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A square yellow sponge named SpongeBob SquarePants lives in a pineapple with his pet snail, Gary, in the city of Bikini Bottom on the floor of the Pacific Ocean. He works as a fry cook at the Krusty Krab. During his time off, SpongeBob has a knack for attracting trouble with his starfish best friend, Patrick. Arrogant octopus Squidward Tentacles, SpongeBob's neighbor, dislikes SpongeBob because of his childlike behavior.",
+              "id": "10000284222",
+              "name": "SpongeBob SquarePants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "SpongeBob SquarePants",
+              "id": "1012677353971912704",
+              "name": "SpongeBob SquarePants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpongeBob SquarePants",
+              "id": "1012677353971912704",
+              "name": "SpongeBob SquarePants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          }
+        ],
+        "conversation_id": "2029090162345689319",
+        "created_at": "2026-03-04T07:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029090162345689319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKBttY3bNj",
+              "end": 86,
+              "expanded_url": "https://x.com/CrstKatze/status/2029090162345689319/photo/1",
+              "media_key": "3_2029089891594985472",
+              "start": 63,
+              "url": "https://t.co/gKBttY3bNj"
+            },
+            {
+              "display_url": "pic.x.com/gKBttY3bNj",
+              "end": 86,
+              "expanded_url": "https://x.com/CrstKatze/status/2029090162345689319/photo/1",
+              "media_key": "3_2029089949577035777",
+              "start": 63,
+              "url": "https://t.co/gKBttY3bNj"
+            },
+            {
+              "display_url": "x.com/JasonBotterill…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/JasonBotterill/status/2028993145476923640",
+              "start": 87,
+              "url": "https://t.co/T2D9F6BOJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029090162345689319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028993145476923640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中文的结果，GPT 5.3 chat对比G3.1 flash lite\n明眼人都能看出哪个更好，而免费用户使用前者甚至有限额 https://t.co/gKBttY3bNj https://t.co/T2D9F6BOJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9080,
+          "following_count": 2617,
+          "like_count": 30784,
+          "listed_count": 26,
+          "media_count": 3267,
+          "tweet_count": 18376
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-23T14:00:02.000Z",
+        "description": "时代的接力棒已经交到了我们这一代美国青年的手中。从阿巴拉契亚山脉的层峦叠尔到加利福尼亚的金色海岸，从五大湖的波涛汹涌到密西西比河的奔流不息，每一寸土地都在呼唤着我们的担当。让我们拒绝平庸，像华盛顿一样勇敢，像马斯克一样创新。 让我们以责任为风，以自由为帆，让星条旗在世界的中心，永远高高飘扬，让美利坚再次伟大！",
+        "id": "1782771317223378944",
+        "name": "Screwy cat",
+        "pinned_tweet_id": "1873270404653126025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017565040308895744/-WSygNTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 96,
+          "like_count": 3871,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 1863
+        },
+        "username": "CrstKatze",
+        "verified": false
+      }
+    ]
+  }
+}

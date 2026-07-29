@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1934582282716860905",
+    "created_at": "2025-06-17T12:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934947217648840910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340532883975327747",
+          "start": 0,
+          "username": "NasagakiSoyorin"
+        },
+        {
+          "end": 29,
+          "id": "938027704842043392",
+          "start": 17,
+          "username": "PremierZhou"
+        },
+        {
+          "end": 37,
+          "id": "1913946244764098560",
+          "start": 30,
+          "username": "Tibmal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934947217648840910",
+    "in_reply_to_user_id": "1340532883975327747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934862811806711971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NasagakiSoyorin @PremierZhou @Tibmal 2018感觉真的是个转折点，我QQ相册里2016的时候存了一些南海仲裁案外交部的表情包，估计是那个时候没有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1934582282716860905",
+        "created_at": "2025-06-17T12:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934947217648840910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340532883975327747",
+              "start": 0,
+              "username": "NasagakiSoyorin"
+            },
+            {
+              "end": 29,
+              "id": "938027704842043392",
+              "start": 17,
+              "username": "PremierZhou"
+            },
+            {
+              "end": 37,
+              "id": "1913946244764098560",
+              "start": 30,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934947217648840910",
+        "in_reply_to_user_id": "1340532883975327747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934862811806711971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NasagakiSoyorin @PremierZhou @Tibmal 2018感觉真的是个转折点，我QQ相册里2016的时候存了一些南海仲裁案外交部的表情包，估计是那个时候没有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340532883975327747",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1934582282716860905",
+        "created_at": "2025-06-17T06:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934862811806711971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "938027704842043392",
+              "start": 0,
+              "username": "PremierZhou"
+            },
+            {
+              "end": 20,
+              "id": "1913946244764098560",
+              "start": 13,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934862811806711971",
+        "in_reply_to_user_id": "938027704842043392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934836149698412841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PremierZhou @Tibmal 感觉习近平时代早期管的没有现在那么严，我上小学时正好经历老习上台的头几年，记得学校里挺多打架斗殴，串改国歌到处乱唱，给同学起领导人外号或者是骂党和国家等行为，个人还没少跟同学干过架，，，感觉从2017年到2018年起开始管的越来越严"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 2151,
+          "like_count": 25008,
+          "listed_count": 9,
+          "media_count": 2225,
+          "tweet_count": 14451
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T05:42:13.000Z",
+        "description": "MyGO乐队的贝斯手，老婆：千早爱音，😺耄主义者（Maoism），包蜜 ，海军迷，军航飞友，喜欢搞抽象的，对多数人友善哪怕是立场不同，不会屏蔽任何人，（互fo）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn",
+                "start": 0,
+                "url": "https://t.co/YlQy66DxgA"
+              }
+            ]
+          }
+        },
+        "id": "1340532883975327747",
+        "location": "月之森女子学院",
+        "name": "☭🚩🇨🇳☭ 長崎そよ🇯🇵 ✠🇩🇪✠ 🇷🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932301937879527424/osCYElse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 1005,
+          "like_count": 2479,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/YlQy66DxgA",
+        "username": "NasagakiSoyorin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:50:07.000Z",
+        "description": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+        "id": "938027704842043392",
+        "location": "Beijing——新中国从这里走来",
+        "name": "周基米",
+        "pinned_tweet_id": "1690309798049529856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924408047922786304/CCP1Yp41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981,
+          "following_count": 3269,
+          "like_count": 23354,
+          "listed_count": 18,
+          "media_count": 1442,
+          "tweet_count": 17880
+        },
+        "username": "PremierZhou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:22:05.000Z",
+        "description": "solo el socialismo/里账@ocyo35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "ocyo35"
+              }
+            ]
+          }
+        },
+        "id": "1913946244764098560",
+        "name": "Tibmal",
+        "pinned_tweet_id": "1913949199156330527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925800810425765888/7SfRsncX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 42,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 552
+        },
+        "username": "Tibmal",
+        "verified": false
+      }
+    ]
+  }
+}

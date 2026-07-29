@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1791756938826658092",
+    "created_at": "2024-05-18T09:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T10:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791757446631092465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634409128910270465",
+          "start": 0,
+          "username": "Lee36820481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791757446631092465",
+    "in_reply_to_user_id": "1634409128910270465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791756938826658092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee36820481 太对了哥，不用多说，这就是经验之谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791756938826658092",
+        "created_at": "2024-05-18T09:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T10:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791757446631092465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634409128910270465",
+              "start": 0,
+              "username": "Lee36820481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791757446631092465",
+        "in_reply_to_user_id": "1634409128910270465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791756938826658092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee36820481 太对了哥，不用多说，这就是经验之谈"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634409128910270465",
+        "conversation_id": "1791756938826658092",
+        "created_at": "2024-05-18T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791756938826658092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791756938826658092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我有一个非常不好的习惯 想一个题想得超过15min还要死磕\n\n实际上 超过15min没有思路的话 多半是因为脑子里面没这方面的经验 再想也想不出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见不站队/对跨圈友好/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 588,
+          "like_count": 1819,
+          "listed_count": 0,
+          "tweet_count": 1827
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:21:24.000Z",
+        "description": "轻度抑郁的本科生/🏳️‍🌈/工科/数学",
+        "id": "1634409128910270465",
+        "location": "Otherworlds",
+        "name": "烟柳弄晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789553811859853312/LQ7VYiI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 333,
+          "like_count": 11735,
+          "listed_count": 0,
+          "tweet_count": 940
+        },
+        "username": "Lee36820481",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1793294185854091460",
+    "created_at": "2024-05-22T14:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T15:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793294957723496784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634409128910270465",
+          "start": 0,
+          "username": "Lee36820481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793294957723496784",
+    "in_reply_to_user_id": "1634409128910270465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793294185854091460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee36820481 他的这种没有变声期的美把小时候的我馋哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1793294185854091460",
+        "created_at": "2024-05-22T14:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T15:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793294957723496784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634409128910270465",
+              "start": 0,
+              "username": "Lee36820481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793294957723496784",
+        "in_reply_to_user_id": "1634409128910270465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793294185854091460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee36820481 他的这种没有变声期的美把小时候的我馋哭了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634409128910270465",
+        "conversation_id": "1793294185854091460",
+        "created_at": "2024-05-22T14:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T15:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793294185854091460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793294185854091460",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以周深是不是男同啊 直男会有这种声线吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 605,
+          "like_count": 2369,
+          "listed_count": 0,
+          "tweet_count": 2303
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:21:24.000Z",
+        "description": "轻度抑郁的本科生/major in architecture/🏳️‍🌈/是年上控/智力低下/厌学中…",
+        "id": "1634409128910270465",
+        "location": "Otherworlds",
+        "name": "烟柳弄晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789553811859853312/LQ7VYiI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 350,
+          "like_count": 12777,
+          "listed_count": 0,
+          "tweet_count": 1068
+        },
+        "username": "Lee36820481",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899346412994570",
+          "name": "Open world games"
+        }
+      }
+    ],
+    "conversation_id": "2039549938343018651",
+    "created_at": "2026-04-02T03:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039549938343018651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nebkhet/status…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/nebkhet/status/2026299322426347674",
+          "start": 115,
+          "url": "https://t.co/GHpWoY4C3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039549938343018651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026299322426347674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过渡区域的消亡已经波及到原神。\n\n🐶ch忘记了这款游戏应该是一款开放世界游戏，从而只是给我们一些彼此相邻的区域，并用水作为无形的屏障。\n\n（更不用说本身就有不少地方还得解谜才能进）\n\n如果他们今天设计璃月地图，那大概就是这个样子 https://t.co/GHpWoY4C3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2026298910029848576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7cH3UXIAApGM1.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          }
+        ],
+        "conversation_id": "2039549938343018651",
+        "created_at": "2026-04-02T03:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039549938343018651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nebkhet/status…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/nebkhet/status/2026299322426347674",
+              "start": 115,
+              "url": "https://t.co/GHpWoY4C3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039549938343018651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026299322426347674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过渡区域的消亡已经波及到原神。\n\n🐶ch忘记了这款游戏应该是一款开放世界游戏，从而只是给我们一些彼此相邻的区域，并用水作为无形的屏障。\n\n（更不用说本身就有不少地方还得解谜才能进）\n\n如果他们今天设计璃月地图，那大概就是这个样子 https://t.co/GHpWoY4C3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026298910029848576"
+          ]
+        },
+        "author_id": "1604881772835213314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          }
+        ],
+        "conversation_id": "2026299322426347674",
+        "created_at": "2026-02-24T14:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026299322426347674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jovpVdonq",
+              "end": 297,
+              "expanded_url": "https://x.com/nebkhet/status/2026299322426347674/photo/1",
+              "media_key": "3_2026298910029848576",
+              "start": 274,
+              "url": "https://t.co/9jovpVdonq"
+            },
+            {
+              "display_url": "x.com/AboutNodKrai/s…",
+              "end": 321,
+              "expanded_url": "https://twitter.com/AboutNodKrai/status/2026260390397559115",
+              "start": 298,
+              "url": "https://t.co/SDPlJqBTuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026299322426347674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 674,
+          "impression_count": 414573,
+          "like_count": 13893,
+          "quote_count": 89,
+          "reply_count": 95,
+          "retweet_count": 765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026260390397559115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the death of transitional spaces has caught genshin. they've forgotten that this game is supposed to be open world and have begun just giving us domains that are adjacent to eachother and using water as invisible barriers\n\nif they designed liyue today it would just be this https://t.co/9jovpVdonq https://t.co/SDPlJqBTuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923,
+          "following_count": 2811,
+          "like_count": 33427,
+          "listed_count": 28,
+          "media_count": 3516,
+          "tweet_count": 19632
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T16:50:28.000Z",
+        "description": "#1 Sumeru fan 🌻\noc: @nebkhetswarden\n\ni block freely / if you start to annoy me\n& may delete tweets if they get too many notifs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "nebkhetswarden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nolskatharsye.straw.page",
+                "end": 23,
+                "expanded_url": "https://nolskatharsye.straw.page/",
+                "start": 0,
+                "url": "https://t.co/rkZtE0H80Q"
+              }
+            ]
+          }
+        },
+        "id": "1604881772835213314",
+        "name": "KHELE 🌿🍄",
+        "pinned_tweet_id": "2018550837530763705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038012128050003968/BtRBDiRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 478,
+          "like_count": 47617,
+          "listed_count": 3,
+          "media_count": 1033,
+          "tweet_count": 11672
+        },
+        "url": "https://t.co/rkZtE0H80Q",
+        "username": "nebkhet",
+        "verified": false
+      }
+    ]
+  }
+}

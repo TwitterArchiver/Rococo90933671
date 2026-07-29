@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852689931938001374",
+    "created_at": "2024-11-03T04:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T05:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852924994822811924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "8964jiaoxi"
+        },
+        {
+          "end": 28,
+          "id": "1768598362302124032",
+          "start": 12,
+          "username": "anticapital1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852924994822811924",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852740414182498785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964jiaoxi @anticapital1966 我需要立刻看到网址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852689931938001374",
+        "created_at": "2024-11-03T04:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T05:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852924994822811924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "8964jiaoxi"
+            },
+            {
+              "end": 28,
+              "id": "1768598362302124032",
+              "start": 12,
+              "username": "anticapital1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852924994822811924",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852740414182498785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964jiaoxi @anticapital1966 我需要立刻看到网址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "conversation_id": "1852689931938001374",
+        "created_at": "2024-11-02T15:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T16:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852740414182498785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768598362302124032",
+              "start": 0,
+              "username": "anticapital1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852740414182498785",
+        "in_reply_to_user_id": "1768598362302124032",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852689931938001374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anticapital1966 记得p站有个邓小平在8964被学生论剑的文（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1887,
+          "like_count": 17078,
+          "listed_count": 5,
+          "tweet_count": 9553
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "07高三/isfp/新左派/史同人/革命女权/支持lgbt/支持🇺🇦🇵🇸/社会主义多党制/不排斥毛霍安托西/泛左互fo",
+        "id": "1817115470736293889",
+        "location": "桃花源",
+        "name": "艽蒠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852068582672191488/Sco9b6xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 592,
+          "like_count": 13464,
+          "listed_count": 0,
+          "tweet_count": 1689
+        },
+        "username": "8964jiaoxi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T11:21:33.000Z",
+        "description": "我坚信，自由，民主，平等的马克思主义与无政府主义必胜\n不反对毛泽东，列宁主义\n一个小资产阶级假马克思主义者",
+        "id": "1768598362302124032",
+        "location": "红冬联邦院校自管区",
+        "name": "每日反资（太伟大了安守实梨）",
+        "pinned_tweet_id": "1841125548464226471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816429052032630784/QxgKCuc0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 137,
+          "like_count": 321,
+          "listed_count": 0,
+          "tweet_count": 766
+        },
+        "username": "anticapital1966",
+        "verified": false
+      }
+    ]
+  }
+}

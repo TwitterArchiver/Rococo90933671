@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830603023053438976"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1830603030905094528",
+    "created_at": "2024-09-02T13:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T14:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830603030905094528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ojy97i0vp",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1830603030905094528/photo/1",
+          "media_key": "3_1830603023053438976",
+          "start": 66,
+          "url": "https://t.co/3Ojy97i0vP"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1782400912910356789",
+          "start": 90,
+          "url": "https://t.co/srRvDdd6vD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830603030905094528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1782400912910356789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得当时我还是喜欢探讨这些的，当时这段话我是坐在学校图书馆里打出来的。不知道大家怎么看。我互动的是图上这位，他号不知道为什么没了 https://t.co/3Ojy97i0vP https://t.co/srRvDdd6vD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_1830603023053438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWebwCHbQAA4dOi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830603023053438976"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1830603030905094528",
+        "created_at": "2024-09-02T13:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T14:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830603030905094528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ojy97i0vp",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1830603030905094528/photo/1",
+              "media_key": "3_1830603023053438976",
+              "start": 66,
+              "url": "https://t.co/3Ojy97i0vP"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1782400912910356789",
+              "start": 90,
+              "url": "https://t.co/srRvDdd6vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830603030905094528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1782400912910356789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得当时我还是喜欢探讨这些的，当时这段话我是坐在学校图书馆里打出来的。不知道大家怎么看。我互动的是图上这位，他号不知道为什么没了 https://t.co/3Ojy97i0vP https://t.co/srRvDdd6vD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1782389066597830909",
+        "created_at": "2024-04-22T13:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-22T14:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1782400912910356789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711018829227462656",
+              "start": 0,
+              "username": "nahida1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1782400912910356789",
+        "in_reply_to_user_id": "1711018829227462656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1782389066597830909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nahida1953 是啊，就像为什么在没有实际物理意义上的危险的时候人会选择自杀？因为他认同于外在，把自己当做工具了——必须做到什么什么，必须做到什么什么才体面，必须争取到什么什么才有保障才能快乐——看起来是在为自己生命之美好而努力，但只是因为我们的思想认同这样了，我们才会这么觉得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1675,
+          "like_count": 15294,
+          "listed_count": 2,
+          "tweet_count": 8065
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

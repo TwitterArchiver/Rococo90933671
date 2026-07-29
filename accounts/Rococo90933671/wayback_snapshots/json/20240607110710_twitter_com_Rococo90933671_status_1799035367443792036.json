@@ -1,0 +1,407 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1799010183471100381",
+    "created_at": "2024-06-07T11:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T12:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799035367443792036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620714577431494656",
+          "start": 0,
+          "username": "pandeng1234"
+        },
+        {
+          "end": 24,
+          "id": "1684788633797287936",
+          "start": 13,
+          "username": "Liuyun1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799035367443792036",
+    "in_reply_to_user_id": "1620714577431494656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799016887260778891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandeng1234 @Liuyun1911 苹果看不了文件，限制太多，垃圾玩意😋\n华为下不了谷歌，有翻墙软件看推特油管也只能看网页版，更不用说只有APP的墙外软件那根本下不了，垃圾玩意😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1799010183471100381",
+        "created_at": "2024-06-07T11:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T12:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799035367443792036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620714577431494656",
+              "start": 0,
+              "username": "pandeng1234"
+            },
+            {
+              "end": 24,
+              "id": "1684788633797287936",
+              "start": 13,
+              "username": "Liuyun1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799035367443792036",
+        "in_reply_to_user_id": "1620714577431494656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799016887260778891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandeng1234 @Liuyun1911 苹果看不了文件，限制太多，垃圾玩意😋\n华为下不了谷歌，有翻墙软件看推特油管也只能看网页版，更不用说只有APP的墙外软件那根本下不了，垃圾玩意😋"
+      },
+      {
+        "attachments": {},
+        "author_id": "1620714577431494656",
+        "conversation_id": "1799010183471100381",
+        "created_at": "2024-06-07T09:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T10:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799016887260778891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Liuyun1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799016887260778891",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799010183471100381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liuyun1911 性价比不行，小米永远的神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 977,
+          "like_count": 6257,
+          "listed_count": 2,
+          "tweet_count": 3956
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T09:24:18.000Z",
+        "description": "我是傻卵二次元（玩原神玩的），本科学的德语（已经忘得差不多），喜欢重金属，弹电吉他（三年没碰）。性格类型是老缠：IMSB。有时候暴躁:FNMDP。",
+        "id": "1620714577431494656",
+        "location": "妈妈生的",
+        "name": "阿蕾奇诺女王的狗",
+        "pinned_tweet_id": "1769336801330860159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780882232380723200/HsyDI6GT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 642,
+          "like_count": 9844,
+          "listed_count": 7,
+          "tweet_count": 12648
+        },
+        "username": "pandeng1234",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo•#原神•是個愛🇹🇼的大陸人•希望兩岸和平交流發展•喜歡德國•教育學•德三卐歷史•中🇹🇼🇨🇳/En🇺🇲/De🇩🇪學習中•友🏳️‍⚧️🏳️‍🌈•歡迎私訊•@dongxuelianhaha/@Landscapy_Lover/@nahida_khmer/@CharmingFurina",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "nahida_khmer"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "CharmingFurina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com/main/m/news/de…",
+                "end": 23,
+                "expanded_url": "https://ys.mihoyo.com/main/m/news/detail/122150",
+                "start": 0,
+                "url": "https://t.co/yXJWUSsM5Z"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "奧藏山\n(おくぞうさん)",
+        "name": "鸞音鶴行築靈心(互fo)",
+        "pinned_tweet_id": "1766790984447529173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784058118798020608/DCw44opy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 4112,
+          "like_count": 30015,
+          "listed_count": 20,
+          "tweet_count": 6249
+        },
+        "url": "https://t.co/yXJWUSsM5Z",
+        "username": "Liuyun1911",
+        "verified": false
+      }
+    ]
+  }
+}

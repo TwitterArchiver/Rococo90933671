@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1955895518418362684",
+    "created_at": "2025-08-14T09:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T10:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955924140508225584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955924140508225584",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955895518418362684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 原来头像真是本人🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955895508037459970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyS8mg5a4AIOypd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955895507982934020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyS8mgsa4AQQ4DO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955895507957768192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyS8mgma4AAcSxB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1955895518418362684",
+        "created_at": "2025-08-14T09:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955924140508225584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955924140508225584",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955895518418362684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 原来头像真是本人🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955895508037459970",
+            "3_1955895507982934020",
+            "3_1955895507957768192"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "1955895518418362684",
+        "created_at": "2025-08-14T07:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955895518418362684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5XHq7QJDj",
+              "end": 59,
+              "expanded_url": "https://x.com/N0rthern_Land/status/1955895518418362684/photo/1",
+              "media_key": "3_1955895508037459970",
+              "start": 36,
+              "url": "https://t.co/b5XHq7QJDj"
+            },
+            {
+              "display_url": "pic.x.com/b5XHq7QJDj",
+              "end": 59,
+              "expanded_url": "https://x.com/N0rthern_Land/status/1955895518418362684/photo/1",
+              "media_key": "3_1955895507982934020",
+              "start": 36,
+              "url": "https://t.co/b5XHq7QJDj"
+            },
+            {
+              "display_url": "pic.x.com/b5XHq7QJDj",
+              "end": 59,
+              "expanded_url": "https://x.com/N0rthern_Land/status/1955895518418362684/photo/1",
+              "media_key": "3_1955895507957768192",
+              "start": 36,
+              "url": "https://t.co/b5XHq7QJDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955895518418362684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1556,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "基础款就不要再搭基础款了，上身基础下身就不基础，上下都基础配饰就不基础 https://t.co/b5XHq7QJDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5368,
+          "following_count": 2186,
+          "like_count": 26765,
+          "listed_count": 12,
+          "media_count": 2491,
+          "tweet_count": 15470
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/粉红别关注我/女朋友@ayashikinoco/里帐：@san45142",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "san45142"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922171885707485184/cia_yxjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62513,
+          "following_count": 794,
+          "like_count": 88746,
+          "listed_count": 151,
+          "media_count": 3066,
+          "tweet_count": 28964
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

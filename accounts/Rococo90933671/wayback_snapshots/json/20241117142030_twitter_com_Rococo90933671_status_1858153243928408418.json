@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1858151802287644937",
+    "created_at": "2024-11-17T14:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T15:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858153243928408418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Erica14476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858153243928408418",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858151802287644937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erica14476 不说别的，流萤真好看🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858151802287644937].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858151802287644937",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858151802287644937"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1858151802287644937",
+        "created_at": "2024-11-17T14:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T15:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858153243928408418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Erica14476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858153243928408418",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858151802287644937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erica14476 不说别的，流萤真好看🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 1941,
+          "like_count": 18243,
+          "listed_count": 5,
+          "tweet_count": 10225
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "永远在看着你。",
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "Erica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850462519397326848/IcIp5dx4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 3853,
+          "like_count": 191485,
+          "listed_count": 4,
+          "tweet_count": 6467
+        },
+        "username": "Erica14476",
+        "verified": false
+      }
+    ]
+  }
+}

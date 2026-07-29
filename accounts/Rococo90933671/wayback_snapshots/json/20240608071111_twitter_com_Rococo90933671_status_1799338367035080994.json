@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1799283658702110725",
+    "created_at": "2024-06-08T07:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T08:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799338367035080994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799338367035080994",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799283658702110725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 痛失韩国留学机会（虽然也没什么好痛的🤓）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1799283658702110725",
+        "created_at": "2024-06-08T07:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T08:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799338367035080994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799338367035080994",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799283658702110725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 痛失韩国留学机会（虽然也没什么好痛的🤓）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1566815552777383936",
+        "conversation_id": "1799283658702110725",
+        "created_at": "2024-06-08T03:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T04:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799283658702110725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799283658702110725",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小小文综，拿捏🤏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 986,
+          "like_count": 6387,
+          "listed_count": 2,
+          "tweet_count": 4010
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "高3年生、06、🚹、中国人です🇨🇳、いま成都に住んでいる、自国を愛する。もちろん、みんなと仲良くしたい🙇\n|日常垢|絡み重視|変な垢以外フォロバ💯|アニメ|ゲーム|歌が好き|kig初心者|\n興味：#原神、#アークナイツ、#ブルアカ、#ガルパ、#ボカロ、#着ぐるみ\n｜私は日本語を自分で勉強しています｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 98,
+                "tag": "原神"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "ガルパ"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "着ぐるみ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/1FkR-i8lVZ",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/1FkR-i8lVZ",
+                "start": 0,
+                "url": "https://t.co/bnTnxhKbpK"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1674739627121606656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651955050032533504/SPAFB7jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 2277,
+          "like_count": 27380,
+          "listed_count": 9,
+          "tweet_count": 6666
+        },
+        "url": "https://t.co/bnTnxhKbpK",
+        "username": "TianqiChen666",
+        "verified": false
+      }
+    ]
+  }
+}

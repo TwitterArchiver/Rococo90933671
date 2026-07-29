@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1914642053537169824",
+    "created_at": "2025-04-23T01:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T02:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914857711998787901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902877284918468608",
+          "start": 0,
+          "username": "RkMonoChrome_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914857711998787901",
+    "in_reply_to_user_id": "902877284918468608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914706730963100091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RkMonoChrome_CN 深有体会，原神在枫丹时代就开始有三体人原始人之分了，但是深渊原始人完全不虚，我的3+1雷神照样砍得动。但是从纳塔开始，火龙仆以外的都打得难受，我3+1雷神彻底焉了。反正没有太阳轰鸣我绝对打不满了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1914642053537169824",
+        "created_at": "2025-04-23T01:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T02:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914857711998787901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902877284918468608",
+              "start": 0,
+              "username": "RkMonoChrome_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914857711998787901",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914706730963100091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RkMonoChrome_CN 深有体会，原神在枫丹时代就开始有三体人原始人之分了，但是深渊原始人完全不虚，我的3+1雷神照样砍得动。但是从纳塔开始，火龙仆以外的都打得难受，我3+1雷神彻底焉了。反正没有太阳轰鸣我绝对打不满了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902877284918468608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1914642053537169824",
+        "created_at": "2025-04-22T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914706730963100091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914706730963100091",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914642053537169824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当初把原神的抽卡规划思路直接套到崩铁里，准备抽来用作对策卡，结果到头来发现我就是小丑。。。我严重低估了崩铁策划的恶意\n原神2.0以后的阵容都几乎可以玩到关服，只要深渊环境不特别针对的话。也就最近才开始发疯大抬水温。而崩铁的深渊水温大抬就没停过，不抽近期版本角色的话就别想满星拿满奖励了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4716,
+          "following_count": 2147,
+          "like_count": 24170,
+          "listed_count": 10,
+          "media_count": 2017,
+          "tweet_count": 13700
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T12:54:54.000Z",
+        "description": "日本語中国語両方支離滅裂ゴミ人間ド金欠人生失敗中国人限界御宅｜V老人｜ゲーム・アニメとか趣味色々｜1落ちカウンター 376\n※スパム・エロ垢・投資垢・インプレゾンビなどは一切お断り致します\n中文/English/日本語/한국어（조금밖에 할줄 모름）OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rkmonochrome_c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rkmonochrome_cn?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FHKhXzzmes"
+              }
+            ]
+          }
+        },
+        "id": "902877284918468608",
+        "location": "現実世界・中国⇆ストリートのセカイ",
+        "name": "𝓜𝓸𝓷𝓸𝓒𝓱𝓻𝓸𝓶𝓮.(モノクロ) (𝓡𝓮:仮)",
+        "pinned_tweet_id": "1796940850121019472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906919226901983232/JCcdNeSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 4956,
+          "like_count": 466741,
+          "listed_count": 16,
+          "media_count": 7418,
+          "tweet_count": 62564
+        },
+        "url": "https://t.co/FHKhXzzmes",
+        "username": "RkMonoChrome_CN",
+        "verified": false
+      }
+    ]
+  }
+}

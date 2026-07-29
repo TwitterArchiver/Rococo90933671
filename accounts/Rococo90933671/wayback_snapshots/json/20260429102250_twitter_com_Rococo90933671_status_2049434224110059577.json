@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2049418239818801222",
+    "created_at": "2026-04-29T10:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049434224110059577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049434224110059577",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049418239818801222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 几年前看他作诗还挺有意思的，原来他这么抽象吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2049418233816760320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD_Bn7bQAAVTM-.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049418233825099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD_Bn9agAAPzJI.jpg",
+        "width": 1166
+      },
+      {
+        "height": 1020,
+        "media_key": "3_2049418233854468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD_BoEaoAAz89U.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2049418239818801222",
+        "created_at": "2026-04-29T10:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049434224110059577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049434224110059577",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049418239818801222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 几年前看他作诗还挺有意思的，原来他这么抽象吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049418233816760320",
+            "3_2049418233825099776",
+            "3_2049418233854468096"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2049418239818801222",
+        "created_at": "2026-04-29T09:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049418239818801222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNVrLYFweX",
+              "end": 41,
+              "expanded_url": "https://x.com/quasarne/status/2049418239818801222/photo/1",
+              "media_key": "3_2049418233816760320",
+              "start": 18,
+              "url": "https://t.co/kNVrLYFweX"
+            },
+            {
+              "display_url": "pic.x.com/kNVrLYFweX",
+              "end": 41,
+              "expanded_url": "https://x.com/quasarne/status/2049418239818801222/photo/1",
+              "media_key": "3_2049418233825099776",
+              "start": 18,
+              "url": "https://t.co/kNVrLYFweX"
+            },
+            {
+              "display_url": "pic.x.com/kNVrLYFweX",
+              "end": 41,
+              "expanded_url": "https://x.com/quasarne/status/2049418239818801222/photo/1",
+              "media_key": "3_2049418233854468096",
+              "start": 18,
+              "url": "https://t.co/kNVrLYFweX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049418239818801222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何做一个成功的嘉豪，请看有山先生 https://t.co/kNVrLYFweX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10961,
+          "following_count": 2996,
+          "like_count": 36802,
+          "listed_count": 34,
+          "media_count": 3814,
+          "tweet_count": 21081
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "猫！@kyrinxo｜數碼/科幻/策略/音游 Wikier UNIX 用户｜🏳️‍🌈pan/gay｜🚩🏴Тавлува, Эа 自由·平等🌹｜🌐漢語 吴、普/English OK/法語 學習中/日德西世道語 擱淺中｜Knowledge is key to the universe｜政 @junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "kyrinxo"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "junenkim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne14546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne14546",
+                "start": 0,
+                "url": "https://t.co/av1wKCkdLM"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🏳️‍⚧️",
+        "pinned_tweet_id": "2043336938221170970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1028,
+          "like_count": 76802,
+          "listed_count": 6,
+          "media_count": 1080,
+          "tweet_count": 14372
+        },
+        "url": "https://t.co/av1wKCkdLM",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

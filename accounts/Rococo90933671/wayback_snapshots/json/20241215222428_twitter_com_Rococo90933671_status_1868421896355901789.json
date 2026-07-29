@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "1868325645799018574",
+    "created_at": "2024-12-15T22:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T23:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868421896355901789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1607383702564376578",
+          "start": 0,
+          "username": "dictatorsweater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nbuna_staff/st…",
+          "end": 46,
+          "expanded_url": "https://x.com/nbuna_staff/status/1105030895033974784?t=4AJSLYQQp0S4ivaxPVCkmQ&s=19",
+          "start": 23,
+          "url": "https://t.co/2bPTdtYrft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868421896355901789",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1105030895033974784",
+        "type": "quoted"
+      },
+      {
+        "id": "1868421238105714737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dictatorsweater 5千万了\n\nhttps://t.co/2bPTdtYrft"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1868325645799018574",
+        "created_at": "2024-12-15T22:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T23:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868421896355901789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1607383702564376578",
+              "start": 0,
+              "username": "dictatorsweater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nbuna_staff/st…",
+              "end": 46,
+              "expanded_url": "https://x.com/nbuna_staff/status/1105030895033974784?t=4AJSLYQQp0S4ivaxPVCkmQ&s=19",
+              "start": 23,
+              "url": "https://t.co/2bPTdtYrft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868421896355901789",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1105030895033974784",
+            "type": "quoted"
+          },
+          {
+            "id": "1868421238105714737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dictatorsweater 5千万了\n\nhttps://t.co/2bPTdtYrft"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "738199700914872320",
+        "conversation_id": "1105030895033974784",
+        "created_at": "2019-03-11T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2019-03-11T09:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1105030895033974784"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "だから僕は音楽を辞めた",
+              "probability": 0.3609,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "パレード",
+              "probability": 0.7762,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ヨルシカ - パレード Yorushika - Parade作詞作曲、編曲(Words and Music)：n-buna Vocal：suis Music Video Directed by 大鳥Camera : アフガンRAY3rd Album 「だから僕は音楽を辞めた」 2019年4月10日(水)発売、予約...",
+              "display_url": "youtu.be/ry3Tupx4BL4",
+              "end": 106,
+              "expanded_url": "https://youtu.be/ry3Tupx4BL4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1866994389379321860/oj_Z3pSv?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1866994389379321860/oj_Z3pSv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "ヨルシカ - パレード (Music Video)",
+              "unwound_url": "https://www.youtube.com/watch?v=ry3Tupx4BL4&feature=youtu.be",
+              "url": "https://t.co/paN75jqwxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1105030895033974784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 0,
+          "like_count": 4967,
+          "quote_count": 39,
+          "reply_count": 20,
+          "retweet_count": 1598
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルシカ 4/10発売AL「だから僕は音楽を辞めた」に収録される新曲「パレード」ミュージックビデオ公開しました。\nアルバム発売まであと１ヶ月、宜しくお願い致します！\nhttps://t.co/paN75jqwxq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1868325645799018574",
+        "created_at": "2024-12-15T22:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T23:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868421238105714737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1607383702564376578",
+              "start": 0,
+              "username": "dictatorsweater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868421238105714737",
+        "in_reply_to_user_id": "1607383702564376578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868325645799018574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dictatorsweater 我去看看我最喜欢的パレード多少播放量了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1962,
+          "like_count": 19388,
+          "listed_count": 5,
+          "media_count": 1358,
+          "tweet_count": 10826
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:32:25.000Z",
+        "description": "Never Mind the Scandals and the Lies, Cares Cause Problems./Patriotism is the last refuge of a scoundrel/反共/男（防止sb骚扰）/自由意志主义者/阿森纳球迷/ddlc粉/原批",
+        "id": "1607383702564376578",
+        "location": "大陆沦陷区",
+        "name": "独彩毛衣🇫🇮🇺🇦",
+        "pinned_tweet_id": "1817747435755798580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722924810274283520/8mFEopCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 364,
+          "like_count": 28447,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 2539
+        },
+        "username": "dictatorsweater",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616068,
+          "following_count": 6,
+          "like_count": 1165,
+          "listed_count": 3092,
+          "media_count": 771,
+          "tweet_count": 4653
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

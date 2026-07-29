@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1854778890038002115",
+    "created_at": "2024-11-15T04:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T05:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857286526343799015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_Nht"
+        },
+        {
+          "end": 30,
+          "id": "1678962865351319554",
+          "start": 17,
+          "username": "S11Z8A7_0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857286526343799015",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857283584949653722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_Nht @S11Z8A7_0525 他之前也b了我的，解了之后沟通说他那时候是因为精神异常乱b了一些人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1857283584949653722].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857283584949653722",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1857283584949653722"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1854778890038002115",
+        "created_at": "2024-11-15T04:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T05:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857286526343799015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_Nht"
+            },
+            {
+              "end": 30,
+              "id": "1678962865351319554",
+              "start": 17,
+              "username": "S11Z8A7_0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857286526343799015",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857283584949653722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_Nht @S11Z8A7_0525 他之前也b了我的，解了之后沟通说他那时候是因为精神异常乱b了一些人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 1920,
+          "like_count": 17888,
+          "listed_count": 5,
+          "tweet_count": 10076
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "我并不想把时间浪费在推特上。性情乖僻，信奉天主教，平凡人。当生活不如意时便只能寄希望于异世界。生活推，岁静状态，严禁键政。不欢迎陌生人，懒得吵架对线，一律拉黑和挂所遇到的诈骗机器人、喷子、黄推、广告推、恶意账户、冒仿账户与各类三无账户，也包括了对着我恶意键政的用户🚫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinacatholic.cn",
+                "end": 23,
+                "expanded_url": "https://www.chinacatholic.cn",
+                "start": 0,
+                "url": "https://t.co/1YfU9bcAvj"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "故乡",
+        "name": "圣座·保禄若望✝️⛪✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850804582999306240/BDo906GZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 704,
+          "like_count": 51514,
+          "listed_count": 1,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/1YfU9bcAvj",
+        "username": "Starry_Sand_Nht",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T03:02:07.000Z",
+        "description": "✟𝓣𝓱𝓲𝓼 𝓹𝓮𝓻𝓼𝓸𝓷 𝓭𝓸𝓮𝓼 𝓷𝓸𝓽 𝓮𝔁𝓲𝓼𝓽.✟",
+        "id": "1678962865351319554",
+        "location": "✨✞HEAVEN✞✨",
+        "name": "✨𝓐𝓲𝓶𝓪𝔂𝓵𝓲𝓪✨",
+        "pinned_tweet_id": "1829020565300265001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776509399890358272/6m0eYY67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 4353,
+          "like_count": 11687,
+          "listed_count": 2,
+          "tweet_count": 2145
+        },
+        "username": "S11Z8A7_0525",
+        "verified": false
+      }
+    ]
+  }
+}

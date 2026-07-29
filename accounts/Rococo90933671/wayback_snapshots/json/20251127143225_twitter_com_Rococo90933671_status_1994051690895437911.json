@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1993962451914911768",
+    "created_at": "2025-11-27T14:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994051690895437911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "196593621",
+          "start": 0,
+          "username": "Taito_Toys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994051690895437911",
+    "in_reply_to_user_id": "196593621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993962451914911768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taito_Toys 这个终于让我get到井芹仁菜的美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993962358084128770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v6M0Ea0AI1DkG.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1993962381723226113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v6OMIa0AEa1_9.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1993962406796775425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v6Ppia0AEu8ds.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1993962451914911768",
+        "created_at": "2025-11-27T14:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994051690895437911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "196593621",
+              "start": 0,
+              "username": "Taito_Toys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994051690895437911",
+        "in_reply_to_user_id": "196593621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993962451914911768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taito_Toys 这个终于让我get到井芹仁菜的美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993962358084128770",
+            "3_1993962381723226113",
+            "3_1993962406796775425"
+          ]
+        },
+        "author_id": "196593621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1993962451914911768",
+        "created_at": "2025-11-27T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993962451914911768"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "#ガールズバンドクライ",
+              "probability": 0.4996,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "仁菜",
+              "probability": 0.9512,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 28,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "井芹仁菜"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 144,
+              "start": 133,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 154,
+              "start": 145,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uz2zyN9X0R",
+              "end": 178,
+              "expanded_url": "https://x.com/Taito_Toys/status/1993962451914911768/photo/1",
+              "media_key": "3_1993962358084128770",
+              "start": 155,
+              "url": "https://t.co/Uz2zyN9X0R"
+            },
+            {
+              "display_url": "pic.x.com/Uz2zyN9X0R",
+              "end": 178,
+              "expanded_url": "https://x.com/Taito_Toys/status/1993962451914911768/photo/1",
+              "media_key": "3_1993962381723226113",
+              "start": 155,
+              "url": "https://t.co/Uz2zyN9X0R"
+            },
+            {
+              "display_url": "pic.x.com/Uz2zyN9X0R",
+              "end": 178,
+              "expanded_url": "https://x.com/Taito_Toys/status/1993962451914911768/photo/1",
+              "media_key": "3_1993962406796775425",
+              "start": 155,
+              "url": "https://t.co/Uz2zyN9X0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993962451914911768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 88774,
+          "like_count": 2013,
+          "quote_count": 105,
+          "reply_count": 9,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "【速報‼】Coreful フィギュアより、\nTVアニメ『#ガールズバンドクライ』の #井芹仁菜 が「不登校Tシャツ」のライブ衣装で登場決定❣\n\nマイクを持った躍動感のあるポーズや、仁菜らしい表情にご注目ください✨🎤\n\n1月登場予定‼続報をお楽しみに‼\n\n#ガルクラ #ガールズバンドクライ #トゲナシトゲアリ https://t.co/Uz2zyN9X0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6568,
+          "following_count": 2216,
+          "like_count": 28915,
+          "listed_count": 18,
+          "media_count": 2895,
+          "tweet_count": 16920
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-29T13:41:41.000Z",
+        "description": "タイトーのプライズ、くじ、EC販売の最新情報をお届け！プレゼントキャンペーンも開催しています！\n【公式サイト】\nプライズ→https://t.co/f7Iz1khprq \nくじ→https://t.co/Gn1OE1zJgV \nEC販売→ https://t.co/TdszmvFnlT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "taito.co.jp/taito-prize",
+                "end": 84,
+                "expanded_url": "http://taito.co.jp/taito-prize",
+                "start": 61,
+                "url": "https://t.co/f7Iz1khprq"
+              },
+              {
+                "display_url": "taito.co.jp/kujihonpo",
+                "end": 112,
+                "expanded_url": "http://taito.co.jp/kujihonpo",
+                "start": 89,
+                "url": "https://t.co/Gn1OE1zJgV"
+              },
+              {
+                "display_url": "spiritale.jp",
+                "end": 143,
+                "expanded_url": "http://spiritale.jp",
+                "start": 120,
+                "url": "https://t.co/TdszmvFnlT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taito.co.jp/taito-prize",
+                "end": 23,
+                "expanded_url": "https://www.taito.co.jp/taito-prize",
+                "start": 0,
+                "url": "https://t.co/7v6zp1CzhX"
+              }
+            ]
+          }
+        },
+        "id": "196593621",
+        "location": "東京都新宿区新宿6-27-30",
+        "name": "タイトートイズ",
+        "pinned_tweet_id": "1989619784737251741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273051051533275137/jb0Rkwt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347020,
+          "following_count": 3796,
+          "like_count": 1902,
+          "listed_count": 1109,
+          "media_count": 5358,
+          "tweet_count": 8858
+        },
+        "url": "https://t.co/7v6zp1CzhX",
+        "username": "Taito_Toys",
+        "verified": true
+      }
+    ]
+  }
+}

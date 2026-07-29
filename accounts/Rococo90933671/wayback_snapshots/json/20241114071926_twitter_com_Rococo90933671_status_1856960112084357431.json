@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1851831603301093457",
+    "created_at": "2024-11-14T07:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T08:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856960112084357431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821055353834131456",
+          "start": 0,
+          "username": "tianxiusi"
+        },
+        {
+          "end": 27,
+          "id": "1697936336228126721",
+          "start": 11,
+          "username": "charming_xiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856960112084357431",
+    "in_reply_to_user_id": "1821055353834131456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856957328706474188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiusi @charming_xiaoyu 🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1856957328706474188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1856957328706474188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1856957328706474188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1851831603301093457",
+        "created_at": "2024-11-14T07:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856960112084357431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821055353834131456",
+              "start": 0,
+              "username": "tianxiusi"
+            },
+            {
+              "end": 27,
+              "id": "1697936336228126721",
+              "start": 11,
+              "username": "charming_xiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856960112084357431",
+        "in_reply_to_user_id": "1821055353834131456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856957328706474188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiusi @charming_xiaoyu 🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 1902,
+          "like_count": 17644,
+          "listed_count": 5,
+          "tweet_count": 9989
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:26:52.000Z",
+        "description": "关注我的可以去找猫在雷领一头胖宝宝/本人尽力缓和各派关系/对巴勒斯坦问题持中立态度，左u哈u不要开我毛籍🇮🇱🇵🇸/中推劝戒第一人/真正支持@Lmao_Zh @gsjzyyy/差点养死的小宠物@Pomb0ring @meirfanzi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "Lmao_Zh"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "gsjzyyy"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "meirfanzi"
+              }
+            ]
+          }
+        },
+        "id": "1821055353834131456",
+        "location": "利伯塔利亚中央委员会小岗村村委",
+        "name": "猫在雷委员长",
+        "pinned_tweet_id": "1856909536545607858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856101918684205056/3FklLIJU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1706,
+          "like_count": 13880,
+          "listed_count": 3,
+          "tweet_count": 10867
+        },
+        "username": "tianxiusi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "永远怀念🕯@luxuanwen3                                                               06郭楠｜摆烂大学生｜友跨🏳️‍⚧️｜I人｜学习画画和日语中..｜欢迎互fo(未回可能取)｜小号@xiaoyu0114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "luxuanwen3"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "xiaoyu0114514"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "理塘国",
+        "name": "迷人的小语poi",
+        "pinned_tweet_id": "1838399541936296116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850737921856540673/ZPCNcCy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 800,
+          "like_count": 27920,
+          "listed_count": 1,
+          "tweet_count": 2103
+        },
+        "username": "charming_xiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2044583805365702805",
+    "created_at": "2026-04-16T08:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044698735993831546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 43,
+          "expanded_url": "https://x.com/Rococo90933671/status/2044628234281861569?s=20",
+          "start": 20,
+          "url": "https://t.co/5jHVhqwviz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044698735993831546",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044628234281861569",
+        "type": "quoted"
+      },
+      {
+        "id": "2044665399955145075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 我也有（）\n\nhttps://t.co/5jHVhqwviz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2351,
+        "media_key": "3_2044628221141098496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_6iMLaoAABjvf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2044583805365702805",
+        "created_at": "2026-04-16T08:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044698735993831546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 43,
+              "expanded_url": "https://x.com/Rococo90933671/status/2044628234281861569?s=20",
+              "start": 20,
+              "url": "https://t.co/5jHVhqwviz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044698735993831546",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044628234281861569",
+            "type": "quoted"
+          },
+          {
+            "id": "2044665399955145075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 我也有（）\n\nhttps://t.co/5jHVhqwviz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044628221141098496"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2044622729371107395",
+        "created_at": "2026-04-16T04:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044628234281861569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bY0oCxZCw",
+              "end": 41,
+              "expanded_url": "https://x.com/Rococo90933671/status/2044628234281861569/photo/1",
+              "media_key": "3_2044628221141098496",
+              "start": 18,
+              "url": "https://t.co/1bY0oCxZCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044628234281861569",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044622729371107395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 早安 https://t.co/1bY0oCxZCw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599987342630002694",
+        "conversation_id": "2044583805365702805",
+        "created_at": "2026-04-16T06:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044665399955145075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044665399955145075",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044583805365702805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 睡眠异常我恨你😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10004,
+          "following_count": 2895,
+          "like_count": 35166,
+          "listed_count": 30,
+          "media_count": 3678,
+          "tweet_count": 20501
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 282,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      }
+    ]
+  }
+}

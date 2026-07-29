@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1857948108795293931",
+    "created_at": "2024-11-17T01:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T02:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857961021794627881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072388864487055360",
+          "start": 0,
+          "username": "ComeAndGo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857961021794627881",
+    "in_reply_to_user_id": "1072388864487055360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857948108795293931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ComeAndGo8964 看起来发出来了但是只有自己能看见，在QQ发习近平之类的图片的时候也会这样，传统艺能了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1857948108795293931",
+        "created_at": "2024-11-17T01:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T02:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857961021794627881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072388864487055360",
+              "start": 0,
+              "username": "ComeAndGo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857961021794627881",
+        "in_reply_to_user_id": "1072388864487055360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857948108795293931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ComeAndGo8964 看起来发出来了但是只有自己能看见，在QQ发习近平之类的图片的时候也会这样，传统艺能了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072388864487055360",
+        "conversation_id": "1857948108795293931",
+        "created_at": "2024-11-17T00:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T01:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857948108795293931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857948108795293931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1050,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "徐加金，3个字的文字，图片，视频已经全面屏弊了\n就算发布出来，也仅自已可见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 1938,
+          "like_count": 18195,
+          "listed_count": 5,
+          "tweet_count": 10207
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T07:13:24.000Z",
+        "description": "移动互联网分析师/不拉黑任何人/牛排吃9成熟/囤积强迫症/电影/大聪明/网络安全质检员/爆脾气/不对任何政治人物产生信仰/黑暗游侠/大叔/无权解封账号/能打胜仗/作风优良/私信功能已关闭/大外宣/收放自如/为新浪指明方向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com",
+                "end": 23,
+                "expanded_url": "http://weibo.com",
+                "start": 0,
+                "url": "https://t.co/kf3B4CLCI5"
+              }
+            ]
+          }
+        },
+        "id": "1072388864487055360",
+        "name": "来去之间🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360790745108647939/z9NmJbGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44680,
+          "following_count": 9645,
+          "like_count": 15622,
+          "listed_count": 196,
+          "tweet_count": 20281
+        },
+        "url": "https://t.co/kf3B4CLCI5",
+        "username": "ComeAndGo8964",
+        "verified": false
+      }
+    ]
+  }
+}

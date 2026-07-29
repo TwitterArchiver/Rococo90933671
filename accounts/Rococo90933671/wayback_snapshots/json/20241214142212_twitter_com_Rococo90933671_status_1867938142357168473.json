@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1867937252648927414",
+    "created_at": "2024-12-14T14:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T15:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867938142357168473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643988475266629635",
+          "start": 0,
+          "username": "SundayoftheROC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867938142357168473",
+    "in_reply_to_user_id": "1643988475266629635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867937252648927414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SundayoftheROC 想吃广东菜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1867937252648927414",
+        "created_at": "2024-12-14T14:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867938142357168473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643988475266629635",
+              "start": 0,
+              "username": "SundayoftheROC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867938142357168473",
+        "in_reply_to_user_id": "1643988475266629635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867937252648927414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SundayoftheROC 想吃广东菜了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867937250044149760"
+          ]
+        },
+        "author_id": "1643988475266629635",
+        "conversation_id": "1867937252648927414",
+        "created_at": "2024-12-14T14:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867937252648927414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl0oaYbZd8",
+              "end": 36,
+              "expanded_url": "https://x.com/SundayoftheROC/status/1867937252648927414/photo/1",
+              "media_key": "3_1867937250044149760",
+              "start": 13,
+              "url": "https://t.co/tl0oaYbZd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867937252648927414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子們這個新id怎麼樣🤓 https://t.co/tl0oaYbZd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 1955,
+          "like_count": 19266,
+          "listed_count": 5,
+          "media_count": 1348,
+          "tweet_count": 10773
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T14:46:25.000Z",
+        "description": "中華民國大陸淪陷區普通高中牲｜繁體中文Ch🇹🇼，En🇺🇸｜淡藍🇹🇼，東亞文明圈愛好者🇹🇼🇯🇵🇰🇷🇻🇳｜新自由主義｜ 星鐵:花火，知更鳥，星期日三廚，ACGN文化愛好者｜淡政ing｜Make Penacony great again!",
+        "id": "1643988475266629635",
+        "location": "銀河",
+        "name": "金正星期日🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1862430992285475139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860532206655217664/GJwRzEgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 724,
+          "like_count": 13254,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 2480
+        },
+        "username": "SundayoftheROC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1938809586280235333",
+    "created_at": "2025-06-28T09:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938890112454041636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702925354132992000",
+          "start": 0,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938890112454041636",
+    "in_reply_to_user_id": "1702925354132992000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938809586280235333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remilia_servant 想起十多年前在百度贴吧刷到初音粉和镜音粉的对线，真的很想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_1937113386287845376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuICXI9XUAATMSF.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1938809586280235333",
+        "created_at": "2025-06-28T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938890112454041636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938890112454041636",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938809586280235333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 想起十多年前在百度贴吧刷到初音粉和镜音粉的对线，真的很想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937113386287845376"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938809586280235333",
+        "created_at": "2025-06-28T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938809586280235333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVy9oXaZSl",
+              "end": 23,
+              "expanded_url": "https://x.com/remilia_servant/status/1938809586280235333/photo/1",
+              "media_key": "3_1937113386287845376",
+              "start": 0,
+              "url": "https://t.co/YVy9oXaZSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938809586280235333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9583,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YVy9oXaZSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4919,
+          "following_count": 2158,
+          "like_count": 25180,
+          "listed_count": 9,
+          "media_count": 2264,
+          "tweet_count": 14605
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "母語英語/香港語 | 2025DSE • 過期男子高中生 | 現在暑期工做侍應非常折磨😭 | 左翼香港本土主義⬜🟦 | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "New Hong Kong Republic ",
+        "name": "⬜蕾米米🟦",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15001,
+          "following_count": 1530,
+          "like_count": 96671,
+          "listed_count": 60,
+          "media_count": 338,
+          "tweet_count": 2114
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

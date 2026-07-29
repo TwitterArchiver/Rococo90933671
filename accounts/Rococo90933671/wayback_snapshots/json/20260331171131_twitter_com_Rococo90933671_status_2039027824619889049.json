@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2038791590454628478",
+    "created_at": "2026-03-31T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039027824619889049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2508919105",
+          "start": 0,
+          "username": "ncysea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039027824619889049",
+    "in_reply_to_user_id": "2508919105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039013376492282072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ncysea 太搞了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2038791590454628478",
+        "created_at": "2026-03-31T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039027824619889049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2508919105",
+              "start": 0,
+              "username": "ncysea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039027824619889049",
+        "in_reply_to_user_id": "2508919105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039013376492282072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ncysea 太搞了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2508919105",
+        "conversation_id": "2038791590454628478",
+        "created_at": "2026-03-31T16:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039013376492282072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039013376492282072",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038791590454628478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 Translated from Slovenian 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9909,
+          "following_count": 2805,
+          "like_count": 33276,
+          "listed_count": 28,
+          "media_count": 3505,
+          "tweet_count": 19566
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011658810264551424/jsDktjC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1974,
+          "like_count": 49605,
+          "listed_count": 11,
+          "media_count": 4209,
+          "tweet_count": 36943
+        },
+        "username": "ncysea",
+        "verified": false
+      }
+    ]
+  }
+}

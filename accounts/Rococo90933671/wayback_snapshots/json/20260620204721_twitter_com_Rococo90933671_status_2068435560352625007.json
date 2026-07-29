@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2068429906799890621",
+    "created_at": "2026-06-20T20:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T21:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068435560352625007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20174…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/status/2017473006034161872",
+          "start": 4,
+          "url": "https://t.co/jjAOMqsGl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068435560352625007",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017473006034161872",
+        "type": "quoted"
+      },
+      {
+        "id": "2068429906799890621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考：\nhttps://t.co/jjAOMqsGl3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2068429906799890621",
+        "created_at": "2026-06-20T20:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068435560352625007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20174…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/status/2017473006034161872",
+              "start": 4,
+              "url": "https://t.co/jjAOMqsGl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068435560352625007",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017473006034161872",
+            "type": "quoted"
+          },
+          {
+            "id": "2068429906799890621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考：\nhttps://t.co/jjAOMqsGl3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869947450196471808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          }
+        ],
+        "conversation_id": "2017466657933873427",
+        "created_at": "2026-01-31T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017473006034161872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2425571623",
+              "start": 0,
+              "username": "Keir_Starmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017473006034161872",
+        "in_reply_to_user_id": "2425571623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15344,
+          "like_count": 543,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017466657933873427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keir_Starmer 看了评论，觉得英国这个国家真是完蛋了。全是喷子，基本没有任何有意义的思考与讨论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2068429906799890621",
+        "created_at": "2026-06-20T20:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068429906799890621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiaweiShen2568…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/JiaweiShen2568/status/2068372569762546125",
+              "start": 66,
+              "url": "https://t.co/LQyCPX9QJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068429906799890621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068372569762546125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这段话很容易招骂，因为很明显，大家都在简中区，看到的很多也是低质也低智的话\n但这又确实是因为大家没怎么见识过外语区，真的全靠衬托😂 https://t.co/LQyCPX9QJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12945,
+          "following_count": 3131,
+          "like_count": 41150,
+          "listed_count": 41,
+          "media_count": 4410,
+          "tweet_count": 22861
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T03:26:46.000Z",
+        "description": "Math explorer. Robotics L-2 execution runtime control Researcher. Agent developer.",
+        "id": "1869947450196471808",
+        "location": "Beijing",
+        "name": "Xinlei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055446294274232320/xQoO7sRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 318,
+          "like_count": 438,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 743
+        },
+        "url": "",
+        "username": "XinleiWang220",
+        "verified": true
+      }
+    ]
+  }
+}

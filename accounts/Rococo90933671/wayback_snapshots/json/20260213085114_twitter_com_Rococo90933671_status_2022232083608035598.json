@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022197213771051011"
+      ],
+      "media_source_tweet_id": [
+        "2022197218690888125"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2022232083608035598",
+    "created_at": "2026-02-13T08:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022232083608035598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758451083301814272",
+          "start": 3,
+          "username": "kunoe_kou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/asKpyjcmYG",
+          "end": 38,
+          "expanded_url": "https://x.com/kunoe_kou/status/2022197218690888125/photo/1",
+          "media_key": "3_2022197213771051011",
+          "start": 15,
+          "url": "https://t.co/asKpyjcmYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022232083608035598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022197218690888125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kunoe_kou: https://t.co/asKpyjcmYG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022232083608035598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022232083608035598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022232083608035598"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2022197213771051011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBJpuCbsAMksNK.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022197213771051011"
+          ]
+        },
+        "author_id": "1758451083301814272",
+        "conversation_id": "2022197218690888125",
+        "created_at": "2026-02-13T06:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022197218690888125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asKpyjcmYG",
+              "end": 23,
+              "expanded_url": "https://x.com/kunoe_kou/status/2022197218690888125/photo/1",
+              "media_key": "3_2022197213771051011",
+              "start": 0,
+              "url": "https://t.co/asKpyjcmYG"
+            },
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2021953184244347308",
+              "start": 24,
+              "url": "https://t.co/NVa15Wvgos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022197218690888125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021953184244347308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/asKpyjcmYG https://t.co/NVa15Wvgos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7480,
+          "following_count": 2228,
+          "like_count": 29870,
+          "listed_count": 24,
+          "media_count": 3159,
+          "tweet_count": 17939
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:19:57.000Z",
+        "description": "くのえこうです。魅力的な作品を、描けるように頑張っていきます┊🇹🇼┊FANBOX →https://t.co/0sVlvplAOT お題箱→https://t.co/5govxL4MYt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kunoekou.fanbox.cc",
+                "end": 65,
+                "expanded_url": "https://kunoekou.fanbox.cc/",
+                "start": 42,
+                "url": "https://t.co/0sVlvplAOT"
+              },
+              {
+                "display_url": "odaibako.net/u/kunoekou1",
+                "end": 93,
+                "expanded_url": "https://odaibako.net/u/kunoekou1",
+                "start": 70,
+                "url": "https://t.co/5govxL4MYt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/104804978",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/104804978",
+                "start": 0,
+                "url": "https://t.co/SQ3o7gHOWh"
+              }
+            ]
+          }
+        },
+        "id": "1758451083301814272",
+        "location": "Taiwan Province, China ",
+        "name": "薫衣香",
+        "pinned_tweet_id": "2017167502934175747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953761194743148547/SxYhVgVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6153,
+          "following_count": 1833,
+          "like_count": 57933,
+          "listed_count": 33,
+          "media_count": 687,
+          "tweet_count": 8023
+        },
+        "url": "https://t.co/SQ3o7gHOWh",
+        "username": "kunoe_kou",
+        "verified": false
+      }
+    ]
+  }
+}

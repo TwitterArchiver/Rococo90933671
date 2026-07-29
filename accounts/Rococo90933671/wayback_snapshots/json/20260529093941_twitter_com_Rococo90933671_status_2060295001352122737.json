@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060294984100954112"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2059995315265286269",
+    "created_at": "2026-05-29T09:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060295001352122737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKVZMjYyvu",
+          "end": 38,
+          "expanded_url": "https://x.com/Rococo90933671/status/2060295001352122737/photo/1",
+          "media_key": "3_2060294984100954112",
+          "start": 15,
+          "url": "https://t.co/NKVZMjYyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060295001352122737",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059995315265286269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 我已气哭 https://t.co/NKVZMjYyvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_2060294984100954112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJejX0PbQAAdmzJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059995308353060864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaS0ZFbAAAV6GK.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060294984100954112"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2059995315265286269",
+        "created_at": "2026-05-29T09:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060295001352122737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKVZMjYyvu",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2060295001352122737/photo/1",
+              "media_key": "3_2060294984100954112",
+              "start": 15,
+              "url": "https://t.co/NKVZMjYyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060295001352122737",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059995315265286269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 我已气哭 https://t.co/NKVZMjYyvu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059995308353060864"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2059995315265286269",
+        "created_at": "2026-05-28T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995315265286269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wR9i7RHVmy",
+              "end": 34,
+              "expanded_url": "https://x.com/quasarne/status/2059995315265286269/photo/1",
+              "media_key": "3_2059995308353060864",
+              "start": 11,
+              "url": "https://t.co/wR9i7RHVmy"
+            },
+            {
+              "display_url": "x.com/starlight4you_…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/starlight4you_/status/2059965491628965915",
+              "start": 35,
+              "url": "https://t.co/fqB2TBbTP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059995315265286269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 841,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059965491628965915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋这么简单让我用上了 https://t.co/wR9i7RHVmy https://t.co/fqB2TBbTP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12243,
+          "following_count": 3073,
+          "like_count": 39343,
+          "listed_count": 42,
+          "media_count": 4125,
+          "tweet_count": 22004
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla 數碼/科幻/政治/策略.音游萌新 Wikier ｜🚩◼️自由·平等🌹｜🏳️‍🌈pan/gay🏳️‍⚧️还没想性转｜ 🌐漢語 吴、普/English OK/好语言学/打卡Deutsch中｜猫！@kyrinxo｜Alt @junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "kyrinxo"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "junenkim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056612504411996160/2cHArgPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1084,
+          "like_count": 80323,
+          "listed_count": 6,
+          "media_count": 1251,
+          "tweet_count": 15952
+        },
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

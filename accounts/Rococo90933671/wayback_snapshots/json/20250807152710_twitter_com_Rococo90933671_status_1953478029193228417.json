@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1953467424399114505",
+    "created_at": "2025-08-07T15:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T16:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953478029193228417"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815097256112201728",
+          "start": 0,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953478029193228417",
+    "in_reply_to_user_id": "1815097256112201728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953467424399114505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora06222206 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_1953467413439324161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwcQzpaIAEvr5A.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1953467413816811520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwcQ1DaIAAh9K3.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1953467424399114505",
+        "created_at": "2025-08-07T15:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953478029193228417"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815097256112201728",
+              "start": 0,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953478029193228417",
+        "in_reply_to_user_id": "1815097256112201728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953467424399114505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora06222206 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953467413439324161",
+            "3_1953467413816811520"
+          ]
+        },
+        "author_id": "1815097256112201728",
+        "conversation_id": "1953467424399114505",
+        "created_at": "2025-08-07T14:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953467424399114505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1qJbpvjASI",
+              "end": 34,
+              "expanded_url": "https://x.com/Sora06222206/status/1953467424399114505/photo/1",
+              "media_key": "3_1953467413439324161",
+              "start": 11,
+              "url": "https://t.co/1qJbpvjASI"
+            },
+            {
+              "display_url": "pic.x.com/1qJbpvjASI",
+              "end": 34,
+              "expanded_url": "https://x.com/Sora06222206/status/1953467424399114505/photo/1",
+              "media_key": "3_1953467413816811520",
+              "start": 11,
+              "url": "https://t.co/1qJbpvjASI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953467424399114505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喝醉了大概就这b样 https://t.co/1qJbpvjASI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5338,
+          "following_count": 2183,
+          "like_count": 26496,
+          "listed_count": 11,
+          "media_count": 2456,
+          "tweet_count": 15325
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "一般路过二次元/\n心智小学生水准的大学生😗/\n煞笔萝莉控/\n友跨顺男绝不翻车（？）/\n查成分回fo/168/104\n在这里大概发一些不想现实认识的人看到的生活碎碎念/Sensei/铁血梓厨/FPS玩家\n逃生舱 @Sora15225",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Sora15225"
+              }
+            ]
+          }
+        },
+        "id": "1815097256112201728",
+        "location": "广州",
+        "name": "是悠空喵",
+        "pinned_tweet_id": "1943624824980484554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907706746266857473/DMO0DG0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 608,
+          "like_count": 12973,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2547
+        },
+        "username": "Sora06222206",
+        "verified": false
+      }
+    ]
+  }
+}

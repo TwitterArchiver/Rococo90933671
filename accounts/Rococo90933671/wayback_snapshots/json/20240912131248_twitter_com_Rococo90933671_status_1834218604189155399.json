@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828362136298602618",
+    "created_at": "2024-09-12T13:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T14:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834218604189155399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827614717969608704",
+          "start": 0,
+          "username": "OvO_tutu_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834218604189155399",
+    "in_reply_to_user_id": "1827614717969608704",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828362136298602618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_tutu_OvO 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828362136298602618",
+        "created_at": "2024-09-12T13:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834218604189155399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827614717969608704",
+              "start": 0,
+              "username": "OvO_tutu_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834218604189155399",
+        "in_reply_to_user_id": "1827614717969608704",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828362136298602618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_tutu_OvO 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828362123413782528"
+          ]
+        },
+        "author_id": "1827614717969608704",
+        "conversation_id": "1828362136298602618",
+        "created_at": "2024-08-27T09:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T10:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828362136298602618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yu855j6dff",
+              "end": 36,
+              "expanded_url": "https://twitter.com/OvO_tutu_OvO/status/1828362136298602618/photo/1",
+              "media_key": "3_1828362123413782528",
+              "start": 13,
+              "url": "https://t.co/Yu855J6dfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828362136298602618",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10473,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今晚给你足一下，怎么样？ https://t.co/Yu855J6dfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 1783,
+          "like_count": 16301,
+          "listed_count": 2,
+          "tweet_count": 8604
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T07:51:28.000Z",
+        "description": "🍥身高165cm/体重45kg｜含糖mtf🏳️‍⚧️｜是个可爱的软妹子|欢迎大家来找我聊天约会，帖子下面的回复看到都会回哦，嘿嘿｜好友位🚪30软妹币｜😉",
+        "id": "1827614717969608704",
+        "location": "距你520m",
+        "name": "大白兔奶糖🍥",
+        "pinned_tweet_id": "1834202909527220579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834093268419969024/9lPkzWhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 34,
+          "like_count": 67,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "OvO_tutu_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

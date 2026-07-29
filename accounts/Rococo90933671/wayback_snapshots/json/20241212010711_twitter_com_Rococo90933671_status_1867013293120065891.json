@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1833444568047751589",
+    "created_at": "2024-12-12T01:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T02:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867013293120065891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "JR_YamanoteE235"
+        },
+        {
+          "end": 31,
+          "id": "1678773839403319302",
+          "start": 17,
+          "username": "shenchun14496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867013293120065891",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838215832717115677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR_YamanoteE235 @shenchun14496 😢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838215832717115677].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838215832717115677",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838215832717115677"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1833444568047751589",
+        "created_at": "2024-12-12T01:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T02:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867013293120065891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "JR_YamanoteE235"
+            },
+            {
+              "end": 31,
+              "id": "1678773839403319302",
+              "start": 17,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867013293120065891",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838215832717115677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR_YamanoteE235 @shenchun14496 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 1950,
+          "like_count": 19086,
+          "listed_count": 5,
+          "media_count": 1333,
+          "tweet_count": 10712
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "牡丹は散っても花だ 夏が去っても追慕は切だ",
+        "id": "1688233455363219456",
+        "name": "JR東日本E235系電車 山手線",
+        "pinned_tweet_id": "1850524863343288383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849373688258576384/cmk7PSGT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1065,
+          "like_count": 130456,
+          "listed_count": 7,
+          "media_count": 2543,
+          "tweet_count": 24669
+        },
+        "username": "JR_YamanoteE235",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:30:59.000Z",
+        "description": "我反复思考我对未来没有规划的原因 可能是因为在我原来的计划里 我现在应该已经死掉了",
+        "id": "1678773839403319302",
+        "location": "白兔药瓶里",
+        "name": "浦岛隧道「在里头待3秒，外面世界即过了2小时」⛩️虽然我不会起名字，但我会整个老长名字给你抄🌟🌟",
+        "pinned_tweet_id": "1796167812404150397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819312319316611073/wzc6I5Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 150,
+          "like_count": 23302,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 8506
+        },
+        "username": "shenchun14496",
+        "verified": false
+      }
+    ]
+  }
+}

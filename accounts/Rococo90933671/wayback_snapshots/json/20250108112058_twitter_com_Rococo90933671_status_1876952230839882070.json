@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1876932587278458980",
+    "created_at": "2025-01-08T11:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T12:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876952230839882070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "charming_xiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876952230839882070",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876932587278458980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charming_xiaoyu 要是我舍友这样我每天晚上都睡不着觉了🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1876932587278458980",
+        "created_at": "2025-01-08T11:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T12:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876952230839882070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "charming_xiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876952230839882070",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876932587278458980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_xiaoyu 要是我舍友这样我每天晚上都睡不着觉了🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876932584388931584"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "conversation_id": "1876932587278458980",
+        "created_at": "2025-01-08T10:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876932587278458980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StWgLkYv54",
+              "end": 28,
+              "expanded_url": "https://x.com/charming_xiaoyu/status/1876932587278458980/photo/1",
+              "media_key": "3_1876932584388931584",
+              "start": 5,
+              "url": "https://t.co/StWgLkYv54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876932587278458980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼓包了( https://t.co/StWgLkYv54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3761,
+          "following_count": 2003,
+          "like_count": 20803,
+          "listed_count": 5,
+          "media_count": 1503,
+          "tweet_count": 11617
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "06男｜立志成为(最菜的)游戏博主｜LOL和FPS游戏｜友跨🏳️‍⚧️｜不涉政🚫｜易红温｜大一在读｜欢迎互fo｜逃生舱 @Charming_xy04｜置顶P1个人简介，P2是本人小群，P3P4是自设()｜很抱歉由于字数限制无法打出所有亲友的名字，实在对不起😿｜自用VPN↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Charming_xy04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "596991296.com/NDMDJC6",
+                "end": 23,
+                "expanded_url": "https://www.596991296.com/NDMDJC6",
+                "start": 0,
+                "url": "https://t.co/d7sKrXduGA"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "理塘国",
+        "name": "迷人的小语poi",
+        "pinned_tweet_id": "1864023858681966656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873076607310807041/JkkgzijA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 898,
+          "like_count": 36336,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/d7sKrXduGA",
+        "username": "charming_xiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

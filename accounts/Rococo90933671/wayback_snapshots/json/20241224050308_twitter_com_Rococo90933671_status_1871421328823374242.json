@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871178330508230657"
+      ],
+      "media_source_tweet_id": [
+        "1871178332823572867"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1871421328823374242",
+    "created_at": "2024-12-24T05:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T06:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871421328823374242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1278831792540139523",
+          "start": 3,
+          "username": "miike_hrk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdx6q1djPh",
+          "end": 60,
+          "expanded_url": "https://x.com/miike_hrk/status/1871178332823572867/photo/1",
+          "media_key": "3_1871178330508230657",
+          "start": 37,
+          "url": "https://t.co/gdx6q1djPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871421328823374242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871178332823572867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miike_hrk: 648甚至不保证出一个当期up\n原神太毒了 https://t.co/gdx6q1djPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_1871178330508230657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GffCxxVaAAEbD0N.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871178330508230657"
+          ],
+          "media_source_tweet_id": [
+            "1871178332823572867"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1871421328823374242",
+        "created_at": "2024-12-24T05:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T06:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871421328823374242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1278831792540139523",
+              "start": 3,
+              "username": "miike_hrk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdx6q1djPh",
+              "end": 60,
+              "expanded_url": "https://x.com/miike_hrk/status/1871178332823572867/photo/1",
+              "media_key": "3_1871178330508230657",
+              "start": 37,
+              "url": "https://t.co/gdx6q1djPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871421328823374242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871178332823572867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miike_hrk: 648甚至不保证出一个当期up\n原神太毒了 https://t.co/gdx6q1djPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871178330508230657"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1871178332823572867",
+        "created_at": "2024-12-23T12:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871178332823572867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdx6q1djPh",
+              "end": 45,
+              "expanded_url": "https://x.com/miike_hrk/status/1871178332823572867/photo/1",
+              "media_key": "3_1871178330508230657",
+              "start": 22,
+              "url": "https://t.co/gdx6q1djPh"
+            },
+            {
+              "display_url": "x.com/PaladinMisaki/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/PaladinMisaki/status/1871065759839138257",
+              "start": 46,
+              "url": "https://t.co/4SLavQk7Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871178332823572867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871065759839138257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "648甚至不保证出一个当期up\n原神太毒了 https://t.co/gdx6q1djPh https://t.co/4SLavQk7Ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3057,
+          "following_count": 1977,
+          "like_count": 19979,
+          "listed_count": 5,
+          "media_count": 1417,
+          "tweet_count": 11111
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "Tourette syndrome; Deus, Pátria e Família, Kopimist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkG0FP"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Missionary Church of Kopimism",
+        "name": "❀三池はるか❀",
+        "pinned_tweet_id": "1298312196326174720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805971179242663936/WiHTu4T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 494,
+          "like_count": 23470,
+          "listed_count": 8,
+          "media_count": 5560,
+          "tweet_count": 29725
+        },
+        "url": "https://t.co/11RmQkG0FP",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

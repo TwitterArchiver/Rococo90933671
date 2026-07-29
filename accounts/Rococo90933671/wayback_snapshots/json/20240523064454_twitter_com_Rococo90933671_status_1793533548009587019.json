@@ -1,0 +1,321 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "1793275186684244373",
+    "created_at": "2024-05-23T06:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T07:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793533548009587019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711022092291067904",
+          "start": 0,
+          "username": "so30653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793533548009587019",
+    "in_reply_to_user_id": "1711022092291067904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793275186684244373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@so30653 政治和宗教等各种文化一样，都是人特有的外在的思想认同。这些认同中的每一个外在的概念都会成为脑海中的噪音，让我们忽略掉自己作为人的本然，与其他人的本然，与宇宙万物合一的本然。这也是为什么我们无法停止强迫性思考，从而拥有无穷无尽烦恼的一大原因。所以，让我们与万物合一，重获宁静吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1793275186684244373",
+        "created_at": "2024-05-23T06:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T07:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793533548009587019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711022092291067904",
+              "start": 0,
+              "username": "so30653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793533548009587019",
+        "in_reply_to_user_id": "1711022092291067904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793275186684244373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@so30653 政治和宗教等各种文化一样，都是人特有的外在的思想认同。这些认同中的每一个外在的概念都会成为脑海中的噪音，让我们忽略掉自己作为人的本然，与其他人的本然，与宇宙万物合一的本然。这也是为什么我们无法停止强迫性思考，从而拥有无穷无尽烦恼的一大原因。所以，让我们与万物合一，重获宁静吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1711022092291067904",
+        "conversation_id": "1793275186684244373",
+        "created_at": "2024-05-22T13:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T14:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793275186684244373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793275186684244373",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2487,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这几天在台湾的体验让我想明白蛮多事，可能之后一段时间不会太多参与键政了，我发觉键政正在败坏我的德行，让我忽略了很多现实生活中美好的人和事，辩论太累了，友善的人太少了，我受够了权衡政治利益讨好他人，在来台湾前很长时间内我都失去了感知现实生活美好的能力，今后我会试着像这几天一样爱生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 615,
+          "like_count": 2421,
+          "listed_count": 0,
+          "tweet_count": 2350
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T14:13:59.000Z",
+        "description": "Motto：With malice towards none,with charity for all, with firmness in the right 独立时评人，来自中国大陆的温和右翼自由派，新保守主义者，政治学研究者，中推政党@NRF2024513现任主席",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "NRF2024513"
+              }
+            ]
+          }
+        },
+        "id": "1711022092291067904",
+        "name": "Humphrey",
+        "pinned_tweet_id": "1787053635484192839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767208767366758400/KMNhhC0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 491,
+          "like_count": 4462,
+          "listed_count": 4,
+          "tweet_count": 2771
+        },
+        "username": "so30653",
+        "verified": false
+      }
+    ]
+  }
+}

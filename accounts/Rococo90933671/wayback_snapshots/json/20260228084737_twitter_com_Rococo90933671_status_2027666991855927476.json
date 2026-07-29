@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2027663626975515024",
+    "created_at": "2026-02-28T08:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027666991855927476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1334716968507621378",
+          "start": 0,
+          "username": "cC8xarMwcbV2Cpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027666991855927476",
+    "in_reply_to_user_id": "1334716968507621378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027663626975515024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cC8xarMwcbV2Cpa 后是李雪主（确信）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027663612027011073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO1T-bbAAEM2IB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2027663626975515024",
+        "created_at": "2026-02-28T08:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027666991855927476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1334716968507621378",
+              "start": 0,
+              "username": "cC8xarMwcbV2Cpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027666991855927476",
+        "in_reply_to_user_id": "1334716968507621378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027663626975515024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cC8xarMwcbV2Cpa 后是李雪主（确信）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027663612027011073"
+          ]
+        },
+        "author_id": "1334716968507621378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2027663626975515024",
+        "created_at": "2026-02-28T08:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027663626975515024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "Kim_Jong_un"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "北朝鲜"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "金正恩"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "手绘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YW2NyyNRh",
+              "end": 74,
+              "expanded_url": "https://x.com/cC8xarMwcbV2Cpa/status/2027663626975515024/photo/1",
+              "media_key": "3_2027663612027011073",
+              "start": 51,
+              "url": "https://t.co/0YW2NyyNRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027663626975515024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#Kim_Jong_un\n#北朝鲜\n#金正恩\n#手绘 \n我终于把这幅画画完了。再拖延下去都要三月份了 https://t.co/0YW2NyyNRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8444,
+          "following_count": 2265,
+          "like_count": 30366,
+          "listed_count": 23,
+          "media_count": 3236,
+          "tweet_count": 18250
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T04:31:51.000Z",
+        "description": "如果需要我回关请私信我‖03年大学生，跨性别男性（FTM）‖我喜欢金正恩元帅‖对北朝鲜立场绝对无条件支持‖在学习了解主体朝鲜相关‖关注我前确保能接受我的发言‖金日成同志和金正日同志永远和我们在一起‖在荣光里在幸福中，有尊严的活着吧，在他充满爱的领导下，看见更加辉煌的明天‖今天是想去平壤旅游的n+1天❤️🇰🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/35243120",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/35243120",
+                "start": 0,
+                "url": "https://t.co/czdRY08Bui"
+              }
+            ]
+          }
+        },
+        "id": "1334716968507621378",
+        "location": "朝鲜民主主义人民共和国",
+        "name": "楊忠航🇰🇵｜정은이♡Kim Jong UwU",
+        "pinned_tweet_id": "1991498726771421351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989959687937372160/BebiGqkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 597,
+          "like_count": 37366,
+          "listed_count": 1,
+          "media_count": 930,
+          "tweet_count": 7658
+        },
+        "url": "https://t.co/czdRY08Bui",
+        "username": "cC8xarMwcbV2Cpa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "author_id": "1303335410609790976",
+    "conversation_id": "1848331975524061372",
+    "created_at": "2024-10-21T14:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T15:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848374188211351682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761706660329037824",
+          "start": 0,
+          "username": "MIKUloverrrrr"
+        },
+        {
+          "end": 28,
+          "id": "1027864253514932226",
+          "start": 15,
+          "username": "emilia_yuni_"
+        },
+        {
+          "end": 41,
+          "id": "1713013072632410112",
+          "start": 29,
+          "username": "IUSTITIA_SA"
+        }
+      ]
+    },
+    "id": "1848374188211351682",
+    "in_reply_to_user_id": "1761706660329037824",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 62,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848337722056073500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUloverrrrr @emilia_yuni_ @IUSTITIA_SA 🤓\nhttps://t.co/ArLFc3syqh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1303335410609790976",
+        "conversation_id": "1848331975524061372",
+        "created_at": "2024-10-21T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848374188211351682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761706660329037824",
+              "start": 0,
+              "username": "MIKUloverrrrr"
+            },
+            {
+              "end": 28,
+              "id": "1027864253514932226",
+              "start": 15,
+              "username": "emilia_yuni_"
+            },
+            {
+              "end": 41,
+              "id": "1713013072632410112",
+              "start": 29,
+              "username": "IUSTITIA_SA"
+            }
+          ]
+        },
+        "id": "1848374188211351682",
+        "in_reply_to_user_id": "1761706660329037824",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848326364690354655",
+            "type": "quoted"
+          },
+          {
+            "id": "1848337722056073500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUloverrrrr @emilia_yuni_ @IUSTITIA_SA 🤓\nhttps://t.co/ArLFc3syqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|从不主动b任何人|b只为记录谁先b了我|大家都是朋友|欢迎找中间人沟通互相解b❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 1968,
+          "like_count": 18529,
+          "listed_count": 5,
+          "tweet_count": 10382
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T10:28:29.000Z",
+        "description": "再会，善良的人。我祈愿你已在那清醒的世界中找到意义和安抚。让这个梦境，流淌的血液…预示的束缚…",
+        "id": "1027864253514932226",
+        "name": "路德维希",
+        "pinned_tweet_id": "1812534465694192000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838231712750530560/x_Sg1O-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 678,
+          "like_count": 10681,
+          "listed_count": 3,
+          "tweet_count": 2797
+        },
+        "username": "emilia_yuni_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2037893573031735332",
+    "created_at": "2026-03-28T14:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037897790811185515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934613003695181824",
+          "start": 0,
+          "username": "Bechir_Edd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Bechir_Edd/sta…",
+          "end": 45,
+          "expanded_url": "https://x.com/Bechir_Edd/status/2026372778346295502?s=20",
+          "start": 22,
+          "url": "https://t.co/ss1Gcy5vCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037897790811185515",
+    "in_reply_to_user_id": "1934613003695181824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026372778346295502",
+        "type": "quoted"
+      },
+      {
+        "id": "2037893573031735332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bechir_Edd 原来还真是原来的号\nhttps://t.co/ss1Gcy5vCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026372770825916416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8fTIOaUAAUHkv.jpg",
+        "width": 901
+      },
+      {
+        "height": 1849,
+        "media_key": "3_2037893559584768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgNZS0bQAAgo_i.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2037893573031735332",
+        "created_at": "2026-03-28T14:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037897790811185515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934613003695181824",
+              "start": 0,
+              "username": "Bechir_Edd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Bechir_Edd/sta…",
+              "end": 45,
+              "expanded_url": "https://x.com/Bechir_Edd/status/2026372778346295502?s=20",
+              "start": 22,
+              "url": "https://t.co/ss1Gcy5vCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037897790811185515",
+        "in_reply_to_user_id": "1934613003695181824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026372778346295502",
+            "type": "quoted"
+          },
+          {
+            "id": "2037893573031735332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bechir_Edd 原来还真是原来的号\nhttps://t.co/ss1Gcy5vCh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026372770825916416"
+          ]
+        },
+        "author_id": "1934613003695181824",
+        "conversation_id": "2026372778346295502",
+        "created_at": "2026-02-24T19:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026372778346295502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJ7GUxdldF",
+              "end": 34,
+              "expanded_url": "https://x.com/Bechir_Edd/status/2026372778346295502/photo/1",
+              "media_key": "3_2026372770825916416",
+              "start": 11,
+              "url": "https://t.co/aJ7GUxdldF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026372778346295502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典永流传の吴非大佐 https://t.co/aJ7GUxdldF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037893559584768000"
+          ]
+        },
+        "author_id": "1934613003695181824",
+        "conversation_id": "2037893573031735332",
+        "created_at": "2026-03-28T14:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037893573031735332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRKL66KVfi",
+              "end": 35,
+              "expanded_url": "https://x.com/Bechir_Edd/status/2037893573031735332/photo/1",
+              "media_key": "3_2037893559584768000",
+              "start": 12,
+              "url": "https://t.co/CRKL66KVfi"
+            },
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2037892636753990099",
+              "start": 36,
+              "url": "https://t.co/56cqun92wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037893573031735332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037892636753990099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住了 原帖竟然还在 https://t.co/CRKL66KVfi https://t.co/56cqun92wQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9848,
+          "following_count": 2778,
+          "like_count": 32848,
+          "listed_count": 27,
+          "media_count": 3475,
+          "tweet_count": 19382
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-16T14:04:49.000Z",
+        "description": "MLM| 歷史唯物論| 業餘符號觀察員\n\n有啲人困喺黑格爾式觀念辯證，講到離地；用概念代替現實分析，講到底只係「哲學cosplay」。\n我就簡單啲：睇現實、睇矛盾、睇鬥爭；有立場，唔上頭，唔對線。",
+        "id": "1934613003695181824",
+        "name": "Marginal__麥爵",
+        "pinned_tweet_id": "2029214860287082511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299836277526529/Bbx08DjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1012,
+          "like_count": 629,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 650
+        },
+        "username": "Bechir_Edd",
+        "verified": false
+      }
+    ]
+  }
+}

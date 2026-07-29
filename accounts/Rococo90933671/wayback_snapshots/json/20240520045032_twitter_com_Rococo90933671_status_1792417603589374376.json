@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792346023194689725",
+    "created_at": "2024-05-20T04:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T05:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792417603589374376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651062764134096897",
+          "start": 0,
+          "username": "weiraolewoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792417603589374376",
+    "in_reply_to_user_id": "1651062764134096897",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792346023194689725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiraolewoba i do"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792346023194689725",
+        "created_at": "2024-05-20T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792417603589374376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651062764134096897",
+              "start": 0,
+              "username": "weiraolewoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792417603589374376",
+        "in_reply_to_user_id": "1651062764134096897",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792346023194689725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiraolewoba i do"
+      },
+      {
+        "attachments": {},
+        "author_id": "1651062764134096897",
+        "conversation_id": "1792346023194689725",
+        "created_at": "2024-05-20T00:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T01:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792346023194689725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792346023194689725",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本没有喜欢我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 664,
+          "like_count": 2137,
+          "listed_count": 0,
+          "tweet_count": 2063
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T03:17:49.000Z",
+        "description": "你好！！我是小喂 求你和我互fo 我不喜欢MBTI 给我钱我什么都能做 我不是地雷女 不要追究我 有一个妹妹叫睡裤 没有了 (;｀O´)o",
+        "id": "1651062764134096897",
+        "location": "能给我钱吗？",
+        "name": "喂饶了我吧",
+        "pinned_tweet_id": "1789173970471977077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790346773262897152/rDT7bKX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 540,
+          "like_count": 314,
+          "listed_count": 0,
+          "tweet_count": 376
+        },
+        "username": "weiraolewoba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1959609422126387301",
+    "created_at": "2025-08-24T13:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959610851406794977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959610851406794977",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959609422126387301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 我看的是一个蓝色封面的版本。当时每天午睡时间不睡觉搁那看，学期刚开始没多久买来看，看完刚好就期末了，转眼过去九年了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1959609409090600960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHuYAdbwAACvqo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1959609422126387301",
+        "created_at": "2025-08-24T13:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959610851406794977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959610851406794977",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959609422126387301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 我看的是一个蓝色封面的版本。当时每天午睡时间不睡觉搁那看，学期刚开始没多久买来看，看完刚好就期末了，转眼过去九年了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959609409090600960"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959609422126387301",
+        "created_at": "2025-08-24T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959609422126387301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hMUPN6faD",
+              "end": 169,
+              "expanded_url": "https://x.com/miku_suki393939/status/1959609422126387301/photo/1",
+              "media_key": "3_1959609409090600960",
+              "start": 146,
+              "url": "https://t.co/6hMUPN6faD"
+            },
+            {
+              "display_url": "x.com/miku_suki39393…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1934600703722520669",
+              "start": 170,
+              "url": "https://t.co/Gk0vvF80s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959609422126387301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934600703722520669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快開學今天收拾的時候\n突然翻出來了她在我18歲的時候\n送我的生日禮物\n當時就把兩本書放在我的桌子上面\n還寫了一張紙條貼在書上面\n祝節操生日快樂\n好像當時就她在學校送了我生日禮物\n我還問她為什麼送我這本書\n她說她不知道送什麼問書店老闆\n送高中同學什麼書好老闆推薦的\n難繃的是我現在都還沒看😂😿 https://t.co/6hMUPN6faD https://t.co/Gk0vvF80s7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5366,
+          "following_count": 2193,
+          "like_count": 27158,
+          "listed_count": 13,
+          "media_count": 2561,
+          "tweet_count": 15744
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "日本潜伏中のオタク／ACG全振り勢🎨ライブ現場主食🍙コール命がけ🔥音ゲ廃人🎧アニメ・ボカロ・V箱に沼ってる全推し勢🌸ヲタ芸修行中💡宅舞もちょっと練習したい勢💃 山ざくら 霞の間より ほのかにも 見てし人こそ 恋しかりけれ",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋節扌喿⛩️🩵39C5BB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 1978,
+          "like_count": 160086,
+          "listed_count": 18,
+          "media_count": 3918,
+          "tweet_count": 66058
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      }
+    ]
+  }
+}

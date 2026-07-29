@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007299380794273792"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007299383457636677",
+    "created_at": "2026-01-03T03:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007299383457636677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWy6WwYp3f",
+          "end": 71,
+          "expanded_url": "https://x.com/Rococo90933671/status/2007299383457636677/photo/1",
+          "media_key": "3_2007299380794273792",
+          "start": 48,
+          "url": "https://t.co/TWy6WwYp3f"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1931500147713757611",
+          "start": 72,
+          "url": "https://t.co/Qehw2gf6ZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007299383457636677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931500147713757611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加了一个讽刺他的群，结果还被举报了。粉丝卧底这一块，团队这一块，病情控制住了还卖惨骗钱这一块😓 https://t.co/TWy6WwYp3f https://t.co/Qehw2gf6ZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_2007299380794273792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tcJtYasAApPYw.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931500143674576897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4RJatW0AEBJYv.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1367,
+        "media_key": "3_1931500131804717056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4RIufXIAAn2HE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007299380794273792"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007299383457636677",
+        "created_at": "2026-01-03T03:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007299383457636677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWy6WwYp3f",
+              "end": 71,
+              "expanded_url": "https://x.com/Rococo90933671/status/2007299383457636677/photo/1",
+              "media_key": "3_2007299380794273792",
+              "start": 48,
+              "url": "https://t.co/TWy6WwYp3f"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1931500147713757611",
+              "start": 72,
+              "url": "https://t.co/Qehw2gf6ZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007299383457636677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931500147713757611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加了一个讽刺他的群，结果还被举报了。粉丝卧底这一块，团队这一块，病情控制住了还卖惨骗钱这一块😓 https://t.co/TWy6WwYp3f https://t.co/Qehw2gf6ZA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931500143674576897",
+            "3_1931500131804717056"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1931500147713757611",
+        "created_at": "2025-06-07T23:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T00:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931500147713757611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9qKtCjDkG",
+              "end": 42,
+              "expanded_url": "https://x.com/Rococo90933671/status/1931500147713757611/photo/1",
+              "media_key": "3_1931500143674576897",
+              "start": 19,
+              "url": "https://t.co/F9qKtCjDkG"
+            },
+            {
+              "display_url": "pic.x.com/F9qKtCjDkG",
+              "end": 42,
+              "expanded_url": "https://x.com/Rococo90933671/status/1931500147713757611/photo/1",
+              "media_key": "3_1931500131804717056",
+              "start": 19,
+              "url": "https://t.co/F9qKtCjDkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931500147713757611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 164070,
+          "like_count": 729,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "老年抗癌博主的主页电话搜出来的微信🤓 https://t.co/F9qKtCjDkG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7474,
+          "following_count": 2205,
+          "like_count": 29734,
+          "listed_count": 18,
+          "media_count": 3032,
+          "tweet_count": 17450
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

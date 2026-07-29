@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1816176479153316051"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1816478861917618564",
+    "created_at": "2024-07-25T14:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T15:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816478861917618564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795137310935408640",
+          "start": 3,
+          "username": "saksamalah2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Vr3ZzHrtTZ",
+          "end": 40,
+          "expanded_url": "https://twitter.com/cqingxinxin2/status/1816176479153316051/photo/1",
+          "media_key": "3_1816176472832499712",
+          "start": 17,
+          "url": "https://t.co/Vr3ZzHrtTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816478861917618564",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816176479153316051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saksamalah2: https://t.co/Vr3ZzHrtTZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1816478861917618564].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1816478861917618564",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1816478861917618564"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816176472832499712"
+          ]
+        },
+        "author_id": "1795137310935408640",
+        "conversation_id": "1816176479153316051",
+        "created_at": "2024-07-24T18:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T19:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816176479153316051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Vr3ZzHrtTZ",
+              "end": 23,
+              "expanded_url": "https://twitter.com/cqingxinxin2/status/1816176479153316051/photo/1",
+              "media_key": "3_1816176472832499712",
+              "start": 0,
+              "url": "https://t.co/Vr3ZzHrtTZ"
+            },
+            {
+              "display_url": "x.com/saksamalah2/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/saksamalah2/status/1816176442377658534",
+              "start": 24,
+              "url": "https://t.co/4jnvIXdYGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816176479153316051",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4533,
+          "like_count": 62,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816176442377658534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vr3ZzHrtTZ https://t.co/4jnvIXdYGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1397,
+          "like_count": 12032,
+          "listed_count": 1,
+          "tweet_count": 6381
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "什么卡兹，我一直都是欣欣啊@saksamalah\n宝宝们：@ted121382\n@ave_mujika，星の梦，xs-li，逆天酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "saksamalah"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "ted121382"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "ave_mujika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa6oIO"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆",
+        "name": "新卡慈（复活赛打不赢了",
+        "pinned_tweet_id": "1816176479153316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816333638335926272/zelKU7_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 393,
+          "like_count": 3090,
+          "listed_count": 1,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/GwUECa6oIO",
+        "username": "saksamalah2",
+        "verified": false
+      }
+    ]
+  }
+}

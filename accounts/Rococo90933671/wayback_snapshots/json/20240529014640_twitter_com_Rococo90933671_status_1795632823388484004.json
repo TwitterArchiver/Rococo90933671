@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1795631295076438179",
+    "created_at": "2024-05-29T01:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T02:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795632823388484004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1236824782701645825",
+          "start": 0,
+          "username": "Rozejk_TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795632823388484004",
+    "in_reply_to_user_id": "1236824782701645825",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795631295076438179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rozejk_TW 呐喊，然后故事新编"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1795631295076438179",
+        "created_at": "2024-05-29T01:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T02:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795632823388484004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1236824782701645825",
+              "start": 0,
+              "username": "Rozejk_TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795632823388484004",
+        "in_reply_to_user_id": "1236824782701645825",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795631295076438179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rozejk_TW 呐喊，然后故事新编"
+      },
+      {
+        "attachments": {},
+        "author_id": "1236824782701645825",
+        "conversation_id": "1795631295076438179",
+        "created_at": "2024-05-29T01:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T02:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795631295076438179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795631295076438179",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "徬徨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 784,
+          "like_count": 3707,
+          "listed_count": 1,
+          "tweet_count": 2917
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T01:23:09.000Z",
+        "description": "18歲的台灣笨蛋女高中生 ＃遊戯王 #Minecraft",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "遊戯王"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Minecraft"
+              }
+            ]
+          }
+        },
+        "id": "1236824782701645825",
+        "location": "Taipei City, Taiwan",
+        "name": "ロゼ🇹🇼",
+        "pinned_tweet_id": "1699451420833980552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749808413771804673/I1V-RyN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9124,
+          "following_count": 857,
+          "like_count": 55500,
+          "listed_count": 38,
+          "tweet_count": 22398
+        },
+        "username": "Rozejk_TW",
+        "verified": false
+      }
+    ]
+  }
+}

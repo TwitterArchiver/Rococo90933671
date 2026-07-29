@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828462632099291256",
+    "created_at": "2024-08-28T14:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T15:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828797911226007746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825140324731424768",
+          "start": 0,
+          "username": "squirrelGUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828797911226007746",
+    "in_reply_to_user_id": "1825140324731424768",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828462632099291256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@squirrelGUW こちらも"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828462632099291256",
+        "created_at": "2024-08-28T14:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828797911226007746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825140324731424768",
+              "start": 0,
+              "username": "squirrelGUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828797911226007746",
+        "in_reply_to_user_id": "1825140324731424768",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828462632099291256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@squirrelGUW こちらも"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828462620611108864"
+          ]
+        },
+        "author_id": "1825140324731424768",
+        "conversation_id": "1828462632099291256",
+        "created_at": "2024-08-27T16:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T17:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828462632099291256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfj0csg4tt",
+              "end": 37,
+              "expanded_url": "https://twitter.com/squirrelGUW/status/1828462632099291256/photo/1",
+              "media_key": "3_1828462620611108864",
+              "start": 14,
+              "url": "https://t.co/TfJ0Csg4tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828462632099291256",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "やっと冷え込みました... https://t.co/TfJ0Csg4tt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1661,
+          "like_count": 14829,
+          "listed_count": 2,
+          "tweet_count": 7811
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T11:59:05.000Z",
+        "description": "私と友達になります!ありがとう\n請和我交朋友，謝謝你！",
+        "id": "1825140324731424768",
+        "location": "Hong Kong",
+        "name": "松鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828108763900837890/Nk9OSyIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 61,
+          "like_count": 63,
+          "listed_count": 0,
+          "tweet_count": 219
+        },
+        "username": "squirrelGUW",
+        "verified": false
+      }
+    ]
+  }
+}

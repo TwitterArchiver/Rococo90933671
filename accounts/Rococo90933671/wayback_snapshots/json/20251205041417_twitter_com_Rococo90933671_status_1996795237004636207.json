@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1996735690605056452",
+    "created_at": "2025-12-05T04:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T05:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996795237004636207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "853162972000038912",
+          "start": 0,
+          "username": "thisisMartin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996795237004636207",
+    "in_reply_to_user_id": "853162972000038912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996735690605056452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisisMartin 专业！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1996735690605056452",
+        "created_at": "2025-12-05T04:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T05:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996795237004636207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "853162972000038912",
+              "start": 0,
+              "username": "thisisMartin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996795237004636207",
+        "in_reply_to_user_id": "853162972000038912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996735690605056452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisisMartin 专业！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853162972000038912",
+        "conversation_id": "1996735690605056452",
+        "created_at": "2025-12-05T00:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T01:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996735690605056452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenseiyn99/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/tenseiyn99/status/1996421052260553017",
+              "start": 148,
+              "url": "https://t.co/QIMyyFtMGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996735690605056452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1167,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996421052260553017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(1/2)\n出现这个问题的原因是，部分语言的字符串长度计算是使用UTF-16编码长度来计算的。对于U+0000～U+FFFF的文字，每个字都是两字节，只需将字节数除以2即可得到字符串长度。可问题在于U+10000～U+10FFFF的字符串，这些文字在使用UTF-16编码时会被转换为一对代理对。 https://t.co/QIMyyFtMGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7248,
+          "following_count": 2213,
+          "like_count": 29247,
+          "listed_count": 18,
+          "media_count": 2924,
+          "tweet_count": 17045
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-15T08:27:58.000Z",
+        "description": "中国人-iOS工程师/iOSエンジニア🏳️‍🌈 マスターレベル：中国語標準語 勉強中：英語/日本語/朝鮮語/広東語 浙江省出身です。 「Korean」を「朝鮮語」と呼ぶか「韓国語」と呼ぶかはみんなの自由。",
+        "id": "853162972000038912",
+        "location": "IP 位置: 中国・北京市",
+        "name": "𝕄𝕒𝕣𝕥𝕚𝕟 ﾏｰﾃｨﾝ 마틴 مارتىن",
+        "pinned_tweet_id": "1906369762235666754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946860086732750849/IAOuGTLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 1500,
+          "like_count": 63060,
+          "listed_count": 4,
+          "media_count": 3008,
+          "tweet_count": 50292
+        },
+        "username": "thisisMartin",
+        "verified": false
+      }
+    ]
+  }
+}

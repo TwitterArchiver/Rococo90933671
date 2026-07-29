@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2070424414995542473",
+    "created_at": "2026-06-27T13:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070862572472164405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070862572472164405",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "是的，我觉得这种虚幻的拥有成了我自我认同的一部分。\n此外不仅仅是游戏，甚至在其他的平台或者地方，比如背单词软件，我也有一种每天必须签到的要求，断了一天就会很不舒服，到最后只能选择从最初就不要开始。\n我觉得这的确是心理问题，但又不是像什么抑郁焦虑那么严重的问题，也不是严格的强迫症，但就是困扰着我的生活"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070858383503290548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 是的，我觉得这种虚幻的拥有成了我自我认同的一部分。\n此外不仅仅是游戏，甚至在其他的平台或者地方，比如背单词软件，我也有一种每天必须签到的要求，断了一天就会很不舒服，到最后只能选择从最初就不要开始。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2070424414995542473",
+        "created_at": "2026-06-27T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070862572472164405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070862572472164405",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的，我觉得这种虚幻的拥有成了我自我认同的一部分。\n此外不仅仅是游戏，甚至在其他的平台或者地方，比如背单词软件，我也有一种每天必须签到的要求，断了一天就会很不舒服，到最后只能选择从最初就不要开始。\n我觉得这的确是心理问题，但又不是像什么抑郁焦虑那么严重的问题，也不是严格的强迫症，但就是困扰着我的生活"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070858383503290548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 是的，我觉得这种虚幻的拥有成了我自我认同的一部分。\n此外不仅仅是游戏，甚至在其他的平台或者地方，比如背单词软件，我也有一种每天必须签到的要求，断了一天就会很不舒服，到最后只能选择从最初就不要开始。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2070424414995542473",
+        "created_at": "2026-06-27T13:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070858383503290548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070858383503290548",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070424414995542473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 玩游戏，要想明白自己到底玩的是什么\n现代西方马克思主义学者更是提出了一种名为“玩工”的概念——你在玩游戏的时候，你很可能已经在被游戏玩\n\n你玩原神，到底是为了剧情，为了喜欢的角色，为了强度，还是只是为了某种意味不明的收集癖？\n喜欢一个角色，为什么就一定要抽到？氪金是否已经异化了你的初衷？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13063,
+          "following_count": 3156,
+          "like_count": 41903,
+          "listed_count": 40,
+          "media_count": 4493,
+          "tweet_count": 23222
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語を学ぶ丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 124,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 101,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2070854917313765833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 582,
+          "like_count": 21130,
+          "listed_count": 11,
+          "media_count": 461,
+          "tweet_count": 6649
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1889869741025862118",
+    "created_at": "2025-02-13T03:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T04:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889874709636063655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        },
+        {
+          "end": 28,
+          "id": "1373755792948531200",
+          "start": 13,
+          "username": "_ASimpleSmile_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889874709636063655",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889873911585841247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin @_ASimpleSmile_ 不会，因为我都是穿尿布的😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1889873911585841247].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1889873911585841247",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1889873911585841247"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1889869741025862118",
+        "created_at": "2025-02-13T03:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T04:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889874709636063655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            },
+            {
+              "end": 28,
+              "id": "1373755792948531200",
+              "start": 13,
+              "username": "_ASimpleSmile_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889874709636063655",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889873911585841247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin @_ASimpleSmile_ 不会，因为我都是穿尿布的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 2201,
+          "like_count": 23077,
+          "listed_count": 11,
+          "media_count": 1728,
+          "tweet_count": 12776
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "雏草姬丨isfp丨♂丨不涉时政丨Chili🌶️是喜欢乐队的前缀，Yin🎼是弦的粤语读音丨Cantonese丨可以叫我巧弦、小弦🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/Goyrncev7I"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山县",
+        "name": "迟哩颖🎼🔮🌊",
+        "pinned_tweet_id": "1881397605307175422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881380910899376128/VNjMp8yv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 957,
+          "like_count": 90609,
+          "listed_count": 9,
+          "media_count": 741,
+          "tweet_count": 17930
+        },
+        "url": "https://t.co/Goyrncev7I",
+        "username": "AceChiliYin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "请叫我阿咸！|| 18岁 是在中中国人 || 大概是mtx || 182㎝ 60㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 颜文字享受者(✪ω✪) || 太鼓の達人 2024夏九段金合格|| 中文/EN || 想要有很多朋友 所以欢迎互fo欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714391721738711040/Fu_TJQSf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 834,
+          "like_count": 83180,
+          "listed_count": 5,
+          "media_count": 1075,
+          "tweet_count": 5598
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1857431333347467757",
+    "created_at": "2024-11-15T14:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T15:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857431333347467757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spectatorindex…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/spectatorindex/status/1829617182625730762",
+          "start": 14,
+          "url": "https://t.co/ZP0kPOasDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857431333347467757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829617182625730762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "巴西上推也要VPN？才知道 https://t.co/ZP0kPOasDI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1857431333347467757",
+        "created_at": "2024-11-15T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857431333347467757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spectatorindex…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/spectatorindex/status/1829617182625730762",
+              "start": 14,
+              "url": "https://t.co/ZP0kPOasDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857431333347467757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829617182625730762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巴西上推也要VPN？才知道 https://t.co/ZP0kPOasDI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626294277",
+        "conversation_id": "1829617182625730762",
+        "created_at": "2024-08-30T20:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T21:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829617182625730762"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Brazil",
+              "probability": 0.9682,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "X",
+              "probability": 0.487,
+              "start": 64,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829617182625730762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 751,
+          "impression_count": 2639330,
+          "like_count": 15185,
+          "quote_count": 1706,
+          "reply_count": 634,
+          "retweet_count": 2823
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Brazil court says anyone caught using a VPN to access X will be fined up to $8,874 per day."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 1925,
+          "like_count": 17967,
+          "listed_count": 5,
+          "tweet_count": 10109
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-27T20:42:27.000Z",
+        "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
+        "id": "1626294277",
+        "location": "Global",
+        "name": "The Spectator Index",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910833,
+          "following_count": 0,
+          "like_count": 18,
+          "listed_count": 16886,
+          "tweet_count": 29573
+        },
+        "username": "spectatorindex",
+        "verified": true
+      }
+    ]
+  }
+}

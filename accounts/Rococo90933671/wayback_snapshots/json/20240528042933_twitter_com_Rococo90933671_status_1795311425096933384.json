@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1795307413979205896",
+    "created_at": "2024-05-28T04:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T05:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795311425096933384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711022092291067904",
+          "start": 0,
+          "username": "so30653"
+        },
+        {
+          "end": 18,
+          "id": "1711718284717137920",
+          "start": 9,
+          "username": "liminfin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795311425096933384",
+    "in_reply_to_user_id": "1711022092291067904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795310071972557265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@so30653 @liminfin 川普加油，无关其他，我只想要他的乐子🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1795307413979205896",
+        "created_at": "2024-05-28T04:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T05:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795311425096933384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711022092291067904",
+              "start": 0,
+              "username": "so30653"
+            },
+            {
+              "end": 18,
+              "id": "1711718284717137920",
+              "start": 9,
+              "username": "liminfin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795311425096933384",
+        "in_reply_to_user_id": "1711022092291067904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795310071972557265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@so30653 @liminfin 川普加油，无关其他，我只想要他的乐子🤪"
+      },
+      {
+        "attachments": {},
+        "author_id": "1711022092291067904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1795307413979205896",
+        "created_at": "2024-05-28T04:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T05:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795310071972557265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711718284717137920",
+              "start": 0,
+              "username": "liminfin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795310071972557265",
+        "in_reply_to_user_id": "1711718284717137920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795309597076631563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liminfin 最近的趋势是Biden在这几个州还有宾夕法尼亚民调都上来了，但总体还是输掉了大部分摇摆州，我估计最后的结果大概民主党250张选举人票输掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 768,
+          "like_count": 3515,
+          "listed_count": 1,
+          "tweet_count": 2823
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T14:13:59.000Z",
+        "description": "Motto：With malice towards none,with charity for all, with firmness in the right 独立时评人，来自中国大陆的温和右翼自由派，新保守主义者，政治学研究者，中推政党@NRF2024513现任主席",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "NRF2024513"
+              }
+            ]
+          }
+        },
+        "id": "1711022092291067904",
+        "name": "Humphrey",
+        "pinned_tweet_id": "1794543174687633863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767208767366758400/KMNhhC0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 514,
+          "like_count": 4641,
+          "listed_count": 3,
+          "tweet_count": 2859
+        },
+        "username": "so30653",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T12:20:41.000Z",
+        "description": "Nonsectarian pragmatic progressive | agnostic 19 (he/him)| 🇳🇫🇵🇸🇺🇦🇷🇪🇸🇾🇨🇩🇬🇾🇦🇲🇭🇰🇵🇷🇽🇰🇲🇲🇨🇮☀️ | MTM🏳️‍⚧️",
+        "id": "1711718284717137920",
+        "name": "🇭🇰🟨Lim🚩🥀🏳️‍🌈",
+        "pinned_tweet_id": "1784076103646413299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784991438788497408/aXQRuTFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1494,
+          "like_count": 42335,
+          "listed_count": 16,
+          "tweet_count": 12226
+        },
+        "username": "liminfin",
+        "verified": false
+      }
+    ]
+  }
+}

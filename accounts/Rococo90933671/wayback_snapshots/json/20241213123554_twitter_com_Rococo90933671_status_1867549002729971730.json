@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867548989283086336"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1867541123125919752",
+    "created_at": "2024-12-13T12:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T13:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867549002729971730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652757998995927043",
+          "start": 0,
+          "username": "Strv_122_B_PLSS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSBIcuUXZ0",
+          "end": 52,
+          "expanded_url": "https://x.com/Rococo90933671/status/1867549002729971730/photo/1",
+          "media_key": "3_1867548989283086336",
+          "start": 29,
+          "url": "https://t.co/PSBIcuUXZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867549002729971730",
+    "in_reply_to_user_id": "1652757998995927043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867541123125919752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strv_122_B_PLSS 我三年半前也长了一个😢 https://t.co/PSBIcuUXZ0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1867549002729971730].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1867549002729971730",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1867549002729971730"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_1867548989283086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gerd6TrbsAAMsLR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867541116167630850",
+            "3_1867541116939382784"
+          ]
+        },
+        "author_id": "1652757998995927043",
+        "conversation_id": "1867541123125919752",
+        "created_at": "2024-12-13T12:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T13:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867541123125919752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VuY7jMelx",
+              "end": 51,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1867541123125919752/photo/1",
+              "media_key": "3_1867541116167630850",
+              "start": 28,
+              "url": "https://t.co/4VuY7jMelx"
+            },
+            {
+              "display_url": "pic.x.com/4VuY7jMelx",
+              "end": 51,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1867541123125919752/photo/1",
+              "media_key": "3_1867541116939382784",
+              "start": 28,
+              "url": "https://t.co/4VuY7jMelx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867541123125919752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘴里面长三四个口腔溃疡喝水都是剧痛😇\n⚠️：口腔内图片 https://t.co/4VuY7jMelx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 1951,
+          "like_count": 19175,
+          "listed_count": 5,
+          "media_count": 1341,
+          "tweet_count": 10745
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": "［战区控制］瑞典 D 点",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "pinned_tweet_id": "1860954183647773150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824048793278705664/gjVV_jOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 5170,
+          "like_count": 134026,
+          "listed_count": 1,
+          "media_count": 1074,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

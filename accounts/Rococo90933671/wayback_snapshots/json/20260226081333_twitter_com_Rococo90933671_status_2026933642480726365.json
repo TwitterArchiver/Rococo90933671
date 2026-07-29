@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2026885875268002231",
+    "created_at": "2026-02-26T08:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026933642480726365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026933642480726365",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026889201468489890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee 没错喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2026885875268002231",
+        "created_at": "2026-02-26T08:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026933642480726365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026933642480726365",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026889201468489890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee 没错喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "conversation_id": "2026885875268002231",
+        "created_at": "2026-02-26T05:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026889201468489890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026889201468489890",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026885875268002231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 故意的吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7793,
+          "following_count": 2257,
+          "like_count": 30207,
+          "listed_count": 23,
+          "media_count": 3223,
+          "tweet_count": 18181
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | Apostle of C/C++ | Fallen Nasdaq Cultist | Amor Fati, Amor Semper | Powered by DeepKlee",
+        "id": "1858763452732633090",
+        "location": "Akihabara, Tokyo ",
+        "name": "Klee Kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004431940766810112/08aBUUOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 230,
+          "like_count": 8991,
+          "listed_count": 20,
+          "media_count": 228,
+          "tweet_count": 5431
+        },
+        "username": "DeepKlee",
+        "verified": true
+      }
+    ]
+  }
+}

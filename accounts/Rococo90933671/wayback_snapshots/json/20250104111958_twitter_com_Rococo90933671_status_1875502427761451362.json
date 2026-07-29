@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1875496920929726709",
+    "created_at": "2025-01-04T11:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875502427761451362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Erica_local"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875502427761451362",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875496920929726709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erica_local 是指每天要至少发一次消息的那个续火吗？确实，一直全体禁言我又不是管理的话确实就续不了火了。我很反感那种到某某日子就全体禁言的，太上纲上线\n\n如果你是指别的意思，那前面的当我没说"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1875496920929726709].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1875496920929726709",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1875496920929726709"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1875496920929726709",
+        "created_at": "2025-01-04T11:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875502427761451362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Erica_local"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875502427761451362",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875496920929726709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erica_local 是指每天要至少发一次消息的那个续火吗？确实，一直全体禁言我又不是管理的话确实就续不了火了。我很反感那种到某某日子就全体禁言的，太上纲上线\n\n如果你是指别的意思，那前面的当我没说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 2009,
+          "like_count": 20763,
+          "listed_count": 5,
+          "media_count": 1482,
+          "tweet_count": 11523
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "我没有叫Erica的其他账号，请注意辨别。深层意识：@ninaitruck",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "ninaitruck"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚共和国",
+        "name": "Erica今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850462519397326848/IcIp5dx4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 3793,
+          "like_count": 197743,
+          "listed_count": 4,
+          "media_count": 1130,
+          "tweet_count": 7275
+        },
+        "username": "Erica_local",
+        "verified": false
+      }
+    ]
+  }
+}

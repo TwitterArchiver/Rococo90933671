@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Che Guevara",
+          "id": "917374571262570499",
+          "name": "Che Guevara"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Che Guevara",
+          "id": "917374571262570499",
+          "name": "Che Guevara"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Che Guevara",
+          "id": "917374571262570499",
+          "name": "Che Guevara"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2081521927785754921",
+    "created_at": "2026-07-26T23:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081521927785754921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Antichenk8964/…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/Antichenk8964/status/2081428956629147990",
+          "start": 86,
+          "url": "https://t.co/i7EsZQJmWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081521927785754921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081428956629147990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不至于，我自己倒是想把自己看成一个绝对自私者——这些劳动者辛苦如此，而我所处的社会环境，和自己的经济水平决定了有一天我也有可能会落得个差不多的命运，而这是我不能接受的而已 https://t.co/i7EsZQJmWy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2081521927785754921",
+        "created_at": "2026-07-26T23:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081521927785754921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Antichenk8964/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Antichenk8964/status/2081428956629147990",
+              "start": 86,
+              "url": "https://t.co/i7EsZQJmWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081521927785754921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081428956629147990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不至于，我自己倒是想把自己看成一个绝对自私者——这些劳动者辛苦如此，而我所处的社会环境，和自己的经济水平决定了有一天我也有可能会落得个差不多的命运，而这是我不能接受的而已 https://t.co/i7EsZQJmWy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594984148044636160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Che Guevara",
+              "id": "917374571262570499",
+              "name": "Che Guevara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2081322447421456462",
+        "created_at": "2026-07-26T17:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081428956629147990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081428956629147990",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081322447421456462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 你也是心善，也看不得这些人间疾苦\n\n我多少会理解当年提出安资主义的罗斯巴德会欣赏切格瓦拉了，他认为切是这个时代的英雄人物😌（《Left and Right》“Ernesto Che Guevara, RIP”）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13416,
+          "following_count": 3209,
+          "like_count": 45021,
+          "listed_count": 41,
+          "media_count": 4831,
+          "tweet_count": 24499
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T09:20:35.000Z",
+        "description": "I am a Catholic✝ sinner, but I will fight for the innocent.",
+        "id": "1594984148044636160",
+        "location": "Freistaat Bayern",
+        "name": "Der Einzige Kommandant",
+        "pinned_tweet_id": "1978169122341998992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935234397793595392/_31jLql__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 1934,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 4139,
+          "tweet_count": 41873
+        },
+        "url": "",
+        "username": "Antichenk8964",
+        "verified": false
+      }
+    ]
+  }
+}

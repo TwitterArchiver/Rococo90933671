@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2048235721044140265",
+    "created_at": "2026-04-26T04:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048264255573794834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "KuaiLe_fengnan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048264255573794834",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048235721044140265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuaiLe_fengnan1 没有我，但是贴贴🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2048235716753457152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzLiElbgAA5Y11.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2048235721044140265",
+        "created_at": "2026-04-26T04:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048264255573794834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "KuaiLe_fengnan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048264255573794834",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048235721044140265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuaiLe_fengnan1 没有我，但是贴贴🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048235716753457152"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2048235721044140265",
+        "created_at": "2026-04-26T03:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048235721044140265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2045944141474156544/yA5sLEH0?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045944141474156544/yA5sLEH0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/O4EjIv1IPG"
+            },
+            {
+              "display_url": "pic.x.com/AkxXzTFocJ",
+              "end": 64,
+              "expanded_url": "https://x.com/KuaiLe_fengnan1/status/2048235721044140265/photo/1",
+              "media_key": "3_2048235716753457152",
+              "start": 41,
+              "url": "https://t.co/AkxXzTFocJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048235721044140265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/O4EjIv1IPG https://t.co/AkxXzTFocJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10552,
+          "following_count": 2961,
+          "like_count": 36431,
+          "listed_count": 32,
+          "media_count": 3779,
+          "tweet_count": 20955
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "我王梦圆与国铁郑州局不共戴天 |二号机：@puzzlerIee | 过去身：暂无 | 狗与@care1337_禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "puzzlerIee"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "care1337_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "皇漢無害化集中消殺中心",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2042410246405308624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024445274782126084/9s-dKeed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 715,
+          "like_count": 1150,
+          "listed_count": 7,
+          "media_count": 750,
+          "tweet_count": 4705
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": true
+      }
+    ]
+  }
+}

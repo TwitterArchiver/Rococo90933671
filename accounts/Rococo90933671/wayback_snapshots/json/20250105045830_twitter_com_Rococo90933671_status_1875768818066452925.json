@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1875560571694936267",
+    "created_at": "2025-01-05T04:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T05:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875768818066452925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        },
+        {
+          "end": 26,
+          "id": "1601058898597023744",
+          "start": 17,
+          "username": "yidouxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875768818066452925",
+    "in_reply_to_user_id": "1573663582994444289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875745283822514595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji @yidouxin 《邓小平爷爷植树》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1875560571694936267",
+        "created_at": "2025-01-05T04:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T05:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875768818066452925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            },
+            {
+              "end": 26,
+              "id": "1601058898597023744",
+              "start": 17,
+              "username": "yidouxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875768818066452925",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875745283822514595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji @yidouxin 《邓小平爷爷植树》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573663582994444289",
+        "conversation_id": "1875560571694936267",
+        "created_at": "2025-01-05T03:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T04:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875745283822514595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601058898597023744",
+              "start": 0,
+              "username": "yidouxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875745283822514595",
+        "in_reply_to_user_id": "1601058898597023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875560571694936267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidouxin 我记得还有植树的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 2013,
+          "like_count": 20804,
+          "listed_count": 5,
+          "media_count": 1490,
+          "tweet_count": 11560
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "互联网考古专家 / 习厨TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIbkr"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "你为什么认为位置这种功能是真的？",
+        "name": "苏苏❄️冬眠模式🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872829799632388097/zMphS3ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9211,
+          "following_count": 508,
+          "like_count": 55905,
+          "listed_count": 27,
+          "media_count": 237,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/X75VIaIbkr",
+        "username": "guojiazongshuji",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T03:39:32.000Z",
+        "description": "需要互fo可以私信，看到就会回",
+        "id": "1601058898597023744",
+        "location": "怀仁堂",
+        "name": "Christian.K.Wick",
+        "pinned_tweet_id": "1874841686079312276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857583140992331777/nuwBWNxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 738,
+          "like_count": 7109,
+          "listed_count": 3,
+          "media_count": 834,
+          "tweet_count": 4311
+        },
+        "username": "yidouxin",
+        "verified": false
+      }
+    ]
+  }
+}

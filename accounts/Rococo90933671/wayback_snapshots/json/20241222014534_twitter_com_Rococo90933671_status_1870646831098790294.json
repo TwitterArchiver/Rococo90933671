@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1865673360228938229",
+    "created_at": "2024-12-22T01:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T02:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870646831098790294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1578909074305187840",
+          "start": 0,
+          "username": "BigFreshShrimp"
+        },
+        {
+          "end": 31,
+          "id": "1680834021377593344",
+          "start": 16,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870646831098790294",
+    "in_reply_to_user_id": "1578909074305187840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865676377456038396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigFreshShrimp @baizhou_kawaii 拜拜我的🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1865676377456038396].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1865676377456038396",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1865676377456038396"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1865673360228938229",
+        "created_at": "2024-12-22T01:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870646831098790294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1578909074305187840",
+              "start": 0,
+              "username": "BigFreshShrimp"
+            },
+            {
+              "end": 31,
+              "id": "1680834021377593344",
+              "start": 16,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870646831098790294",
+        "in_reply_to_user_id": "1578909074305187840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865676377456038396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigFreshShrimp @baizhou_kawaii 拜拜我的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 1972,
+          "like_count": 19760,
+          "listed_count": 5,
+          "media_count": 1400,
+          "tweet_count": 11016
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-09T00:44:13.000Z",
+        "description": "一般通過燕国人、グラちゃん大好き！\nRandom Yanese love gura!",
+        "id": "1578909074305187840",
+        "location": "Atlantis",
+        "name": "🦐BigShrimp🦐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578909956291854336/ay9j5g0Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 732,
+          "like_count": 80816,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 8775
+        },
+        "username": "BigFreshShrimp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "这里是白粥|怎么称呼都可以哦\n|ヨルシカ|牡丹は散っても花だ 夏が去っても追慕は\n|很重要的人🥰\n@Sus1e_Glitter\n@susiethegamer\n@kagurazakaSusie\n@KeihinTohoku_JR\n@Tokyu_Toyok0\n@kyoto_kar4suma\n@JR_yamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Sus1e_Glitter"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "susiethegamer"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "kagurazakaSusie"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KeihinTohoku_JR"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Tokyu_Toyok0"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "kyoto_kar4suma"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "JR_yamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "距离你2.9km",
+        "name": "总有几个傻逼天天发那张李颖币图，见一个拉黑一个，真的烦，想发的提前把我拉黑，谁也看不到谁，这样最好。",
+        "pinned_tweet_id": "1865673360228938229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864989788589428737/ZJhH8lZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 913,
+          "like_count": 50442,
+          "listed_count": 8,
+          "media_count": 3226,
+          "tweet_count": 18053
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1797433612041863460",
+    "created_at": "2024-06-03T04:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T05:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797482029682176032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797482029682176032",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797433612041863460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 啊，明天确实是6月5号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1797433612041863460",
+        "created_at": "2024-06-03T04:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T05:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797482029682176032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797482029682176032",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797433612041863460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 啊，明天确实是6月5号"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786565196913541120",
+        "conversation_id": "1797433612041863460",
+        "created_at": "2024-06-03T01:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T02:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797433612041863460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797433612041863460",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天是6月5號"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 922,
+          "like_count": 5273,
+          "listed_count": 1,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "ESFP-T，會回fo ，留言會盡量回覆，喜歡吃好吃的，都能私信，會回fo的",
+        "id": "1786565196913541120",
+        "location": "中南海彭麗媛臥室",
+        "name": "迅（別點我發的連結）",
+        "pinned_tweet_id": "1794254572791455908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795860528793006080/SNC3y01E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 577,
+          "like_count": 14568,
+          "listed_count": 4,
+          "tweet_count": 4136
+        },
+        "username": "dimangmu8964",
+        "verified": true
+      }
+    ]
+  }
+}

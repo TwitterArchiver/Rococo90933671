@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2021877692753490270",
+    "created_at": "2026-02-13T13:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022299053426647546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022299053426647546",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021877692753490270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 山东啊……每次怒火上头想问一句为什么一定要这么管，可是最后也只能一声叹息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2021877645630382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8nAZ8aIAA4VZ6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2021877646267994112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8nAcUbUAALDdK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2021877692753490270",
+        "created_at": "2026-02-13T13:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022299053426647546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022299053426647546",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021877692753490270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 山东啊……每次怒火上头想问一句为什么一定要这么管，可是最后也只能一声叹息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021877645630382080",
+            "3_2021877646267994112"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2021877692753490270",
+        "created_at": "2026-02-12T09:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021877692753490270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRGD3Ylknd",
+              "end": 87,
+              "expanded_url": "https://x.com/amecandy_x/status/2021877692753490270/photo/1",
+              "media_key": "3_2021877645630382080",
+              "start": 64,
+              "url": "https://t.co/QRGD3Ylknd"
+            },
+            {
+              "display_url": "pic.x.com/QRGD3Ylknd",
+              "end": 87,
+              "expanded_url": "https://x.com/amecandy_x/status/2021877692753490270/photo/1",
+              "media_key": "3_2021877646267994112",
+              "start": 64,
+              "url": "https://t.co/QRGD3Ylknd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021877692753490270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20324,
+          "like_count": 259,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "回到了我的初中和高中门口……\n给我造成了很多创伤的母校\n查头发，叠豆腐块，内务量化，15分钟内吃完饭，五点半起床\n再见只能叹息 https://t.co/QRGD3Ylknd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7483,
+          "following_count": 2230,
+          "like_count": 29893,
+          "listed_count": 24,
+          "media_count": 3162,
+          "tweet_count": 17949
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ transfem / communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020149012624732160/-JptmRgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5467,
+          "following_count": 1908,
+          "like_count": 24869,
+          "listed_count": 16,
+          "media_count": 1138,
+          "tweet_count": 8654
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

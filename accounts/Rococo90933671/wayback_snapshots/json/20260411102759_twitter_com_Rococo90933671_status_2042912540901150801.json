@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2042607305955643529",
+    "created_at": "2026-04-11T10:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042912540901150801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768342925572816897",
+          "start": 0,
+          "username": "SakuraCatMoe"
+        },
+        {
+          "end": 24,
+          "id": "1994971073990062080",
+          "start": 14,
+          "username": "yiluo_928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042912540901150801",
+    "in_reply_to_user_id": "1768342925572816897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042882720095965664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraCatMoe @yiluo_928 我也是用us，以前日本台湾都用，但是现在这个新梯子台湾节点太慢，而旧梯子的台湾节点全毙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2042607305955643529",
+        "created_at": "2026-04-11T10:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912540901150801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768342925572816897",
+              "start": 0,
+              "username": "SakuraCatMoe"
+            },
+            {
+              "end": 24,
+              "id": "1994971073990062080",
+              "start": 14,
+              "username": "yiluo_928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912540901150801",
+        "in_reply_to_user_id": "1768342925572816897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042882720095965664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraCatMoe @yiluo_928 我也是用us，以前日本台湾都用，但是现在这个新梯子台湾节点太慢，而旧梯子的台湾节点全毙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768342925572816897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2042607305955643529",
+        "created_at": "2026-04-11T08:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042882720095965664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994971073990062080",
+              "start": 0,
+              "username": "yiluo_928"
+            },
+            {
+              "end": 26,
+              "id": "1303335410609790976",
+              "start": 11,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042882720095965664",
+        "in_reply_to_user_id": "1994971073990062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042867992539935057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiluo_928 @Rococo90933671 sg和us我是觉得比较好用的\n用google的话，搜中文是中文，搜英文是英文\n\n如果是jp的话，不管你google搜什么都是日语，没法看，而且ytb会大量推荐jp的\ngoogle搜索得强制地区才行，ytb设置优先语言都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9895,
+          "following_count": 2864,
+          "like_count": 34571,
+          "listed_count": 30,
+          "media_count": 3623,
+          "tweet_count": 20209
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-14T18:26:31.000Z",
+        "description": "❤️@kafei684134 @saya8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "kafei684134"
+              },
+              {
+                "end": 27,
+                "start": 15,
+                "username": "saya8964cat"
+              }
+            ]
+          }
+        },
+        "id": "1768342925572816897",
+        "name": "𝒮𝒶𝓀𝓊𝓇𝒶𝒞𝒶𝓉🍀",
+        "pinned_tweet_id": "2034294885847867596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022678644079173632/yCME--zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 515,
+          "like_count": 26825,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 148
+        },
+        "username": "SakuraCatMoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T03:25:50.000Z",
+        "description": "🇨🇳、鍵っ子、ひとり上手。欢迎交流病情ヾ(๑╹◡╹)ﾉ\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iro928.com",
+                "end": 23,
+                "expanded_url": "http://iro928.com",
+                "start": 0,
+                "url": "https://t.co/KHnCTtFwUj"
+              }
+            ]
+          }
+        },
+        "id": "1994971073990062080",
+        "name": "忆落（イロー）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995208812140314624/vIfV5J88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 221,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/KHnCTtFwUj",
+        "username": "yiluo_928",
+        "verified": false
+      }
+    ]
+  }
+}

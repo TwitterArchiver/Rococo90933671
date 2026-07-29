@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1975920763825013130",
+    "created_at": "2025-10-08T14:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975933171775709590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975933171775709590",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975920763825013130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog up主您的视频获奖了，来北京领奖，报销单程机票"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9766,
+        "height": 464,
+        "media_key": "7_1975920692911616000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975920692911616000/pu/img/Ze6GUbSEp7U2HYiQ.jpg",
+        "public_metrics": {
+          "view_count": 886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975920692911616000/pu/vid/avc1/492x270/YSWnDgyct8A254pE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975920692911616000/pu/vid/avc1/848x464/PR3qSiObfYsTpYmD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975920692911616000/pu/pl/fB2YQwnTtgRXKP0G.m3u8?tag=12"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1975920763825013130",
+        "created_at": "2025-10-08T14:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975933171775709590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975933171775709590",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975920763825013130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog up主您的视频获奖了，来北京领奖，报销单程机票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975920692911616000"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1975920763825013130",
+        "created_at": "2025-10-08T13:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975920763825013130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhKFnWBxIv",
+              "end": 68,
+              "expanded_url": "https://x.com/GFWfrog/status/1975920763825013130/video/1",
+              "media_key": "7_1975920692911616000",
+              "start": 45,
+              "url": "https://t.co/nhKFnWBxIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975920763825013130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2456,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "公社大跃进手游，注册就送亩产万斤良田😁😁\n🕶️ 匿名投稿\n\n谁做的，习死亡了🤣🤣🤣😆😂😂 https://t.co/nhKFnWBxIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6437,
+          "following_count": 2214,
+          "like_count": 28603,
+          "listed_count": 19,
+          "media_count": 2737,
+          "tweet_count": 16424
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "学而时习之，墙国404\n\n欢迎私信投稿\nTg群：https://t.co/BbAyHfnObj\n\nTg频道：https://t.co/Evu48wmwfT\n\n#OK革命：用OK👌手势线上阴阳怪气，线下冲塔抗议\n\n#大自爆运动 ：其实本该叫爆料革命的，但被郭文贵给…😅🙈🐸\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "OK革命"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 47,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 24,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GFWfrog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GFWfrog",
+                "start": 0,
+                "url": "https://t.co/LfpvB0NEDk"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（OK革命👌大自爆运动💣）",
+        "pinned_tweet_id": "1975906539832832409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973694469510770688/BQZK_qm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242246,
+          "following_count": 1695,
+          "like_count": 93979,
+          "listed_count": 828,
+          "media_count": 5400,
+          "tweet_count": 9600
+        },
+        "url": "https://t.co/LfpvB0NEDk",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

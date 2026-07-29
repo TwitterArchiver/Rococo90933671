@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2030307232844562795",
+    "created_at": "2026-03-07T15:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030310880412619056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651469730740592642",
+          "start": 0,
+          "username": "KawaiiSmolChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030310880412619056",
+    "in_reply_to_user_id": "1651469730740592642",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030307232844562795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiSmolChino 😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2030307090913472513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ZisrasAEI7VP.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2030307090888273920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ZislaMAAirNw.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2030307090900963328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0Zisob0AA5NMN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2030307232844562795",
+        "created_at": "2026-03-07T15:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030310880412619056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651469730740592642",
+              "start": 0,
+              "username": "KawaiiSmolChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030310880412619056",
+        "in_reply_to_user_id": "1651469730740592642",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030307232844562795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiSmolChino 😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030307090913472513",
+            "3_2030307090888273920",
+            "3_2030307090900963328"
+          ]
+        },
+        "author_id": "1651469730740592642",
+        "conversation_id": "2030307232844562795",
+        "created_at": "2026-03-07T15:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030307232844562795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cglwjdqxMb",
+              "end": 56,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/2030307232844562795/photo/1",
+              "media_key": "3_2030307090913472513",
+              "start": 33,
+              "url": "https://t.co/cglwjdqxMb"
+            },
+            {
+              "display_url": "pic.x.com/cglwjdqxMb",
+              "end": 56,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/2030307232844562795/photo/1",
+              "media_key": "3_2030307090888273920",
+              "start": 33,
+              "url": "https://t.co/cglwjdqxMb"
+            },
+            {
+              "display_url": "pic.x.com/cglwjdqxMb",
+              "end": 56,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/2030307232844562795/photo/1",
+              "media_key": "3_2030307090900963328",
+              "start": 33,
+              "url": "https://t.co/cglwjdqxMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307232844562795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📷：上海 芳文only\n\n（没有闪光灯没有大光圈，只能抓拍了🩵） https://t.co/cglwjdqxMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9186,
+          "following_count": 2628,
+          "like_count": 30972,
+          "listed_count": 25,
+          "media_count": 3293,
+          "tweet_count": 18502
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-27T06:14:10.000Z",
+        "description": "📷🐰✨ ~Dear My Sister~ @Chinonya1 @Minatooo_O @G250king",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "Minatooo_O"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "G250king"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mianmianmeow",
+                "end": 23,
+                "expanded_url": "https://t.me/mianmianmeow",
+                "start": 0,
+                "url": "https://t.co/naiwu1dvPu"
+              }
+            ]
+          }
+        },
+        "id": "1651469730740592642",
+        "location": "The Best is Yet To Come.",
+        "name": "𝒞𝒽𝒾𝓃𝑜~🐏🌙🌸",
+        "pinned_tweet_id": "2022152917646795085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022706901788823553/PKQlm4Me_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 632,
+          "like_count": 49270,
+          "listed_count": 2,
+          "media_count": 2310,
+          "tweet_count": 9138
+        },
+        "url": "https://t.co/naiwu1dvPu",
+        "username": "KawaiiSmolChino",
+        "verified": true
+      }
+    ]
+  }
+}

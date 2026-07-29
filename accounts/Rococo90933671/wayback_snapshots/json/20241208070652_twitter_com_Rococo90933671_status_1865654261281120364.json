@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865507977894985729"
+      ],
+      "media_source_tweet_id": [
+        "1865507982034817384"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1865654261281120364",
+    "created_at": "2024-12-08T07:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T08:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865654261281120364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1521309513382563840",
+          "start": 3,
+          "username": "Daily_Ayakaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aqmLIjUXmv",
+          "end": 63,
+          "expanded_url": "https://x.com/Daily_Ayakaa/status/1865507982034817384/photo/1",
+          "media_key": "3_1865507977894985729",
+          "start": 40,
+          "url": "https://t.co/aqmLIjUXmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865654261281120364",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865507982034817384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daily_Ayakaa: ❄️ Daily Ayaka 561 ❄️ https://t.co/aqmLIjUXmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1865507977894985729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeOdnzwWgAEzlDa.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865507977894985729"
+          ],
+          "media_source_tweet_id": [
+            "1865507982034817384"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865654261281120364",
+        "created_at": "2024-12-08T07:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T08:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865654261281120364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1521309513382563840",
+              "start": 3,
+              "username": "Daily_Ayakaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqmLIjUXmv",
+              "end": 63,
+              "expanded_url": "https://x.com/Daily_Ayakaa/status/1865507982034817384/photo/1",
+              "media_key": "3_1865507977894985729",
+              "start": 40,
+              "url": "https://t.co/aqmLIjUXmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865654261281120364",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865507982034817384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daily_Ayakaa: ❄️ Daily Ayaka 561 ❄️ https://t.co/aqmLIjUXmv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865507977894985729"
+          ]
+        },
+        "author_id": "1521309513382563840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865507982034817384",
+        "created_at": "2024-12-07T21:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T22:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865507982034817384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqmLIjUXmv",
+              "end": 45,
+              "expanded_url": "https://x.com/Daily_Ayakaa/status/1865507982034817384/photo/1",
+              "media_key": "3_1865507977894985729",
+              "start": 22,
+              "url": "https://t.co/aqmLIjUXmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865507982034817384",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 3000,
+          "like_count": 487,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "❄️ Daily Ayaka 561 ❄️ https://t.co/aqmLIjUXmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978,
+          "following_count": 1951,
+          "like_count": 19057,
+          "listed_count": 5,
+          "media_count": 1319,
+          "tweet_count": 10679
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:04:02.000Z",
+        "description": "Hello, I am just one more account that uploads daily images of Ayaka, no fanart belongs to me, all credits to its creators 🩵\n Admin: @Kamiiyaka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "Kamiiyaka"
+              }
+            ]
+          }
+        },
+        "id": "1521309513382563840",
+        "location": "Inazuma",
+        "name": "Daily Ayaka 🩵",
+        "pinned_tweet_id": "1530996590516764672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568614358615212032/nYeGyDlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7601,
+          "following_count": 6,
+          "like_count": 93,
+          "listed_count": 25,
+          "media_count": 623,
+          "tweet_count": 649
+        },
+        "username": "Daily_Ayakaa",
+        "verified": false
+      }
+    ]
+  }
+}

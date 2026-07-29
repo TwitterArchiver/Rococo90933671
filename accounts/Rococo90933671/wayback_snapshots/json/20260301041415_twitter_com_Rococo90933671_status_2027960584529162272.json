@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1139056699908771840",
+    "created_at": "2026-03-01T04:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027960584529162272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "27966935",
+          "start": 0,
+          "username": "khamenei_ir"
+        },
+        {
+          "end": 26,
+          "id": "1786565196913541120",
+          "start": 13,
+          "username": "dimangmu8964"
+        },
+        {
+          "end": 37,
+          "id": "468122115",
+          "start": 27,
+          "username": "AbeShinzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027960584529162272",
+    "in_reply_to_user_id": "27966935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1139056699908771840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khamenei_ir @dimangmu8964 @AbeShinzo 人走，但是号都还在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_1139055686334210049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/D869HJtW4AE6cIM.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1139056699908771840",
+        "created_at": "2026-03-01T04:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027960584529162272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "27966935",
+              "start": 0,
+              "username": "khamenei_ir"
+            },
+            {
+              "end": 26,
+              "id": "1786565196913541120",
+              "start": 13,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 37,
+              "id": "468122115",
+              "start": 27,
+              "username": "AbeShinzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027960584529162272",
+        "in_reply_to_user_id": "27966935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1139056699908771840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khamenei_ir @dimangmu8964 @AbeShinzo 人走，但是号都还在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1139055686334210049"
+          ]
+        },
+        "author_id": "27966935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          }
+        ],
+        "conversation_id": "1139056699908771840",
+        "created_at": "2019-06-13T06:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2019-06-13T06:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1139056699908771840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Japan",
+              "probability": 0.6137,
+              "start": 51,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "468122115",
+              "start": 17,
+              "username": "AbeShinzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lTsxR7L0J",
+              "end": 80,
+              "expanded_url": "https://x.com/khamenei_ir/status/1139056699908771840/photo/1",
+              "media_key": "3_1139055686334210049",
+              "start": 57,
+              "url": "https://t.co/6lTsxR7L0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1139056699908771840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 0,
+          "like_count": 2221,
+          "quote_count": 131,
+          "reply_count": 64,
+          "retweet_count": 823
+        },
+        "reply_settings": "everyone",
+        "text": "Meeting with Mr. @AbeShinzo, the Prime Minister of Japan https://t.co/6lTsxR7L0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8833,
+          "following_count": 2407,
+          "like_count": 30504,
+          "listed_count": 26,
+          "media_count": 3245,
+          "tweet_count": 18294
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-31T21:25:18.000Z",
+        "description": "News, messages & statements from Imam Sayyid Ali Khamenei, Iran's Supreme Leader--- BN: @KhameneiBangla l AZ: @az_Khamenei l FA: @Khamenei_fa l AR: @ar_Khamenei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "KhameneiBangla"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "az_Khamenei"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Khamenei_fa"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "ar_Khamenei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khamenei.ir",
+                "end": 23,
+                "expanded_url": "http://khamenei.ir",
+                "start": 0,
+                "url": "https://t.co/gFbTQ5tPuZ"
+              }
+            ]
+          }
+        },
+        "id": "27966935",
+        "location": "Islamic Republic of Iran",
+        "name": "Khamenei.ir",
+        "pinned_tweet_id": "1212986012814712832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302228092354736129/wnYxXfpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163013,
+          "following_count": 26,
+          "like_count": 13,
+          "listed_count": 5020,
+          "media_count": 1800,
+          "tweet_count": 13352
+        },
+        "url": "https://t.co/gFbTQ5tPuZ",
+        "username": "khamenei_ir",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "永远18岁",
+        "id": "1786565196913541120",
+        "location": "驻马店市, 河南省",
+        "name": "迅鴿🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 1132,
+          "like_count": 118846,
+          "listed_count": 19,
+          "media_count": 1464,
+          "tweet_count": 31193
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-19T06:02:29.000Z",
+        "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s-abe.or.jp",
+                "end": 23,
+                "expanded_url": "http://www.s-abe.or.jp/",
+                "start": 0,
+                "url": "https://t.co/2XbBZP4hdd"
+              }
+            ]
+          }
+        },
+        "id": "468122115",
+        "name": "安倍晋三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243841,
+          "following_count": 24,
+          "like_count": 53,
+          "listed_count": 11988,
+          "media_count": 910,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/2XbBZP4hdd",
+        "username": "AbeShinzo",
+        "verified": true
+      }
+    ]
+  }
+}

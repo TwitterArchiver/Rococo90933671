@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1794287488019976571",
+    "created_at": "2024-05-25T09:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T10:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794305222363504970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794305222363504970",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794287488019976571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 世界的参差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1794287488019976571",
+        "created_at": "2024-05-25T09:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T10:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794305222363504970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794305222363504970",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794287488019976571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 世界的参差"
+      },
+      {
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1794287488019976571",
+        "created_at": "2024-05-25T08:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T09:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794287488019976571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794287488019976571",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽\n我初中舍友保送清华了\n问题是我们才高一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 705,
+          "like_count": 2894,
+          "listed_count": 0,
+          "tweet_count": 2621
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈MTF……🤪☝️🍥2024.4.20 无证深柜含糖 16 岁",
+        "id": "1683441735144439808",
+        "location": "璃月人民共和国重庆市",
+        "name": "「铃屋」🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 320,
+          "like_count": 12993,
+          "listed_count": 3,
+          "tweet_count": 3827
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

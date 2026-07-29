@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1796164086238957817",
+    "created_at": "2024-05-31T10:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T11:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796483231463911916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620714577431494656",
+          "start": 0,
+          "username": "pandeng1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796483231463911916",
+    "in_reply_to_user_id": "1620714577431494656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796482040927539708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandeng1234 只是对我来说，假如可以的话，主流的外语哪一门都无所谓，我觉得我都可以喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1796164086238957817",
+        "created_at": "2024-05-31T10:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T11:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796483231463911916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620714577431494656",
+              "start": 0,
+              "username": "pandeng1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796483231463911916",
+        "in_reply_to_user_id": "1620714577431494656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796482040927539708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandeng1234 只是对我来说，假如可以的话，主流的外语哪一门都无所谓，我觉得我都可以喜欢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1620714577431494656",
+        "conversation_id": "1796164086238957817",
+        "created_at": "2024-05-31T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796482040927539708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796482040927539708",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796481563783561264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 大部分人都这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 860,
+          "like_count": 4521,
+          "listed_count": 1,
+          "tweet_count": 3242
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T09:24:18.000Z",
+        "description": "我是傻卵二次元（玩原神玩的），本科学的德语（已经忘得差不多），喜欢重金属，弹电吉他（三年没碰）。性格类型是老缠：IMSB。有时候暴躁:FNMDP。",
+        "id": "1620714577431494656",
+        "location": "妈妈生的",
+        "name": "阿蕾奇诺女王的狗",
+        "pinned_tweet_id": "1769336801330860159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780882232380723200/HsyDI6GT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 629,
+          "like_count": 9221,
+          "listed_count": 5,
+          "tweet_count": 12141
+        },
+        "username": "pandeng1234",
+        "verified": false
+      }
+    ]
+  }
+}

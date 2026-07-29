@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1966436476561899817",
+    "created_at": "2025-09-12T13:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T14:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966498305426243779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746459006422671360",
+          "start": 0,
+          "username": "geminiab0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966498305426243779",
+    "in_reply_to_user_id": "1746459006422671360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966436476561899817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geminiab0101 我觉得绝大部分的语言学习者都和我差不多，读写可以很优秀，但是听力太烂，瓶颈期太长，长到读写贼溜了听照样听不懂多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1966436476561899817",
+        "created_at": "2025-09-12T13:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966498305426243779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746459006422671360",
+              "start": 0,
+              "username": "geminiab0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966498305426243779",
+        "in_reply_to_user_id": "1746459006422671360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966436476561899817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geminiab0101 我觉得绝大部分的语言学习者都和我差不多，读写可以很优秀，但是听力太烂，瓶颈期太长，长到读写贼溜了听照样听不懂多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746459006422671360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1136329838350880768",
+              "name": "Naruto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1136329838350880768",
+              "name": "Naruto"
+            }
+          }
+        ],
+        "conversation_id": "1966436476561899817",
+        "created_at": "2025-09-12T09:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966436476561899817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966436476561899817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 757,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我日语烂:  口语，阅读，写作，N4都过不了。\n自信的是，听力是N1+，因为：\n沉浸式的看日本动漫（Naruto和One piece），日剧（真田丸和大奥），电影（甲贺忍法帖，和将军）..\n\n各位网友，加油！😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 2206,
+          "like_count": 28019,
+          "listed_count": 13,
+          "media_count": 2642,
+          "tweet_count": 16123
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:07:41.000Z",
+        "description": "双子座，AB型。 “打破忍者世界规则的人，我们称之为废物。 …可是，不懂得重视同伴的人，连废物都不如！ ” By 旗木卡卡西🫰。 善良比立场重要，会封锁没有教养的人。 爱好：旅游，看动漫，电影，日剧和YouTube，还有做饭和动物🦒！😁",
+        "id": "1746459006422671360",
+        "location": "Japan",
+        "name": "双生",
+        "pinned_tweet_id": "1963559525551935561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883994014191362048/d0PLaa7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 823,
+          "like_count": 26475,
+          "listed_count": 15,
+          "media_count": 786,
+          "tweet_count": 4804
+        },
+        "username": "geminiab0101",
+        "verified": false
+      }
+    ]
+  }
+}

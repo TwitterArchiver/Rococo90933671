@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1975131415550599554",
+    "created_at": "2025-10-06T14:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975207765317677439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975207765317677439",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975131415550599554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 微博了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1975116478166024192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kF-OcbQAAsa6B.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1975131415550599554",
+        "created_at": "2025-10-06T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975207765317677439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975207765317677439",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975131415550599554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 微博了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975116478166024192"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1975131415550599554",
+        "created_at": "2025-10-06T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975131415550599554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "我一直都是包蜜呀"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/36H2tMLhDV",
+              "end": 57,
+              "expanded_url": "https://x.com/hachineko1208/status/1975131415550599554/photo/1",
+              "media_key": "3_1975116478166024192",
+              "start": 34,
+              "url": "https://t.co/36H2tMLhDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975131415550599554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart #AIイラスト #我一直都是包蜜呀\n\n八月十五吃包子 https://t.co/36H2tMLhDV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 2207,
+          "like_count": 28519,
+          "listed_count": 19,
+          "media_count": 2731,
+          "tweet_count": 16379
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 雜文帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "小八猫 💹北角銀行招財貓 🏔️八通關山友會萌寵",
+        "pinned_tweet_id": "1941784183535485036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956694755938840576/sHPvIxkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 731,
+          "like_count": 260351,
+          "listed_count": 13,
+          "media_count": 2617,
+          "tweet_count": 17551
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1791132767461204150",
+    "created_at": "2024-05-16T15:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T16:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791134039619080595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708111985592934400",
+          "start": 0,
+          "username": "tengyminiGRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791134039619080595",
+    "in_reply_to_user_id": "1708111985592934400",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791132767461204150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tengyminiGRQ 没钱就会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791132767461204150",
+        "created_at": "2024-05-16T15:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T16:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791134039619080595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708111985592934400",
+              "start": 0,
+              "username": "tengyminiGRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791134039619080595",
+        "in_reply_to_user_id": "1708111985592934400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791132767461204150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tengyminiGRQ 没钱就会"
+      },
+      {
+        "attachments": {},
+        "author_id": "1708111985592934400",
+        "conversation_id": "1791132767461204150",
+        "created_at": "2024-05-16T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791132767461204150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791132767461204150",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说，是否存在一种叫做城市恐惧症的怪病？\n就是在大城市里面待着就会感到焦虑和不安？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见不站队/对跨圈友好/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 522,
+          "like_count": 1487,
+          "listed_count": 0,
+          "tweet_count": 1626
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:30:17.000Z",
+        "description": "普通学生一名，想和大家交友\n社会民主主义🌹‖三民主义\n欢迎大家关注！谢谢支持",
+        "id": "1708111985592934400",
+        "location": "Minneapolis, MN",
+        "name": "🌹Michajlova Sablina（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785967074491465728/Dyb98QG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 299,
+          "like_count": 1255,
+          "listed_count": 0,
+          "tweet_count": 649
+        },
+        "username": "tengyminiGRQ",
+        "verified": false
+      }
+    ]
+  }
+}

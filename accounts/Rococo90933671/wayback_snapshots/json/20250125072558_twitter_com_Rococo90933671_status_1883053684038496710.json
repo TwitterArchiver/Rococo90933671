@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1883022001771511869",
+    "created_at": "2025-01-25T07:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T08:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883053684038496710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833775663222075392",
+          "start": 0,
+          "username": "SocDemCNBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883053684038496710",
+    "in_reply_to_user_id": "1833775663222075392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883022001771511869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SocDemCNBunny 你不是和我抢初音未来的那个吗怎么就成家了🥵🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1883022001771511869",
+        "created_at": "2025-01-25T07:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T08:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883053684038496710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833775663222075392",
+              "start": 0,
+              "username": "SocDemCNBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883053684038496710",
+        "in_reply_to_user_id": "1833775663222075392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883022001771511869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SocDemCNBunny 你不是和我抢初音未来的那个吗怎么就成家了🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883021997724057600"
+          ]
+        },
+        "author_id": "1833775663222075392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1883022001771511869",
+        "created_at": "2025-01-25T05:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883022001771511869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1711718284717137920",
+              "start": 38,
+              "username": "liminfin"
+            },
+            {
+              "end": 58,
+              "id": "1411387421590114306",
+              "start": 48,
+              "username": "mt_plant_"
+            },
+            {
+              "end": 85,
+              "id": "1668656828740403202",
+              "start": 69,
+              "username": "qinglongxiangmo"
+            },
+            {
+              "end": 114,
+              "id": "1794387376384376832",
+              "start": 98,
+              "username": "Starry_Sand_Nht"
+            },
+            {
+              "end": 131,
+              "id": "1715891855983026176",
+              "start": 115,
+              "username": "hetongzhi114514"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree",
+              "end": 159,
+              "expanded_url": "https://infinityweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1881548486954422272/rvtuazLo?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881548486954422272/rvtuazLo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree",
+              "url": "https://t.co/bnN9GkEDn0"
+            },
+            {
+              "display_url": "pic.x.com/gMqhadgeXd",
+              "end": 183,
+              "expanded_url": "https://x.com/SocDemCNBunny/status/1883022001771511869/photo/1",
+              "media_key": "3_1883021997724057600",
+              "start": 160,
+              "url": "https://t.co/gMqhadgeXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883022001771511869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @liminfin @mt_plant_\n👰 Spouse: @qinglongxiangmo\n👶 Children: @Starry_Sand_Nht @hetongzhi114514\n\n➡️ https://t.co/bnN9GkEDn0 https://t.co/gMqhadgeXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 2069,
+          "like_count": 21565,
+          "listed_count": 7,
+          "media_count": 1613,
+          "tweet_count": 12096
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T07:52:53.000Z",
+        "description": "来自中国上海。美本小留医学预科生。中华民族主义社民左派🌹 史政coser 泛建制但包黑 支持🇺🇦🇵🇸 不可知论者 ↙️进步派 INTP 🏳️‍🌈🏳️‍⚧️ally 包容度强，支持对CPC基于事实的批评。极右翼 以纳孝子 锡安主义者 黄俄孝子 川粉 支黑 皇汉 安资 另类右 无脑民逗/目田/右逼请绕道谢谢",
+        "id": "1833775663222075392",
+        "name": "种花家🐇酱🇨🇳🇵🇸🇺🇦🟢⚪️⚫️🚩🌹🍉🌻",
+        "pinned_tweet_id": "1849296070909526205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872370046829219840/UXS8NsZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 506,
+          "like_count": 11637,
+          "listed_count": 4,
+          "media_count": 634,
+          "tweet_count": 4560
+        },
+        "username": "SocDemCNBunny",
+        "verified": false
+      }
+    ]
+  }
+}

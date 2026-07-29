@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2035341477610701189",
+    "created_at": "2026-03-21T13:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035344601465413900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "KuaiLe_fengnan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035344601465413900",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035341477610701189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuaiLe_fengnan1 内圈😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2035341473630363648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD78SVxboAApgKC.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2035341477610701189",
+        "created_at": "2026-03-21T13:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035344601465413900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "KuaiLe_fengnan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035344601465413900",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035341477610701189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuaiLe_fengnan1 内圈😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035341473630363648"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2035341477610701189",
+        "created_at": "2026-03-21T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035341477610701189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/O4EjIv1IPG"
+            },
+            {
+              "display_url": "pic.x.com/AVZWVP1k0W",
+              "end": 64,
+              "expanded_url": "https://x.com/KuaiLe_fengnan1/status/2035341477610701189/photo/1",
+              "media_key": "3_2035341473630363648",
+              "start": 41,
+              "url": "https://t.co/AVZWVP1k0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035341477610701189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/O4EjIv1IPG https://t.co/AVZWVP1k0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9381,
+          "following_count": 2717,
+          "like_count": 32010,
+          "listed_count": 26,
+          "media_count": 3395,
+          "tweet_count": 19001
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "本人周杰，湖南省邵东县煤矿工，兼职乞丐，家住牛马司镇，本人大号@America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "America"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "台湾绿营弱智收容与研究所",
+        "name": "℡快乐周杰☂︎",
+        "pinned_tweet_id": "2033802169242333552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024445274782126084/9s-dKeed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 446,
+          "like_count": 681,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": true
+      }
+    ]
+  }
+}

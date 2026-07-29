@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941484592860368896"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1941194545473126788",
+    "created_at": "2025-07-05T13:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941484596752941534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902877284918468608",
+          "start": 0,
+          "username": "RkMonoChrome_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6KF5EljBEf",
+          "end": 45,
+          "expanded_url": "https://x.com/Rococo90933671/status/1941484596752941534/photo/1",
+          "media_key": "3_1941484592860368896",
+          "start": 22,
+          "url": "https://t.co/6KF5EljBEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941484596752941534",
+    "in_reply_to_user_id": "902877284918468608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941194545473126788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RkMonoChrome_CN 是这个吗 https://t.co/6KF5EljBEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_1941484592860368896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGJ82ZWEAAzMP7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941484592860368896"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1941194545473126788",
+        "created_at": "2025-07-05T13:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941484596752941534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902877284918468608",
+              "start": 0,
+              "username": "RkMonoChrome_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KF5EljBEf",
+              "end": 45,
+              "expanded_url": "https://x.com/Rococo90933671/status/1941484596752941534/photo/1",
+              "media_key": "3_1941484592860368896",
+              "start": 22,
+              "url": "https://t.co/6KF5EljBEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941484596752941534",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941194545473126788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RkMonoChrome_CN 是这个吗 https://t.co/6KF5EljBEf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902877284918468608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1941194545473126788",
+        "created_at": "2025-07-04T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941194545473126788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941194545473126788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在我的有限的日语听力基本是靠听YouTube上的日语ASMR掏耳音声练出来的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4971,
+          "following_count": 2160,
+          "like_count": 25342,
+          "listed_count": 9,
+          "media_count": 2305,
+          "tweet_count": 14764
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T12:54:54.000Z",
+        "description": "無言フォロー失礼\n日本語中国語両方支離滅裂ゴミ人間ド金欠人生失敗中国人限界御宅｜初音ミク大好き｜V老人｜ゲーム・アニメとか趣味色々｜アラサー予備軍｜1落ちカウンター 376\n※スパム・エロ垢・投資垢・インプレゾンビなどは発見次第問答無用BLOCK致します\n中文/English/日本語/한국어（조금밖에 할줄 모름）OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rkmonochrome_c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rkmonochrome_cn?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FHKhXzzmes"
+              }
+            ]
+          }
+        },
+        "id": "902877284918468608",
+        "location": "現実世界・中国⇆ストリートのセカイ",
+        "name": "𝓜𝓸𝓷𝓸𝓒𝓱𝓻𝓸𝓶𝓮.(モノクロ)(𝓡𝓮:仮)@JLPT N1合格絶賛目指中",
+        "pinned_tweet_id": "1796940850121019472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906919226901983232/JCcdNeSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 4954,
+          "like_count": 482999,
+          "listed_count": 15,
+          "media_count": 7577,
+          "tweet_count": 64018
+        },
+        "url": "https://t.co/FHKhXzzmes",
+        "username": "RkMonoChrome_CN",
+        "verified": false
+      }
+    ]
+  }
+}

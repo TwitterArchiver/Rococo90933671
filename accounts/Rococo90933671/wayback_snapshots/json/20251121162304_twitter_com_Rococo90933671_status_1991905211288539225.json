@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1991809423040540991",
+    "created_at": "2025-11-21T16:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991905211288539225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991905211288539225",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991809423040540991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 兄弟，兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67500,
+        "height": 720,
+        "media_key": "7_1991809381252599808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1991809381252599808/pu/img/8Xs3lMiwdJz6DgcY.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991809381252599808/pu/vid/avc1/300x270/jVQcGjkBx9XovuHK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991809381252599808/pu/vid/avc1/400x360/IKkIneXYV3mROewg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991809381252599808/pu/vid/avc1/802x720/9_7g4JiTJEL80Bnj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1991809381252599808/pu/pl/dnUElHavr7QOaouh.m3u8?tag=12"
+          }
+        ],
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1991809423040540991",
+        "created_at": "2025-11-21T16:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991905211288539225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991905211288539225",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991809423040540991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 兄弟，兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1991809381252599808"
+          ]
+        },
+        "author_id": "1552602100634251265",
+        "conversation_id": "1991809423040540991",
+        "created_at": "2025-11-21T10:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991809423040540991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sZiqaGwNJ",
+              "end": 23,
+              "expanded_url": "https://x.com/AceChiliYin/status/1991809423040540991/video/1",
+              "media_key": "7_1991809381252599808",
+              "start": 0,
+              "url": "https://t.co/8sZiqaGwNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991809423040540991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8sZiqaGwNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 2209,
+          "like_count": 28828,
+          "listed_count": 18,
+          "media_count": 2866,
+          "tweet_count": 16819
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "不涉政。叫我小弦 小七哩。 七哩＝Chili🌶️是喜欢的乐队名，Yin是弦的粤语读音。 雏草姬喵。 我是男的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "永雏弦🎼🔮",
+        "pinned_tweet_id": "1932738224021246228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980117436717322240/w02lD6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 833,
+          "like_count": 114581,
+          "listed_count": 12,
+          "media_count": 653,
+          "tweet_count": 22800
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

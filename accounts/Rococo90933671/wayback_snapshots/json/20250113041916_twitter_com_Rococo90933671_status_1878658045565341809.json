@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1878630170002858050",
+    "created_at": "2025-01-13T04:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T05:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878658045565341809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878658045565341809",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878631277714444409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 岂不美哉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1878630170002858050",
+        "created_at": "2025-01-13T04:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T05:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878658045565341809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878658045565341809",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878631277714444409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 岂不美哉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278831792540139523",
+        "conversation_id": "1878630170002858050",
+        "created_at": "2025-01-13T02:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T03:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878631277714444409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878631277714444409",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878630170002858050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 芙宁娜臭脚😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4188,
+          "following_count": 2034,
+          "like_count": 21130,
+          "listed_count": 7,
+          "media_count": 1545,
+          "tweet_count": 11787
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "倡導健康優生文化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkG0FP"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Beijing",
+        "name": "❀三池はるか❀",
+        "pinned_tweet_id": "1298312196326174720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805971179242663936/WiHTu4T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 495,
+          "like_count": 24116,
+          "listed_count": 8,
+          "media_count": 5899,
+          "tweet_count": 30782
+        },
+        "url": "https://t.co/11RmQkG0FP",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

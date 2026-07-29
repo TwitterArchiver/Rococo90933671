@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2036848653298786400",
+    "created_at": "2026-03-25T23:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036947809812045889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036947809812045889",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036848653298786400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 其实这个号不但语言很ai，而且头像和背景图也很ai，看得让人恐怖谷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_2036848645589680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERXDS2bwAAkZwB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2036848653298786400",
+        "created_at": "2026-03-25T23:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036947809812045889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036947809812045889",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036848653298786400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 其实这个号不但语言很ai，而且头像和背景图也很ai，看得让人恐怖谷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036848645589680128"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2036848653298786400",
+        "created_at": "2026-03-25T16:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036848653298786400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvN8VQyiw8",
+              "end": 104,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2036848653298786400/photo/1",
+              "media_key": "3_2036848645589680128",
+              "start": 81,
+              "url": "https://t.co/lvN8VQyiw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036848653298786400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LLM 在接收到「反驳某某这段话」之类 prompt 时，会从记忆库里拉出相关性最高的反击模板并进行输出，比如「这句话的误区」，看起来像 ChatGPT 生成的 https://t.co/lvN8VQyiw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9762,
+          "following_count": 2761,
+          "like_count": 32448,
+          "listed_count": 27,
+          "media_count": 3440,
+          "tweet_count": 19216
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 293,
+          "like_count": 7602,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1789872662543757312"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1789872671607472295",
+    "created_at": "2024-05-13T04:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T05:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789872671607472295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ieqZmn9n0i",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1789872671607472295/photo/1",
+          "media_key": "3_1789872662543757312",
+          "start": 37,
+          "url": "https://t.co/ieqZmn9n0i"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1789802362707870076",
+          "start": 61,
+          "url": "https://t.co/2IsgXEdWcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789872671607472295",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789802362707870076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "响应李大师号召一起喝可乐，等下再去买副扑克，然后晚上开房造父母（大嘘）🥰 https://t.co/ieqZmn9n0i https://t.co/2IsgXEdWcQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1789872662543757312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNbntBQacAA87pg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789872662543757312"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1789872671607472295",
+        "created_at": "2024-05-13T04:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T05:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789872671607472295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ieqZmn9n0i",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1789872671607472295/photo/1",
+              "media_key": "3_1789872662543757312",
+              "start": 37,
+              "url": "https://t.co/ieqZmn9n0i"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1789802362707870076",
+              "start": 61,
+              "url": "https://t.co/2IsgXEdWcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789872671607472295",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789802362707870076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "响应李大师号召一起喝可乐，等下再去买副扑克，然后晚上开房造父母（大嘘）🥰 https://t.co/ieqZmn9n0i https://t.co/2IsgXEdWcQ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1789802362707870076",
+        "created_at": "2024-05-12T23:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T00:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789802362707870076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1072109417200414720",
+              "start": 74,
+              "username": "wangzhian8848"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hhhhhhhhhh6888…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/hhhhhhhhhh68887/status/1789800389992386596",
+              "start": 89,
+              "url": "https://t.co/vqfbnk7oPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789802362707870076",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789800389992386596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李大师万寿无疆🙏🏻🙏🏻🙏🏻和李大师一起喝可乐打扑克，晚上一起造父母🙏🏻🙏🏻🙏🏻每隔90天做一期讲李大师的youtube节目，就不会被大法弟子炸号了🥰@wangzhian8848 https://t.co/vqfbnk7oPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 371,
+          "like_count": 955,
+          "listed_count": 1,
+          "tweet_count": 1198
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

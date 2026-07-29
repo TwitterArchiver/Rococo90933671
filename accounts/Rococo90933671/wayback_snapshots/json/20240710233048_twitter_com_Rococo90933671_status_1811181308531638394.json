@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1809135370216374408",
+    "created_at": "2024-07-10T23:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T00:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811181308531638394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "hu2xiao3yu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811181308531638394",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809135370216374408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu2xiao3yu3 具体说了什么🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1809135370216374408",
+        "created_at": "2024-07-10T23:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T00:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811181308531638394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "hu2xiao3yu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811181308531638394",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809135370216374408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu2xiao3yu3 具体说了什么🤔"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809135367603564545"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1809135370216374408",
+        "created_at": "2024-07-05T08:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T09:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809135370216374408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2sSpp446Jk",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hu2xiao3yu3/status/1809135370216374408/photo/1",
+              "media_key": "3_1809135367603564545",
+              "start": 13,
+              "url": "https://t.co/2sSpp446Jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809135370216374408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于攻击华为喜提七天禁言 https://t.co/2sSpp446Jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1312,
+          "like_count": 11404,
+          "listed_count": 2,
+          "tweet_count": 5996
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "06男  准大一新生  互联网小透明 ISFP\n粉红勿扰   是fufu的提款机：)",
+        "id": "1697936336228126721",
+        "location": "理塘国",
+        "name": "陌小语🇺🇦（互fo）淡推ing...",
+        "pinned_tweet_id": "1810978121346339013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723569482789244928/n3ldtqPW_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 125,
+          "like_count": 1169,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "hu2xiao3yu3",
+        "verified": false
+      }
+    ]
+  }
+}

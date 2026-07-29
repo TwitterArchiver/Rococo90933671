@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066845812043423744"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2066664908536914329",
+    "created_at": "2026-06-16T11:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066845838719217961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOEL9AaFrn",
+          "end": 46,
+          "expanded_url": "https://x.com/Rococo90933671/status/2066845838719217961/photo/1",
+          "media_key": "3_2066845812043423744",
+          "start": 23,
+          "url": "https://t.co/MOEL9AaFrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066845838719217961",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066775543517966377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange I checked https://t.co/MOEL9AaFrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2183,
+        "media_key": "3_2066845812043423744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7pUMBaIAAQBFe.jpg",
+        "width": 1200
+      },
+      {
+        "height": 793,
+        "media_key": "3_2066775537738293248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6pZr1boAAtZIV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066845812043423744"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2066664908536914329",
+        "created_at": "2026-06-16T11:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066845838719217961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOEL9AaFrn",
+              "end": 46,
+              "expanded_url": "https://x.com/Rococo90933671/status/2066845838719217961/photo/1",
+              "media_key": "3_2066845812043423744",
+              "start": 23,
+              "url": "https://t.co/MOEL9AaFrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066845838719217961",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066775543517966377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange I checked https://t.co/MOEL9AaFrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066775537738293248"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066664908536914329",
+        "created_at": "2026-06-16T06:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066775543517966377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/55lFEX5pzD",
+              "end": 82,
+              "expanded_url": "https://x.com/tangeorange/status/2066775543517966377/photo/1",
+              "media_key": "3_2066775537738293248",
+              "start": 59,
+              "url": "https://t.co/55lFEX5pzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066775543517966377",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066664908536914329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 check this\nmy wise got blocked by this too https://t.co/55lFEX5pzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12802,
+          "following_count": 3109,
+          "like_count": 40774,
+          "listed_count": 41,
+          "media_count": 4355,
+          "tweet_count": 22662
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\ni have no bff yet |\nbuilding something fun\n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n微信 orgudev 🚧35\n闺蜜 @maoxianact @kxk1388574",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "maoxianact"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "kxk1388574"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2065426474606481620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3228,
+          "following_count": 2866,
+          "like_count": 9012,
+          "listed_count": 5,
+          "media_count": 1330,
+          "tweet_count": 8835
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      }
+    ],
+    "conversation_id": "1847845023850922013",
+    "created_at": "2024-10-20T15:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T16:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848023955988230364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Xiao_Hao_4/sta…",
+          "end": 42,
+          "expanded_url": "https://x.com/Xiao_Hao_4/status/1789248996671631711?t=Y_fQNpqI3ub4YJ_pGbY6jQ&s=19",
+          "start": 19,
+          "url": "https://t.co/qSZuEmCwr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848023955988230364",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789248996671631711",
+        "type": "quoted"
+      },
+      {
+        "id": "1847845023850922013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 🤓\nhttps://t.co/qSZuEmCwr9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          }
+        ],
+        "conversation_id": "1847845023850922013",
+        "created_at": "2024-10-20T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848023955988230364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Xiao_Hao_4/sta…",
+              "end": 42,
+              "expanded_url": "https://x.com/Xiao_Hao_4/status/1789248996671631711?t=Y_fQNpqI3ub4YJ_pGbY6jQ&s=19",
+              "start": 19,
+              "url": "https://t.co/qSZuEmCwr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848023955988230364",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789248996671631711",
+            "type": "quoted"
+          },
+          {
+            "id": "1847845023850922013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 🤓\nhttps://t.co/qSZuEmCwr9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684183227387326465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735161250111488",
+              "name": "Hiroshi Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735161250111488",
+              "name": "Hiroshi Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735161250111488",
+              "name": "Hiroshi Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          }
+        ],
+        "conversation_id": "1788336806775464101",
+        "created_at": "2024-05-11T10:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T11:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789248996671631711"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "山田先生",
+              "probability": 0.9313,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 23,
+              "normalized_text": "岸田首相",
+              "probability": 0.9426,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "中国",
+              "probability": 0.3869,
+              "start": 48,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669900392",
+              "start": 0,
+              "username": "yamazogaikuzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789248996671631711",
+        "in_reply_to_user_id": "1669900392",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 138356,
+          "like_count": 645,
+          "quote_count": 34,
+          "reply_count": 70,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788336806775464101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazogaikuzo 山田先生、岸田首相に伝えてください。これは純粋な個人的行為であり、中国政府とは何の関係もありません。ありがとうございます"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847845016045309953",
+            "3_1847845016041115650",
+            "3_1847845016045309952",
+            "3_1847845016036921346"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "conversation_id": "1847845023850922013",
+        "created_at": "2024-10-20T03:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T04:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847845023850922013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGxQ2AmKWo",
+              "end": 29,
+              "expanded_url": "https://x.com/miku_suki393939/status/1847845023850922013/photo/1",
+              "media_key": "3_1847845016045309953",
+              "start": 6,
+              "url": "https://t.co/wGxQ2AmKWo"
+            },
+            {
+              "display_url": "pic.x.com/wGxQ2AmKWo",
+              "end": 29,
+              "expanded_url": "https://x.com/miku_suki393939/status/1847845023850922013/photo/1",
+              "media_key": "3_1847845016041115650",
+              "start": 6,
+              "url": "https://t.co/wGxQ2AmKWo"
+            },
+            {
+              "display_url": "pic.x.com/wGxQ2AmKWo",
+              "end": 29,
+              "expanded_url": "https://x.com/miku_suki393939/status/1847845023850922013/photo/1",
+              "media_key": "3_1847845016045309952",
+              "start": 6,
+              "url": "https://t.co/wGxQ2AmKWo"
+            },
+            {
+              "display_url": "pic.x.com/wGxQ2AmKWo",
+              "end": 29,
+              "expanded_url": "https://x.com/miku_suki393939/status/1847845023850922013/photo/1",
+              "media_key": "3_1847845016036921346",
+              "start": 6,
+              "url": "https://t.co/wGxQ2AmKWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847845023850922013",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1178,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "來看護衛艦 https://t.co/wGxQ2AmKWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 1873,
+          "like_count": 16864,
+          "listed_count": 4,
+          "tweet_count": 9279
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "在日二次元，喜歡ACG。偶像厨，音游狗「プロセカ皆伝260」，管人痴，喊call应援家，ヲた芸初級打師，厄介小鬼，MIX警察。喜歡二次元不是一種罪，偌大一個國家，連人們喜歡二次元的愛好都要進行打壓，不允許人們擁有自己的小天地。那就別談實現所謂的民族偉大復興，更別扯爲世界指明方向 終不悔為伊憔悴，回首闌珊處，獨望衆天涯",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋節操🌸🇯🇵",
+        "pinned_tweet_id": "1772835531313025098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 1600,
+          "like_count": 115263,
+          "listed_count": 16,
+          "tweet_count": 41384
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T12:45:54.000Z",
+        "description": "世界首席無人機盗撮芸術家",
+        "id": "1684183227387326465",
+        "name": "这是我小号4",
+        "pinned_tweet_id": "1789248996671631711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774923058060701696/PVI1hjL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7358,
+          "following_count": 2,
+          "like_count": 44,
+          "listed_count": 46,
+          "tweet_count": 82
+        },
+        "username": "Xiao_Hao_4",
+        "verified": false
+      }
+    ]
+  }
+}

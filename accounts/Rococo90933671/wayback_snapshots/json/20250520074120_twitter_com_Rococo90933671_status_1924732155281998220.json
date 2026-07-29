@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1924705390236725540",
+    "created_at": "2025-05-20T07:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T08:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924732155281998220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924732155281998220",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924705390236725540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 这父亲可太培养督促了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924705383530082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXtWUqXsAAxuCI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924705383517495296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXtWUnXoAAd-Bw.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924705383542554624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXtWUtWAAADPXp.jpg",
+        "width": 944
+      },
+      {
+        "height": 800,
+        "media_key": "3_1924705383550980096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrXtWUvWkAAPbpg.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1924705390236725540",
+        "created_at": "2025-05-20T07:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T08:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924732155281998220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924732155281998220",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924705390236725540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 这父亲可太培养督促了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924705383530082304",
+            "3_1924705383517495296",
+            "3_1924705383542554624",
+            "3_1924705383550980096"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1924705390236725540",
+        "created_at": "2025-05-20T05:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924705390236725540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKrb6jcLUF",
+              "end": 90,
+              "expanded_url": "https://x.com/boiledwater/status/1924705390236725540/photo/1",
+              "media_key": "3_1924705383530082304",
+              "start": 67,
+              "url": "https://t.co/QKrb6jcLUF"
+            },
+            {
+              "display_url": "pic.x.com/QKrb6jcLUF",
+              "end": 90,
+              "expanded_url": "https://x.com/boiledwater/status/1924705390236725540/photo/1",
+              "media_key": "3_1924705383517495296",
+              "start": 67,
+              "url": "https://t.co/QKrb6jcLUF"
+            },
+            {
+              "display_url": "pic.x.com/QKrb6jcLUF",
+              "end": 90,
+              "expanded_url": "https://x.com/boiledwater/status/1924705390236725540/photo/1",
+              "media_key": "3_1924705383542554624",
+              "start": 67,
+              "url": "https://t.co/QKrb6jcLUF"
+            },
+            {
+              "display_url": "pic.x.com/QKrb6jcLUF",
+              "end": 90,
+              "expanded_url": "https://x.com/boiledwater/status/1924705390236725540/photo/1",
+              "media_key": "3_1924705383550980096",
+              "start": 67,
+              "url": "https://t.co/QKrb6jcLUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924705390236725540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4140,
+          "like_count": 52,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "朱宏鑫，2016年出生，9岁，围棋6段。长期因输棋被父亲极端殴打，最终选择了跳楼。\n\n大家可以搜下“朱宏鑫 围棋”，图一是我搜到的。 https://t.co/QKrb6jcLUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 2143,
+          "like_count": 24565,
+          "listed_count": 11,
+          "media_count": 2116,
+          "tweet_count": 14055
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess 今月定将照后人",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42011,
+          "following_count": 1770,
+          "like_count": 29102,
+          "listed_count": 0,
+          "media_count": 4569,
+          "tweet_count": 35669
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

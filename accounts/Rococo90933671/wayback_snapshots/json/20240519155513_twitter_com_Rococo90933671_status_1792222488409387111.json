@@ -1,0 +1,314 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792075478599348679",
+    "created_at": "2024-05-19T15:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T16:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792222488409387111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "400521568",
+          "start": 0,
+          "username": "hermitgeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792222488409387111",
+    "in_reply_to_user_id": "400521568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792075478599348679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hermitgeo 裸足大好き🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792075478599348679",
+        "created_at": "2024-05-19T15:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T16:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792222488409387111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "400521568",
+              "start": 0,
+              "username": "hermitgeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792222488409387111",
+        "in_reply_to_user_id": "400521568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792075478599348679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hermitgeo 裸足大好き🥰"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792074671720144896"
+          ]
+        },
+        "author_id": "400521568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1792075478599348679",
+        "created_at": "2024-05-19T06:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792075478599348679"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "呆呆一呆呆",
+              "probability": 0.4932,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "スターレイル"
+            },
+            {
+              "end": 68,
+              "start": 53,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1Pk4y1…",
+              "end": 44,
+              "expanded_url": "https://www.bilibili.com/video/BV1Pk4y137AK",
+              "start": 21,
+              "unwound_url": "https://www.bilibili.com/video/BV1Pk4y137AK/",
+              "url": "https://t.co/TTSgbGgXjq"
+            },
+            {
+              "display_url": "pic.twitter.com/WpZXk9CCjW",
+              "end": 92,
+              "expanded_url": "https://twitter.com/hermitgeo/status/1792075478599348679/photo/1",
+              "media_key": "3_1792074671720144896",
+              "start": 69,
+              "url": "https://t.co/WpZXk9CCjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792075478599348679",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸足青雀ちゃんMMD 🥰\n『呆呆一呆呆』\nhttps://t.co/TTSgbGgXjq\n#スターレイル #HonkaiStarRail https://t.co/WpZXk9CCjW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 637,
+          "like_count": 2025,
+          "listed_count": 0,
+          "tweet_count": 1988
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-29T05:12:17.000Z",
+        "description": "Conservative Liberalist. Blue Archive. Fav: Hare (小鈎ハレ). Mutual follow welcome. En/Jp/Cn. BG: Ōsaka Port in 2009 🇯🇵",
+        "id": "400521568",
+        "location": "Hokkaidō",
+        "name": "George the Hermit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742281315020619776/K5uSVHfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 238,
+          "like_count": 3336,
+          "listed_count": 2,
+          "tweet_count": 4318
+        },
+        "username": "hermitgeo",
+        "verified": false
+      }
+    ]
+  }
+}

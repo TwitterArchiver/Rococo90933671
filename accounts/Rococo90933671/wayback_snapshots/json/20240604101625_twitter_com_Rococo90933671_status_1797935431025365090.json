@@ -1,0 +1,375 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Royal Family",
+          "id": "1098692833333014528",
+          "name": "British Royal Family"
+        }
+      }
+    ],
+    "conversation_id": "1796812861668487368",
+    "created_at": "2024-06-04T10:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T11:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797935431025365090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "36042554",
+          "start": 0,
+          "username": "RoyalFamily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797935431025365090",
+    "in_reply_to_user_id": "36042554",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796812861668487368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoyalFamily Happy birthday young man🇬🇧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          }
+        ],
+        "conversation_id": "1796812861668487368",
+        "created_at": "2024-06-04T10:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T11:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797935431025365090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "36042554",
+              "start": 0,
+              "username": "RoyalFamily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797935431025365090",
+        "in_reply_to_user_id": "36042554",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796812861668487368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoyalFamily Happy birthday young man🇬🇧"
+      },
+      {
+        "attachments": {},
+        "author_id": "36042554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1285670730764480516",
+              "name": "Buckingham Palace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285670730764480516",
+              "name": "Buckingham Palace"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658178157735937",
+              "name": "United Kingdom political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1285670730764480516",
+              "name": "Buckingham Palace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Veterans",
+              "id": "847546079042093056",
+              "name": "Veterans"
+            }
+          }
+        ],
+        "conversation_id": "1796812861668487368",
+        "created_at": "2024-06-01T07:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T08:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796812861668487368"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Jim",
+              "probability": 0.606,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/poppylegion/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/poppylegion/status/1796798845520667083",
+              "start": 23,
+              "url": "https://t.co/r9eqQ1zRbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796812861668487368",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 287281,
+          "like_count": 5533,
+          "quote_count": 16,
+          "reply_count": 297,
+          "retweet_count": 494
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796798845520667083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥳 Happy Birthday, Jim! https://t.co/r9eqQ1zRbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 935,
+          "like_count": 5658,
+          "listed_count": 0,
+          "tweet_count": 3676
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-28T11:31:02.000Z",
+        "description": "The latest news and updates on the work of The King, The Queen and The Royal Family.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "royal.uk",
+                "end": 23,
+                "expanded_url": "http://www.royal.uk",
+                "start": 0,
+                "url": "https://t.co/vi7yfrg3iw"
+              }
+            ]
+          }
+        },
+        "id": "36042554",
+        "location": "United Kingdom",
+        "name": "The Royal Family",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724107436556951552/XbmBPg9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5693954,
+          "following_count": 465,
+          "like_count": 4978,
+          "listed_count": 10632,
+          "tweet_count": 39344
+        },
+        "url": "https://t.co/vi7yfrg3iw",
+        "username": "RoyalFamily",
+        "verified": true
+      }
+    ]
+  }
+}

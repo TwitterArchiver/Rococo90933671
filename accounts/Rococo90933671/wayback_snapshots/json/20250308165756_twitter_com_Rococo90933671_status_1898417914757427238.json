@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1898417914757427238",
+    "created_at": "2025-03-08T16:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T17:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898417914757427238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moeKafuuChino/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/moeKafuuChino/status/1898397122493563270",
+          "start": 22,
+          "url": "https://t.co/DySS6rTZfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898417914757427238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898397122493563270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蛋糕只有这么大，还要被不缺钱的人割走一大半 https://t.co/DySS6rTZfc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1898417914757427238",
+        "created_at": "2025-03-08T16:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T17:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898417914757427238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moeKafuuChino/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/moeKafuuChino/status/1898397122493563270",
+              "start": 22,
+              "url": "https://t.co/DySS6rTZfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898417914757427238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898397122493563270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蛋糕只有这么大，还要被不缺钱的人割走一大半 https://t.co/DySS6rTZfc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1898397122493563270",
+        "created_at": "2025-03-08T15:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898397122493563270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moekafuuchino/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/moekafuuchino/status/1898395760523354182",
+              "start": 141,
+              "url": "https://t.co/UXvzYp9TsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898397122493563270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898395760523354182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做个假设吧，如果中国政府哪天想明白了不是所有人都要当科学家，把高考内容改成了语文、体育、劳动技能、社会常识等，并且后几者都是有实践项目的考察，不考虑公平性等问题，你猜猜我们可怜的学生们能不能过上轻松的日子？\n当然是不能的，因为还是只有10%的人能获得月薪8000有双休的工作(1) https://t.co/UXvzYp9TsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4712,
+          "following_count": 2138,
+          "like_count": 23263,
+          "listed_count": 9,
+          "media_count": 1792,
+          "tweet_count": 12962
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "不是智乃，是智乃的男朋友，人生梦想大概是包养她🩵",
+        "id": "1615586607482163201",
+        "name": "智乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894690697393139712/5O7E1wyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1199,
+          "like_count": 35592,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 1162
+        },
+        "username": "moeKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1828748614845546685",
+    "created_at": "2024-08-28T13:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T14:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828788176531722513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        },
+        {
+          "end": 26,
+          "id": "1687657652636278784",
+          "start": 17,
+          "username": "baomixjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828788176531722513",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828748614845546685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 @baomixjp 说个题外话：\n\n Google翻訳が翻訳できるモンゴル語はキリル文字のモンゴル語だが、伝統的なモンゴル語は翻訳できないので、伝統的なモンゴル語で誰かを罵れば、罵られる相手が知らないようにすることができる。そして、アカウント停止の危険性が下がる😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1828748614845546685",
+        "created_at": "2024-08-28T13:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T14:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828788176531722513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            },
+            {
+              "end": 26,
+              "id": "1687657652636278784",
+              "start": 17,
+              "username": "baomixjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828788176531722513",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828748614845546685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 @baomixjp 说个题外话：\n\n Google翻訳が翻訳できるモンゴル語はキリル文字のモンゴル語だが、伝統的なモンゴル語は翻訳できないので、伝統的なモンゴル語で誰かを罵れば、罵られる相手が知らないようにすることができる。そして、アカウント停止の危険性が下がる😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828748578623524865",
+            "3_1828748578606739456",
+            "3_1828748578573156353",
+            "3_1828748578581544961"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1828748614845546685",
+        "created_at": "2024-08-28T10:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T11:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828748614845546685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687657652636278784",
+              "start": 2,
+              "username": "baomixjp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2e8mr8gq6v",
+              "end": 59,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1828748614845546685/photo/1",
+              "media_key": "3_1828748578623524865",
+              "start": 36,
+              "url": "https://t.co/2e8mR8gq6v"
+            },
+            {
+              "display_url": "pic.x.com/2e8mr8gq6v",
+              "end": 59,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1828748614845546685/photo/1",
+              "media_key": "3_1828748578606739456",
+              "start": 36,
+              "url": "https://t.co/2e8mR8gq6v"
+            },
+            {
+              "display_url": "pic.x.com/2e8mr8gq6v",
+              "end": 59,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1828748614845546685/photo/1",
+              "media_key": "3_1828748578573156353",
+              "start": 36,
+              "url": "https://t.co/2e8mR8gq6v"
+            },
+            {
+              "display_url": "pic.x.com/2e8mr8gq6v",
+              "end": 59,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1828748614845546685/photo/1",
+              "media_key": "3_1828748578581544961",
+              "start": 36,
+              "url": "https://t.co/2e8mR8gq6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828748614845546685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1041,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "慶祝@baomixjp 順利成為正社員\n今天一起久違的吃個蒙古🇲🇳餐🥺 https://t.co/2e8mR8gq6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1658,
+          "like_count": 14803,
+          "listed_count": 2,
+          "tweet_count": 7797
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "在日二次元，喜歡ACG。偶像厨，音游狗「プロセカ皆伝260」，管人痴，喊call应援家，ヲた芸初級打師，厄介小鬼，MIX警察。喜歡二次元不是一種罪，偌大一個國家，連人們喜歡二次元的愛好都要進行打壓，不允許人們擁有自己的小天地。那就別談實現所謂的民族偉大復興，更別扯爲世界指明方向 愛我家 @kotorichyandesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "kotorichyandesu"
+              }
+            ]
+          }
+        },
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋芥懆🌸",
+        "pinned_tweet_id": "1822944673914331394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1540,
+          "like_count": 102023,
+          "listed_count": 11,
+          "tweet_count": 35283
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T02:52:17.000Z",
+        "description": "潤🇯🇵中專生 🚪888",
+        "id": "1687657652636278784",
+        "location": "星穹鐵道UID:100376294",
+        "name": "翠々砂☸",
+        "pinned_tweet_id": "1807720546756624882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809546802015924226/qdRssn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1311,
+          "like_count": 29364,
+          "listed_count": 6,
+          "tweet_count": 8432
+        },
+        "username": "baomixjp",
+        "verified": false
+      }
+    ]
+  }
+}

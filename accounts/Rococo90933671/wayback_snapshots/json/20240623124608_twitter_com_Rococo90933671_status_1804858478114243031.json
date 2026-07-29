@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1804857244774781194",
+    "created_at": "2024-06-23T12:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T13:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804858478114243031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "973118976728453122",
+          "start": 0,
+          "username": "DoesXiStepDown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804858478114243031",
+    "in_reply_to_user_id": "973118976728453122",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804857244774781194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoesXiStepDown 通过！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1804857244774781194",
+        "created_at": "2024-06-23T12:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804858478114243031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "973118976728453122",
+              "start": 0,
+              "username": "DoesXiStepDown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804858478114243031",
+        "in_reply_to_user_id": "973118976728453122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804857244774781194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoesXiStepDown 通过！"
+      },
+      {
+        "attachments": {},
+        "author_id": "973118976728453122",
+        "conversation_id": "1804857244774781194",
+        "created_at": "2024-06-23T12:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804857244774781194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804857244774781194",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 1263,
+          "like_count": 10244,
+          "listed_count": 3,
+          "tweet_count": 5429
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-12T08:50:18.000Z",
+        "description": "",
+        "id": "973118976728453122",
+        "name": "习近平今天下台了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790711645611667456/wIDwdes__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10651,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 14,
+          "tweet_count": 2226
+        },
+        "username": "DoesXiStepDown",
+        "verified": false
+      }
+    ]
+  }
+}

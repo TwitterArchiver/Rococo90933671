@@ -1,0 +1,302 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792348663450353664"
+      ],
+      "media_source_tweet_id": [
+        "1792348666445054184"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1792507609603580082",
+    "created_at": "2024-05-20T10:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T11:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792507609603580082"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "リゼちゃん",
+          "probability": 0.8288,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1057933172",
+          "start": 3,
+          "username": "Hide19820911"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/RZC5BHnlB2",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Hide19820911/status/1792348666445054184/photo/1",
+          "media_key": "3_1792348663450353664",
+          "start": 47,
+          "url": "https://t.co/RZC5BHnlB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792507609603580082",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792348666445054184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hide19820911: おーおー、荒れとる荒れとる。リゼちゃん、鼻から飲もうね🎶 https://t.co/RZC5BHnlB2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1792348663450353664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN-znPaawAABXPl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792348663450353664"
+          ],
+          "media_source_tweet_id": [
+            "1792348666445054184"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1792507609603580082",
+        "created_at": "2024-05-20T10:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T11:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792507609603580082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "リゼちゃん",
+              "probability": 0.8288,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1057933172",
+              "start": 3,
+              "username": "Hide19820911"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RZC5BHnlB2",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Hide19820911/status/1792348666445054184/photo/1",
+              "media_key": "3_1792348663450353664",
+              "start": 47,
+              "url": "https://t.co/RZC5BHnlB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792507609603580082",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792348666445054184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hide19820911: おーおー、荒れとる荒れとる。リゼちゃん、鼻から飲もうね🎶 https://t.co/RZC5BHnlB2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792348663450353664"
+          ]
+        },
+        "author_id": "1057933172",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1792348666445054184",
+        "created_at": "2024-05-20T00:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T01:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792348666445054184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "リゼちゃん",
+              "probability": 0.8242,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RZC5BHnlB2",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Hide19820911/status/1792348666445054184/photo/1",
+              "media_key": "3_1792348663450353664",
+              "start": 29,
+              "url": "https://t.co/RZC5BHnlB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792348666445054184",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おーおー、荒れとる荒れとる。リゼちゃん、鼻から飲もうね🎶 https://t.co/RZC5BHnlB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 669,
+          "like_count": 2144,
+          "listed_count": 0,
+          "tweet_count": 2070
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T14:33:36.000Z",
+        "description": "リゼちゃん推し。2月14日生まれ/みずがめ座/A型/乙女で可愛らしい女の子。 きらファンでは最期の水着を搔っ攫った。永遠に推していきます。 推し絵師：りょうたん( @ryoutanf )さん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "ryoutanf"
+              }
+            ]
+          }
+        },
+        "id": "1057933172",
+        "location": "仙台",
+        "name": "しでお@リゼちゃん誕生日まであと365日/きらファンありがとう",
+        "pinned_tweet_id": "1757419357582528835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791125160449499137/6rJ78R7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1521,
+          "like_count": 193393,
+          "listed_count": 27,
+          "tweet_count": 94011
+        },
+        "username": "Hide19820911",
+        "verified": false
+      }
+    ]
+  }
+}

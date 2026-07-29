@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071114062830977024"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2071119531624587517",
+    "created_at": "2026-06-28T06:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071119531624587517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HXkctyTJPd",
+          "end": 190,
+          "expanded_url": "https://x.com/Rococo90933671/status/2071119531624587517/photo/1",
+          "media_key": "3_2071114062830977024",
+          "start": 167,
+          "url": "https://t.co/HXkctyTJPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071119531624587517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。\n\n有一种观点是：\n\n如果结合PV和棋局来看，钟离反而是压制右上角天理的关键，生之执政反水击败死之执政可能性更高。至于空之执政去哪了，有一种可能是，跟着反主推翻天理去了。\n\n空之神殿可以拿到一本书《少女薇拉的忧郁》。书里有暗示说，天理躯体还在，但是灵魂已死，实际上里面是尼伯龙根在维系天理的身躯"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。 https://t.co/HXkctyTJPd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2071114062830977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4TRFRbQAA-pnN.png",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071114062830977024"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2071119531624587517",
+        "created_at": "2026-06-28T06:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071119531624587517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXkctyTJPd",
+              "end": 190,
+              "expanded_url": "https://x.com/Rococo90933671/status/2071119531624587517/photo/1",
+              "media_key": "3_2071114062830977024",
+              "start": 167,
+              "url": "https://t.co/HXkctyTJPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071119531624587517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。\n\n有一种观点是：\n\n如果结合PV和棋局来看，钟离反而是压制右上角天理的关键，生之执政反水击败死之执政可能性更高。至于空之执政去哪了，有一种可能是，跟着反主推翻天理去了。\n\n空之神殿可以拿到一本书《少女薇拉的忧郁》。书里有暗示说，天理躯体还在，但是灵魂已死，实际上里面是尼伯龙根在维系天理的身躯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。 https://t.co/HXkctyTJPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13062,
+          "following_count": 3159,
+          "like_count": 41971,
+          "listed_count": 40,
+          "media_count": 4504,
+          "tweet_count": 23262
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

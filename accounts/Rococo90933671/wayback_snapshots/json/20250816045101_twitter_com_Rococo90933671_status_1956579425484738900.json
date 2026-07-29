@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956579405406560256",
+        "3_1956579405905768448"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1956579363601944879",
+    "created_at": "2025-08-16T04:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T05:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956579425484738900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8w2VNoH0z",
+          "end": 28,
+          "expanded_url": "https://x.com/Rococo90933671/status/1956579425484738900/photo/1",
+          "media_key": "3_1956579405406560256",
+          "start": 5,
+          "url": "https://t.co/C8w2VNoH0z"
+        },
+        {
+          "display_url": "pic.x.com/C8w2VNoH0z",
+          "end": 28,
+          "expanded_url": "https://x.com/Rococo90933671/status/1956579425484738900/photo/1",
+          "media_key": "3_1956579405905768448",
+          "start": 5,
+          "url": "https://t.co/C8w2VNoH0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956579425484738900",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956579397957189755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8.16 https://t.co/C8w2VNoH0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956579405406560256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycqmlIaYAAF4Co.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956579405905768448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gycqmm_bsAAP6fk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956579368110899200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycqkaMbwAAnOJL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956579368794566656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycqkcvbsAAU1UV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956579368953901056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycqkdVa8AAL5_9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956579369851461632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycqkgraoAARGvp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956579405406560256",
+            "3_1956579405905768448"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956579363601944879",
+        "created_at": "2025-08-16T04:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956579425484738900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8w2VNoH0z",
+              "end": 28,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579425484738900/photo/1",
+              "media_key": "3_1956579405406560256",
+              "start": 5,
+              "url": "https://t.co/C8w2VNoH0z"
+            },
+            {
+              "display_url": "pic.x.com/C8w2VNoH0z",
+              "end": 28,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579425484738900/photo/1",
+              "media_key": "3_1956579405905768448",
+              "start": 5,
+              "url": "https://t.co/C8w2VNoH0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956579425484738900",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956579397957189755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8.16 https://t.co/C8w2VNoH0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956579368110899200",
+            "3_1956579368794566656",
+            "3_1956579368953901056",
+            "3_1956579369851461632"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956579363601944879",
+        "created_at": "2025-08-16T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956579397957189755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5futQ0ao4B",
+              "end": 33,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579397957189755/photo/1",
+              "media_key": "3_1956579368110899200",
+              "start": 10,
+              "url": "https://t.co/5futQ0ao4B"
+            },
+            {
+              "display_url": "pic.x.com/5futQ0ao4B",
+              "end": 33,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579397957189755/photo/1",
+              "media_key": "3_1956579368794566656",
+              "start": 10,
+              "url": "https://t.co/5futQ0ao4B"
+            },
+            {
+              "display_url": "pic.x.com/5futQ0ao4B",
+              "end": 33,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579397957189755/photo/1",
+              "media_key": "3_1956579368953901056",
+              "start": 10,
+              "url": "https://t.co/5futQ0ao4B"
+            },
+            {
+              "display_url": "pic.x.com/5futQ0ao4B",
+              "end": 33,
+              "expanded_url": "https://x.com/Rococo90933671/status/1956579397957189755/photo/1",
+              "media_key": "3_1956579369851461632",
+              "start": 10,
+              "url": "https://t.co/5futQ0ao4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956579397957189755",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956579363601944879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8.12~8.15 https://t.co/5futQ0ao4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5368,
+          "following_count": 2191,
+          "like_count": 26833,
+          "listed_count": 12,
+          "media_count": 2499,
+          "tweet_count": 15507
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

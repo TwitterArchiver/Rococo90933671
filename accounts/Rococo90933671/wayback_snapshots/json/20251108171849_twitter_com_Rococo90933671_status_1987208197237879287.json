@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1987098130530377892",
+    "created_at": "2025-11-08T17:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208197237879287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "citric_baizhou"
+        },
+        {
+          "end": 32,
+          "id": "1667851059346427914",
+          "start": 16,
+          "username": "hoshi_Asuka0089"
+        },
+        {
+          "end": 49,
+          "id": "1688233455363219456",
+          "start": 33,
+          "username": "JR_YamanoteE235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208197237879287",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987101070179582344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citric_baizhou @hoshi_Asuka0089 @JR_YamanoteE235 最新的还是3月12号gta6的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1987098130530377892",
+        "created_at": "2025-11-08T17:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208197237879287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "citric_baizhou"
+            },
+            {
+              "end": 32,
+              "id": "1667851059346427914",
+              "start": 16,
+              "username": "hoshi_Asuka0089"
+            },
+            {
+              "end": 49,
+              "id": "1688233455363219456",
+              "start": 33,
+              "username": "JR_YamanoteE235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208197237879287",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987101070179582344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citric_baizhou @hoshi_Asuka0089 @JR_YamanoteE235 最新的还是3月12号gta6的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670362954590728197",
+        "conversation_id": "1987098130530377892",
+        "created_at": "2025-11-08T10:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987101070179582344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            },
+            {
+              "end": 33,
+              "id": "1688233455363219456",
+              "start": 17,
+              "username": "JR_YamanoteE235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987101070179582344",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987098913976009072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 @JR_YamanoteE235 牢闪有发啥定时推吗，我号没了看不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6522,
+          "following_count": 2210,
+          "like_count": 28707,
+          "listed_count": 19,
+          "media_count": 2830,
+          "tweet_count": 16716
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07｜Intel黄泛区做题郭楠长毛人妖｜初めから持ってないのに胸が痛んだ。｜里@kagurazakahyoto🐽❤️@tanbara_ririka｜🚪8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tanbara_ririka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo070413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo070413",
+                "start": 0,
+                "url": "https://t.co/ITol52PXsh"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "Xiamen",
+        "name": "枸櫞酸白粥緩釋片🐳🏒",
+        "pinned_tweet_id": "1972936706203783189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984745125243936768/uULvaLXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1165,
+          "like_count": 25315,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 4456
+        },
+        "url": "https://t.co/ITol52PXsh",
+        "username": "citric_baizhou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "遗憾一直都有，错过的事也会一直存在🫴😩✋️",
+        "id": "1667851059346427914",
+        "location": "沖ノ鳥島",
+        "name": "🍍飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1985270991677968582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 993,
+          "like_count": 82271,
+          "listed_count": 3,
+          "media_count": 949,
+          "tweet_count": 13517
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "牡丹は散っても花だ 夏が去っても追慕は切だ",
+        "id": "1688233455363219456",
+        "name": "JR東日本E235系電車 山手線",
+        "pinned_tweet_id": "1850524863343288383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849373688258576384/cmk7PSGT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 965,
+          "like_count": 119244,
+          "listed_count": 7,
+          "media_count": 2543,
+          "tweet_count": 24626
+        },
+        "username": "JR_YamanoteE235",
+        "verified": false
+      }
+    ]
+  }
+}

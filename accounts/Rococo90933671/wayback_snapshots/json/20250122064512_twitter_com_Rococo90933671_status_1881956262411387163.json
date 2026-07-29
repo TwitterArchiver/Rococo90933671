@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881864041020186625"
+      ],
+      "media_source_tweet_id": [
+        "1881864048788316395"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1881956262411387163",
+    "created_at": "2025-01-22T06:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T07:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881956262411387163"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "原神"
+        },
+        {
+          "end": 41,
+          "start": 27,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "Citlali"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "シトラリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1569979380268498945",
+          "start": 3,
+          "username": "GenshinWaifu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yf257KaF1I",
+          "end": 80,
+          "expanded_url": "https://x.com/GenshinWaifu_/status/1881864048788316395/photo/1",
+          "media_key": "3_1881864041020186625",
+          "start": 57,
+          "url": "https://t.co/Yf257KaF1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881956262411387163",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881864048788316395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GenshinWaifu_: 🩷✨️\n#原神 #GenshinImpact #Citlali #シトラリ https://t.co/Yf257KaF1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1881864041020186625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh25X_CW4AE5msw.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881864041020186625"
+          ],
+          "media_source_tweet_id": [
+            "1881864048788316395"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1881956262411387163",
+        "created_at": "2025-01-22T06:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T07:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881956262411387163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "原神"
+            },
+            {
+              "end": 41,
+              "start": 27,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "Citlali"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "シトラリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1569979380268498945",
+              "start": 3,
+              "username": "GenshinWaifu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yf257KaF1I",
+              "end": 80,
+              "expanded_url": "https://x.com/GenshinWaifu_/status/1881864048788316395/photo/1",
+              "media_key": "3_1881864041020186625",
+              "start": 57,
+              "url": "https://t.co/Yf257KaF1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881956262411387163",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881864048788316395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GenshinWaifu_: 🩷✨️\n#原神 #GenshinImpact #Citlali #シトラリ https://t.co/Yf257KaF1I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881864041020186625"
+          ]
+        },
+        "author_id": "1569979380268498945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1881864048788316395",
+        "created_at": "2025-01-22T00:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T01:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881864048788316395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "原神"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Citlali"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "シトラリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yf257KaF1I",
+              "end": 61,
+              "expanded_url": "https://x.com/GenshinWaifu_/status/1881864048788316395/photo/1",
+              "media_key": "3_1881864041020186625",
+              "start": 38,
+              "url": "https://t.co/Yf257KaF1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881864048788316395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 2131,
+          "like_count": 316,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "🩷✨️\n#原神 #GenshinImpact #Citlali #シトラリ https://t.co/Yf257KaF1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 2052,
+          "like_count": 21371,
+          "listed_count": 7,
+          "media_count": 1591,
+          "tweet_count": 11992
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T09:20:43.000Z",
+        "description": "Daily post of Genshin impact Waifu ! #原神 💖 || Crédits to the respective artists | Enjoy the Content ✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "原神"
+              }
+            ]
+          }
+        },
+        "id": "1569979380268498945",
+        "name": "Genshin Impact Waifu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669422819732602880/tk8Tc0jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59266,
+          "following_count": 6,
+          "like_count": 158,
+          "listed_count": 232,
+          "media_count": 432,
+          "tweet_count": 872
+        },
+        "username": "GenshinWaifu_",
+        "verified": false
+      }
+    ]
+  }
+}

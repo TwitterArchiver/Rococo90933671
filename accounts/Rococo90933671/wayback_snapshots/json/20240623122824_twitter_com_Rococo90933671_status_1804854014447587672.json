@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1804847695376658546",
+    "created_at": "2024-06-23T12:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T13:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804854014447587672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657726063806660609",
+          "start": 0,
+          "username": "XiaoZhi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804854014447587672",
+    "in_reply_to_user_id": "1657726063806660609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804847695376658546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi443 没关系，就当跑1km了🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1804847695376658546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1804847695376658546",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1804847695376658546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1804847695376658546",
+        "created_at": "2024-06-23T12:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804854014447587672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657726063806660609",
+              "start": 0,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804854014447587672",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804847695376658546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi443 没关系，就当跑1km了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 1261,
+          "like_count": 10232,
+          "listed_count": 3,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T12:35:41.000Z",
+        "description": "🏳️‍🌈 Bi • INFP • 某人的小号",
+        "id": "1657726063806660609",
+        "name": "小智",
+        "pinned_tweet_id": "1785171691511095408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779054710508670976/VoaqCsuN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 179,
+          "like_count": 4818,
+          "listed_count": 1,
+          "tweet_count": 1463
+        },
+        "username": "XiaoZhi443",
+        "verified": false
+      }
+    ]
+  }
+}

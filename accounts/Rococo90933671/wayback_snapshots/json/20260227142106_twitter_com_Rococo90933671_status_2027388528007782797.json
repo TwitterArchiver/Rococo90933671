@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2027388528007782797",
+    "created_at": "2026-02-27T14:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027388528007782797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2009197131924677021",
+          "start": 141,
+          "url": "https://t.co/EiVfUsUefa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027388528007782797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009197131924677021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后来，我发现自己氪金玩原神很容易变成花钱买罪受，因为我氪不起高命，追求全图鉴，所以深渊照样坐牢，尤其是新深渊。\n那我为什么全勤五年直到今年1月才退呢，可能真的是剧情和好看的角色给了我情绪价值，所以只要没有一个足够厉害的导火索，我的用户黏性就是极强的吧……\n真心感谢崩铁打怪小活动😋 https://t.co/EiVfUsUefa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2009197114828730369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IaIXkbMAEFdfG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2042,
+        "media_key": "3_2009197128862846978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IaJL2a0AIm2fO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2027388528007782797",
+        "created_at": "2026-02-27T14:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027388528007782797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2009197131924677021",
+              "start": 141,
+              "url": "https://t.co/EiVfUsUefa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027388528007782797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009197131924677021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来，我发现自己氪金玩原神很容易变成花钱买罪受，因为我氪不起高命，追求全图鉴，所以深渊照样坐牢，尤其是新深渊。\n那我为什么全勤五年直到今年1月才退呢，可能真的是剧情和好看的角色给了我情绪价值，所以只要没有一个足够厉害的导火索，我的用户黏性就是极强的吧……\n真心感谢崩铁打怪小活动😋 https://t.co/EiVfUsUefa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009197114828730369",
+            "3_2009197128862846978"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2009197131924677021",
+        "created_at": "2026-01-08T09:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009197131924677021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQKQ7MJU1o",
+              "end": 170,
+              "expanded_url": "https://x.com/Rococo90933671/status/2009197131924677021/photo/1",
+              "media_key": "3_2009197114828730369",
+              "start": 147,
+              "url": "https://t.co/mQKQ7MJU1o"
+            },
+            {
+              "display_url": "pic.x.com/mQKQ7MJU1o",
+              "end": 170,
+              "expanded_url": "https://x.com/Rococo90933671/status/2009197131924677021/photo/1",
+              "media_key": "3_2009197128862846978",
+              "start": 147,
+              "url": "https://t.co/mQKQ7MJU1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009197131924677021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5071,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沉默成本不参与重大决策。\n再见，再也不见。\n全部卸载了，脱离苦海。\n原神氪了38715.04元RMB，崩铁0氪但是买了几次回归活动的星琼，原神也买了一次回归的。\n只留一个国际版米游社，也几乎不点进去了。因为开梯子要操作成本，平时不会一直挂梯子。\n版本马上更新，马上就能省大概三个648，美死了 https://t.co/mQKQ7MJU1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7843,
+          "following_count": 2261,
+          "like_count": 30294,
+          "listed_count": 23,
+          "media_count": 3232,
+          "tweet_count": 18226
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

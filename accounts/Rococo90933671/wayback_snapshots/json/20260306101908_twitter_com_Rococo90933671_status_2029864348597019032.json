@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2029791576554418246",
+    "created_at": "2026-03-06T10:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029864348597019032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397245389963546624",
+          "start": 0,
+          "username": "PTP_K_MySUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029864348597019032",
+    "in_reply_to_user_id": "1397245389963546624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029791576554418246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PTP_K_MySUN ☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2029791570359373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtErc9aUAAORjT.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2029791576554418246",
+        "created_at": "2026-03-06T10:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029864348597019032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397245389963546624",
+              "start": 0,
+              "username": "PTP_K_MySUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029864348597019032",
+        "in_reply_to_user_id": "1397245389963546624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029791576554418246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PTP_K_MySUN ☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029791570359373824"
+          ]
+        },
+        "author_id": "1397245389963546624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2029791576554418246",
+        "created_at": "2026-03-06T05:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029791576554418246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/UaHM6Uvye4"
+            },
+            {
+              "display_url": "pic.x.com/kGdwHWWuqo",
+              "end": 64,
+              "expanded_url": "https://x.com/PTP_K_MySUN/status/2029791576554418246/photo/1",
+              "media_key": "3_2029791570359373824",
+              "start": 41,
+              "url": "https://t.co/kGdwHWWuqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029791576554418246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/UaHM6Uvye4 https://t.co/kGdwHWWuqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9175,
+          "following_count": 2635,
+          "like_count": 30844,
+          "listed_count": 25,
+          "media_count": 3284,
+          "tweet_count": 18442
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-25T17:37:30.000Z",
+        "description": "THIS LIFE.\n感谢来访/关注❤️这里是澜羽，一个焦虑不安，已经无所谓的人。性取P【泛恋】，超·足控，独身主义。爱好是垂钓🎣、露营⛺️、骑行🚴🏻🏍、特摄🎥，Space💫，以及下厨房🥘另外，是Pay money To my Pain🎶的babyZ",
+        "id": "1397245389963546624",
+        "location": "Utopia",
+        "name": "尾刃 澜羽PTPbabyz🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960050425463234560/-LEev4em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1914,
+          "like_count": 97106,
+          "listed_count": 10,
+          "media_count": 831,
+          "tweet_count": 16626
+        },
+        "username": "PTP_K_MySUN",
+        "verified": false
+      }
+    ]
+  }
+}

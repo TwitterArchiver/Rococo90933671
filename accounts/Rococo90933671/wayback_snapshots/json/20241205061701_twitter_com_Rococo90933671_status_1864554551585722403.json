@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1864334135512453553",
+    "created_at": "2024-12-05T06:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T07:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864554551585722403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864554551585722403",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864334135512453553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 我用过，这个味道闻起来确实不错，难道……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1864334135512453553",
+        "created_at": "2024-12-05T06:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T07:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864554551585722403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864554551585722403",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864334135512453553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 我用过，这个味道闻起来确实不错，难道……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864334132274450434"
+          ]
+        },
+        "author_id": "1826536169800437760",
+        "conversation_id": "1864334135512453553",
+        "created_at": "2024-12-04T15:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T16:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864334135512453553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBAGiNiRkz",
+              "end": 42,
+              "expanded_url": "https://x.com/SQ100722/status/1864334135512453553/photo/1",
+              "media_key": "3_1864334132274450434",
+              "start": 19,
+              "url": "https://t.co/NBAGiNiRkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864334135512453553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我用了这么久的力士 才知道里面有春药 https://t.co/NBAGiNiRkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 1938,
+          "like_count": 18812,
+          "listed_count": 5,
+          "media_count": 1305,
+          "tweet_count": 10594
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "♂/10/infp/苦命初中生/里@pharaoh420_sq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "pharaoh420_sq"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727",
+        "pinned_tweet_id": "1857013735069536347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860217293416071168/Q6ft89Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 311,
+          "like_count": 6446,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 675
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

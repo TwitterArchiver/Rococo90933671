@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1949786845115769276",
+    "created_at": "2025-07-28T11:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T12:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949792806068728072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949792806068728072",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949786845115769276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ 我想复制转发你的文案可以吗，不会提到或者截图到你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949786845115769276].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949786845115769276",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949786845115769276"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1949786845115769276",
+        "created_at": "2025-07-28T11:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949792806068728072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949792806068728072",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949786845115769276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ 我想复制转发你的文案可以吗，不会提到或者截图到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5258,
+          "following_count": 2163,
+          "like_count": 25916,
+          "listed_count": 10,
+          "media_count": 2391,
+          "tweet_count": 15061
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨有时可能没看到消息请见谅丨本人戾气极重请谨慎关注丨反物质级别负能量场丨中推第一法吹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/YZHhCyja1w"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "location": "红魔馆地下室",
+        "name": "AAA红魔馆人肉批发芙兰",
+        "pinned_tweet_id": "1920177698380656680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948547994871365637/b59m5HSZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 4163,
+          "like_count": 46685,
+          "listed_count": 3,
+          "media_count": 1327,
+          "tweet_count": 17850
+        },
+        "url": "https://t.co/YZHhCyja1w",
+        "username": "Flandre_OvO_",
+        "verified": false
+      }
+    ]
+  }
+}

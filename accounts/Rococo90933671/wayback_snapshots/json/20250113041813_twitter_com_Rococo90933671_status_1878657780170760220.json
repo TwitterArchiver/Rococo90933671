@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1878632805258908081",
+    "created_at": "2025-01-13T04:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T05:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878657780170760220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810940865952763906",
+          "start": 0,
+          "username": "Tw2027Liberate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878657780170760220",
+    "in_reply_to_user_id": "1810940865952763906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878632805258908081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tw2027Liberate 我以前还是会用mirrorblock屏蔽回去\n\n但是后来一气之下气了一下，把屏蔽的人全放了，然后再也不用这个功能"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1878632805258908081].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1878632805258908081",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1878632805258908081"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1878632805258908081",
+        "created_at": "2025-01-13T04:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T05:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878657780170760220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810940865952763906",
+              "start": 0,
+              "username": "Tw2027Liberate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878657780170760220",
+        "in_reply_to_user_id": "1810940865952763906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878632805258908081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tw2027Liberate 我以前还是会用mirrorblock屏蔽回去\n\n但是后来一气之下气了一下，把屏蔽的人全放了，然后再也不用这个功能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4188,
+          "following_count": 2034,
+          "like_count": 21129,
+          "listed_count": 7,
+          "media_count": 1545,
+          "tweet_count": 11786
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:35:38.000Z",
+        "description": "有大事忙，半退推两个月以上。🇨🇳薄粉，ENTP，会日语，人生愿望是能再次在星海广场上看到那根华表。让我们一起大喊一声：豪迈 纯礼貌互挂@Alankiller8964 加入橙子教请在你的名称后面打上一个🍊！备用：@orange202764 #冰魔法 专栏 你骂我背后阴阳我我也懒得搭理你，因为你就一水蒸汽，纯纯的沸雾",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "冰魔法"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Alankiller8964"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "orange202764"
+              }
+            ]
+          }
+        },
+        "id": "1810940865952763906",
+        "location": "泰拉大陆 星穹列车上 吃着方块蛋糕",
+        "name": "0o橙子教教主阿橙o0🍊（锁淡推淡政版）",
+        "pinned_tweet_id": "1876221591698424270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876639727467782144/PedEwaK3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 669,
+          "like_count": 17998,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 4182
+        },
+        "username": "Tw2027Liberate",
+        "verified": false
+      }
+    ]
+  }
+}

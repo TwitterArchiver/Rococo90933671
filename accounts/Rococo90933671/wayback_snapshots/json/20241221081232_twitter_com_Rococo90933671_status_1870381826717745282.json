@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1870290619639443474",
+    "created_at": "2024-12-21T08:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T09:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870381826717745282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2795947818",
+          "start": 0,
+          "username": "dom_rancon_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870381826717745282",
+    "in_reply_to_user_id": "2795947818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870332263596212366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dom_rancon_xi 只有一些应该是带学生搞体育的，不管我的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1870332263596212366].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1870332263596212366",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1870332263596212366"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1870290619639443474",
+        "created_at": "2024-12-21T08:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T09:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870381826717745282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2795947818",
+              "start": 0,
+              "username": "dom_rancon_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870381826717745282",
+        "in_reply_to_user_id": "2795947818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870332263596212366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dom_rancon_xi 只有一些应该是带学生搞体育的，不管我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 1969,
+          "like_count": 19682,
+          "listed_count": 5,
+          "media_count": 1390,
+          "tweet_count": 10969
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-07T13:59:54.000Z",
+        "description": "我は日本語が下手です、無言フォロー失礼しました。丨Chinese user丨遊戲鍵垢/精神地球人，有意互fo可直拍(？)，沒過的私丨沒在刷推就是在刷怪丨我是真的看不懂日文啦｡･ﾟ･ヽ(இдஇ`)ﾉ･ﾟ･｡ 求求你們放過我好不好?",
+        "id": "2795947818",
+        "name": "~♪",
+        "pinned_tweet_id": "1836349181432336526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262715758783561728/EfusHoRf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 951,
+          "like_count": 82316,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 4560
+        },
+        "username": "dom_rancon_xi",
+        "verified": false
+      }
+    ]
+  }
+}

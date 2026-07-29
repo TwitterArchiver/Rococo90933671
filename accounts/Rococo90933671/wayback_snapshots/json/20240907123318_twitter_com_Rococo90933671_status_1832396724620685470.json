@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1832359927563600221",
+    "created_at": "2024-09-07T12:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832396724620685470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775520752625938432",
+          "start": 0,
+          "username": "Ameshima_arata"
+        },
+        {
+          "end": 27,
+          "id": "1723291140030623744",
+          "start": 16,
+          "username": "xsli137173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832396724620685470",
+    "in_reply_to_user_id": "1775520752625938432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832394877663051810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameshima_arata @xsli137173 我知道，疾病和正常的情绪波动肯定是不一样的，而且一般是大量长期的不良情绪的量变才产生抑郁的质变，如果不是先天的的话"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1832394877663051810].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1832394877663051810",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1832394877663051810"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1832359927563600221",
+        "created_at": "2024-09-07T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832396724620685470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775520752625938432",
+              "start": 0,
+              "username": "Ameshima_arata"
+            },
+            {
+              "end": 27,
+              "id": "1723291140030623744",
+              "start": 16,
+              "username": "xsli137173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832396724620685470",
+        "in_reply_to_user_id": "1775520752625938432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832394877663051810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameshima_arata @xsli137173 我知道，疾病和正常的情绪波动肯定是不一样的，而且一般是大量长期的不良情绪的量变才产生抑郁的质变，如果不是先天的的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1700,
+          "like_count": 15748,
+          "listed_count": 2,
+          "tweet_count": 8319
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:48:45.000Z",
+        "description": "とにかく、怪物のような生きろ！でも、やっぱり可愛い子に癒されたい「明日の風は何処からやってくるのか分からない、できることなら南風がいい。記憶が帰ってくる」/忠実の包蜜として活躍しましょう/新宿スマホ野郎📱/北海道好き/N1受験を準備するため、8月29からポストを非公開になった/可愛い子@FrieaXingsuhai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 143,
+                "username": "FrieaXingsuhai"
+              }
+            ]
+          }
+        },
+        "id": "1775520752625938432",
+        "location": "東京都  新宿区反革命根拠地（紀伊國屋新宿本店付近）",
+        "name": "津軽海峡ノ冬景色",
+        "pinned_tweet_id": "1830953417403179395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804526819410108416/0VcYjfbA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 95,
+          "like_count": 9443,
+          "listed_count": 2,
+          "tweet_count": 4510
+        },
+        "username": "Ameshima_arata",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T10:48:33.000Z",
+        "description": "中国大陆人，支持中国国民党，坚定的左翼，100%互fo,社会民主主义者，极端的天主教徒😤✝️ ,支持🇵🇸🇺🇦与两国方案,可爱的❤️小男娘🥵,上海独立主义者，想要变成女生🤔，反抗准备中ing",
+        "id": "1723291140030623744",
+        "location": "乌克兰自由地区",
+        "name": "xs-li🇵🇸🇺🇦🇺🇿🏳️‍⚧️✝️",
+        "pinned_tweet_id": "1808578327696814318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723291620316246016/b4uuk4LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1630,
+          "like_count": 88236,
+          "listed_count": 7,
+          "tweet_count": 2896
+        },
+        "username": "xsli137173",
+        "verified": false
+      }
+    ]
+  }
+}

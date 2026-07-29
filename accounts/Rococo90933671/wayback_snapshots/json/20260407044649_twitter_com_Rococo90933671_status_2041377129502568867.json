@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2041377129502568867",
+    "created_at": "2026-04-07T04:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041377129502568867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1182724339",
+          "start": 3,
+          "username": "wangyinrec"
+        },
+        {
+          "end": 31,
+          "id": "1303335410609790976",
+          "start": 16,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/wangyinrec/sta…",
+          "end": 133,
+          "expanded_url": "https://x.com/wangyinrec/status/2041369156633919777?s=20",
+          "start": 110,
+          "url": "https://t.co/KEHK5islZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041377129502568867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041370152646898108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangyinrec: @Rococo90933671 对，这个点是关键。但有意思的是，清明后来发展成的那一套，其实和复活节、亡灵节背后的生死观差别很大，这也是为什么它很难被翻译对。之前写过一篇，感兴趣可以看看：https://t.co/KEHK5islZm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2041377129502568867",
+        "created_at": "2026-04-07T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041377129502568867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1182724339",
+              "start": 3,
+              "username": "wangyinrec"
+            },
+            {
+              "end": 31,
+              "id": "1303335410609790976",
+              "start": 16,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wangyinrec/sta…",
+              "end": 133,
+              "expanded_url": "https://x.com/wangyinrec/status/2041369156633919777?s=20",
+              "start": 110,
+              "url": "https://t.co/KEHK5islZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041377129502568867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041370152646898108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangyinrec: @Rococo90933671 对，这个点是关键。但有意思的是，清明后来发展成的那一套，其实和复活节、亡灵节背后的生死观差别很大，这也是为什么它很难被翻译对。之前写过一篇，感兴趣可以看看：https://t.co/KEHK5islZm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182724339",
+        "conversation_id": "2040988112692597216",
+        "created_at": "2026-04-07T04:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041370152646898108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wangyinrec/sta…",
+              "end": 117,
+              "expanded_url": "https://x.com/wangyinrec/status/2041369156633919777?s=20",
+              "start": 94,
+              "url": "https://t.co/KEHK5islZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041370152646898108",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041369156633919777",
+            "type": "quoted"
+          },
+          {
+            "id": "2040988112692597216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 对，这个点是关键。但有意思的是，清明后来发展成的那一套，其实和复活节、亡灵节背后的生死观差别很大，这也是为什么它很难被翻译对。之前写过一篇，感兴趣可以看看：https://t.co/KEHK5islZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9956,
+          "following_count": 2846,
+          "like_count": 34212,
+          "listed_count": 28,
+          "media_count": 3568,
+          "tweet_count": 19919
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-15T14:03:02.000Z",
+        "description": "linguistics · Writing ·  AI video creator 语言学公众号「言辞之间」",
+        "id": "1182724339",
+        "name": "王隐",
+        "pinned_tweet_id": "1989651805970809091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1011317203969413120/XYKux-cx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1012,
+          "like_count": 2821,
+          "listed_count": 10,
+          "media_count": 630,
+          "tweet_count": 1824
+        },
+        "username": "wangyinrec",
+        "verified": true
+      }
+    ]
+  }
+}

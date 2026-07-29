@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1871520289219346440",
+    "created_at": "2024-12-24T12:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T13:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871528254521438704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "hsrxingqiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Exusiai159/sta…",
+          "end": 36,
+          "expanded_url": "https://x.com/Exusiai159/status/1871444519138562532?t=Vcnk_vbJbI8lpslxz4heyw&s=19",
+          "start": 13,
+          "url": "https://t.co/6zGp39CMSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871528254521438704",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871444519138562532",
+        "type": "quoted"
+      },
+      {
+        "id": "1871520289219346440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsrxingqiri https://t.co/6zGp39CMSf"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1871520289219346440].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1871520289219346440",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1871520289219346440"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1871520289219346440",
+        "created_at": "2024-12-24T12:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871528254521438704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "hsrxingqiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Exusiai159/sta…",
+              "end": 36,
+              "expanded_url": "https://x.com/Exusiai159/status/1871444519138562532?t=Vcnk_vbJbI8lpslxz4heyw&s=19",
+              "start": 13,
+              "url": "https://t.co/6zGp39CMSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871528254521438704",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871444519138562532",
+            "type": "quoted"
+          },
+          {
+            "id": "1871520289219346440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsrxingqiri https://t.co/6zGp39CMSf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "1871387848718643641",
+        "created_at": "2024-12-24T06:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T07:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871444519138562532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1635856408519352323",
+              "start": 0,
+              "username": "VickyLi32351196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871444519138562532",
+        "in_reply_to_user_id": "1635856408519352323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871387848718643641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VickyLi32351196 早上醒来发现袜子里全是金圆券"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3064,
+          "following_count": 1985,
+          "like_count": 20050,
+          "listed_count": 5,
+          "media_count": 1419,
+          "tweet_count": 11141
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "Momento Mori     \nلحظة للموت\n   un momento para morir     \n         un moment pour mourir      \nмомент, чтобы умереть      \n          勿忘汝终有一死",
+        "id": "1833054299183878144",
+        "location": "匹诺康尼",
+        "name": "刷推偶遇马一龙，封号禁言强如怪物， 拼尽全力无法战胜",
+        "pinned_tweet_id": "1871315088310968396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863872159669436416/CcKhfe2e_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 476,
+          "like_count": 6909,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 3439
+        },
+        "username": "hsrxingqiri",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，也喜欢萝莉，术力口/性取向未知，双和同都有可能/头图来自剧毒的KCN老师/⚠️会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本/数码产品迷，Windows二合一爱好者/鹿野灸一生推/编程一生黑/拉黑政治歧视仇恨言论/有大量政治内容的账号恕不回fo/扩列可私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐 原莱塔尼亚租借地",
+        "name": "一只能天使（圣诞异格版）",
+        "pinned_tweet_id": "1853604123599622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863819466012004352/YTSdhT23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 4150,
+          "like_count": 79149,
+          "listed_count": 7,
+          "media_count": 2596,
+          "tweet_count": 24644
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

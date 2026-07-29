@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2078347085053907027",
+    "created_at": "2026-07-18T07:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078375028564050072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752538285459795968",
+          "start": 0,
+          "username": "tadatsukiei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078375028564050072",
+    "in_reply_to_user_id": "1752538285459795968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078347085053907027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tadatsukiei 就是前天改的，我喜欢在搜索框下面留一些不想点关注，但是又想经常点进去看的账户，结果强制改界面搜索记录都没了，害我只能重新搜，有个博主的名字还差点没想起来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2331,
+        "media_key": "3_2078347080377266176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfFqHXbcAAN8XF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2354,
+        "media_key": "3_2078347080377184256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfFqHXaMAAGpnX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2078347085053907027",
+        "created_at": "2026-07-18T07:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078375028564050072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078375028564050072",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078347085053907027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 就是前天改的，我喜欢在搜索框下面留一些不想点关注，但是又想经常点进去看的账户，结果强制改界面搜索记录都没了，害我只能重新搜，有个博主的名字还差点没想起来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078347080377266176",
+            "3_2078347080377184256"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2078347085053907027",
+        "created_at": "2026-07-18T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078347085053907027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boHxs8wD6F",
+              "end": 49,
+              "expanded_url": "https://x.com/tadatsukiei/status/2078347085053907027/photo/1",
+              "media_key": "3_2078347080377266176",
+              "start": 26,
+              "url": "https://t.co/boHxs8wD6F"
+            },
+            {
+              "display_url": "pic.x.com/boHxs8wD6F",
+              "end": 49,
+              "expanded_url": "https://x.com/tadatsukiei/status/2078347085053907027/photo/1",
+              "media_key": "3_2078347080377184256",
+              "start": 26,
+              "url": "https://t.co/boHxs8wD6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078347085053907027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X的ui改了啊。把转帖单独列出来……好像是有点用。 https://t.co/boHxs8wD6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13314,
+          "following_count": 3191,
+          "like_count": 43824,
+          "listed_count": 40,
+          "media_count": 4711,
+          "tweet_count": 24016
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 693,
+          "like_count": 112337,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 8138
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2028420829034512419",
+    "created_at": "2026-03-02T10:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028420829034512419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2028369840302588229",
+          "start": 91,
+          "url": "https://t.co/unQMsVatel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028420829034512419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028369840302588229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的，就像我爸就是想让我出去做点事，但是从来不关心我怕不怕，吃不吃得消。在他看来年轻就应该能吃苦要吃苦，我的心理也应该一直是健康的，因为我一个从来没有受过挫折、遇到过困难才对😇 https://t.co/unQMsVatel"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2028420829034512419",
+        "created_at": "2026-03-02T10:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028420829034512419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2028369840302588229",
+              "start": 91,
+              "url": "https://t.co/unQMsVatel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028420829034512419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028369840302588229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的，就像我爸就是想让我出去做点事，但是从来不关心我怕不怕，吃不吃得消。在他看来年轻就应该能吃苦要吃苦，我的心理也应该一直是健康的，因为我一个从来没有受过挫折、遇到过困难才对😇 https://t.co/unQMsVatel"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028366440047542705",
+        "created_at": "2026-03-02T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028369840302588229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028369840302588229",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028369093200634040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 长辈只是希望她能尽快上学，尽快“回归正常生活”\n但我觉得不登校一段时间也挺好。中国高中根本不适合人类生存\n只是希望她别 OD 别割手就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8948,
+          "following_count": 2485,
+          "like_count": 30611,
+          "listed_count": 26,
+          "media_count": 3255,
+          "tweet_count": 18318
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 101,
+          "like_count": 2525,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

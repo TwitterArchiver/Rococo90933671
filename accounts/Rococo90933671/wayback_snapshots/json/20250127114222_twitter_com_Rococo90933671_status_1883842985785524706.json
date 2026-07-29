@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1883830607933006302",
+    "created_at": "2025-01-27T11:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T12:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883842985785524706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        },
+        {
+          "end": 27,
+          "id": "1581640827121848321",
+          "start": 14,
+          "username": "mrhu63254279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883842985785524706",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883832541045723415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ @mrhu63254279 我爸就算病了都抗拒去医院，一是小视频刷多了，二是确实被医院坑过，有一次病了去看，老是抽血，给他整半死不活了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883832541045723415].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883832541045723415",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883832541045723415"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1883830607933006302",
+        "created_at": "2025-01-27T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883842985785524706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            },
+            {
+              "end": 27,
+              "id": "1581640827121848321",
+              "start": 14,
+              "username": "mrhu63254279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883842985785524706",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883832541045723415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ @mrhu63254279 我爸就算病了都抗拒去医院，一是小视频刷多了，二是确实被医院坑过，有一次病了去看，老是抽血，给他整半死不活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 2109,
+          "like_count": 21947,
+          "listed_count": 7,
+          "media_count": 1630,
+          "tweet_count": 12264
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨不能理性讨论的话请你走开丨晶哥别抓我我现在就紫砂😭丨有时可能没看到消息请见谅丨欢迎互FO但奇奇怪怪者退散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/YZHhCyja1w"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "location": "幻想乡红魔馆地下室",
+        "name": "Flandre scarlet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883222182886862849/45-F47U4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 3649,
+          "like_count": 33039,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 9663
+        },
+        "url": "https://t.co/YZHhCyja1w",
+        "username": "Flandre_OvO_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T13:39:22.000Z",
+        "description": "",
+        "id": "1581640827121848321",
+        "name": "mr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883410096904183808/QSwxwqEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 521,
+          "like_count": 11786,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1724
+        },
+        "username": "mrhu63254279",
+        "verified": false
+      }
+    ]
+  }
+}

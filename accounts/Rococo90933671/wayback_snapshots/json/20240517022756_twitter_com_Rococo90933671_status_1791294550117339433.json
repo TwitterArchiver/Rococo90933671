@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1791119640376287719",
+    "created_at": "2024-05-17T02:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T03:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791294550117339433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755412054952099840",
+          "start": 0,
+          "username": "MuShi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791294550117339433",
+    "in_reply_to_user_id": "1755412054952099840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791119640376287719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuShi114514 我在2016年上初二的时候也写过不少诗，想和你分享🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1791119640376287719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791119640376287719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1791119640376287719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791119640376287719",
+        "created_at": "2024-05-17T02:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T03:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791294550117339433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755412054952099840",
+              "start": 0,
+              "username": "MuShi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791294550117339433",
+        "in_reply_to_user_id": "1755412054952099840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791119640376287719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuShi114514 我在2016年上初二的时候也写过不少诗，想和你分享🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见不站队/对跨圈友好/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 538,
+          "like_count": 1554,
+          "listed_count": 0,
+          "tweet_count": 1670
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T02:03:57.000Z",
+        "description": "我宁愿所有痛苦都留在心里，也不愿忘记你眼睛。\n好友@linjiyewei 小号@XiLiu89361",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "XiLiu89361"
+              }
+            ]
+          }
+        },
+        "id": "1755412054952099840",
+        "location": "新日暮里",
+        "name": "Mushiii_",
+        "pinned_tweet_id": "1782913894878781800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755412707577098240/_Zr77rBw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 164,
+          "like_count": 3115,
+          "listed_count": 3,
+          "tweet_count": 994
+        },
+        "username": "MuShi114514",
+        "verified": false
+      }
+    ]
+  }
+}

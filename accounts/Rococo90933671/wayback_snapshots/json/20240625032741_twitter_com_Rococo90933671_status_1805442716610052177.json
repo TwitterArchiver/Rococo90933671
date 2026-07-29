@@ -1,0 +1,439 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "1800015566457172015",
+    "created_at": "2024-06-25T03:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T04:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805442716610052177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        },
+        {
+          "end": 22,
+          "id": "155814794",
+          "start": 14,
+          "username": "iingwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805442716610052177",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800190617215181286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 @iingwen 你把人笑拥了我跟你说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1800015566457172015",
+        "created_at": "2024-06-25T03:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T04:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805442716610052177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            },
+            {
+              "end": 22,
+              "id": "155814794",
+              "start": 14,
+              "username": "iingwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805442716610052177",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800190617215181286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 @iingwen 你把人笑拥了我跟你说"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800190612395995137"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1800015566457172015",
+        "created_at": "2024-06-10T15:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T16:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800190617215181286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "155814794",
+              "start": 0,
+              "username": "iingwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zhzCCWjnin",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Appraiser008/status/1800190617215181286/photo/1",
+              "media_key": "3_1800190612395995137",
+              "start": 9,
+              "url": "https://t.co/zhzCCWjnin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800190617215181286",
+        "in_reply_to_user_id": "155814794",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12775,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800015566457172015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iingwen https://t.co/zhzCCWjnin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1258,
+          "like_count": 10481,
+          "listed_count": 3,
+          "tweet_count": 5516
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "炎黄子孙，忠肝义胆",
+        "id": "1378164402101182469",
+        "location": "People's Republic of China",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "1623214678917750785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790946949090496513/z1lKg6GM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83870,
+          "following_count": 6060,
+          "like_count": 103139,
+          "listed_count": 212,
+          "tweet_count": 51461
+        },
+        "username": "Appraiser008",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-15T06:45:09.000Z",
+        "description": "中華民國第15任總統 President of the Republic of China (Taiwan)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://www.president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/9mFJzEjEd8"
+              }
+            ]
+          }
+        },
+        "id": "155814794",
+        "location": "Taipei City",
+        "name": "蔡英文 Tsai Ing-wen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616607829305208832/wqRoWiTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432133,
+          "following_count": 40,
+          "like_count": 531,
+          "listed_count": 6161,
+          "tweet_count": 4599
+        },
+        "url": "https://t.co/9mFJzEjEd8",
+        "username": "iingwen",
+        "verified": true
+      }
+    ]
+  }
+}

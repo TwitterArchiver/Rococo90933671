@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1806318350580240617",
+    "created_at": "2024-06-27T13:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T14:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806318542431866993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764691192145694720",
+          "start": 0,
+          "username": "__TESMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806318542431866993",
+    "in_reply_to_user_id": "1764691192145694720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806318350580240617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__TESMI 徐思远是我印象比较深刻的电子宠物🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1806318350580240617",
+        "created_at": "2024-06-27T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806318542431866993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764691192145694720",
+              "start": 0,
+              "username": "__TESMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806318542431866993",
+        "in_reply_to_user_id": "1764691192145694720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806318350580240617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__TESMI 徐思远是我印象比较深刻的电子宠物🤓"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806318118975025152"
+          ]
+        },
+        "author_id": "1764691192145694720",
+        "conversation_id": "1806318350580240617",
+        "created_at": "2024-06-27T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806318350580240617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZU3RRQF2p2",
+              "end": 33,
+              "expanded_url": "https://twitter.com/__TESMI/status/1806318350580240617/photo/1",
+              "media_key": "3_1806318118975025152",
+              "start": 10,
+              "url": "https://t.co/ZU3RRQF2p2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806318350580240617",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次记得打上引号😅 https://t.co/ZU3RRQF2p2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1284,
+          "like_count": 10835,
+          "listed_count": 3,
+          "tweet_count": 5659
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T16:36:09.000Z",
+        "description": "我是迷你世界高玩👁你们可以直接叫我高玩👁\n我是一个迷你世界大手子🖐🤓👁\n私信给我👁恁全家的身份信息👁我会通知迷你玩给恁的迷你世界账号发送随机数量的迷你币👁机不可失👁失不再来👁\n逃生舱：👁👁👁👁👁👁👁👁👁👁👁👁👁👁👁👁\n\n怎么可能让你们知道啊👁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mini1.cn",
+                "end": 23,
+                "expanded_url": "https://www.mini1.cn",
+                "start": 0,
+                "url": "https://t.co/1F0GOYcg2B"
+              }
+            ]
+          }
+        },
+        "id": "1764691192145694720",
+        "location": "极端迷你世界大手子主义者与极端爱跨主义者",
+        "name": "✂️Ⓐ迷你世界大手子神楽坂博丽小楼Ⓐ⛓🏳‍🌈⃠🏳‍⚧️⃠🍥⃠ ⚮⃠❂⃠✡︎⃠✟⃠⚘⃠☠⃠👁",
+        "pinned_tweet_id": "1805661569172623745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804631341931298816/DnYFCN6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 311,
+          "like_count": 18396,
+          "listed_count": 2,
+          "tweet_count": 6442
+        },
+        "url": "https://t.co/1F0GOYcg2B",
+        "username": "__TESMI",
+        "verified": false
+      }
+    ]
+  }
+}

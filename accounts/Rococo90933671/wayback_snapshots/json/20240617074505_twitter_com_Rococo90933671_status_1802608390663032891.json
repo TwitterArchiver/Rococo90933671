@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1802236489486753935",
+    "created_at": "2024-06-17T07:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T08:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802608390663032891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720429901348810752",
+          "start": 0,
+          "username": "teufel__nmsl102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802608390663032891",
+    "in_reply_to_user_id": "1720429901348810752",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802236489486753935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teufel__nmsl102 Please keep watching until the end of the universe😍😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802236489486753935].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802236489486753935",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802236489486753935"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1802236489486753935",
+        "created_at": "2024-06-17T07:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T08:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802608390663032891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720429901348810752",
+              "start": 0,
+              "username": "teufel__nmsl102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802608390663032891",
+        "in_reply_to_user_id": "1720429901348810752",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802236489486753935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teufel__nmsl102 Please keep watching until the end of the universe😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1220,
+          "like_count": 8997,
+          "listed_count": 2,
+          "tweet_count": 4983
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T13:17:16.000Z",
+        "description": "鲁A济南车😄鲁B青岛的😏鲁C淄博鲁D枣庄东营是鲁E😊烟台是鲁F😤潍坊叫鲁G😝济宁挂着鲁H😀泰安鲁J车☺威海叫鲁K😚日照叫鲁L🤗鲁M滨州鲁N德州聊城是鲁P😩鲁Q临沂车😪鲁R是菏泽🤓莱芜是那鲁S😎潍坊还落了个😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guthib.com",
+                "end": 23,
+                "expanded_url": "http://guthib.com",
+                "start": 0,
+                "url": "https://t.co/gEq2G20jUu"
+              }
+            ]
+          }
+        },
+        "id": "1720429901348810752",
+        "location": "/usr/bin/",
+        "name": "中风的一摊",
+        "pinned_tweet_id": "1802236489486753935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802236862523965440/soA_ii1d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 3437
+        },
+        "url": "https://t.co/gEq2G20jUu",
+        "username": "teufel__nmsl102",
+        "verified": false
+      }
+    ]
+  }
+}

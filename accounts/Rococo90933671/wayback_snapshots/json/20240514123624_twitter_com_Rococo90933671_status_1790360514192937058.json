@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1790307255935791612",
+    "created_at": "2024-05-14T12:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T13:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790360514192937058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634409128910270465",
+          "start": 0,
+          "username": "Lee36820481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790360514192937058",
+    "in_reply_to_user_id": "1634409128910270465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790307255935791612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee36820481 我也不想去上课，可是不敢不去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1790307255935791612",
+        "created_at": "2024-05-14T12:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790360514192937058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634409128910270465",
+              "start": 0,
+              "username": "Lee36820481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790360514192937058",
+        "in_reply_to_user_id": "1634409128910270465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790307255935791612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee36820481 我也不想去上课，可是不敢不去"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634409128910270465",
+        "conversation_id": "1790307255935791612",
+        "created_at": "2024-05-14T09:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T10:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790307255935791612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790307255935791612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "院长貌似对我不听他课的行为不爽了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 424,
+          "like_count": 1143,
+          "listed_count": 0,
+          "tweet_count": 1363
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:21:24.000Z",
+        "description": "轻度抑郁的本科生/🏳️‍🌈/工科/数学",
+        "id": "1634409128910270465",
+        "location": "Otherworlds",
+        "name": "烟柳弄晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789553811859853312/LQ7VYiI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 317,
+          "like_count": 10780,
+          "listed_count": 0,
+          "tweet_count": 856
+        },
+        "username": "Lee36820481",
+        "verified": false
+      }
+    ]
+  }
+}

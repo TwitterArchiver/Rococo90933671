@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1926092000706634095",
+    "created_at": "2025-05-24T02:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T03:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926103616529616967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1542711452640940033",
+          "start": 0,
+          "username": "Tigh70BF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926103616529616967",
+    "in_reply_to_user_id": "1542711452640940033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926092000706634095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tigh70BF 反正都比我现在这个五年前劝不动父母结果让他们在实体店拿的华为轻薄本强😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1926092000706634095",
+        "created_at": "2025-05-24T02:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T03:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926103616529616967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1542711452640940033",
+              "start": 0,
+              "username": "Tigh70BF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926103616529616967",
+        "in_reply_to_user_id": "1542711452640940033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926092000706634095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tigh70BF 反正都比我现在这个五年前劝不动父母结果让他们在实体店拿的华为轻薄本强😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542711452640940033",
+        "conversation_id": "1926092000706634095",
+        "created_at": "2025-05-24T01:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T02:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926092000706634095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mhtqwq/status/1925492583653871905",
+              "start": 20,
+              "url": "https://t.co/8IBfMtExvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926092000706634095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925492583653871905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右边 但是ThinkBook 16p😋 https://t.co/8IBfMtExvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 2146,
+          "like_count": 24682,
+          "listed_count": 10,
+          "media_count": 2136,
+          "tweet_count": 14132
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T03:27:34.000Z",
+        "description": "23, he/him, Insider Canary & Dev, GI & HSR, Tighnari & Nahida, zh-cn & en-us. 2F1H1D as Nahida. Per aspera ad astra.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TBFdaily",
+                "end": 23,
+                "expanded_url": "https://t.me/TBFdaily",
+                "start": 0,
+                "url": "https://t.co/7xOVFH4oSo"
+              }
+            ]
+          }
+        },
+        "id": "1542711452640940033",
+        "location": "Sumeru City",
+        "name": "Tighnari B.F.",
+        "pinned_tweet_id": "1923797840368935217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919087540017258496/kJ7nmMHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 1706,
+          "like_count": 8236,
+          "listed_count": 0,
+          "media_count": 739,
+          "tweet_count": 3256
+        },
+        "url": "https://t.co/7xOVFH4oSo",
+        "username": "Tigh70BF",
+        "verified": false
+      }
+    ]
+  }
+}

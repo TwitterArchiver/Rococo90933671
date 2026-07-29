@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1964247502875742298",
+    "created_at": "2025-09-06T11:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T12:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964284955439018418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746459006422671360",
+          "start": 0,
+          "username": "geminiab0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964284955439018418",
+    "in_reply_to_user_id": "1746459006422671360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964247502875742298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geminiab0101 玛雅太可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1964247491106525185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Jor6ZbUAE5oLR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1964247491098112000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Jor6Xa8AAJKH2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1964247491098058752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Jor6XaIAAC60Y.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964247491119108098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Jor6cbUAI5HN8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1964247502875742298",
+        "created_at": "2025-09-06T11:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964284955439018418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746459006422671360",
+              "start": 0,
+              "username": "geminiab0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964284955439018418",
+        "in_reply_to_user_id": "1746459006422671360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964247502875742298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geminiab0101 玛雅太可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964247491106525185",
+            "3_1964247491098112000",
+            "3_1964247491098058752",
+            "3_1964247491119108098"
+          ]
+        },
+        "author_id": "1746459006422671360",
+        "conversation_id": "1964247502875742298",
+        "created_at": "2025-09-06T08:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964247502875742298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oT0F4NRSWt",
+              "end": 134,
+              "expanded_url": "https://x.com/geminiab0101/status/1964247502875742298/photo/1",
+              "media_key": "3_1964247491106525185",
+              "start": 111,
+              "url": "https://t.co/oT0F4NRSWt"
+            },
+            {
+              "display_url": "pic.x.com/oT0F4NRSWt",
+              "end": 134,
+              "expanded_url": "https://x.com/geminiab0101/status/1964247502875742298/photo/1",
+              "media_key": "3_1964247491098112000",
+              "start": 111,
+              "url": "https://t.co/oT0F4NRSWt"
+            },
+            {
+              "display_url": "pic.x.com/oT0F4NRSWt",
+              "end": 134,
+              "expanded_url": "https://x.com/geminiab0101/status/1964247502875742298/photo/1",
+              "media_key": "3_1964247491098058752",
+              "start": 111,
+              "url": "https://t.co/oT0F4NRSWt"
+            },
+            {
+              "display_url": "pic.x.com/oT0F4NRSWt",
+              "end": 134,
+              "expanded_url": "https://x.com/geminiab0101/status/1964247502875742298/photo/1",
+              "media_key": "3_1964247491119108098",
+              "start": 111,
+              "url": "https://t.co/oT0F4NRSWt"
+            },
+            {
+              "display_url": "x.com/geminiab0101/s…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/geminiab0101/status/1963816254986395934",
+              "start": 135,
+              "url": "https://t.co/god4vOf6l1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964247502875742298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1236,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963816254986395934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父亲节，女儿做了卡片：\n\n“父亲节快乐！\n谢谢（爸爸）一直给我帮助。爱你哟😘”\n\n还给我红包了🧧😅😂🤣\n大概1000日元💴, 还用小字标注；\n“对不起，我很穷（只能给这么多了）”\n😅😂🤣\n\n各位老爹们，父亲节快乐啊👏👏👏 https://t.co/oT0F4NRSWt https://t.co/god4vOf6l1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5443,
+          "following_count": 2204,
+          "like_count": 27752,
+          "listed_count": 13,
+          "media_count": 2607,
+          "tweet_count": 15997
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:07:41.000Z",
+        "description": "双子座，AB型。 “打破忍者世界规则的人，我们称之为废物。 …可是，不懂得重视同伴的人，连废物都不如！ ” By 旗木卡卡西🫰。 善良比立场重要，会封锁没有教养的人。 爱好：旅游，看动漫，电影，日剧和YouTube，还有做饭和动物🦒！😁",
+        "id": "1746459006422671360",
+        "location": "Japan",
+        "name": "双生",
+        "pinned_tweet_id": "1963559525551935561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883994014191362048/d0PLaa7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 833,
+          "like_count": 26126,
+          "listed_count": 17,
+          "media_count": 780,
+          "tweet_count": 4766
+        },
+        "username": "geminiab0101",
+        "verified": false
+      }
+    ]
+  }
+}

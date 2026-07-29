@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2057766165725036792",
+    "created_at": "2026-05-22T14:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057825630600003847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "Cassiuskassik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057825630600003847",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057766165725036792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cassiuskassik 我也觉得这样会很难受"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057766165725036792].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057766165725036792",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057766165725036792"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2057766165725036792",
+        "created_at": "2026-05-22T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057825630600003847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "Cassiuskassik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057825630600003847",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057766165725036792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassiuskassik 我也觉得这样会很难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11695,
+          "following_count": 3066,
+          "like_count": 38763,
+          "listed_count": 38,
+          "media_count": 4054,
+          "tweet_count": 21775
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "炫压抑，酒鬼，毒狗，阴暗逼，滚直。主要发发日常，还有无序的疯狂，希望大家能喜欢我。the dark side of the moon @HeinrichBatman",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "HeinrichBatman"
+              }
+            ]
+          }
+        },
+        "id": "1624393872037265413",
+        "name": "∆LiCe",
+        "pinned_tweet_id": "2057534090489012533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054599352262565888/Lm6bual5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 830,
+          "like_count": 12698,
+          "listed_count": 3,
+          "media_count": 2696,
+          "tweet_count": 17510
+        },
+        "username": "Cassiuskassik",
+        "verified": false
+      }
+    ]
+  }
+}

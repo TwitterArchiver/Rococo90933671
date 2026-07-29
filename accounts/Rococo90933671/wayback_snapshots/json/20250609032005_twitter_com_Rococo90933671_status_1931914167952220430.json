@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1931914167952220430",
+    "created_at": "2025-06-09T03:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T04:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931914167952220430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1931731752684548485",
+          "start": 23,
+          "url": "https://t.co/6DpMq5GvGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931914167952220430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931731752684548485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天回学校，发现自己学院的已经在期末考试了 https://t.co/6DpMq5GvGa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1931914167952220430",
+        "created_at": "2025-06-09T03:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931914167952220430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1931731752684548485",
+              "start": 23,
+              "url": "https://t.co/6DpMq5GvGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931914167952220430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931731752684548485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天回学校，发现自己学院的已经在期末考试了 https://t.co/6DpMq5GvGa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1931731752684548485",
+        "created_at": "2025-06-08T15:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931731752684548485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931731752684548485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天高考生就解放了，而大学生的地狱才刚刚开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 2141,
+          "like_count": 24822,
+          "listed_count": 9,
+          "media_count": 2181,
+          "tweet_count": 14278
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 3943,
+          "like_count": 11229,
+          "listed_count": 5,
+          "media_count": 1977,
+          "tweet_count": 15754
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

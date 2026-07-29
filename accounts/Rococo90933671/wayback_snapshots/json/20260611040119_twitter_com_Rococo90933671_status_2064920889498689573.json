@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2064920257937178768",
+    "created_at": "2026-06-11T04:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064920889498689573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20281…",
+          "end": 65,
+          "expanded_url": "https://x.com/i/status/2028138674744131985",
+          "start": 42,
+          "url": "https://t.co/ABX5rhUobp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064920889498689573",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028138674744131985",
+        "type": "quoted"
+      },
+      {
+        "id": "2064920257937178768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 卧槽，原来你也是卡卡\n讲个题外话，他的片头我真的好喜欢\n\nhttps://t.co/ABX5rhUobp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1230840,
+        "height": 1080,
+        "media_key": "13_2028134412815409152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028134412815409152/img/vsb7g8QvkfjwWCUr.jpg",
+        "public_metrics": {
+          "view_count": 2296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028134412815409152/vid/avc1/640x360/a4X6VVte41aaaqsu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028134412815409152/pl/UOEi5KJXRQjL7eBQ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028134412815409152/vid/avc1/1280x720/bqsZOddUfHcykKpT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028134412815409152/vid/avc1/1920x1080/2XdCJTaz3sUidPiX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028134412815409152/vid/avc1/480x270/22-pkYSBzY6PK_SW.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2064920257937178768",
+        "created_at": "2026-06-11T04:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064920889498689573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20281…",
+              "end": 65,
+              "expanded_url": "https://x.com/i/status/2028138674744131985",
+              "start": 42,
+              "url": "https://t.co/ABX5rhUobp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064920889498689573",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028138674744131985",
+            "type": "quoted"
+          },
+          {
+            "id": "2064920257937178768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 卧槽，原来你也是卡卡\n讲个题外话，他的片头我真的好喜欢\n\nhttps://t.co/ABX5rhUobp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028134412815409152"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2028138674744131985",
+        "created_at": "2026-03-01T16:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028138674744131985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLke2J2zUE",
+              "end": 175,
+              "expanded_url": "https://x.com/Rococo90933671/status/2028138674744131985/video/1",
+              "media_key": "13_2028134412815409152",
+              "start": 152,
+              "url": "https://t.co/lLke2J2zUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028138674744131985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2021年有一天中午在学校食堂吃饭的时候，偶然刷到一个讲各国发展史的up主。虽然感觉他讲得很好，但是更让人眼前一亮的还是他每一个系列的固定片头。因为喜欢，就把它们都剪到一起了：\n\n社会主义门徒：越南 0:00\n资本主义异端：韩国 0:51\n资本主义边角料：新加坡 1:42\n资本主义逆子：日本 2:45\n封建主义盲盒：印度 3:37\n资本主义积木：马来西亚 4:42\n资本主义筹码：以色列 5:34\n资本主义样品：德国 6:39\n封建主义两面派：泰国 7:32\n殖民主义套娃：南非 8:37\n资本主义修罗场：印度尼西亚 9:29\n资本主义硬骨头：法国 10:32\n资本主义看门人：土耳其 11:23\n资本主义先行者：英国 12:28\n帝国主义替罪羊：巴勒斯坦 13:20\n殖民主义遗腹子：阿根廷 13:49\n资本主义木偶：意大利 14:54\n资本主义马仔：菲律宾 15:46\n资本主义献祭者：俄罗斯 16:50\n封建主义变节者：伊朗 17:42\n殖民主义鼻祖：西班牙 18:47\n华夏门卫：台湾 19:39"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5765,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2021年有一天中午在学校食堂吃饭的时候，偶然刷到一个讲各国发展史的up主。虽然感觉他讲得很好，但是更让人眼前一亮的还是他每一个系列的固定片头。因为喜欢，就把它们都剪到一起了：\n\n社会主义门徒：越南 0:00\n资本主义异端：韩国 0:51\n资本主义边角料：新加坡 1:42\n资本主义逆子：日本 2:45 https://t.co/lLke2J2zUE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "2064920257937178768",
+        "created_at": "2026-06-11T03:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:57:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064919868466659459",
+          "2064920257937178768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064920257937178768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚刷到B站up主多明海的视频，在22年他做了一个系列和日本相关的视频，分析日本的衰落。但最后一期他还是说中国和日本有不小差距，中国可能广东长三角市民达到日本生活水平，但日本的高中毕业体力劳动者也能有稳定的收入。以现在两国发展速度。那时两国还是有差距的，中国要追上日本，可能要到2040年。但现在四年过去了，你发现根本不需要20年。现在中国二线城市生活水平已经超过日本了。中国还是那个中国，但日本的衰退速度令人震惊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚刷到B站up主多明海的视频，在22年他做了一个系列和日本相关的视频，分析日本的衰落。但最后一期他还是说中国和日本有不小差距，中国可能广东长三角市民达到日本生活水平，但日本的高中毕业体力劳动者也能有稳定的收入。以现在两国发展速度。那时两国还是有差距的，中国要追上日本，可能要到2040年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12747,
+          "following_count": 3091,
+          "like_count": 40390,
+          "listed_count": 41,
+          "media_count": 4288,
+          "tweet_count": 22459
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，防失联小号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 116,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 93,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2064107498446192768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062305837201383424/QmG_C6uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16816,
+          "following_count": 2303,
+          "like_count": 14027,
+          "listed_count": 120,
+          "media_count": 6953,
+          "tweet_count": 26530
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

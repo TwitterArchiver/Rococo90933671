@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1799658854801875359",
+    "created_at": "2024-06-09T04:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T05:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799662701058335184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798920469552488450",
+          "start": 0,
+          "username": "Hongshiyue_223"
+        },
+        {
+          "end": 31,
+          "id": "1615586607482163201",
+          "start": 16,
+          "username": "RealKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799662701058335184",
+    "in_reply_to_user_id": "1798920469552488450",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799662135271891320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongshiyue_223 @RealKafuuChino 因人而异，对我来说，英语更契合中文的思维习惯，日语很多时候转不过来，大概因为学日语的时间比学英语晚了很多年"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1799662135271891320].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1799662135271891320",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1799662135271891320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1799658854801875359",
+        "created_at": "2024-06-09T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799662701058335184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798920469552488450",
+              "start": 0,
+              "username": "Hongshiyue_223"
+            },
+            {
+              "end": 31,
+              "id": "1615586607482163201",
+              "start": 16,
+              "username": "RealKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799662701058335184",
+        "in_reply_to_user_id": "1798920469552488450",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799662135271891320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongshiyue_223 @RealKafuuChino 因人而异，对我来说，英语更契合中文的思维习惯，日语很多时候转不过来，大概因为学日语的时间比学英语晚了很多年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1022,
+          "like_count": 6638,
+          "listed_count": 2,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T03:30:48.000Z",
+        "description": "可爱的人儿不要失望，可爱的人儿不要悲哀",
+        "id": "1798920469552488450",
+        "location": "成都市青羊区人民南路一段86号",
+        "name": "东郊记忆玉米超人🌽（产业军派）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798920781373800448/o78wYrxu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 39,
+          "like_count": 28,
+          "listed_count": 0,
+          "tweet_count": 58
+        },
+        "username": "Hongshiyue_223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "My dream is to be KafuuChino’s husband ｜Egoist｜ISTJ-A",
+        "id": "1615586607482163201",
+        "location": "Tsuen Wan,HK",
+        "name": "智乃",
+        "pinned_tweet_id": "1799280009556939067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794743352044494848/9tR62oFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 926,
+          "like_count": 29480,
+          "listed_count": 4,
+          "tweet_count": 6142
+        },
+        "username": "RealKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

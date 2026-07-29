@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1961441461188297044",
+    "created_at": "2025-08-29T15:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961455998520234062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413448007362650115",
+          "start": 0,
+          "username": "Yayoi_no_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961455998520234062",
+    "in_reply_to_user_id": "1413448007362650115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961441461188297044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yayoi_no_yume 生活只要让自己舒服的事物，都可以记录的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1961441456616607747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhwnNVbkAMLpCa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1961441458164305921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhwnTGbkAEUOq4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1961441458189381632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhwnTMaMAAOsSJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1961441458260680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhwnTdaIAA1KFC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1961441461188297044",
+        "created_at": "2025-08-29T15:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961455998520234062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413448007362650115",
+              "start": 0,
+              "username": "Yayoi_no_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961455998520234062",
+        "in_reply_to_user_id": "1413448007362650115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961441461188297044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yayoi_no_yume 生活只要让自己舒服的事物，都可以记录的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961441456616607747",
+            "3_1961441458164305921",
+            "3_1961441458189381632",
+            "3_1961441458260680704"
+          ]
+        },
+        "author_id": "1413448007362650115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1961441461188297044",
+        "created_at": "2025-08-29T14:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961441461188297044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ukF3J7W7M",
+              "end": 121,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/1961441461188297044/photo/1",
+              "media_key": "3_1961441456616607747",
+              "start": 98,
+              "url": "https://t.co/0ukF3J7W7M"
+            },
+            {
+              "display_url": "pic.x.com/0ukF3J7W7M",
+              "end": 121,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/1961441461188297044/photo/1",
+              "media_key": "3_1961441458164305921",
+              "start": 98,
+              "url": "https://t.co/0ukF3J7W7M"
+            },
+            {
+              "display_url": "pic.x.com/0ukF3J7W7M",
+              "end": 121,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/1961441461188297044/photo/1",
+              "media_key": "3_1961441458189381632",
+              "start": 98,
+              "url": "https://t.co/0ukF3J7W7M"
+            },
+            {
+              "display_url": "pic.x.com/0ukF3J7W7M",
+              "end": 121,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/1961441461188297044/photo/1",
+              "media_key": "3_1961441458260680704",
+              "start": 98,
+              "url": "https://t.co/0ukF3J7W7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961441461188297044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友说我平常都不怎么记录生活，我不懂，一个喜欢呆在房间里的otaku能记录什么生活。\n当他给我拿出他在大漠一边买醉一边拍星空，在湖畔和朋友尝湖水，在草原飞无人机的视频时，我觉得我记录的才是生活。 https://t.co/0ukF3J7W7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 2202,
+          "like_count": 27395,
+          "listed_count": 14,
+          "media_count": 2578,
+          "tweet_count": 15833
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yayoi.love",
+                "end": 23,
+                "expanded_url": "http://www.yayoi.love",
+                "start": 0,
+                "url": "https://t.co/3vfLsBrNVB"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1918326235861794892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958476471040942080/HU_vDvXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 3859,
+          "like_count": 17576,
+          "listed_count": 36,
+          "media_count": 4423,
+          "tweet_count": 24555
+        },
+        "url": "https://t.co/3vfLsBrNVB",
+        "username": "Yayoi_no_yume",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1830818662951067749",
+    "created_at": "2024-09-03T04:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T05:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830819798294634731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830819798294634731",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830818662951067749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 我只敢玩没有奶奶的模式，但是没有奶奶下水道照样有蜘蛛，我都不敢下去"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1830818662951067749].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1830818662951067749",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1830818662951067749"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1830818662951067749",
+        "created_at": "2024-09-03T04:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T05:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830819798294634731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830819798294634731",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830818662951067749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 我只敢玩没有奶奶的模式，但是没有奶奶下水道照样有蜘蛛，我都不敢下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 1678,
+          "like_count": 15350,
+          "listed_count": 2,
+          "tweet_count": 8103
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n是公用肉便器 是@mingnaisama 的飞机杯好厚米@zhao_remake \n防失联小号@m8o9j6i4 妈妈@cang_lan3667 妈妈@azusaROCtw 亲爱的@miku_suki393939 主人@35zf_out \n严重玻璃心自卑仇富",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "zhao_remake"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "35zf_out"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "ip属地：百越",
+        "name": "圣骑士贞德",
+        "pinned_tweet_id": "1830710426562372033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 821,
+          "like_count": 77240,
+          "listed_count": 2,
+          "tweet_count": 12892
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

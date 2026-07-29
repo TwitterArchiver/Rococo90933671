@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1857747882222449000",
+    "created_at": "2024-11-16T11:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T12:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857748167799792105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576791571831422976",
+          "start": 0,
+          "username": "linjiyewei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857748167799792105",
+    "in_reply_to_user_id": "1576791571831422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857747882222449000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiyewei 好笑，但是又笑不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1857747882222449000",
+        "created_at": "2024-11-16T11:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T12:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857748167799792105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857748167799792105",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857747882222449000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei 好笑，但是又笑不出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857747871094943746"
+          ]
+        },
+        "author_id": "1576791571831422976",
+        "conversation_id": "1857747882222449000",
+        "created_at": "2024-11-16T11:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T12:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857747882222449000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0LhI2Agc6",
+              "end": 26,
+              "expanded_url": "https://x.com/linjiyewei/status/1857747882222449000/photo/1",
+              "media_key": "3_1857747871094943746",
+              "start": 3,
+              "url": "https://t.co/q0LhI2Agc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857747882222449000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幽默 https://t.co/q0LhI2Agc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 1929,
+          "like_count": 18069,
+          "listed_count": 5,
+          "tweet_count": 10164
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "來自中華人民共和國🇨🇳香港特別行政區🇭🇰今年十五，在上海讀書，數理化偏好。熱愛War Thunder、Genshin Impact、Enlisted、Reverse：1999。好友@MuShi114514小號@Lyney1949,@Venti1949，@Faruzan1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "MuShi114514"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Lyney1949"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Venti1949"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Faruzan1949"
+              }
+            ]
+          }
+        },
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為🇨🇳🇭🇰🇲🇴🇹🇼（淡推）",
+        "pinned_tweet_id": "1855988690637689012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 629,
+          "like_count": 15221,
+          "listed_count": 26,
+          "tweet_count": 6175
+        },
+        "username": "linjiyewei",
+        "verified": false
+      }
+    ]
+  }
+}

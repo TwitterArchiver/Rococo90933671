@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1934227578698739863",
+    "created_at": "2025-06-16T15:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934630470630662456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852293817627787264",
+          "start": 0,
+          "username": "Orc30678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934630470630662456",
+    "in_reply_to_user_id": "1852293817627787264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934227578698739863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Orc30678 裸足"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934227578698739863].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934227578698739863",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934227578698739863"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1934227578698739863",
+        "created_at": "2025-06-16T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934630470630662456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852293817627787264",
+              "start": 0,
+              "username": "Orc30678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934630470630662456",
+        "in_reply_to_user_id": "1852293817627787264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934227578698739863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Orc30678 裸足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4820,
+          "following_count": 2149,
+          "like_count": 24957,
+          "listed_count": 9,
+          "media_count": 2219,
+          "tweet_count": 14419
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T10:18:17.000Z",
+        "description": "あのブルグント人をコロセ @AzumaSerenの野良父 変人垢、ブロックミュート、以外フォロー、返す。 hoi4等のゲーム内容を投稿しています。基本じぶんから政治の話をしない。 無許可会話追加は遠慮で。興味極広い。\n小号/サブ垢@SubOrc30678\n你 要 是 只 会 键 政 和 抽 象 那 麻 烦 滚 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "AzumaSeren"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "SubOrc30678"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TNO.wiki",
+                "end": 23,
+                "expanded_url": "http://TNO.wiki",
+                "start": 0,
+                "url": "https://t.co/cnm30bobYa"
+              }
+            ]
+          }
+        },
+        "id": "1852293817627787264",
+        "location": "ブルグント騎士団国 ブリュッセル本部",
+        "name": "☢️🇩🇪ORC🇨🇵☢️",
+        "pinned_tweet_id": "1895074326891897023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933913359889707008/FQQ4j0Dk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 2580,
+          "like_count": 41748,
+          "listed_count": 1,
+          "media_count": 738,
+          "tweet_count": 8352
+        },
+        "url": "https://t.co/cnm30bobYa",
+        "username": "Orc30678",
+        "verified": false
+      }
+    ]
+  }
+}

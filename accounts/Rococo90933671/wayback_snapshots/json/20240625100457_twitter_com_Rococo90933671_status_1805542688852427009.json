@@ -1,0 +1,227 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1805455911978418372",
+    "created_at": "2024-06-25T10:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T11:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805542688852427009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805542688852427009",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805455911978418372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia 我比你高10分，但是是四年前，而且现在我大学没毕业退学了，一场空罢了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1805455911978418372",
+        "created_at": "2024-06-25T10:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T11:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805542688852427009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805542688852427009",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805455911978418372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia 我比你高10分，但是是四年前，而且现在我大学没毕业退学了，一场空罢了🥹"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805455903480750080"
+          ]
+        },
+        "author_id": "1559088842333769728",
+        "conversation_id": "1805455911978418372",
+        "created_at": "2024-06-25T04:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805455911978418372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZshAE1SE7i",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hsnyuia/status/1805455911978418372/photo/1",
+              "media_key": "3_1805455903480750080",
+              "start": 3,
+              "url": "https://t.co/ZshAE1SE7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805455911978418372",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稳了 https://t.co/ZshAE1SE7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 1269,
+          "like_count": 10594,
+          "listed_count": 3,
+          "tweet_count": 5556
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "|星野ゆいあ\n|高浮上 フォロバ可能性50%\n|コスプレ初心者 #男の娘\n|日本語、简体中文\n|📱Redmi K40\n|🎮#マイクラ #Phigros など\n|推し：星野ひなた、七瀬くるみ、喜多郁代、ナヒーダ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "男の娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "マイクラ"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "Phigros"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/hsnyuia",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/hsnyuia",
+                "start": 0,
+                "url": "https://t.co/0lz3MyNq5u"
+              }
+            ]
+          }
+        },
+        "id": "1559088842333769728",
+        "location": "中国",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1803847286440759564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717800585305694208/ls4BPT3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 652,
+          "like_count": 5068,
+          "listed_count": 4,
+          "tweet_count": 2721
+        },
+        "url": "https://t.co/0lz3MyNq5u",
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

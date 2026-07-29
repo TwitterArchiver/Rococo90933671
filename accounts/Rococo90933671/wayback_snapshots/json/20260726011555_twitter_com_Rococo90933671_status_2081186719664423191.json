@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2081186719664423191",
+    "created_at": "2026-07-26T01:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081186719664423191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081186719664423191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在Threads跟台湾某群体学常见的逻辑谬误: \n1. 人身攻击: “你个翻墙仔有什么资格评论……”（不讨论事件，攻击身份）\n2. 稻草人谬误: “中国风景很美” “喜欢中国就搬去中国住啊”（歪曲对方观点并攻击歪曲后的版本）\n3. 错误二分法: 要么支持台独要么支持统一（忽略中间立场和其他可能性）\n4. 滑坡谬误: 如果不支持大罢免，今日香港明日台湾 （夸大一个行为一定会导致极端后果）\n5. 诉诸情绪: 是台湾人就要挺台湾啦！\n6. 诉诸权威: “三立报道……”所以相信某个事件一定是真实的。\n7. 因果错误: “台湾股市大涨是因为民进党执政”（忽略了导向这个结果的其他原因）\n8. 以偏概全: “陆配亚亚支持武统=所有陆配都是间谍”\n9. 转移话题: 讨论某个新闻，如果有不同见解——＞“8964”“广西洪灾……”\n10. 完美主义谬误: “两岸交流解决不了所有问题所以交流没有意义”（不完美就全盘否定）\n11. “你也一样”（Whataboutism）: “台湾有……问题” “中国还不是一样”（用“你也一样”回避问题）\n\n必须要说明：其他政治立场和其他地方的人，包括我自己，都存在这些谬误，特别举例某群体是因为之前我曾被这个特定群体极端地非人化贬低。但又不想造下口业反驳回去，只好变废为宝学习一些知识。如果有错误欢迎指出，有其他例子欢迎补充"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在Threads跟台湾某群体学常见的逻辑谬误: \n1. 人身攻击: “你个翻墙仔有什么资格评论……”（不讨论事件，攻击身份）\n2. 稻草人谬误: “中国风景很美” “喜欢中国就搬去中国住啊”（歪曲对方观点并攻击歪曲后的版本）\n3. 错误二分法: 要么支持台独要么支持统一（忽略中间立场和其他可能性）\n4. 滑坡谬误:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2081186719664423191",
+        "created_at": "2026-07-26T01:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081186719664423191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081186719664423191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在Threads跟台湾某群体学常见的逻辑谬误: \n1. 人身攻击: “你个翻墙仔有什么资格评论……”（不讨论事件，攻击身份）\n2. 稻草人谬误: “中国风景很美” “喜欢中国就搬去中国住啊”（歪曲对方观点并攻击歪曲后的版本）\n3. 错误二分法: 要么支持台独要么支持统一（忽略中间立场和其他可能性）\n4. 滑坡谬误: 如果不支持大罢免，今日香港明日台湾 （夸大一个行为一定会导致极端后果）\n5. 诉诸情绪: 是台湾人就要挺台湾啦！\n6. 诉诸权威: “三立报道……”所以相信某个事件一定是真实的。\n7. 因果错误: “台湾股市大涨是因为民进党执政”（忽略了导向这个结果的其他原因）\n8. 以偏概全: “陆配亚亚支持武统=所有陆配都是间谍”\n9. 转移话题: 讨论某个新闻，如果有不同见解——＞“8964”“广西洪灾……”\n10. 完美主义谬误: “两岸交流解决不了所有问题所以交流没有意义”（不完美就全盘否定）\n11. “你也一样”（Whataboutism）: “台湾有……问题” “中国还不是一样”（用“你也一样”回避问题）\n\n必须要说明：其他政治立场和其他地方的人，包括我自己，都存在这些谬误，特别举例某群体是因为之前我曾被这个特定群体极端地非人化贬低。但又不想造下口业反驳回去，只好变废为宝学习一些知识。如果有错误欢迎指出，有其他例子欢迎补充"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在Threads跟台湾某群体学常见的逻辑谬误: \n1. 人身攻击: “你个翻墙仔有什么资格评论……”（不讨论事件，攻击身份）\n2. 稻草人谬误: “中国风景很美” “喜欢中国就搬去中国住啊”（歪曲对方观点并攻击歪曲后的版本）\n3. 错误二分法: 要么支持台独要么支持统一（忽略中间立场和其他可能性）\n4. 滑坡谬误:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13413,
+          "following_count": 3204,
+          "like_count": 44833,
+          "listed_count": 41,
+          "media_count": 4818,
+          "tweet_count": 24426
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

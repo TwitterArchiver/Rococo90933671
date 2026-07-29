@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1984604548942713273",
+    "created_at": "2025-11-02T03:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T04:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984828836253671636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984828836253671636",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984817349762093564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_ 我是刷视频看到的这个事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984817349762093564].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984817349762093564",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984817349762093564"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1984604548942713273",
+        "created_at": "2025-11-02T03:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984828836253671636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984828836253671636",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984817349762093564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_ 我是刷视频看到的这个事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 2210,
+          "like_count": 28655,
+          "listed_count": 19,
+          "media_count": 2809,
+          "tweet_count": 16627
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "只是个透明人，并不想把太多时间浪费在推特上。性情乖僻，热爱宗教历史文化；渴望能去各地朝圣，以体验当地圣教会的特色文化，也希望能体验到不同宗教的魅力。愿生活充满希望变得美好，无关政治吵架且无特别政治立场、无明显意识形态，比较讨厌无用的吵架对线。通常各个时间会不定时地离线不刷推特、开放或关闭推特空间，非枯燥不刷，敬请谅解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105927773",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/105927773",
+                "start": 0,
+                "url": "https://t.co/OPH2VJB6mS"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "中国大陆 UTC+8",
+        "name": "☨̶ 保禄伊纳爵 ♰✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977675810061312000/4yP3haKG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1162,
+          "like_count": 128540,
+          "listed_count": 2,
+          "media_count": 3068,
+          "tweet_count": 16032
+        },
+        "url": "https://t.co/OPH2VJB6mS",
+        "username": "Starry_Sand_",
+        "verified": false
+      }
+    ]
+  }
+}

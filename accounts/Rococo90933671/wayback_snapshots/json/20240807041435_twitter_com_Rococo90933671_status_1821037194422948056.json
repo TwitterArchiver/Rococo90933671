@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1820940911771316259",
+    "created_at": "2024-08-07T04:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T05:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821037194422948056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800970429479387140",
+          "start": 0,
+          "username": "wangxiaowei1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821037194422948056",
+    "in_reply_to_user_id": "1800970429479387140",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820940911771316259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangxiaowei1949 十三伢子又换皮了？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1820940911771316259].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1820940911771316259",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1820940911771316259"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1820940911771316259",
+        "created_at": "2024-08-07T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821037194422948056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800970429479387140",
+              "start": 0,
+              "username": "wangxiaowei1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821037194422948056",
+        "in_reply_to_user_id": "1800970429479387140",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820940911771316259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxiaowei1949 十三伢子又换皮了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1493,
+          "like_count": 12680,
+          "listed_count": 1,
+          "tweet_count": 6782
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T19:16:39.000Z",
+        "description": "一個中國台灣人（在大陸上過學）信仰馬克思列寧毛澤東主義，反對中國社會帝國主義、俄帝國主義、美帝國主義，堅決支持巴勒斯坦人民🇵🇸、烏克蘭人民🇺🇦的反侵略鬥爭，無產階級文化大革命萬歲！共產主義革命萬歲！歡迎同志互fo 张运年我糙 4️⃣你的妈 小號@shiyueren1917",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "shiyueren1917"
+              }
+            ]
+          }
+        },
+        "id": "1800970429479387140",
+        "location": "中國臺灣",
+        "name": "✭年輕的十月人✭🇨🇳🇵🇸🇺🇦",
+        "pinned_tweet_id": "1805567000120639497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804093273147084803/LtWAx2Mx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 945,
+          "like_count": 1754,
+          "listed_count": 3,
+          "tweet_count": 1341
+        },
+        "username": "wangxiaowei1949",
+        "verified": false
+      }
+    ]
+  }
+}

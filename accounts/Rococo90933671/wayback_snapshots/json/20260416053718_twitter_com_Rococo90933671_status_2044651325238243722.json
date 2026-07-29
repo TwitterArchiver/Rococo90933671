@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2044531744658100735",
+    "created_at": "2026-04-16T05:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044651325238243722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1221824882582753280",
+          "start": 0,
+          "username": "kinglinzhuhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044651325238243722",
+    "in_reply_to_user_id": "1221824882582753280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044531744658100735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinglinzhuhui 老师的意思估计是，ROC也是一种中国，所以没区别😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71200,
+        "height": 720,
+        "media_key": "13_2044531679168200704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044531679168200704/img/s65t53zhm7YPFQhr.jpg",
+        "public_metrics": {
+          "view_count": 2686
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044531679168200704/vid/avc1/478x270/OyPnYer_wl59MF1q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044531679168200704/vid/avc1/638x360/Z-I9ylAYLQRPIGd_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044531679168200704/vid/avc1/1276x720/oUROzFyy2PTIIQch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044531679168200704/pl/31PSt-JVnti7bbct.m3u8?v=cfc"
+          }
+        ],
+        "width": 1276
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044531679189254144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-iutYbwAAv_UL.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2044531744658100735",
+        "created_at": "2026-04-16T05:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044651325238243722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1221824882582753280",
+              "start": 0,
+              "username": "kinglinzhuhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044651325238243722",
+        "in_reply_to_user_id": "1221824882582753280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044531744658100735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinglinzhuhui 老师的意思估计是，ROC也是一种中国，所以没区别😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044531679168200704",
+            "3_2044531679189254144"
+          ]
+        },
+        "author_id": "1221824882582753280",
+        "conversation_id": "2044531744658100735",
+        "created_at": "2026-04-15T21:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044531744658100735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMwTd0RMyq",
+              "end": 42,
+              "expanded_url": "https://x.com/kinglinzhuhui/status/2044531744658100735/video/1",
+              "media_key": "13_2044531679168200704",
+              "start": 19,
+              "url": "https://t.co/WMwTd0RMyq"
+            },
+            {
+              "display_url": "pic.x.com/WMwTd0RMyq",
+              "end": 42,
+              "expanded_url": "https://x.com/kinglinzhuhui/status/2044531744658100735/video/1",
+              "media_key": "3_2044531679189254144",
+              "start": 19,
+              "url": "https://t.co/WMwTd0RMyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044531744658100735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5665,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有这样的SB老师，就难怪台湾智障多。 https://t.co/WMwTd0RMyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10000,
+          "following_count": 2895,
+          "like_count": 35145,
+          "listed_count": 30,
+          "media_count": 3678,
+          "tweet_count": 20489
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-27T15:59:01.000Z",
+        "description": "福清哥",
+        "id": "1221824882582753280",
+        "location": "中国",
+        "name": "K.L",
+        "pinned_tweet_id": "2009177446978122171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885574775701143552/ELlxyxOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27691,
+          "following_count": 3232,
+          "like_count": 100505,
+          "listed_count": 174,
+          "media_count": 20742,
+          "tweet_count": 57727
+        },
+        "username": "kinglinzhuhui",
+        "verified": false
+      }
+    ]
+  }
+}

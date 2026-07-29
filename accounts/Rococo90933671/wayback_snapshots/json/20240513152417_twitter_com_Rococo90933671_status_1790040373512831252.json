@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1790028049875947942",
+    "created_at": "2024-05-13T15:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T16:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790040373512831252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684550976760578048",
+          "start": 0,
+          "username": "saksamalah"
+        },
+        {
+          "end": 26,
+          "id": "1409474469580591109",
+          "start": 12,
+          "username": "welles_george"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790040373512831252",
+    "in_reply_to_user_id": "1684550976760578048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790039980523294863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah @welles_george 自古之退者，再无可归进矣。南宋，南明，皆为其例也✊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1790028049875947942",
+        "created_at": "2024-05-13T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790040373512831252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684550976760578048",
+              "start": 0,
+              "username": "saksamalah"
+            },
+            {
+              "end": 26,
+              "id": "1409474469580591109",
+              "start": 12,
+              "username": "welles_george"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790040373512831252",
+        "in_reply_to_user_id": "1684550976760578048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790039980523294863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah @welles_george 自古之退者，再无可归进矣。南宋，南明，皆为其例也✊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1684550976760578048",
+        "conversation_id": "1790028049875947942",
+        "created_at": "2024-05-13T15:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T16:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790039980523294863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409474469580591109",
+              "start": 0,
+              "username": "welles_george"
+            },
+            {
+              "end": 30,
+              "id": "1303335410609790976",
+              "start": 15,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790039980523294863",
+        "in_reply_to_user_id": "1409474469580591109",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790039478712623276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welles_george @Rococo90933671 下面有退路（狮城）\n西方也是退路\n不破釜沉舟安敢舍命耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 401,
+          "like_count": 1051,
+          "listed_count": 1,
+          "tweet_count": 1283
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T13:07:17.000Z",
+        "description": "Malaysia is the country of malaysian, Not Only for Malays.\nSemua kaum my mestilah sama rata，biarlah Malaysia jadi Malaysia Madani！\n 成分顶帖下面\n不是十字架 莲教！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wutong.tw",
+                "end": 23,
+                "expanded_url": "http://wutong.tw",
+                "start": 0,
+                "url": "https://t.co/93VekHxDjK"
+              }
+            ]
+          }
+        },
+        "id": "1684550976760578048",
+        "location": " 红星常在 伴我随行",
+        "name": "［卡慈］1969.5.13欢迎查询！Equality！☭🇨🇳 😡🇲🇾淡推² ol",
+        "pinned_tweet_id": "1789700693290529178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789696982787002368/AuOtHNFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 391,
+          "like_count": 3822,
+          "listed_count": 2,
+          "tweet_count": 4277
+        },
+        "url": "https://t.co/93VekHxDjK",
+        "username": "saksamalah",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T11:32:00.000Z",
+        "description": "高中牲/喜欢玩游戏/不喜欢学习/PUBG MOBILE/原神/胆小却喜欢恐怖游戏/Steam玩家只玩得起打大折的低价游戏/喜欢打羽毛球🏸/喜欢台湾🇹🇼/YouTuber/",
+        "id": "1409474469580591109",
+        "name": "低调无人气的芙宁娜🇭🇰🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756506489689432064/HpELwxeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 46,
+          "like_count": 1530,
+          "listed_count": 1,
+          "tweet_count": 418
+        },
+        "username": "welles_george",
+        "verified": false
+      }
+    ]
+  }
+}

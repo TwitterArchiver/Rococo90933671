@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2071119531624587517",
+    "created_at": "2026-06-28T06:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071119534837379090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikogenshinnew…",
+          "end": 28,
+          "expanded_url": "https://x.com/mikogenshinnews/status/2070448438958055678?s=20",
+          "start": 5,
+          "url": "https://t.co/TDp0laKFSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071119534837379090",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070448438958055678",
+        "type": "quoted"
+      },
+      {
+        "id": "2071119531624587517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原推文：\nhttps://t.co/TDp0laKFSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2070448177309007872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu1pcZbwAACQBw.jpg",
+        "width": 718
+      },
+      {
+        "height": 677,
+        "media_key": "3_2071114062830977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4TRFRbQAA-pnN.png",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2071119531624587517",
+        "created_at": "2026-06-28T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071119534837379090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikogenshinnew…",
+              "end": 28,
+              "expanded_url": "https://x.com/mikogenshinnews/status/2070448438958055678?s=20",
+              "start": 5,
+              "url": "https://t.co/TDp0laKFSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071119534837379090",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070448438958055678",
+            "type": "quoted"
+          },
+          {
+            "id": "2071119531624587517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原推文：\nhttps://t.co/TDp0laKFSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070448177309007872"
+          ]
+        },
+        "author_id": "1892798362958909445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2070448438958055678",
+        "created_at": "2026-06-26T10:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070448438958055678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zst4sD44R",
+              "end": 116,
+              "expanded_url": "https://x.com/mikogenshinnews/status/2070448438958055678/photo/1",
+              "media_key": "3_2070448177309007872",
+              "start": 93,
+              "url": "https://t.co/2zst4sD44R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070448438958055678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 574,
+                "start": 571,
+                "tag": "原神"
+              },
+              {
+                "end": 587,
+                "start": 575,
+                "tag": "Genshincool"
+              }
+            ]
+          },
+          "text": "スネージナヤPVの棋局は、『原神』の最終結末を暗示している可能性があります。\nこの棋局は、1922年の Alexander Alekhine 対 Fred Dewhirst Yates の対局に由来します。この解釈では、氷神の神の心は白のキング、岩神の神の心は白のルークに相当します。白のキングはスネージナヤの女皇を、白のルークは鍾離を表していると見ることができます。また、PV内で女皇が死の執政と対峙していることから、黒のルークは死の執政を象徴している可能性があります。\n PVの局面では、黒のルークが白キングに迫っており、一見すると女皇を脅かしているように見えます。しかし、黒のルークがいる f6 のマスは、黒の他の駒に守られていません。つまり、白キングは危険に陥ることなく、その黒ルークを取ることができます。これにより、白は目前の脅威を解消するだけでなく、一気に大きな優勢を得ます。 \nそして原棋局の最終局面では、白の2枚のルークが g7 と h7 に進出し、黒キングの逃げ道を完全に封じます。黒キングは白のルークを取ることも、逃げることも、他の駒でチェックを防ぐこともできず、チェックメイトとなり、最終的に白が勝利します。\n つまり、この棋局は「女皇が鍾離の助力を得て、死の執政に勝利する」という展開を暗示しているとも解釈できます。\n#原神 #Genshincool"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5246,
+          "impression_count": 921947,
+          "like_count": 19090,
+          "quote_count": 425,
+          "reply_count": 78,
+          "retweet_count": 3544
+        },
+        "reply_settings": "everyone",
+        "text": "スネージナヤPVの棋局は、『原神』の最終結末を暗示している可能性があります。\nこの棋局は、1922年の Alexander Alekhine 対 Fred Dewhirst Yates https://t.co/2zst4sD44R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071114062830977024"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2071119531624587517",
+        "created_at": "2026-06-28T06:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071119531624587517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXkctyTJPd",
+              "end": 190,
+              "expanded_url": "https://x.com/Rococo90933671/status/2071119531624587517/photo/1",
+              "media_key": "3_2071114062830977024",
+              "start": 167,
+              "url": "https://t.co/HXkctyTJPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071119531624587517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。\n\n有一种观点是：\n\n如果结合PV和棋局来看，钟离反而是压制右上角天理的关键，生之执政反水击败死之执政可能性更高。至于空之执政去哪了，有一种可能是，跟着反主推翻天理去了。\n\n空之神殿可以拿到一本书《少女薇拉的忧郁》。书里有暗示说，天理躯体还在，但是灵魂已死，实际上里面是尼伯龙根在维系天理的身躯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有日推网友根据原神官方PV的棋盘提出猜测：最后钟离可能会协助冰神打败若娜瓦。\n\n这盘棋并非虚构，而是出自1922年8月12日，亚历山大·阿廖欣（Alexander Alekhine）与弗雷德·耶茨（Fred Dewhirst Yates）之间的一场真实对局。\n\n原推链接放评论区，原棋局链接也放在评论区，懂国际象棋的朋友可以去看看。 https://t.co/HXkctyTJPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13062,
+          "following_count": 3159,
+          "like_count": 41971,
+          "listed_count": 40,
+          "media_count": 4504,
+          "tweet_count": 23262
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:48:02.000Z",
+        "description": "八重堂の編集者（現役社畜）です！原神の最新情報や攻略を知りたい方は、ぜひこちらへ！ (●`ω´●) \n#原神 #Genshinimpact",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "原神"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "Genshinimpact"
+              }
+            ]
+          }
+        },
+        "id": "1892798362958909445",
+        "location": "八重堂",
+        "name": "🦊巫女ちゃん＠原神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892800462447136771/5zayY6xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 122,
+          "like_count": 1188,
+          "listed_count": 13,
+          "media_count": 637,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "mikogenshinnews",
+        "verified": true
+      }
+    ]
+  }
+}

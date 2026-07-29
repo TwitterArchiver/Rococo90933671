@@ -1,0 +1,339 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1800883924958343408",
+    "created_at": "2024-06-13T02:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T03:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801077884360261772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801077884360261772",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800883924958343408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo 我希望川普当总统，很希望，但只是觉得他真的很有乐子，无关立场或其他，川宝加油，给我乐子😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1800883924958343408",
+        "created_at": "2024-06-13T02:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T03:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801077884360261772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801077884360261772",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800883924958343408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo 我希望川普当总统，很希望，但只是觉得他真的很有乐子，无关立场或其他，川宝加油，给我乐子😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800883921342885888"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1800883924958343408",
+        "created_at": "2024-06-12T13:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T14:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800883924958343408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/t9ga2J6ipo",
+              "end": 192,
+              "expanded_url": "https://twitter.com/sugihara_tatuo/status/1800883924958343408/photo/1",
+              "media_key": "3_1800883921342885888",
+              "start": 169,
+              "url": "https://t.co/t9ga2J6ipo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800883924958343408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1881,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被气急败坏的川粉B了捏😋\n有的人实在奇怪，歌颂着伟大的美国，却不知美国因何而伟大。美国的伟大在于其立国精神、共和创举和公正自由，却不在于川普、拜登还是别的任何人。\n没错，就像此川粉的ID一样，Biden is bitch，但，Trump is NOT the god.\n若您认为Trump is the god，也欢迎您速速封锁掉我捏。 https://t.co/t9ga2J6ipo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1166,
+          "like_count": 7571,
+          "listed_count": 2,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじもの。目田狗/傳統派。長篇歷史架空作品「子夜之后」連載中 https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 59,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 36,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 💤",
+        "pinned_tweet_id": "1708725254925996471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798307751610957824/XzojFb4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 753,
+          "like_count": 85488,
+          "listed_count": 13,
+          "tweet_count": 7969
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

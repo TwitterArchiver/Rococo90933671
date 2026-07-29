@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074014513066840064"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074014500441993326",
+    "created_at": "2026-07-06T06:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074014517336605011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SCeRdMmsUd",
+          "end": 28,
+          "expanded_url": "https://x.com/Rococo90933671/status/2074014517336605011/photo/1",
+          "media_key": "3_2074014513066840064",
+          "start": 5,
+          "url": "https://t.co/SCeRdMmsUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074014517336605011",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074014500441993326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水库位置 https://t.co/SCeRdMmsUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074014513066840064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhhNgZakAAx3kY.jpg",
+        "width": 1063
+      },
+      {
+        "duration_ms": 22523,
+        "height": 1280,
+        "media_key": "7_2074013883656978432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074013883656978432/pu/img/I1bN49ispVwsaMOO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074013883656978432/pu/vid/avc1/320x568/Xya6q1KQAUOLq12P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074013883656978432/pu/vid/avc1/480x852/mGoIjt5W0ix9aUXE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074013883656978432/pu/vid/avc1/720x1280/5L8GcirL84RZHxIU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074013883656978432/pu/pl/M5v20wMd-XyEuOxR.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9079,
+        "height": 1280,
+        "media_key": "7_2074014068554543104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074014068554543104/pu/img/MKB74jxDB1-bDdaU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014068554543104/pu/vid/avc1/320x568/Wbj_s7X-F-kKVRiB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014068554543104/pu/vid/avc1/480x852/Tey4OIdr2h3vRliG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014068554543104/pu/vid/avc1/720x1280/-TddOKjsKQ-0Lqze.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074014068554543104/pu/pl/bO_ohxILyziQ8qIY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 24712,
+        "height": 1280,
+        "media_key": "7_2074014156253179904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074014156253179904/pu/img/UfhM0HZtneWgMv6C.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014156253179904/pu/vid/avc1/320x568/q1GS1a7a_83HAsjP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014156253179904/pu/vid/avc1/480x852/324vvd7YOAoZ31G9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014156253179904/pu/vid/avc1/720x1280/pMlGqmqxf75Icn-d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074014156253179904/pu/pl/fXvQpzM0bts-GO-X.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19271,
+        "height": 960,
+        "media_key": "7_2074014325996699648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074014325996699648/pu/img/zeKW5DDTL5pALHue.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014325996699648/pu/vid/avc1/320x564/0vyqwOKbvJ7DDmpH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014325996699648/pu/vid/avc1/480x846/fmAz4Y1cEbSsfcc7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074014325996699648/pu/vid/avc1/544x960/T0cPrhcldfGLLc3Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074014325996699648/pu/pl/c4x6W9fQ3IygwhG9.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074014513066840064"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074014500441993326",
+        "created_at": "2026-07-06T06:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074014517336605011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCeRdMmsUd",
+              "end": 28,
+              "expanded_url": "https://x.com/Rococo90933671/status/2074014517336605011/photo/1",
+              "media_key": "3_2074014513066840064",
+              "start": 5,
+              "url": "https://t.co/SCeRdMmsUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074014517336605011",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074014500441993326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水库位置 https://t.co/SCeRdMmsUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074013883656978432",
+            "7_2074014068554543104",
+            "7_2074014156253179904",
+            "7_2074014325996699648"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2074014500441993326",
+        "created_at": "2026-07-06T06:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074014500441993326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjjYNrOyvw",
+              "end": 50,
+              "expanded_url": "https://x.com/Rococo90933671/status/2074014500441993326/video/1",
+              "media_key": "7_2074013883656978432",
+              "start": 27,
+              "url": "https://t.co/pjjYNrOyvw"
+            },
+            {
+              "display_url": "pic.x.com/pjjYNrOyvw",
+              "end": 50,
+              "expanded_url": "https://x.com/Rococo90933671/status/2074014500441993326/video/1",
+              "media_key": "7_2074014068554543104",
+              "start": 27,
+              "url": "https://t.co/pjjYNrOyvw"
+            },
+            {
+              "display_url": "pic.x.com/pjjYNrOyvw",
+              "end": 50,
+              "expanded_url": "https://x.com/Rococo90933671/status/2074014500441993326/video/1",
+              "media_key": "7_2074014156253179904",
+              "start": 27,
+              "url": "https://t.co/pjjYNrOyvw"
+            },
+            {
+              "display_url": "pic.x.com/pjjYNrOyvw",
+              "end": 50,
+              "expanded_url": "https://x.com/Rococo90933671/status/2074014500441993326/video/1",
+              "media_key": "7_2074014325996699648",
+              "start": 27,
+              "url": "https://t.co/pjjYNrOyvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074014500441993326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据传，南宁横州的六蓝水库溃坝了，而水库南方全是居民区 https://t.co/pjjYNrOyvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13117,
+          "following_count": 3176,
+          "like_count": 42803,
+          "listed_count": 41,
+          "media_count": 4596,
+          "tweet_count": 23587
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

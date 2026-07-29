@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838800770805960705"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1838800774408659298",
+    "created_at": "2024-09-25T04:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T05:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838800774408659298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xcr4sjkdz",
+          "end": 109,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1838800774408659298/photo/1",
+          "media_key": "3_1838800770805960705",
+          "start": 86,
+          "url": "https://t.co/5xCR4SJkDz"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295",
+          "start": 110,
+          "url": "https://t.co/Ekpn1F51m0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838800774408659298",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811780529253155295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他把猫带回去之后，家里就没有好脸色看，他爸更是直接施压，让他放弃掉。那时候他还有几天就要去别的城市上班了，但是没办法还是联系一个网友把猫送掉了\n\n那是那天我们捡到猫的地方 https://t.co/5xCR4SJkDz https://t.co/Ekpn1F51m0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1838800770805960705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYS7jwSakAESg6a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838800770805960705"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1838800774408659298",
+        "created_at": "2024-09-25T04:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T05:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838800774408659298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xcr4sjkdz",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1838800774408659298/photo/1",
+              "media_key": "3_1838800770805960705",
+              "start": 86,
+              "url": "https://t.co/5xCR4SJkDz"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295",
+              "start": 110,
+              "url": "https://t.co/Ekpn1F51m0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838800774408659298",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811780529253155295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他把猫带回去之后，家里就没有好脸色看，他爸更是直接施压，让他放弃掉。那时候他还有几天就要去别的城市上班了，但是没办法还是联系一个网友把猫送掉了\n\n那是那天我们捡到猫的地方 https://t.co/5xCR4SJkDz https://t.co/Ekpn1F51m0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1811780525444726784",
+            "3_1811780525461557248",
+            "3_1811780525457379328",
+            "3_1811780525482475521"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1811780529253155295",
+        "created_at": "2024-07-12T15:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T16:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811780529253155295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37h8rk79xt",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295/photo/1",
+              "media_key": "3_1811780525444726784",
+              "start": 141,
+              "url": "https://t.co/37h8rk79xT"
+            },
+            {
+              "display_url": "pic.x.com/37h8rk79xt",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295/photo/1",
+              "media_key": "3_1811780525461557248",
+              "start": 141,
+              "url": "https://t.co/37h8rk79xT"
+            },
+            {
+              "display_url": "pic.x.com/37h8rk79xt",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295/photo/1",
+              "media_key": "3_1811780525457379328",
+              "start": 141,
+              "url": "https://t.co/37h8rk79xT"
+            },
+            {
+              "display_url": "pic.x.com/37h8rk79xt",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811780529253155295/photo/1",
+              "media_key": "3_1811780525482475521",
+              "start": 141,
+              "url": "https://t.co/37h8rk79xT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811780529253155295",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2082,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是奇遇了。跟兄弟出来KFC，吃完之后因为套餐里柠檬水的杯子我想留下来，就和他一起往公共厕所走因为有水龙头洗。结果在公厕拐角发现了这只猫。他一直想养猫，但是一起住的爷爷奶奶反感。出于爱护的圣母心我也劝他勇敢一次，结果他真的带回去了，还买了笼子和猫粮。巧了，琳妮特也是猫猫来着🥰 https://t.co/37h8rk79xT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 1817,
+          "like_count": 16701,
+          "listed_count": 3,
+          "tweet_count": 8903
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

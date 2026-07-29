@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1876598775734771917",
+    "created_at": "2025-01-07T12:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T13:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876600079756468456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620714577431494656",
+          "start": 0,
+          "username": "pandeng1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876600079756468456",
+    "in_reply_to_user_id": "1620714577431494656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876599830430322826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandeng1234 没飞霄翡翠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1876598775734771917",
+        "created_at": "2025-01-07T12:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876600079756468456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620714577431494656",
+              "start": 0,
+              "username": "pandeng1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876600079756468456",
+        "in_reply_to_user_id": "1620714577431494656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876599830430322826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandeng1234 没飞霄翡翠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876599827569717248"
+          ]
+        },
+        "author_id": "1620714577431494656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876598775734771917",
+        "created_at": "2025-01-07T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876599830430322826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYcbrQGGUr",
+              "end": 39,
+              "expanded_url": "https://x.com/pandeng1234/status/1876599830430322826/photo/1",
+              "media_key": "3_1876599827569717248",
+              "start": 16,
+              "url": "https://t.co/VYcbrQGGUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876599830430322826",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876598775734771917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 https://t.co/VYcbrQGGUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 2004,
+          "like_count": 20833,
+          "listed_count": 5,
+          "media_count": 1497,
+          "tweet_count": 11587
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T09:24:18.000Z",
+        "description": "我是傻卵二次元（玩原神玩的），本科学的德语（已经忘得差不多），喜欢重金属，弹电吉他（三年没碰）。性格类型是老缠：IMSB。有时候暴躁:FNMDP。互关直说，不必藏着掖着。",
+        "id": "1620714577431494656",
+        "location": "妈妈生的",
+        "name": "萨拉塔斯的狗博士",
+        "pinned_tweet_id": "1769336801330860159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780882232380723200/HsyDI6GT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 953,
+          "like_count": 25980,
+          "listed_count": 9,
+          "media_count": 1299,
+          "tweet_count": 23502
+        },
+        "username": "pandeng1234",
+        "verified": false
+      }
+    ]
+  }
+}

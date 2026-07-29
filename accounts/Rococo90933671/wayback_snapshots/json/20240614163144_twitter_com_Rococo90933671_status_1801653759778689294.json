@@ -1,0 +1,200 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1801543146381209890",
+    "created_at": "2024-06-14T16:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T17:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801653759778689294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683450112276832256",
+          "start": 0,
+          "username": "kamiyama_ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801653759778689294",
+    "in_reply_to_user_id": "1683450112276832256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801543146381209890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamiyama_ama 比我帅多了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1801543146381209890",
+        "created_at": "2024-06-14T16:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T17:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801653759778689294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683450112276832256",
+              "start": 0,
+              "username": "kamiyama_ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801653759778689294",
+        "in_reply_to_user_id": "1683450112276832256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801543146381209890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamiyama_ama 比我帅多了😢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801543130665435136"
+          ]
+        },
+        "author_id": "1683450112276832256",
+        "conversation_id": "1801543146381209890",
+        "created_at": "2024-06-14T09:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T10:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801543146381209890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8Vn2E0TF3m",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kamiyama_ama/status/1801543146381209890/photo/1",
+              "media_key": "3_1801543130665435136",
+              "start": 19,
+              "url": "https://t.co/8Vn2E0TF3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801543146381209890",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "閒來無事，拍一下自己\n#可爱的男孩子 https://t.co/8Vn2E0TF3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 1233,
+          "like_count": 8304,
+          "listed_count": 2,
+          "tweet_count": 4715
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T12:12:49.000Z",
+        "description": "无糖男娘/小鸡鸡/来自台湾\n\n我最喜欢大家了！欢迎大家认识我",
+        "id": "1683450112276832256",
+        "name": "超可爱亚麻",
+        "pinned_tweet_id": "1792301349847330819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792298976957652992/a1D-vGYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 226,
+          "like_count": 1187,
+          "listed_count": 0,
+          "tweet_count": 409
+        },
+        "username": "kamiyama_ama",
+        "verified": false
+      }
+    ]
+  }
+}

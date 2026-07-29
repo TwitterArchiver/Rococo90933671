@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1825760250797908274",
+    "created_at": "2024-08-20T07:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T08:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825792509722898780"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "bushi",
+          "probability": 0.4901,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758843055669673985",
+          "start": 0,
+          "username": "harehaneyuike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825792509722898780",
+    "in_reply_to_user_id": "1758843055669673985",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825760250797908274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harehaneyuike 八V八人（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1825760250797908274",
+        "created_at": "2024-08-20T07:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T08:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825792509722898780"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "bushi",
+              "probability": 0.4901,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758843055669673985",
+              "start": 0,
+              "username": "harehaneyuike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825792509722898780",
+        "in_reply_to_user_id": "1758843055669673985",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825760250797908274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harehaneyuike 八V八人（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825760242023673857"
+          ]
+        },
+        "author_id": "1758843055669673985",
+        "conversation_id": "1825760250797908274",
+        "created_at": "2024-08-20T05:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T06:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825760250797908274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gappteddpq",
+              "end": 35,
+              "expanded_url": "https://twitter.com/harehaneyuike/status/1825760250797908274/photo/1",
+              "media_key": "3_1825760242023673857",
+              "start": 12,
+              "url": "https://t.co/GaPPteDdPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825760250797908274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "店员愣是叫不出来名字💦 https://t.co/GaPPteDdPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 1584,
+          "like_count": 14111,
+          "listed_count": 2,
+          "tweet_count": 7417
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T13:17:36.000Z",
+        "description": "06年｜本科在读｜mtf｜hrt 24.2.24｜INFP｜精神状态未知｜有事没事会来扯两句｜随缘互fo｜不喜欢会b人｜🥰：@NanaNana_os",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaNana_os"
+              }
+            ]
+          }
+        },
+        "id": "1758843055669673985",
+        "location": "アビドス",
+        "name": "ハレハネ",
+        "pinned_tweet_id": "1807719148316709105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758843713604972544/NLB7YI8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 157,
+          "like_count": 6257,
+          "listed_count": 0,
+          "tweet_count": 693
+        },
+        "username": "harehaneyuike",
+        "verified": false
+      }
+    ]
+  }
+}

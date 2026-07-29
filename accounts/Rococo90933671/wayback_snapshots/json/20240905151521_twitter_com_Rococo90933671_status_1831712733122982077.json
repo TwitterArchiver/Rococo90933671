@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1831701549518876725",
+    "created_at": "2024-09-05T15:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T16:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831712733122982077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569261027090472964",
+          "start": 0,
+          "username": "isnowzerocovid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 39,
+          "expanded_url": "https://x.com/Rococo90933671/status/1791356329396781459?t=lx2bsACER76XzJW5nfId_A&s=19",
+          "start": 16,
+          "url": "https://t.co/W04Kujaa6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831712733122982077",
+    "in_reply_to_user_id": "1569261027090472964",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791356329396781459",
+        "type": "quoted"
+      },
+      {
+        "id": "1831701549518876725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isnowzerocovid https://t.co/W04Kujaa6w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1831701549518876725",
+        "created_at": "2024-09-05T15:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831712733122982077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569261027090472964",
+              "start": 0,
+              "username": "isnowzerocovid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 39,
+              "expanded_url": "https://x.com/Rococo90933671/status/1791356329396781459?t=lx2bsACER76XzJW5nfId_A&s=19",
+              "start": 16,
+              "url": "https://t.co/W04Kujaa6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831712733122982077",
+        "in_reply_to_user_id": "1569261027090472964",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791356329396781459",
+            "type": "quoted"
+          },
+          {
+            "id": "1831701549518876725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isnowzerocovid https://t.co/W04Kujaa6w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791355663970717713",
+        "created_at": "2024-05-17T06:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791356329396781459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684550976760578048",
+              "start": 0,
+              "username": "saksamalah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791356329396781459",
+        "in_reply_to_user_id": "1684550976760578048",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2353,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791355663970717713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah When a unique choice is right there, others have been meaningless😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1831701548172505090"
+          ]
+        },
+        "author_id": "1569261027090472964",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1831701549518876725",
+        "created_at": "2024-09-05T14:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T15:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831701549518876725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831701549518876725",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平主席是非洲人民的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 1693,
+          "like_count": 15614,
+          "listed_count": 2,
+          "tweet_count": 8238
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T09:46:10.000Z",
+        "description": "🎖️中国第一带货王，我爱熟女美声歌唱家🇨🇳🇦🇺🇸🇬➡️🇺🇸纯粹恶趣味，很少键政",
+        "id": "1569261027090472964",
+        "location": "上次登录IP：广东省广州市电信",
+        "name": "钟莲花🪷武汉肺炎立奇功 国士无双天下名",
+        "pinned_tweet_id": "1768855231327326705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779520724694339584/5cf6RJ5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5055,
+          "following_count": 459,
+          "like_count": 11259,
+          "listed_count": 26,
+          "tweet_count": 9539
+        },
+        "username": "isnowzerocovid",
+        "verified": false
+      }
+    ]
+  }
+}

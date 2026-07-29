@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1798708948541063493",
+    "created_at": "2024-06-07T01:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T02:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798896525936099362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1255397952325128193",
+          "start": 0,
+          "username": "wakeup_arrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798896525936099362",
+    "in_reply_to_user_id": "1255397952325128193",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798708948541063493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakeup_arrow 没有李颖我不是很认可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1798708948541063493",
+        "created_at": "2024-06-07T01:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T02:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798896525936099362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1255397952325128193",
+              "start": 0,
+              "username": "wakeup_arrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798896525936099362",
+        "in_reply_to_user_id": "1255397952325128193",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798708948541063493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakeup_arrow 没有李颖我不是很认可"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798708940970270720"
+          ]
+        },
+        "author_id": "1255397952325128193",
+        "conversation_id": "1798708948541063493",
+        "created_at": "2024-06-06T13:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T14:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798708948541063493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vHG7uaSECY",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wakeup_arrow/status/1798708948541063493/photo/1",
+              "media_key": "3_1798708940970270720",
+              "start": 19,
+              "url": "https://t.co/vHG7uaSECY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798708948541063493",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 53183,
+          "like_count": 263,
+          "quote_count": 23,
+          "reply_count": 220,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "请挑选你认为最智慧的选手\n做你的队友 https://t.co/vHG7uaSECY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 971,
+          "like_count": 6112,
+          "listed_count": 2,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T07:26:18.000Z",
+        "description": "",
+        "id": "1255397952325128193",
+        "location": "喵喵编辑部",
+        "name": "猫叔讲故事",
+        "pinned_tweet_id": "1798194358891778142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533050936796450817/_QmfSm-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62932,
+          "following_count": 2420,
+          "like_count": 114324,
+          "listed_count": 225,
+          "tweet_count": 56382
+        },
+        "username": "wakeup_arrow",
+        "verified": false
+      }
+    ]
+  }
+}

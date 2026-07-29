@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1816475848700289188",
+    "created_at": "2024-07-25T14:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T15:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816477016524575074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561703249253543938",
+          "start": 0,
+          "username": "Ave_Mujika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816477016524575074",
+    "in_reply_to_user_id": "1561703249253543938",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816475848700289188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ave_Mujika 我也想🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1816475848700289188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1816475848700289188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1816475848700289188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1816475848700289188",
+        "created_at": "2024-07-25T14:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T15:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816477016524575074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561703249253543938",
+              "start": 0,
+              "username": "Ave_Mujika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816477016524575074",
+        "in_reply_to_user_id": "1561703249253543938",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816475848700289188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ave_Mujika 我也想🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1397,
+          "like_count": 12026,
+          "listed_count": 1,
+          "tweet_count": 6377
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T13:14:38.000Z",
+        "description": "退步主义者 前现代保逼 河南老乡/@asahisuki0 @saksamalah2 @Minamikaze_1995 @youmuuuz @xuechun2333 @ch4payev @Radio_Portales #广告位招租/#好好说话运动 #好好睡觉运动 #政史经哲齐头并进",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "广告位招租"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "好好说话运动"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "好好睡觉运动"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "政史经哲齐头并进"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "asahisuki0"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "saksamalah2"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "Minamikaze_1995"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "youmuuuz"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "xuechun2333"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "ch4payev"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "Radio_Portales"
+              }
+            ]
+          }
+        },
+        "id": "1561703249253543938",
+        "location": "In the Aeroplane Over the Sea",
+        "name": "HeyKKKKKoyori［不登校 ver.］",
+        "pinned_tweet_id": "1809036481153093652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816453064208846848/_9OXBOI-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 471,
+          "like_count": 13428,
+          "listed_count": 0,
+          "tweet_count": 6135
+        },
+        "username": "Ave_Mujika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037296609009266688",
+        "3_2037296637484453888",
+        "3_2037296682233421824",
+        "3_2037296740630704128"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2037154252301476285",
+    "created_at": "2026-03-26T22:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037296860881412465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "414E4E4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNGg4gsrjy",
+          "end": 96,
+          "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+          "media_key": "3_2037296609009266688",
+          "start": 73,
+          "url": "https://t.co/dNGg4gsrjy"
+        },
+        {
+          "display_url": "pic.x.com/dNGg4gsrjy",
+          "end": 96,
+          "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+          "media_key": "3_2037296637484453888",
+          "start": 73,
+          "url": "https://t.co/dNGg4gsrjy"
+        },
+        {
+          "display_url": "pic.x.com/dNGg4gsrjy",
+          "end": 96,
+          "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+          "media_key": "3_2037296682233421824",
+          "start": 73,
+          "url": "https://t.co/dNGg4gsrjy"
+        },
+        {
+          "display_url": "pic.x.com/dNGg4gsrjy",
+          "end": 96,
+          "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+          "media_key": "3_2037296740630704128",
+          "start": 73,
+          "url": "https://t.co/dNGg4gsrjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037296860881412465",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037154252301476285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@414E4E4F 我问过，不一定是因为敏感，也有可能是触发其他不回答的机制了。\n\n我跟deepseek提起一篇中学课文，第一次发现它会发这种癫 https://t.co/dNGg4gsrjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_2037296609009266688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXueMoa8AAkEuu.jpg",
+        "width": 975
+      },
+      {
+        "height": 249,
+        "media_key": "3_2037296637484453888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXuf2tb0AA4lP4.jpg",
+        "width": 997
+      },
+      {
+        "height": 205,
+        "media_key": "3_2037296682233421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXuidaa4AAA02q.jpg",
+        "width": 984
+      },
+      {
+        "height": 239,
+        "media_key": "3_2037296740630704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXul29asAAXApS.jpg",
+        "width": 970
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037154244651069440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVs_gEbMAAhaEF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037296609009266688",
+            "3_2037296637484453888",
+            "3_2037296682233421824",
+            "3_2037296740630704128"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2037154252301476285",
+        "created_at": "2026-03-26T22:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037296860881412465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "414E4E4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNGg4gsrjy",
+              "end": 96,
+              "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+              "media_key": "3_2037296609009266688",
+              "start": 73,
+              "url": "https://t.co/dNGg4gsrjy"
+            },
+            {
+              "display_url": "pic.x.com/dNGg4gsrjy",
+              "end": 96,
+              "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+              "media_key": "3_2037296637484453888",
+              "start": 73,
+              "url": "https://t.co/dNGg4gsrjy"
+            },
+            {
+              "display_url": "pic.x.com/dNGg4gsrjy",
+              "end": 96,
+              "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+              "media_key": "3_2037296682233421824",
+              "start": 73,
+              "url": "https://t.co/dNGg4gsrjy"
+            },
+            {
+              "display_url": "pic.x.com/dNGg4gsrjy",
+              "end": 96,
+              "expanded_url": "https://x.com/Rococo90933671/status/2037296860881412465/photo/1",
+              "media_key": "3_2037296740630704128",
+              "start": 73,
+              "url": "https://t.co/dNGg4gsrjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037296860881412465",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037154252301476285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@414E4E4F 我问过，不一定是因为敏感，也有可能是触发其他不回答的机制了。\n\n我跟deepseek提起一篇中学课文，第一次发现它会发这种癫 https://t.co/dNGg4gsrjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037154244651069440"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2037154252301476285",
+        "created_at": "2026-03-26T13:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037154252301476285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crtXF4zGuG",
+              "end": 28,
+              "expanded_url": "https://x.com/414E4E4F/status/2037154252301476285/photo/1",
+              "media_key": "3_2037154244651069440",
+              "start": 5,
+              "url": "https://t.co/crtXF4zGuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037154252301476285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 931,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敏感在哪 https://t.co/crtXF4zGuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9781,
+          "following_count": 2772,
+          "like_count": 32594,
+          "listed_count": 27,
+          "media_count": 3455,
+          "tweet_count": 19289
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴￴ ￴￴ ￴￴ ￴￴︎アノ￴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 892,
+          "like_count": 184550,
+          "listed_count": 0,
+          "media_count": 4767,
+          "tweet_count": 20118
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

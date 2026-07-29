@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2039566606930686227",
+    "created_at": "2026-04-02T08:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039625850241585431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039625850241585431",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039566606930686227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 损害自身群体利益的永远都不受群体欢迎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2039566593781620736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3_As4bYAA6PDn.jpg",
+        "width": 1646
+      },
+      {
+        "height": 1032,
+        "media_key": "3_2039566593798373376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3_As8bAAA5EEC.jpg",
+        "width": 352
+      },
+      {
+        "height": 1318,
+        "media_key": "3_2039566593764806656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3_As0a0AAGewW.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2039566606930686227",
+        "created_at": "2026-04-02T08:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039625850241585431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039625850241585431",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039566606930686227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 损害自身群体利益的永远都不受群体欢迎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039566593781620736",
+            "3_2039566593798373376",
+            "3_2039566593764806656"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2039566606930686227",
+        "created_at": "2026-04-02T04:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039566606930686227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3jeh5wc3l",
+              "end": 30,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2039566606930686227/photo/1",
+              "media_key": "3_2039566593781620736",
+              "start": 7,
+              "url": "https://t.co/B3jeh5wc3l"
+            },
+            {
+              "display_url": "pic.x.com/B3jeh5wc3l",
+              "end": 30,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2039566606930686227/photo/1",
+              "media_key": "3_2039566593798373376",
+              "start": 7,
+              "url": "https://t.co/B3jeh5wc3l"
+            },
+            {
+              "display_url": "pic.x.com/B3jeh5wc3l",
+              "end": 30,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2039566606930686227/photo/1",
+              "media_key": "3_2039566593764806656",
+              "start": 7,
+              "url": "https://t.co/B3jeh5wc3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039566606930686227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2118,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "航✌️有福了 https://t.co/B3jeh5wc3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9922,
+          "following_count": 2814,
+          "like_count": 33459,
+          "listed_count": 28,
+          "media_count": 3520,
+          "tweet_count": 19645
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 350,
+          "like_count": 9771,
+          "listed_count": 3,
+          "media_count": 720,
+          "tweet_count": 3668
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

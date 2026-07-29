@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872913121087741952",
+        "3_1872913122098593793"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1872913124942331993",
+    "created_at": "2024-12-28T07:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T08:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872913124942331993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5IX8fku2g",
+          "end": 81,
+          "expanded_url": "https://x.com/Rococo90933671/status/1872913124942331993/photo/1",
+          "media_key": "3_1872913121087741952",
+          "start": 58,
+          "url": "https://t.co/S5IX8fku2g"
+        },
+        {
+          "display_url": "pic.x.com/S5IX8fku2g",
+          "end": 81,
+          "expanded_url": "https://x.com/Rococo90933671/status/1872913124942331993/photo/1",
+          "media_key": "3_1872913122098593793",
+          "start": 58,
+          "url": "https://t.co/S5IX8fku2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872913124942331993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子，我们一起好好读书充实自己吧，来网上花钱买流量是真的这辈子有了。很庆幸自己穷，钱要拿来氪原神（这辈子也有了😋） https://t.co/S5IX8fku2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_1872913121087741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf3sj32aYAAfNXu.jpg",
+        "width": 263
+      },
+      {
+        "height": 754,
+        "media_key": "3_1872913122098593793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf3sj7nawAEFjuu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872913121087741952",
+            "3_1872913122098593793"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1872913124942331993",
+        "created_at": "2024-12-28T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872913124942331993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5IX8fku2g",
+              "end": 81,
+              "expanded_url": "https://x.com/Rococo90933671/status/1872913124942331993/photo/1",
+              "media_key": "3_1872913121087741952",
+              "start": 58,
+              "url": "https://t.co/S5IX8fku2g"
+            },
+            {
+              "display_url": "pic.x.com/S5IX8fku2g",
+              "end": 81,
+              "expanded_url": "https://x.com/Rococo90933671/status/1872913124942331993/photo/1",
+              "media_key": "3_1872913122098593793",
+              "start": 58,
+              "url": "https://t.co/S5IX8fku2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872913124942331993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，我们一起好好读书充实自己吧，来网上花钱买流量是真的这辈子有了。很庆幸自己穷，钱要拿来氪原神（这辈子也有了😋） https://t.co/S5IX8fku2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 1988,
+          "like_count": 20282,
+          "listed_count": 5,
+          "media_count": 1441,
+          "tweet_count": 11262
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

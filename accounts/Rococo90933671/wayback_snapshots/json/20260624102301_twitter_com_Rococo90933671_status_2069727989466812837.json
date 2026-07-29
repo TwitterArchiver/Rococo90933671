@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069727953454272513"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2069475103881241085",
+    "created_at": "2026-06-24T10:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069727989466812837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPJ7gsyQhu",
+          "end": 46,
+          "expanded_url": "https://x.com/Rococo90933671/status/2069727989466812837/photo/1",
+          "media_key": "3_2069727953454272513",
+          "start": 23,
+          "url": "https://t.co/RPJ7gsyQhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069727989466812837",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069475103881241085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 还有假名标注🤓 https://t.co/RPJ7gsyQhu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2069727953454272513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkmm5dWkAEVzv_.png",
+        "width": 432
+      },
+      {
+        "height": 587,
+        "media_key": "3_2069475097480732672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhAovjbIAA4keh.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069727953454272513"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2069475103881241085",
+        "created_at": "2026-06-24T10:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069727989466812837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPJ7gsyQhu",
+              "end": 46,
+              "expanded_url": "https://x.com/Rococo90933671/status/2069727989466812837/photo/1",
+              "media_key": "3_2069727953454272513",
+              "start": 23,
+              "url": "https://t.co/RPJ7gsyQhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069727989466812837",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069475103881241085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 还有假名标注🤓 https://t.co/RPJ7gsyQhu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069475097480732672"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069475103881241085",
+        "created_at": "2026-06-23T17:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069475103881241085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRByq5EHvG",
+              "end": 33,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069475103881241085/photo/1",
+              "media_key": "3_2069475097480732672",
+              "start": 10,
+              "url": "https://t.co/hRByq5EHvG"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2069411135091278204",
+              "start": 34,
+              "url": "https://t.co/fp1vLqTs5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069475103881241085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069411135091278204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁点的翻译😡😤 https://t.co/hRByq5EHvG https://t.co/fp1vLqTs5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13058,
+          "following_count": 3147,
+          "like_count": 41569,
+          "listed_count": 40,
+          "media_count": 4458,
+          "tweet_count": 23049
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 458,
+          "like_count": 5278,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

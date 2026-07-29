@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828020314631995838",
+    "created_at": "2024-08-26T11:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828031215607353672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679329911742558208",
+          "start": 0,
+          "username": "AfterhardWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828031215607353672",
+    "in_reply_to_user_id": "1679329911742558208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828020314631995838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AfterhardWorld 没有可莉的的话我也全图了😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1828020314631995838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1828020314631995838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1828020314631995838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828020314631995838",
+        "created_at": "2024-08-26T11:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828031215607353672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679329911742558208",
+              "start": 0,
+              "username": "AfterhardWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828031215607353672",
+        "in_reply_to_user_id": "1679329911742558208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828020314631995838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AfterhardWorld 没有可莉的的话我也全图了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1639,
+          "like_count": 14601,
+          "listed_count": 2,
+          "tweet_count": 7685
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T03:20:51.000Z",
+        "description": "一个平平无奇的傻卵医学生；立足蓝色大陆史，辐射到其他领域，泛左友好；anti🇷🇺，🇵🇸🤜🏻💥🇮🇱😁👍；部分马蹄铁主义，认同极端支黑=最支之人，温和友好；求求国畜不要来恶心我（一般民国派可讨论）；支持台湾人民的自决",
+        "id": "1679329911742558208",
+        "location": "别人玩三年能上的一本",
+        "name": "镌刻晴川万代🇺🇦🇵🇸🚩🛠️🌹",
+        "pinned_tweet_id": "1825484907461914642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821142079076233220/3-m45AHo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 836,
+          "like_count": 8519,
+          "listed_count": 5,
+          "tweet_count": 3869
+        },
+        "username": "AfterhardWorld",
+        "verified": false
+      }
+    ]
+  }
+}

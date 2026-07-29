@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1811242370694009308",
+    "created_at": "2024-07-11T05:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T06:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811266869741158505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680331393434537984",
+          "start": 0,
+          "username": "shutupstrongger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811266869741158505",
+    "in_reply_to_user_id": "1680331393434537984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811242370694009308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shutupstrongger 在我的印象里，首要的城市反而没有地方好玩。当然这只是我在云南的经验，在越南没有参考价值。因为在云南昆明就没有大理什么的好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1811242370694009308",
+        "created_at": "2024-07-11T05:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T06:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811266869741158505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680331393434537984",
+              "start": 0,
+              "username": "shutupstrongger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811266869741158505",
+        "in_reply_to_user_id": "1680331393434537984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811242370694009308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shutupstrongger 在我的印象里，首要的城市反而没有地方好玩。当然这只是我在云南的经验，在越南没有参考价值。因为在云南昆明就没有大理什么的好玩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1680331393434537984",
+        "conversation_id": "1811242370694009308",
+        "created_at": "2024-07-11T03:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T04:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811242370694009308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "越南"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "河內"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811242370694009308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有推友知道越南河內有什麼好玩？\n不嫖不毒的都能講講\n\n#越南 #河內"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1333,
+          "like_count": 11470,
+          "listed_count": 2,
+          "tweet_count": 6032
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T21:40:04.000Z",
+        "description": "累了就休息 沒必要去面對",
+        "id": "1680331393434537984",
+        "name": "屌你都on99(淡推減肥ver)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769682551827058688/cZfZjEEc_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 166,
+          "like_count": 2208,
+          "listed_count": 1,
+          "tweet_count": 575
+        },
+        "username": "shutupstrongger",
+        "verified": false
+      }
+    ]
+  }
+}

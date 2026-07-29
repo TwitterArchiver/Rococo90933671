@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Caregiving",
+          "id": "1092545020932976640",
+          "name": "Caregiving"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Elder care",
+          "id": "847547735393710080",
+          "name": "Elder care"
+        }
+      }
+    ],
+    "conversation_id": "2060265531119374653",
+    "created_at": "2026-05-29T07:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060265531119374653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/if_itself/stat…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/if_itself/status/2059572138651386214",
+          "start": 106,
+          "url": "https://t.co/SrFRRSj4QM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060265531119374653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572138651386214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "养老院为什么总是用“微笑”、“向日葵”这种土的掉渣的名字啊？这不就跟用婴儿语和老人说话的护工一样，是在瞧不起老人吗？我将来要住的，是像“终末机关·静养栋瓦尔哈拉”、“特别结界·黑百合院”、“永恒摇篮”这样的地方 https://t.co/SrFRRSj4QM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Caregiving",
+              "id": "1092545020932976640",
+              "name": "Caregiving"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Elder care",
+              "id": "847547735393710080",
+              "name": "Elder care"
+            }
+          }
+        ],
+        "conversation_id": "2060265531119374653",
+        "created_at": "2026-05-29T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060265531119374653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/if_itself/stat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/if_itself/status/2059572138651386214",
+              "start": 106,
+              "url": "https://t.co/SrFRRSj4QM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060265531119374653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572138651386214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "养老院为什么总是用“微笑”、“向日葵”这种土的掉渣的名字啊？这不就跟用婴儿语和老人说话的护工一样，是在瞧不起老人吗？我将来要住的，是像“终末机关·静养栋瓦尔哈拉”、“特别结界·黑百合院”、“永恒摇篮”这样的地方 https://t.co/SrFRRSj4QM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "23301612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Caregiving",
+              "id": "1092545020932976640",
+              "name": "Caregiving"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Elder care",
+              "id": "847547735393710080",
+              "name": "Elder care"
+            }
+          }
+        ],
+        "conversation_id": "2059572138651386214",
+        "created_at": "2026-05-27T09:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572138651386214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059572138651386214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3789,
+          "impression_count": 7492894,
+          "like_count": 70763,
+          "quote_count": 1404,
+          "reply_count": 511,
+          "retweet_count": 10730
+        },
+        "reply_settings": "everyone",
+        "text": "老人ホームってスマイルとかひまわりみたいなクソダサネームが多いのなんでだろう。老人に赤ちゃん言葉で話しかける介護士と同じくらい老人をバカにしてない？　私は将来、「終末機関・静養棟ヴァルハラ」「特別養護結界・黒百合院」「久遠の揺籃《エターナル・クレイドル》」みたいな施設に入りたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12240,
+          "following_count": 3070,
+          "like_count": 39315,
+          "listed_count": 42,
+          "media_count": 4122,
+          "tweet_count": 21993
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-08T11:55:10.000Z",
+        "description": "「かばん」所属、日本短歌協会会員の歌人だった大久保一布です（創作活動はお休み中）。邦画、特撮、葉鍵型月ニトロ好きの哲学修士。氷河期限界ワーママ。ADHD診断済。2ちゃんねる中毒」執筆、「平成ネット史」イベント出演。フォロバします。インスタhttps://t.co/wLV8Z8OGTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ifitself/",
+                "end": 142,
+                "expanded_url": "https://www.instagram.com/ifitself/",
+                "start": 119,
+                "url": "https://t.co/wLV8Z8OGTT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.mu/ifitself/",
+                "end": 23,
+                "expanded_url": "https://note.mu/ifitself/",
+                "start": 0,
+                "url": "https://t.co/O7EUqL5W42"
+              }
+            ]
+          }
+        },
+        "id": "23301612",
+        "location": "横浜",
+        "name": "if",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/755434632787603456/ILEmOMCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 6284,
+          "like_count": 47339,
+          "listed_count": 205,
+          "media_count": 7372,
+          "tweet_count": 48867
+        },
+        "url": "https://t.co/O7EUqL5W42",
+        "username": "if_itself",
+        "verified": false
+      }
+    ]
+  }
+}

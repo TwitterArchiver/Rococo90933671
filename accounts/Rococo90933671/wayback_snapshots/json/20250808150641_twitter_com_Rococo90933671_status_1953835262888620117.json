@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1953804505650192803",
+    "created_at": "2025-08-08T15:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953835262888620117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811057149805834241",
+          "start": 0,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953835262888620117",
+    "in_reply_to_user_id": "1811057149805834241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953804505650192803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarimarl ✋    🤚   ✋    🤚  ✋    🤚   ✋    🤚 \n   \\😭/          \\😭/         \\🤓/          \\😭 /\n  🦵🦵       🦵🦵      🦵🦵       🦵🦵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953804505650192803].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953804505650192803",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953804505650192803"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1953804505650192803",
+        "created_at": "2025-08-08T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953835262888620117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953835262888620117",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953804505650192803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl ✋    🤚   ✋    🤚  ✋    🤚   ✋    🤚 \n   \\😭/          \\😭/         \\🤓/          \\😭 /\n  🦵🦵       🦵🦵      🦵🦵       🦵🦵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 2185,
+          "like_count": 26576,
+          "listed_count": 11,
+          "media_count": 2465,
+          "tweet_count": 15365
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "一般高中生 | 性别是沃尔玛塑料袋 | 可以叫我小T/Ta一串字母巴拉巴拉 | 喜欢温柔聪明有趣的人 | 不吵架，不鉴证 | 什么都懂一点",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟",
+        "name": "Tarimar",
+        "pinned_tweet_id": "1950150968143671410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949484166711771136/ud5gOPeC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 522,
+          "like_count": 8178,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 2272
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

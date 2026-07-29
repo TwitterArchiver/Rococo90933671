@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2065386235670237635",
+    "created_at": "2026-06-12T15:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455074802008205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1181206086772088833",
+          "start": 0,
+          "username": "alt_dirty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455074802008205",
+    "in_reply_to_user_id": "1181206086772088833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065386235670237635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alt_dirty 没关系，只有米饭绝对是主食，而其他的都可以是菜肴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2065386235670237635",
+        "created_at": "2026-06-12T15:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455074802008205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1181206086772088833",
+              "start": 0,
+              "username": "alt_dirty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455074802008205",
+        "in_reply_to_user_id": "1181206086772088833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065386235670237635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alt_dirty 没关系，只有米饭绝对是主食，而其他的都可以是菜肴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181206086772088833",
+        "conversation_id": "2065386235670237635",
+        "created_at": "2026-06-12T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065386235670237635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065386235670237635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 148587,
+          "like_count": 1113,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的中华圈朋友们，我在此忏悔我又把饺子和米饭一起吃了\n真的非常好c非常抱歉请原谅我，我什么都会做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12792,
+          "following_count": 3094,
+          "like_count": 40513,
+          "listed_count": 41,
+          "media_count": 4311,
+          "tweet_count": 22526
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-07T13:54:23.000Z",
+        "description": "英検1級取得済みジェネリック英国紳士系YouTuber / Multilingual-wannabe YouTuber || Languages I'm learning: 🇯🇵🇬🇧🇰🇷🇨🇳 || Shareholder of ▶️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DirtyALT",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@DirtyALT",
+                "start": 0,
+                "url": "https://t.co/Lxq8sGy7TJ"
+              }
+            ]
+          }
+        },
+        "id": "1181206086772088833",
+        "name": "DALT",
+        "pinned_tweet_id": "2062474847557734691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591958343068819456/loDMSP8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50152,
+          "following_count": 242,
+          "like_count": 6358,
+          "listed_count": 130,
+          "media_count": 4501,
+          "tweet_count": 12072
+        },
+        "url": "https://t.co/Lxq8sGy7TJ",
+        "username": "alt_dirty",
+        "verified": true
+      }
+    ]
+  }
+}

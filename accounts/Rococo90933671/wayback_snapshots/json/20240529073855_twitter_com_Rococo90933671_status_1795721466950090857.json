@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1795720522329935961",
+    "created_at": "2024-05-29T07:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T08:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795721466950090857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634409128910270465",
+          "start": 0,
+          "username": "Lee36820481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795721466950090857",
+    "in_reply_to_user_id": "1634409128910270465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795720522329935961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee36820481 我那两年都是骑单车骑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1795720522329935961",
+        "created_at": "2024-05-29T07:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T08:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795721466950090857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634409128910270465",
+              "start": 0,
+              "username": "Lee36820481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795721466950090857",
+        "in_reply_to_user_id": "1634409128910270465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795720522329935961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee36820481 我那两年都是骑单车骑的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634409128910270465",
+        "conversation_id": "1795720522329935961",
+        "created_at": "2024-05-29T07:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T08:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795720522329935961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795720522329935961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了 怎么6月9号乐跑就截止了 我必须天天跑 才能卡着及格了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 805,
+          "like_count": 3852,
+          "listed_count": 1,
+          "tweet_count": 2966
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:21:24.000Z",
+        "description": "选择活在当下吧",
+        "id": "1634409128910270465",
+        "location": "Otherworlds",
+        "name": "烟柳弄晴",
+        "pinned_tweet_id": "1795089180009082920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795047715854008320/s7VL_256_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 375,
+          "like_count": 15700,
+          "listed_count": 0,
+          "tweet_count": 1291
+        },
+        "username": "Lee36820481",
+        "verified": false
+      }
+    ]
+  }
+}

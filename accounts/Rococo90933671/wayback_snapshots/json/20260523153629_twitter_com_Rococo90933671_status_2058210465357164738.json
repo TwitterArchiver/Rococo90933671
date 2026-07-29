@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2058031414252126346",
+    "created_at": "2026-05-23T15:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058210465357164738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1953488550",
+          "start": 0,
+          "username": "jir2260"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058210465357164738",
+    "in_reply_to_user_id": "1953488550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058202493155459336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jir2260 只觉得可能当事人跟我们的想法完全不一样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2058031414252126346",
+        "created_at": "2026-05-23T15:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058210465357164738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1953488550",
+              "start": 0,
+              "username": "jir2260"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058210465357164738",
+        "in_reply_to_user_id": "1953488550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058202493155459336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jir2260 只觉得可能当事人跟我们的想法完全不一样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953488550",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "AKB48",
+              "id": "987356481501650946",
+              "name": "AKB48"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "AKB48",
+              "id": "987356481501650946",
+              "name": "AKB48"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "AKB48",
+              "id": "987356481501650946",
+              "name": "AKB48"
+            }
+          }
+        ],
+        "conversation_id": "2058031414252126346",
+        "created_at": "2026-05-23T15:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058202493155459336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058202493155459336",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058031414252126346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 不用說野獸先輩、就算是當年紅遍半邊天的AKB神七的渡邊麻友也在引退後完全沒有一丁點消息、連被網曝都沒有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11732,
+          "following_count": 3067,
+          "like_count": 38851,
+          "listed_count": 39,
+          "media_count": 4066,
+          "tweet_count": 21816
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-11T07:17:25.000Z",
+        "description": "",
+        "id": "1953488550",
+        "name": "Kurara Takao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000579134927/30273ca96edd6355d5abe2a3d240e942_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 72,
+          "like_count": 596,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 495
+        },
+        "username": "jir2260",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1856903317282328881",
+    "created_at": "2024-11-14T04:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856909970157310324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701426110083563520",
+          "start": 0,
+          "username": "wongkong00538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856909970157310324",
+    "in_reply_to_user_id": "1701426110083563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856903317282328881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wongkong00538 这就有点像官方自制的传闻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1856903317282328881",
+        "created_at": "2024-11-14T04:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856909970157310324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856909970157310324",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856903317282328881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wongkong00538 这就有点像官方自制的传闻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701426110083563520",
+        "conversation_id": "1856903317282328881",
+        "created_at": "2024-11-14T03:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T04:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856903317282328881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/22HomoPoliticu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1856677508386623882",
+              "start": 16,
+              "url": "https://t.co/1osl5upz3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856903317282328881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856677508386623882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这说的没问题，定性确实太仓促了 https://t.co/1osl5upz3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 1899,
+          "like_count": 17581,
+          "listed_count": 5,
+          "tweet_count": 9957
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "这是一颗已经躺平的西瓜|你们玩吧我先躺平了|男|社畜|欢迎互关好友私信😃|最喜欢pantyhose😎👍|喜欢点赞转发",
+        "id": "1701426110083563520",
+        "location": "西瓜种植基地",
+        "name": "西瓜🍉瓜师傅已躺平",
+        "pinned_tweet_id": "1851167608848203952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833656090073931776/G5f-LZjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 888,
+          "like_count": 33442,
+          "listed_count": 0,
+          "tweet_count": 12854
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

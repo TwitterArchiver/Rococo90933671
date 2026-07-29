@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1963497828141207588",
+    "created_at": "2025-09-04T07:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T08:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963501366514446731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457263132934656001",
+          "start": 0,
+          "username": "huangsh50613022"
+        },
+        {
+          "end": 32,
+          "id": "1847901231920140294",
+          "start": 17,
+          "username": "ArmyNorth53420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963501366514446731",
+    "in_reply_to_user_id": "1457263132934656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963500526085312779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangsh50613022 @ArmyNorth53420 只要是抖音短视频外放讨厌程度都差不多，曼波只是代表而已"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963500526085312779].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963500526085312779",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963500526085312779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1963497828141207588",
+        "created_at": "2025-09-04T07:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963501366514446731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457263132934656001",
+              "start": 0,
+              "username": "huangsh50613022"
+            },
+            {
+              "end": 32,
+              "id": "1847901231920140294",
+              "start": 17,
+              "username": "ArmyNorth53420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963501366514446731",
+        "in_reply_to_user_id": "1457263132934656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963500526085312779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangsh50613022 @ArmyNorth53420 只要是抖音短视频外放讨厌程度都差不多，曼波只是代表而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 2206,
+          "like_count": 27658,
+          "listed_count": 13,
+          "media_count": 2602,
+          "tweet_count": 15960
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T08:26:29.000Z",
+        "description": "常驻白罗斯，可能以后会去中亚，苦逼俄语专业学牲，也会一些白语和乌语。🇺🇦🇦🇲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hao123.com",
+                "end": 23,
+                "expanded_url": "http://www.hao123.com",
+                "start": 0,
+                "url": "https://t.co/BLWwZO9nkV"
+              }
+            ]
+          }
+        },
+        "id": "1457263132934656001",
+        "location": "Republic of Belarus",
+        "name": "хуан🇺🇦",
+        "pinned_tweet_id": "1831277688944009590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815375102776881152/9OIcIfWn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 939,
+          "like_count": 12858,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/BLWwZO9nkV",
+        "username": "huangsh50613022",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:22:53.000Z",
+        "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 二次元马警察 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 傻逼二次元 炒作狗 魔怔人 哥学家 滚学家  烂梗王 极民冷感 星怒@elonmusk 吐槽小号@peacemakerm1873",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "elonmusk"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "peacemakerm1873"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmmusknmsl.com",
+                "end": 23,
+                "expanded_url": "http://www.cnmmusknmsl.com",
+                "start": 0,
+                "url": "https://t.co/vITiEfZpew"
+              }
+            ]
+          }
+        },
+        "id": "1847901231920140294",
+        "location": "傻了吧唧研究中心",
+        "name": "年轻的曼波人",
+        "pinned_tweet_id": "1868148551097909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962537066002337793/ww95LUNN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 563,
+          "like_count": 72514,
+          "listed_count": 5,
+          "media_count": 1487,
+          "tweet_count": 14716
+        },
+        "url": "https://t.co/vITiEfZpew",
+        "username": "ArmyNorth53420",
+        "verified": false
+      }
+    ]
+  }
+}

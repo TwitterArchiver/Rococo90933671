@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1898659572761739743",
+    "created_at": "2025-03-09T09:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T10:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898661778122277213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898661778122277213",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898659572761739743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 嗯呃呃~数学，我不行了，好痛痛~🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898659569326530562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gllk0ZsaoAIYgRl.jpg",
+        "width": 1467
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898659569645301761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gllk0a4asAEJ-xy.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1898659572761739743",
+        "created_at": "2025-03-09T09:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T10:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898661778122277213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898661778122277213",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898659572761739743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 嗯呃呃~数学，我不行了，好痛痛~🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898659569326530562",
+            "3_1898659569645301761"
+          ]
+        },
+        "author_id": "1545736499597307904",
+        "conversation_id": "1898659572761739743",
+        "created_at": "2025-03-09T08:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898659572761739743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hw7G5vMjlz",
+              "end": 40,
+              "expanded_url": "https://x.com/Andy1782010/status/1898659572761739743/photo/1",
+              "media_key": "3_1898659569326530562",
+              "start": 17,
+              "url": "https://t.co/hw7G5vMjlz"
+            },
+            {
+              "display_url": "pic.x.com/hw7G5vMjlz",
+              "end": 40,
+              "expanded_url": "https://x.com/Andy1782010/status/1898659572761739743/photo/1",
+              "media_key": "3_1898659569645301761",
+              "start": 17,
+              "url": "https://t.co/hw7G5vMjlz"
+            },
+            {
+              "display_url": "x.com/Andy1782010/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Andy1782010/status/1896252669343482128",
+              "start": 41,
+              "url": "https://t.co/a1bc2AXNrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898659572761739743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896252669343482128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来和我一起被数学强奸吧~ #2 https://t.co/hw7G5vMjlz https://t.co/a1bc2AXNrY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 2137,
+          "like_count": 23289,
+          "listed_count": 9,
+          "media_count": 1798,
+          "tweet_count": 12977
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\ncrush @guo_lao32576\n主人@xvque5567 @fc1164283287992\n里推@Andy1782025\n好啦，备战中考，淡推了喵，6月份见",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "xvque5567"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fc1164283287992"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（备战中考）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 3145,
+          "like_count": 6493,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

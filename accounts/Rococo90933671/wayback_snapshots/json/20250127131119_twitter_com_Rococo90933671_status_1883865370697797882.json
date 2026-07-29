@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1883860461084639329",
+    "created_at": "2025-01-27T13:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T14:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883865370697797882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819659817763459072",
+          "start": 0,
+          "username": "duxin12th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883865370697797882",
+    "in_reply_to_user_id": "1819659817763459072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883860461084639329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxin12th 我经历过，那时候他主号和我互关，小号屏蔽我。他肯定是想激起我的怒火，一定是因为愤怒了信誉也强了，他真的好懂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883860461084639329].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883860461084639329",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883860461084639329"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1883860461084639329",
+        "created_at": "2025-01-27T13:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883865370697797882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819659817763459072",
+              "start": 0,
+              "username": "duxin12th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883865370697797882",
+        "in_reply_to_user_id": "1819659817763459072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883860461084639329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxin12th 我经历过，那时候他主号和我互关，小号屏蔽我。他肯定是想激起我的怒火，一定是因为愤怒了信誉也强了，他真的好懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4307,
+          "following_count": 2111,
+          "like_count": 21996,
+          "listed_count": 7,
+          "media_count": 1632,
+          "tweet_count": 12279
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T09:01:34.000Z",
+        "description": "隐秘内心妓院 @TeririKatarina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "TeririKatarina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dadudalalully1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dadudalalully1",
+                "start": 0,
+                "url": "https://t.co/OKclDfoM1T"
+              }
+            ]
+          }
+        },
+        "id": "1819659817763459072",
+        "location": "IKEA",
+        "name": "🐍都心🐊",
+        "pinned_tweet_id": "1880292001939353770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357244991963138/-k4x0rFw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 809,
+          "like_count": 21099,
+          "listed_count": 4,
+          "media_count": 2120,
+          "tweet_count": 16048
+        },
+        "url": "https://t.co/OKclDfoM1T",
+        "username": "duxin12th",
+        "verified": true
+      }
+    ]
+  }
+}

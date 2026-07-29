@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1802510181231902720",
+    "created_at": "2024-06-17T05:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T06:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802568490886504568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1430730342436982785",
+          "start": 0,
+          "username": "Eris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802568490886504568",
+    "in_reply_to_user_id": "1430730342436982785",
+    "lang": "fr",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802510181231902720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris8964 Bonne journée,Éris"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802510181231902720].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802510181231902720",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802510181231902720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1802510181231902720",
+        "created_at": "2024-06-17T05:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T06:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802568490886504568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1430730342436982785",
+              "start": 0,
+              "username": "Eris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802568490886504568",
+        "in_reply_to_user_id": "1430730342436982785",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802510181231902720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris8964 Bonne journée,Éris"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1282,
+          "like_count": 8951,
+          "listed_count": 2,
+          "tweet_count": 4960
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T03:14:40.000Z",
+        "description": "中右翼人士，温和支黑（逐渐岁静），男女平等主义与性少数群体友好，支持台独！忠实的厄里斯（艾莉丝）粉丝，喜欢分享素晴的奇闻趣事，粉红蝗汉帝国主义伊斯兰教徒请绕道，平时不私聊，除非有重要的事",
+        "id": "1430730342436982785",
+        "location": "天安门64坦克广场1号厄里斯教堂",
+        "name": "厄里斯教地球分部🌎🇮🇱",
+        "pinned_tweet_id": "1768661210432770489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768659819840577536/SGp2sZo9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 1220,
+          "like_count": 15142,
+          "listed_count": 16,
+          "tweet_count": 13851
+        },
+        "username": "Eris8964",
+        "verified": false
+      }
+    ]
+  }
+}

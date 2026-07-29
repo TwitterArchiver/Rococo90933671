@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1942386960250855452",
+    "created_at": "2025-07-08T00:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T01:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942386960250855452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AbeShinzo/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AbeShinzo/status/1545017582729953280",
+          "start": 7,
+          "url": "https://t.co/pbUdVuldxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942386960250855452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1545017582729953280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想你了，牢安 https://t.co/pbUdVuldxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1545017540321374208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FXEBRF6acAAzm2A.jpg",
+        "width": 1920
+      },
+      {
+        "height": 649,
+        "media_key": "3_1545017540363304960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FXEBRGEaQAAq2Mq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1942386960250855452",
+        "created_at": "2025-07-08T00:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942386960250855452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AbeShinzo/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AbeShinzo/status/1545017582729953280",
+              "start": 7,
+              "url": "https://t.co/pbUdVuldxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942386960250855452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1545017582729953280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想你了，牢安 https://t.co/pbUdVuldxL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1545017540321374208",
+            "3_1545017540363304960"
+          ]
+        },
+        "author_id": "468122115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1545017582729953280",
+        "created_at": "2022-07-07T12:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2022-07-07T12:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1545017582729953280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "小野田紀美",
+              "probability": 0.7951,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "日本",
+              "probability": 0.5865,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "小野田紀美",
+              "probability": 0.7669,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vm5vyvj21u",
+              "end": 98,
+              "expanded_url": "https://x.com/AbeShinzo/status/1545017582729953280/photo/1",
+              "media_key": "3_1545017540321374208",
+              "start": 75,
+              "url": "https://t.co/vm5vyvj21u"
+            },
+            {
+              "display_url": "pic.x.com/vm5vyvj21u",
+              "end": 98,
+              "expanded_url": "https://x.com/AbeShinzo/status/1545017582729953280/photo/1",
+              "media_key": "3_1545017540363304960",
+              "start": 75,
+              "url": "https://t.co/vm5vyvj21u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1545017582729953280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2917,
+          "impression_count": 0,
+          "like_count": 231808,
+          "quote_count": 6005,
+          "reply_count": 31125,
+          "retweet_count": 38069
+        },
+        "reply_settings": "everyone",
+        "text": "自民党公認のみで戦い抜く小野田紀美候補。厳しい闘い、彼女の鋼の信念に会場は燃えました。\n日本を守り抜く小野田紀美候補に力を❗️\n宜しくお願いします。 https://t.co/vm5vyvj21u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4983,
+          "following_count": 2157,
+          "like_count": 25350,
+          "listed_count": 9,
+          "media_count": 2309,
+          "tweet_count": 14776
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-19T06:02:29.000Z",
+        "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s-abe.or.jp",
+                "end": 23,
+                "expanded_url": "http://www.s-abe.or.jp/",
+                "start": 0,
+                "url": "https://t.co/2XbBZP4hdd"
+              }
+            ]
+          }
+        },
+        "id": "468122115",
+        "name": "安倍晋三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306398,
+          "following_count": 24,
+          "like_count": 53,
+          "listed_count": 12163,
+          "media_count": 910,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/2XbBZP4hdd",
+        "username": "AbeShinzo",
+        "verified": true
+      }
+    ]
+  }
+}

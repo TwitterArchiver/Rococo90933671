@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1796543490853347777",
+    "created_at": "2024-06-01T15:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T16:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796925340268511258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471681946405068800",
+          "start": 0,
+          "username": "ikaroslibra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796925340268511258",
+    "in_reply_to_user_id": "1471681946405068800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796872866195227036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikaroslibra 等下，我那里好像进不去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1796543490853347777",
+        "created_at": "2024-06-01T15:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T16:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796925340268511258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471681946405068800",
+              "start": 0,
+              "username": "ikaroslibra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796925340268511258",
+        "in_reply_to_user_id": "1471681946405068800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796872866195227036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikaroslibra 等下，我那里好像进不去了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1471681946405068800",
+        "conversation_id": "1796543490853347777",
+        "created_at": "2024-06-01T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796872866195227036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 26,
+              "id": "1490858290921844736",
+              "start": 16,
+              "username": "Z101025ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796872866195227036",
+        "in_reply_to_user_id": "1471681946405068800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796848165896986889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @Z101025ch 我的CUJNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 886,
+          "like_count": 4827,
+          "listed_count": 1,
+          "tweet_count": 3368
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T03:21:43.000Z",
+        "description": "伊妹儿 ： xjp@outlook.com.au\n                       New 𝕏 account：@libraikaros  痛みと喜び、罪と無邪気さは、密接に絡み合った 2 本の手のようなものです、それらを切るには、肉、血、骨を切り裂かなければなり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "libraikaros"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "conversations.im/i/xjp@sure.im?…",
+                "end": 23,
+                "expanded_url": "https://conversations.im/i/xjp@sure.im?omemo-sid-487188664=bf4b562872d1f5d12969c34889713862708965cb7",
+                "start": 0,
+                "url": "https://t.co/y4WOmLOBbC"
+              }
+            ]
+          }
+        },
+        "id": "1471681946405068800",
+        "location": "WORLD STATES",
+        "name": "某生者℠𝕏_𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782246654776864768/zp5zz1mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 475,
+          "like_count": 3186,
+          "listed_count": 0,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/y4WOmLOBbC",
+        "username": "ikaroslibra",
+        "verified": false
+      }
+    ]
+  }
+}

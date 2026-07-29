@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1832608383280795735",
+    "created_at": "2024-09-08T02:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T03:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832608383280795735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775505096081825792",
+          "start": 0,
+          "username": "mzd1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832608383280795735",
+    "in_reply_to_user_id": "1775505096081825792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@mzd1966 没了，我要开新坑，写一部《钢姐于兆力秘史》《霸道钢姐爱上于兆力》作为祭品献祭帮助于兆力打赢复活赛😭😭"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mzd1966].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mzd1966",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mzd1966"
+    },
+    {
+      "detail": "User has been suspended: [1775505096081825792].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1775505096081825792",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1775505096081825792"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1832608383280795735",
+        "created_at": "2024-09-08T02:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T03:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832608383280795735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775505096081825792",
+              "start": 0,
+              "username": "mzd1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832608383280795735",
+        "in_reply_to_user_id": "1775505096081825792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@mzd1966 没了，我要开新坑，写一部《钢姐于兆力秘史》《霸道钢姐爱上于兆力》作为祭品献祭帮助于兆力打赢复活赛😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1708,
+          "like_count": 15862,
+          "listed_count": 2,
+          "tweet_count": 8384
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

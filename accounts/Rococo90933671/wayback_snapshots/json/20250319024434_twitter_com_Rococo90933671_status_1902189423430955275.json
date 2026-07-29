@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1902147942544466077",
+    "created_at": "2025-03-19T02:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T03:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902189423430955275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "103723585",
+          "start": 0,
+          "username": "lazyJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902189423430955275",
+    "in_reply_to_user_id": "103723585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902147942544466077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazyJQ 能为风景而感到幸福，已经是无数人的奢侈了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7501,
+        "height": 720,
+        "media_key": "7_1902147896902094848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902147896902094848/pu/img/4EUNbZ-2KdpR68fU.jpg",
+        "public_metrics": {
+          "view_count": 369
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902147896902094848/pu/vid/avc1/480x270/kjEiSixKA0GI5lRW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902147896902094848/pu/vid/avc1/640x360/EsuZZH4sW9gag2mj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902147896902094848/pu/vid/avc1/1280x720/8tauIFdh0oNsgCVW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902147896902094848/pu/pl/G7tfjJ43EgoxP5i0.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1902147942544466077",
+        "created_at": "2025-03-19T02:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T03:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902189423430955275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "103723585",
+              "start": 0,
+              "username": "lazyJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902189423430955275",
+        "in_reply_to_user_id": "103723585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902147942544466077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazyJQ 能为风景而感到幸福，已经是无数人的奢侈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902147896902094848"
+          ]
+        },
+        "author_id": "103723585",
+        "conversation_id": "1902147942544466077",
+        "created_at": "2025-03-18T23:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T00:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902147942544466077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdLy6ARFfi",
+              "end": 30,
+              "expanded_url": "https://x.com/lazyJQ/status/1902147942544466077/video/1",
+              "media_key": "7_1902147896902094848",
+              "start": 7,
+              "url": "https://t.co/zdLy6ARFfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902147942544466077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1127,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "员工宿舍窗外 https://t.co/zdLy6ARFfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 2134,
+          "like_count": 23441,
+          "listed_count": 10,
+          "media_count": 1853,
+          "tweet_count": 13156
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-11T01:51:38.000Z",
+        "description": "Life is meaningless. just chill and have fun.",
+        "id": "103723585",
+        "location": "Vancouver, British Columbia",
+        "name": "JQ",
+        "pinned_tweet_id": "1902147942544466077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525594662320214016/KvXo5ozW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11986,
+          "following_count": 246,
+          "like_count": 7575,
+          "listed_count": 51,
+          "media_count": 3278,
+          "tweet_count": 6564
+        },
+        "username": "lazyJQ",
+        "verified": true
+      }
+    ]
+  }
+}

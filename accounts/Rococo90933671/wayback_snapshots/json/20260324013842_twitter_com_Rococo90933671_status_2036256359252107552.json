@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2036256359252107552",
+    "created_at": "2026-03-24T01:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T02:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036256359252107552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KuaiLe_fengnan…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/KuaiLe_fengnan1/status/2035274236387107187",
+          "start": 79,
+          "url": "https://t.co/dP04lZTNra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036256359252107552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035274236387107187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有这种逆天的事吗？\n\n不过中心城市向周边次级地区吸血、或者说虹吸的现象在全世界还挺普遍的，不论是北京和各省会，还是韩国首尔、日本东京（叠甲：当然不是全部） https://t.co/dP04lZTNra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035274227193192448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6_IFRboAAa6ac.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2036256359252107552",
+        "created_at": "2026-03-24T01:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036256359252107552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KuaiLe_fengnan…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/KuaiLe_fengnan1/status/2035274236387107187",
+              "start": 79,
+              "url": "https://t.co/dP04lZTNra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036256359252107552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035274236387107187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有这种逆天的事吗？\n\n不过中心城市向周边次级地区吸血、或者说虹吸的现象在全世界还挺普遍的，不论是北京和各省会，还是韩国首尔、日本东京（叠甲：当然不是全部） https://t.co/dP04lZTNra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035274227193192448"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2035274236387107187",
+        "created_at": "2026-03-21T08:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035274236387107187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtbgH9ntqe",
+              "end": 130,
+              "expanded_url": "https://x.com/KuaiLe_fengnan1/status/2035274236387107187/photo/1",
+              "media_key": "3_2035274227193192448",
+              "start": 107,
+              "url": "https://t.co/HtbgH9ntqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035274236387107187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "郑州你个操他妈的贪婪王八蛋！老子看了这张图，查了维基、百度、铁路官网，全他妈对得上号！你郑州这狗日的地方，仗着自己是省会，就把全省高铁资源全他妈吞进自己卵蛋里，留给开封、洛阳、商丘这些亲兄弟的，全是屎一样的破站！\n开封北站？2台4线，旅游大市、八朝古都，结果高铁站比县城厕所还小！你郑州东站16台32线，豪华得像皇宫，兄弟开封就配这鸟样？操你妈的，你吃肉喝汤，连骨头渣子都不给兄弟留一口？\n洛阳龙门？全省第二大城市，3台7线，人多到站都挤不进去，姥姥都不认！全省第二大城啊，你郑州这傻逼省会就给这待遇？人多到进不去，你他妈是故意让洛阳人当狗爬吗？操你祖宗十八代！\n商丘站更他妈绝，9台23线，普高一体、南北不通、冬天冻死夏天热死、没电梯、直接叫“步行站”！兄弟城市高铁站建得跟老破小一样，你郑州自己呢？大广场、大候车厅、空调电梯全套，爽得飞起！\n别人吃肉知道给兄弟留口汤，你郑州呢？连盆带渣全他妈搬回家，还想让兄弟们支持你发展？去你妈的吧！\n再看看人家湖北湖南：怀化南站8台19线，襄阳东站9台20线，宜昌北站还在建就9台20线！人家省会不傻逼，知道给兄弟城市建大站、留口汤喝。你郑州呢？纯纯的自私畜生，短视到骨子里！全省高铁你独吞，兄弟城市全喂屎，别人省会讲道义，你他妈连畜生都不如！\n郑州，你这狗娘养的省会，赶紧滚去照照镜子！你不配当老大！你就是个只会自己爽、让兄弟喝西北风的垃圾！别人兄弟城市高铁站建得气派，你就配被骂成狗！操你妈的郑州，早晚被全省人民吐口水淹死！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "郑州你个操他妈的贪婪王八蛋！老子看了这张图，查了维基、百度、铁路官网，全他妈对得上号！你郑州这狗日的地方，仗着自己是省会，就把全省高铁资源全他妈吞进自己卵蛋里，留给开封、洛阳、商丘这些亲兄弟的，全是屎一样的破站！ https://t.co/HtbgH9ntqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9622,
+          "following_count": 2749,
+          "like_count": 32182,
+          "listed_count": 27,
+          "media_count": 3413,
+          "tweet_count": 19081
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "本人周杰，湖南省邵东县煤矿工，兼职乞丐，家住牛马司镇，本人大号@America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "America"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "台湾绿营弱智收容与研究所",
+        "name": "℡快乐周杰☂︎",
+        "pinned_tweet_id": "2033802169242333552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024445274782126084/9s-dKeed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 456,
+          "like_count": 710,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 3184
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": true
+      }
+    ]
+  }
+}

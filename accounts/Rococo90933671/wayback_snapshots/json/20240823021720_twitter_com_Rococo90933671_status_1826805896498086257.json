@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1826528484057120916",
+    "created_at": "2024-08-23T02:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T03:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826805896498086257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826805896498086257",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826528484057120916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 上过将军（畏怖）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1826528484057120916",
+        "created_at": "2024-08-23T02:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T03:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826805896498086257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826805896498086257",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826528484057120916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 上过将军（畏怖）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826528465774116864"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1826528484057120916",
+        "created_at": "2024-08-22T07:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T08:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826528484057120916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jg6m0ngqkj",
+              "end": 23,
+              "expanded_url": "https://twitter.com/04177_realname/status/1826528484057120916/photo/1",
+              "media_key": "3_1826528465774116864",
+              "start": 0,
+              "url": "https://t.co/jG6m0NgQKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826528484057120916",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 31935,
+          "like_count": 477,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jG6m0NgQKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1602,
+          "like_count": 14348,
+          "listed_count": 2,
+          "tweet_count": 7546
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/我推の芙莉莲/收集人类碎片/提问箱：https://t.co/pe56J9RL4w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 74,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 51,
+                "url": "https://t.co/pe56J9RL4w"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6414,
+          "following_count": 5192,
+          "like_count": 43218,
+          "listed_count": 22,
+          "tweet_count": 11302
+        },
+        "username": "04177_realname",
+        "verified": true
+      }
+    ]
+  }
+}

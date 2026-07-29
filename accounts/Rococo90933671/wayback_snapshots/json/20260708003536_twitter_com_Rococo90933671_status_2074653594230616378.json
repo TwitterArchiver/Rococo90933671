@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2074629538798326222",
+    "created_at": "2026-07-08T00:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074653594230616378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074653594230616378",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074629538798326222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 因为这些玩意和今天的公制单位、物理学常用单位全都不是成十成百的比例，换算极其麻烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2074484455637667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoMnw5aUAAXmPO.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1570,
+        "media_key": "3_2074484455629365248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoMnw3boAA5qoB.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074484455654449153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoMnw9aYAEKzGJ.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2074629538798326222",
+        "created_at": "2026-07-08T00:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074653594230616378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074653594230616378",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074629538798326222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 因为这些玩意和今天的公制单位、物理学常用单位全都不是成十成百的比例，换算极其麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074484455637667840",
+            "3_2074484455629365248",
+            "3_2074484455654449153"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2074629538798326222",
+        "created_at": "2026-07-07T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074629538798326222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0rkJ2AR8s",
+              "end": 86,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2074629538798326222/photo/1",
+              "media_key": "3_2074484455637667840",
+              "start": 63,
+              "url": "https://t.co/m0rkJ2AR8s"
+            },
+            {
+              "display_url": "pic.x.com/m0rkJ2AR8s",
+              "end": 86,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2074629538798326222/photo/1",
+              "media_key": "3_2074484455629365248",
+              "start": 63,
+              "url": "https://t.co/m0rkJ2AR8s"
+            },
+            {
+              "display_url": "pic.x.com/m0rkJ2AR8s",
+              "end": 86,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2074629538798326222/photo/1",
+              "media_key": "3_2074484455654449153",
+              "start": 63,
+              "url": "https://t.co/m0rkJ2AR8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074629538798326222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我请问了到底是谁在喜欢用英制单位？\n能准确说出一加仑汽油是多少、一盎司黄金是多少的中国人也许在10个人里面都找不出一个... https://t.co/m0rkJ2AR8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13126,
+          "following_count": 3180,
+          "like_count": 42942,
+          "listed_count": 40,
+          "media_count": 4610,
+          "tweet_count": 23635
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 1961,
+          "like_count": 3347,
+          "listed_count": 2,
+          "media_count": 696,
+          "tweet_count": 7643
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

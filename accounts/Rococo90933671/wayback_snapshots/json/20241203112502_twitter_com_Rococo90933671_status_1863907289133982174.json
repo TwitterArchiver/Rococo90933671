@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1855614650521698570",
+    "created_at": "2024-12-03T11:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863907289133982174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1051108122369044480",
+          "start": 0,
+          "username": "AyaseMiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863907289133982174",
+    "in_reply_to_user_id": "1051108122369044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863901233674891752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaseMiya 不是哦，这还是Twitter时代的截图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1855614650521698570",
+        "created_at": "2024-12-03T11:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863907289133982174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1051108122369044480",
+              "start": 0,
+              "username": "AyaseMiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863907289133982174",
+        "in_reply_to_user_id": "1051108122369044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863901233674891752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaseMiya 不是哦，这还是Twitter时代的截图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051108122369044480",
+        "conversation_id": "1855614650521698570",
+        "created_at": "2024-12-03T11:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863901233674891752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863901233674891752",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863803514260226539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 怎么会是呢  x的bug吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|从不主动b任何人|b只为记录谁先b了我|大家都是朋友|欢迎找中间人沟通互相解b❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1935,
+          "like_count": 18668,
+          "listed_count": 5,
+          "media_count": 1287,
+          "tweet_count": 10520
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-13T13:51:19.000Z",
+        "description": "Access denied",
+        "id": "1051108122369044480",
+        "location": "ShangHai",
+        "name": "AyaseMiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855086864656744448/6_cMzr5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 727,
+          "like_count": 24619,
+          "listed_count": 23,
+          "media_count": 218,
+          "tweet_count": 4914
+        },
+        "username": "AyaseMiya",
+        "verified": false
+      }
+    ]
+  }
+}

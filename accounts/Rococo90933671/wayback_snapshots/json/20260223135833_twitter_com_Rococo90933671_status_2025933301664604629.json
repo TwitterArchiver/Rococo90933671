@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2025764464692548033",
+    "created_at": "2026-02-23T13:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025933301664604629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025933301664604629",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025764464692548033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 内圈大雄瞩目（确信是勃勃OC）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025764451669139457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz2CSxaYAE5B3j.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2025764464692548033",
+        "created_at": "2026-02-23T13:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025933301664604629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025933301664604629",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025764464692548033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 内圈大雄瞩目（确信是勃勃OC）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025764451669139457"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025764464692548033",
+        "created_at": "2026-02-23T02:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025764464692548033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/B9tTWXSxTY"
+            },
+            {
+              "display_url": "pic.x.com/KqlBf0oc63",
+              "end": 64,
+              "expanded_url": "https://x.com/hachineko1208/status/2025764464692548033/photo/1",
+              "media_key": "3_2025764451669139457",
+              "start": 41,
+              "url": "https://t.co/KqlBf0oc63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025764464692548033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/B9tTWXSxTY https://t.co/KqlBf0oc63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7785,
+          "following_count": 2249,
+          "like_count": 30137,
+          "listed_count": 22,
+          "media_count": 3205,
+          "tweet_count": 18117
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢\n#讓我們一同登上新高山\n\n每週二深夜搭乘巴士到蟹堡王",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 18,
+                "tag": "讓我們一同登上新高山"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "鬼滅ｼﾅ刃⚔️復讐ノ八猫",
+        "pinned_tweet_id": "2016027449520488951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016024152583634946/wBnnwheQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 815,
+          "like_count": 329821,
+          "listed_count": 9,
+          "media_count": 2383,
+          "tweet_count": 22421
+        },
+        "username": "hachineko1208",
+        "verified": false
+      }
+    ]
+  }
+}

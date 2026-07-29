@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2071268371027705950",
+    "created_at": "2026-06-29T04:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071453137114923254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18255…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/1825556148847858015",
+          "start": 16,
+          "url": "https://t.co/QHlN8jBhWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071453137114923254",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825556148847858015",
+        "type": "quoted"
+      },
+      {
+        "id": "2071268371027705950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 我喜欢这么玩：\nhttps://t.co/QHlN8jBhWB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_1825556145215602688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVWtpFEbgAAibna.jpg",
+        "width": 1600
+      },
+      {
+        "height": 947,
+        "media_key": "3_2071268365566685184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6fmrwbMAAq6aA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2071268371027705950",
+        "created_at": "2026-06-29T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071453137114923254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18255…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/1825556148847858015",
+              "start": 16,
+              "url": "https://t.co/QHlN8jBhWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071453137114923254",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825556148847858015",
+            "type": "quoted"
+          },
+          {
+            "id": "2071268371027705950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 我喜欢这么玩：\nhttps://t.co/QHlN8jBhWB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825556145215602688"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1825556148847858015",
+        "created_at": "2024-08-19T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825556148847858015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAgtYrJbHO",
+              "end": 43,
+              "expanded_url": "https://x.com/Rococo90933671/status/1825556148847858015/photo/1",
+              "media_key": "3_1825556145215602688",
+              "start": 20,
+              "url": "https://t.co/dAgtYrJbHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825556148847858015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全部的子力都在这里，就是不知道怎么下🤔 https://t.co/dAgtYrJbHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071268365566685184"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2071268371027705950",
+        "created_at": "2026-06-28T16:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071268371027705950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJUL8G9BBW",
+              "end": 36,
+              "expanded_url": "https://x.com/aoim33/status/2071268371027705950/photo/1",
+              "media_key": "3_2071268365566685184",
+              "start": 13,
+              "url": "https://t.co/SJUL8G9BBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071268371027705950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1034,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我玩麻将 be like https://t.co/SJUL8G9BBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13067,
+          "following_count": 3162,
+          "like_count": 42063,
+          "listed_count": 41,
+          "media_count": 4513,
+          "tweet_count": 23294
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6365,
+          "following_count": 3092,
+          "like_count": 54490,
+          "listed_count": 21,
+          "media_count": 3383,
+          "tweet_count": 14059
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

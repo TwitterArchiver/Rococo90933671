@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852656512881303969",
+    "created_at": "2024-11-02T13:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T14:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852702505395982736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679329911742558208",
+          "start": 0,
+          "username": "Keqing1789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852702505395982736",
+    "in_reply_to_user_id": "1679329911742558208",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852656512881303969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keqing1789 理工男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852656512881303969",
+        "created_at": "2024-11-02T13:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852702505395982736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679329911742558208",
+              "start": 0,
+              "username": "Keqing1789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852702505395982736",
+        "in_reply_to_user_id": "1679329911742558208",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852656512881303969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keqing1789 理工男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852656505075691520"
+          ]
+        },
+        "author_id": "1679329911742558208",
+        "conversation_id": "1852656512881303969",
+        "created_at": "2024-11-02T10:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T11:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852656512881303969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VhmJVvU14",
+              "end": 23,
+              "expanded_url": "https://x.com/Keqing1789/status/1852656512881303969/photo/1",
+              "media_key": "3_1852656505075691520",
+              "start": 0,
+              "url": "https://t.co/6VhmJVvU14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852656512881303969",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6VhmJVvU14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 1886,
+          "like_count": 17052,
+          "listed_count": 5,
+          "tweet_count": 9537
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T03:20:51.000Z",
+        "description": "持有以下帽子：腊左 粉蛆 汉奸 目田 独派狗。华独主义，大一统癌和老保请绕道。在你反驳我之前最好有证据，本人以研究蓝色大陆史为主，误b抱歉。医学生，不止键政，也可以和我聊生活",
+        "id": "1679329911742558208",
+        "location": "极乐世界",
+        "name": "镌刻晴川万代",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840009766715981824/F6wvj9_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 889,
+          "like_count": 9957,
+          "listed_count": 6,
+          "tweet_count": 4689
+        },
+        "username": "Keqing1789",
+        "verified": false
+      }
+    ]
+  }
+}

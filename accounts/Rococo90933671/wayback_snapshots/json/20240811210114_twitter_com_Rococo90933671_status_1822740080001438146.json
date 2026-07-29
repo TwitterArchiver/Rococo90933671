@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1822386805851001297",
+    "created_at": "2024-08-11T21:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T22:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822740080001438146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822740080001438146",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822386805851001297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T 我从来没有不挂梯子的机会🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1822386805851001297",
+        "created_at": "2024-08-11T21:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T22:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822740080001438146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822740080001438146",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822386805851001297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T 我从来没有不挂梯子的机会🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822386797776924672"
+          ]
+        },
+        "author_id": "1764991223792906240",
+        "conversation_id": "1822386805851001297",
+        "created_at": "2024-08-10T21:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T22:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822386805851001297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vis7vcecoj",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ZW3333T/status/1822386805851001297/photo/1",
+              "media_key": "3_1822386797776924672",
+              "start": 10,
+              "url": "https://t.co/VIS7vcEcoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822386805851001297",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "回国了，该挂梯子了 https://t.co/VIS7vcEcoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/互fo可能看不到请直接私聊不用拘束Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 1530,
+          "like_count": 13181,
+          "listed_count": 1,
+          "tweet_count": 7038
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "善语结善缘，恶语伤人心。\n尝试不和任何人吵架\n怼我我直接投降🙏🏻",
+        "id": "1764991223792906240",
+        "name": "wet.zZz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821799951082426369/8aL9ZWvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 388,
+          "like_count": 2898,
+          "listed_count": 0,
+          "tweet_count": 411
+        },
+        "username": "ZW3333T",
+        "verified": false
+      }
+    ]
+  }
+}

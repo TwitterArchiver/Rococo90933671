@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1776218679342170623",
+    "created_at": "2024-05-31T05:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T06:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796412463711469670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753672102446768128",
+          "start": 0,
+          "username": "gulinghng17936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796412463711469670",
+    "in_reply_to_user_id": "1753672102446768128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1776218679342170623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulinghng17936 我们可以聊聊吗🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1776218679342170623",
+        "created_at": "2024-05-31T05:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796412463711469670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753672102446768128",
+              "start": 0,
+              "username": "gulinghng17936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796412463711469670",
+        "in_reply_to_user_id": "1753672102446768128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776218679342170623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulinghng17936 我们可以聊聊吗🥰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753672102446768128",
+        "conversation_id": "1776218679342170623",
+        "created_at": "2024-04-05T12:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-05T13:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1776218679342170623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1776218679342170623",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望台湾省受灾的公民们安好 如果有台湾的朋友请告诉我现在伤亡情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 853,
+          "like_count": 4437,
+          "listed_count": 1,
+          "tweet_count": 3201
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T06:50:07.000Z",
+        "description": "右人 支持改革开放",
+        "id": "1753672102446768128",
+        "name": "精神公民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761403365135654912/WHcXH-Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 19,
+          "listed_count": 0,
+          "tweet_count": 88
+        },
+        "username": "gulinghng17936",
+        "verified": false
+      }
+    ]
+  }
+}

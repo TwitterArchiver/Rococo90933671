@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2027195860438991064",
+    "created_at": "2026-02-27T14:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027395979608297781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 23,
+          "expanded_url": "https://x.com/Rococo90933671/status/2027395383295697397?s=20",
+          "start": 0,
+          "url": "https://t.co/iH4Bv04dOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027395979608297781",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027395383295697397",
+        "type": "quoted"
+      },
+      {
+        "id": "2027195860438991064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/iH4Bv04dOW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118584,
+        "height": 360,
+        "media_key": "13_2027395120975536128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027395120975536128/img/zBqUlExu97G2wbSo.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027395120975536128/vid/avc1/480x270/gWg5867PTEb5YuTT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027395120975536128/vid/avc1/640x360/oxNbqQIzUgxs1LUS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027395120975536128/pl/Ly5cICrTigc0fjq4.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "duration_ms": 63180,
+        "height": 592,
+        "media_key": "7_2027195775990812672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027195775990812672/pu/img/UoXiiljt1f0xJ8K3.jpg",
+        "public_metrics": {
+          "view_count": 199626
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027195775990812672/pu/vid/avc1/582x270/16XKLdPnoqf0GEtt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027195775990812672/pu/vid/avc1/778x360/5ANDElcPPYrwmgsK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027195775990812672/pu/vid/avc1/1280x592/kbM2Bs6GfjCTDMEX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027195775990812672/pu/pl/I8X12Z3WkB0YZU14.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2027195860438991064",
+        "created_at": "2026-02-27T14:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027395979608297781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 23,
+              "expanded_url": "https://x.com/Rococo90933671/status/2027395383295697397?s=20",
+              "start": 0,
+              "url": "https://t.co/iH4Bv04dOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027395979608297781",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027395383295697397",
+            "type": "quoted"
+          },
+          {
+            "id": "2027195860438991064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/iH4Bv04dOW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027395120975536128"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2027395383295697397",
+        "created_at": "2026-02-27T14:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027395383295697397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YK9zQtunNv",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2027395383295697397/video/1",
+              "media_key": "13_2027395120975536128",
+              "start": 15,
+              "url": "https://t.co/YK9zQtunNv"
+            },
+            {
+              "display_url": "x.com/gFgyc159357258…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/gFgyc159357258/status/2027394219363692607",
+              "start": 39,
+              "url": "https://t.co/uVg4gfN9ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027395383295697397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027394219363692607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续在这里，看完感觉活到头了 https://t.co/YK9zQtunNv https://t.co/uVg4gfN9ph"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027195775990812672"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2027195860438991064",
+        "created_at": "2026-02-27T01:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027195860438991064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFmAeCqeOz",
+              "end": 62,
+              "expanded_url": "https://x.com/Rococo90933671/status/2027195860438991064/video/1",
+              "media_key": "7_2027195775990812672",
+              "start": 39,
+              "url": "https://t.co/oFmAeCqeOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027195860438991064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 970,
+          "impression_count": 418928,
+          "like_count": 2644,
+          "quote_count": 49,
+          "reply_count": 149,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "半夜三点醒来看了这个就一直没睡，想到现在也不明白做出这玩意的人给AI喂了什么 https://t.co/oFmAeCqeOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7850,
+          "following_count": 2262,
+          "like_count": 30312,
+          "listed_count": 23,
+          "media_count": 3233,
+          "tweet_count": 18233
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

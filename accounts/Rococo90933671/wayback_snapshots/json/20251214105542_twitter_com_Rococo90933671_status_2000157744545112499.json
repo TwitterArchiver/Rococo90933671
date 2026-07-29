@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2000093441959850371",
+    "created_at": "2025-12-14T10:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T11:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000157744545112499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "KafuuChinoDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000157744545112499",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000093441959850371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChinoDL 你可以接受它的定义，只要你感到幸福被被认可，但是这让你痛苦的时候，你可以拒绝这份定义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2000093441959850371",
+        "created_at": "2025-12-14T10:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000157744545112499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "KafuuChinoDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000157744545112499",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000093441959850371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChinoDL 你可以接受它的定义，只要你感到幸福被被认可，但是这让你痛苦的时候，你可以拒绝这份定义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921935866114756608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2000093441959850371",
+        "created_at": "2025-12-14T06:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000093441959850371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000093441959850371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我慢热、敏感、理性，喜欢现代化的空间与科技带来的秩序感。能自律也能享受，能抗压也会内耗；最大的敌人不是困难，而是紧绷和失眠。社交不算擅长，但真诚、讲逻辑，愿意把生活过得更好：一点点修复自己，一点点向前走”\n这是我跟ChatGPT聊了十几个小时后，它给我的概括。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 2206,
+          "like_count": 29294,
+          "listed_count": 18,
+          "media_count": 2956,
+          "tweet_count": 17165
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "苹果产品首席体验官｜智乃厨｜it相关｜疯癫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeepLemonBA/",
+                "end": 23,
+                "expanded_url": "https://github.com/DeepLemonBA/",
+                "start": 0,
+                "url": "https://t.co/XDdXXtuCTH"
+              }
+            ]
+          }
+        },
+        "id": "1921935866114756608",
+        "location": "China",
+        "name": "智乃",
+        "pinned_tweet_id": "2000093441959850371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996576931618385920/gRFXp2tl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 86,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/XDdXXtuCTH",
+        "username": "KafuuChinoDL",
+        "verified": false
+      }
+    ]
+  }
+}

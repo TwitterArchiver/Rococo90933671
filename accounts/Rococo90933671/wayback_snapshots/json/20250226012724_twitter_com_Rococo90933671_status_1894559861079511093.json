@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894559844361011200"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1894559861079511093",
+    "created_at": "2025-02-26T01:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T02:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894559861079511093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w52PHczD78",
+          "end": 31,
+          "expanded_url": "https://x.com/Rococo90933671/status/1894559861079511093/photo/1",
+          "media_key": "3_1894559844361011200",
+          "start": 8,
+          "url": "https://t.co/w52PHczD78"
+        },
+        {
+          "display_url": "x.com/2temisinin/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/2temisinin/status/1894543911294833005",
+          "start": 32,
+          "url": "https://t.co/SHloXAFtdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894559861079511093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894543911294833005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可恶，为什么😭 https://t.co/w52PHczD78 https://t.co/SHloXAFtdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_1894559844361011200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrUJADbgAAMggk.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1894543901874155520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrFpBqXcAAejL-.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894559844361011200"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1894559861079511093",
+        "created_at": "2025-02-26T01:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T02:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894559861079511093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w52PHczD78",
+              "end": 31,
+              "expanded_url": "https://x.com/Rococo90933671/status/1894559861079511093/photo/1",
+              "media_key": "3_1894559844361011200",
+              "start": 8,
+              "url": "https://t.co/w52PHczD78"
+            },
+            {
+              "display_url": "x.com/2temisinin/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/2temisinin/status/1894543911294833005",
+              "start": 32,
+              "url": "https://t.co/SHloXAFtdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894559861079511093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894543911294833005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶，为什么😭 https://t.co/w52PHczD78 https://t.co/SHloXAFtdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894543901874155520"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "1894543911294833005",
+        "created_at": "2025-02-26T00:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T01:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894543911294833005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1566815552777383936",
+              "start": 5,
+              "username": "TianqiChen666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXth30m35E",
+              "end": 128,
+              "expanded_url": "https://x.com/2temisinin/status/1894543911294833005/photo/1",
+              "media_key": "3_1894543901874155520",
+              "start": 105,
+              "url": "https://t.co/JXth30m35E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894543911294833005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5171,
+          "like_count": 104,
+          "quote_count": 28,
+          "reply_count": 93,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n面码@TianqiChen666 于2025年2月26日凌晨一点至两点左右服用亚硝酸钠溶液自杀，后经医院全力抢救无效，于2025年2月26日晨逝世，终年19岁。\n愿她不再有痛苦，在她喜欢的那个世界幸福。 https://t.co/JXth30m35E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4689,
+          "following_count": 2177,
+          "like_count": 23234,
+          "listed_count": 10,
+          "media_count": 1757,
+          "tweet_count": 12873
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜可以叫我鸮｜ 家长党MtF🏳️‍⚧️｜小证HRT 2024.10.20｜ Wuhan生科大一休学 ，业余药理学习中｜忠实的尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877945835163619329/HtDpkILh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1418,
+          "like_count": 25265,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1969
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

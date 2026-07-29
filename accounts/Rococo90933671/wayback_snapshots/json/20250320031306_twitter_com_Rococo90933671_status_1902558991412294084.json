@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1902557797646213492",
+    "created_at": "2025-03-20T03:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902558991412294084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        },
+        {
+          "end": 20,
+          "id": "1889336574250565632",
+          "start": 10,
+          "username": "ayam3_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902558991412294084",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902557797646213492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF @ayam3_0v0 以前大数据不给我推，错过就是永别了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [ayam3_0v0].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ayam3_0v0",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ayam3_0v0"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_1902557763076784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc-NJDagAA9VWJ.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1430,
+        "media_key": "3_1902557763110367235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc-NJLa8AMd2gn.jpg",
+        "width": 1343
+      },
+      {
+        "height": 944,
+        "media_key": "3_1902557763093590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmc-NJHa8AAnwh_.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1902557797646213492",
+        "created_at": "2025-03-20T03:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902558991412294084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            },
+            {
+              "end": 20,
+              "id": "1889336574250565632",
+              "start": 10,
+              "username": "ayam3_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902558991412294084",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902557797646213492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF @ayam3_0v0 以前大数据不给我推，错过就是永别了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902557763076784128",
+            "3_1902557763110367235",
+            "3_1902557763093590016"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1902557797646213492",
+        "created_at": "2025-03-20T03:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902557797646213492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1889336574250565632",
+              "start": 33,
+              "username": "ayam3_0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEN7c815FO",
+              "end": 88,
+              "expanded_url": "https://x.com/FurinaDF/status/1902557797646213492/photo/1",
+              "media_key": "3_1902557763076784128",
+              "start": 65,
+              "url": "https://t.co/YEN7c815FO"
+            },
+            {
+              "display_url": "pic.x.com/YEN7c815FO",
+              "end": 88,
+              "expanded_url": "https://x.com/FurinaDF/status/1902557797646213492/photo/1",
+              "media_key": "3_1902557763110367235",
+              "start": 65,
+              "url": "https://t.co/YEN7c815FO"
+            },
+            {
+              "display_url": "pic.x.com/YEN7c815FO",
+              "end": 88,
+              "expanded_url": "https://x.com/FurinaDF/status/1902557797646213492/photo/1",
+              "media_key": "3_1902557763093590016",
+              "start": 65,
+              "url": "https://t.co/YEN7c815FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902557797646213492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 243,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百度副总裁谢广军的女儿谢安迪，疑似在推特上当福利姬，目前已删号。\n@ayam3_0v0\n此前因为她开盒别人，她父亲还公开道歉过。 https://t.co/YEN7c815FO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 2133,
+          "like_count": 23583,
+          "listed_count": 10,
+          "media_count": 1862,
+          "tweet_count": 13207
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "放下自己内心深处的执念吧，地球人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14166,
+          "following_count": 1702,
+          "like_count": 20702,
+          "listed_count": 43,
+          "media_count": 3635,
+          "tweet_count": 7039
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

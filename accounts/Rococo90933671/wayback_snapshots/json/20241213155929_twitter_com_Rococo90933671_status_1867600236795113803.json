@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1867599195970195635",
+    "created_at": "2024-12-13T15:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T16:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867600236795113803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867600236795113803",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867599195970195635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh 我们都有心理创伤，所以才会有共同的感觉。我们哪怕知道不是自己的问题，也不会相信，进而不可能不自我攻击。我们都一样啊，就这样去体会吧，毕竟无法强求自己变好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867599195970195635].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867599195970195635",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867599195970195635"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1867599195970195635",
+        "created_at": "2024-12-13T15:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867600236795113803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867600236795113803",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867599195970195635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh 我们都有心理创伤，所以才会有共同的感觉。我们哪怕知道不是自己的问题，也不会相信，进而不可能不自我攻击。我们都一样啊，就这样去体会吧，毕竟无法强求自己变好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 1954,
+          "like_count": 19222,
+          "listed_count": 5,
+          "media_count": 1343,
+          "tweet_count": 10756
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09/初三/#原神/崩鐵/納西妲流螢厨/民社/遠視壬/漢英西日柬語/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @TsuyuriNagisa @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "TsuyuriNagisa"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/ja",
+                "end": 23,
+                "expanded_url": "http://genshin.hoyoverse.com/ja",
+                "start": 0,
+                "url": "https://t.co/Jkbfkb52VK"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "門外竪著",
+        "name": "⛩️後藤·ノロドム·杦🇰🇭🌸",
+        "pinned_tweet_id": "1828436571487367193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1311,
+          "like_count": 16831,
+          "listed_count": 3,
+          "media_count": 669,
+          "tweet_count": 8257
+        },
+        "url": "https://t.co/Jkbfkb52VK",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1877933522402623636",
+    "created_at": "2025-01-11T07:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T08:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877976881771004055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3305178362",
+          "start": 0,
+          "username": "sym_yukine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877976881771004055",
+    "in_reply_to_user_id": "3305178362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877933522402623636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sym_yukine 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1877933522402623636",
+        "created_at": "2025-01-11T07:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877976881771004055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3305178362",
+              "start": 0,
+              "username": "sym_yukine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877976881771004055",
+        "in_reply_to_user_id": "3305178362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877933522402623636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sym_yukine 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877933517327544320"
+          ]
+        },
+        "author_id": "3305178362",
+        "conversation_id": "1877933522402623636",
+        "created_at": "2025-01-11T04:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T05:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877933522402623636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlSucNYLNH",
+              "end": 26,
+              "expanded_url": "https://x.com/sym_yukine/status/1877933522402623636/photo/1",
+              "media_key": "3_1877933517327544320",
+              "start": 3,
+              "url": "https://t.co/xlSucNYLNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877933522402623636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到啦 https://t.co/xlSucNYLNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4144,
+          "following_count": 2028,
+          "like_count": 21053,
+          "listed_count": 5,
+          "media_count": 1532,
+          "tweet_count": 11741
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-03T13:30:33.000Z",
+        "description": "臭打游戏的，主要转发星铁、原神、崩3相关美图。\n不建政，不会回fo某些建政含量高的推油（但不妨碍日常互动）。\n会预防性拉黑看不顺眼的数字生命。",
+        "id": "3305178362",
+        "name": "希点鸭片",
+        "pinned_tweet_id": "1664605684607102977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763467664004198400/1gUYPlGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1102,
+          "like_count": 26764,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 10941
+        },
+        "username": "sym_yukine",
+        "verified": false
+      }
+    ]
+  }
+}

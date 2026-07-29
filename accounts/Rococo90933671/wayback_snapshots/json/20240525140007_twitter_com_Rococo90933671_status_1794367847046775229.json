@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1794364734957080783",
+    "created_at": "2024-05-25T14:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T15:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794367847046775229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634409128910270465",
+          "start": 0,
+          "username": "Lee36820481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794367847046775229",
+    "in_reply_to_user_id": "1634409128910270465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794364734957080783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee36820481 我也想毁灭了，我那傻逼的周末两天得一直坐那的课设"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1794364734957080783",
+        "created_at": "2024-05-25T14:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T15:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794367847046775229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634409128910270465",
+              "start": 0,
+              "username": "Lee36820481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794367847046775229",
+        "in_reply_to_user_id": "1634409128910270465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794364734957080783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee36820481 我也想毁灭了，我那傻逼的周末两天得一直坐那的课设"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634409128910270465",
+        "conversation_id": "1794364734957080783",
+        "created_at": "2024-05-25T13:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T14:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794364734957080783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794364734957080783",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界毁灭吧\n\n崩坏掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 716,
+          "like_count": 2964,
+          "listed_count": 0,
+          "tweet_count": 2661
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:21:24.000Z",
+        "description": "轻度抑郁的本科生/major in architecture/性别男/🏳️‍🌈/是年上控/厌学中…",
+        "id": "1634409128910270465",
+        "location": "Otherworlds",
+        "name": "烟柳弄晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789553811859853312/LQ7VYiI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 365,
+          "like_count": 14474,
+          "listed_count": 0,
+          "tweet_count": 1155
+        },
+        "username": "Lee36820481",
+        "verified": false
+      }
+    ]
+  }
+}

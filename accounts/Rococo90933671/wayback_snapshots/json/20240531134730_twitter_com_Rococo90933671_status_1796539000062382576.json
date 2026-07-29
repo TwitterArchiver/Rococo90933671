@@ -1,0 +1,182 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1796535098973757496",
+    "created_at": "2024-05-31T13:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T14:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796539000062382576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792029527897669632",
+          "start": 0,
+          "username": "LoveEveryContry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796539000062382576",
+    "in_reply_to_user_id": "1792029527897669632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796535098973757496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveEveryContry 内心毫无波兰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1796535098973757496",
+        "created_at": "2024-05-31T13:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T14:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796539000062382576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792029527897669632",
+              "start": 0,
+              "username": "LoveEveryContry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796539000062382576",
+        "in_reply_to_user_id": "1792029527897669632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796535098973757496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveEveryContry 内心毫无波兰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1792029527897669632",
+        "conversation_id": "1796535098973757496",
+        "created_at": "2024-05-31T13:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T14:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796535098973757496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Poland",
+              "probability": 0.9209,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "Poland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796535098973757496",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Love #Poland."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 862,
+          "like_count": 4564,
+          "listed_count": 1,
+          "tweet_count": 3259
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T03:08:46.000Z",
+        "description": "Love every country in the world.",
+        "id": "1792029527897669632",
+        "location": "World",
+        "name": "Love Every Country",
+        "pinned_tweet_id": "1795128375444377966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792030503291506688/ExF5foMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 306,
+          "like_count": 1214,
+          "listed_count": 0,
+          "tweet_count": 406
+        },
+        "username": "LoveEveryContry",
+        "verified": true
+      }
+    ]
+  }
+}

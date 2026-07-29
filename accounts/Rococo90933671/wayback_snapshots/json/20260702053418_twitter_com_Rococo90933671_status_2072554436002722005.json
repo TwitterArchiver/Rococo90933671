@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2072546206283346020",
+    "created_at": "2026-07-02T05:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072554436002722005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072554436002722005",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "查了一下发现，之所以以前不管怎么设置启动页，它启动的永远都是布满垃圾信息牛皮癣的360导航，是因为真的有一种叫浏览器劫持的东西。太恶心了，果然说到底都是生意。\n\n而卸载了再在官网重下以后就没问题了。卸载之前的edge是这台华为电脑时自带的，几年来从来没有动过。\n\n难怪每次它打开360导航的网站之前，网址栏内是一堆不像一个网站的乱码，然后才直接跳转到360导航。不管怎么设置启动页，都没有用"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072546206283346020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "查了一下发现，之所以以前不管怎么设置启动页，它启动的永远都是布满垃圾信息牛皮癣的360导航，是因为真的有一种叫浏览器劫持的东西。太恶心了，果然说到底都是生意。\n\n而卸载了再在官网重下以后就没问题了。卸载之前的edge是这台华为电脑时自带的，几年来从来没有动过。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2072545061230022656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMowJubEAAqe8G.jpg",
+        "width": 1823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2072546206283346020",
+        "created_at": "2026-07-02T05:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072554436002722005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072554436002722005",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "查了一下发现，之所以以前不管怎么设置启动页，它启动的永远都是布满垃圾信息牛皮癣的360导航，是因为真的有一种叫浏览器劫持的东西。太恶心了，果然说到底都是生意。\n\n而卸载了再在官网重下以后就没问题了。卸载之前的edge是这台华为电脑时自带的，几年来从来没有动过。\n\n难怪每次它打开360导航的网站之前，网址栏内是一堆不像一个网站的乱码，然后才直接跳转到360导航。不管怎么设置启动页，都没有用"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072546206283346020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "查了一下发现，之所以以前不管怎么设置启动页，它启动的永远都是布满垃圾信息牛皮癣的360导航，是因为真的有一种叫浏览器劫持的东西。太恶心了，果然说到底都是生意。\n\n而卸载了再在官网重下以后就没问题了。卸载之前的edge是这台华为电脑时自带的，几年来从来没有动过。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072545061230022656"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2072546206283346020",
+        "created_at": "2026-07-02T05:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072546206283346020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIkKA40L0d",
+              "end": 86,
+              "expanded_url": "https://x.com/Rococo90933671/status/2072546206283346020/photo/1",
+              "media_key": "3_2072545061230022656",
+              "start": 63,
+              "url": "https://t.co/dIkKA40L0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072546206283346020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然哪个平台都有垃圾信息，\n但是只有在点开浏览器时\n自动启动的导航网站，\n能让你体验到真正纯粹的\n垃圾信息扑面而来的感觉…… https://t.co/dIkKA40L0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13071,
+          "following_count": 3166,
+          "like_count": 42429,
+          "listed_count": 41,
+          "media_count": 4549,
+          "tweet_count": 23427
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

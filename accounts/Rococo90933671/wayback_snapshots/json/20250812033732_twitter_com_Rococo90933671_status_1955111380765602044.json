@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1954905244175131052",
+    "created_at": "2025-08-12T03:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T04:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955111380765602044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "TOKYO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955111380765602044",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954905244175131052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYO8964 陆依韵可爱捏~真人也好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61496,
+        "height": 1920,
+        "media_key": "13_1954905040789053440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954905040789053440/img/D4DapkCWu4dxPqiA.jpg",
+        "public_metrics": {
+          "view_count": 943
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954905040789053440/vid/avc1/480x1040/ZOAv1xnG9W0klz92.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954905040789053440/vid/avc1/720x1560/LwygJCxMF2eSWCES.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954905040789053440/vid/avc1/320x692/LdAppJMDdzTuYlD1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954905040789053440/pl/thqsRNK5RXOXKGoL.m3u8?v=cb5"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954905040789053440/vid/avc1/886x1920/Sl7hWdpBb3MrVvJN.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1954905244175131052",
+        "created_at": "2025-08-12T03:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955111380765602044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955111380765602044",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954905244175131052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYO8964 陆依韵可爱捏~真人也好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954905040789053440"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1954905244175131052",
+        "created_at": "2025-08-11T13:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954905244175131052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgEmv5gmOy",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYO8964/status/1954905244175131052/video/1",
+              "media_key": "13_1954905040789053440",
+              "start": 14,
+              "url": "https://t.co/HgEmv5gmOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954905244175131052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2757,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "18岁生日和塔菲一起过喵🎂 https://t.co/HgEmv5gmOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5348,
+          "following_count": 2189,
+          "like_count": 26702,
+          "listed_count": 12,
+          "media_count": 2483,
+          "tweet_count": 15439
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵日本東京｜🌊自由民主｜🏳️‍⚧️07伪娘｜♀取向女｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜键政｜单纯搞抽象不恶俗不瞎骂 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照 扩列交友互fo请私信 @heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953825203810971648/2LWXQbw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6112,
+          "following_count": 629,
+          "like_count": 712,
+          "listed_count": 23,
+          "media_count": 430,
+          "tweet_count": 705
+        },
+        "username": "TOKYO8964",
+        "verified": true
+      }
+    ]
+  }
+}

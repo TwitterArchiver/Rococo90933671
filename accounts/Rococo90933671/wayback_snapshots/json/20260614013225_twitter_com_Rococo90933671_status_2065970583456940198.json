@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2065771163570331812",
+    "created_at": "2026-06-14T01:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065970583456940198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065970583456940198",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065927622463463932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Furina_8620 羡慕能去现场（主要是希望自己能多出去看看🥹）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2065927599700971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKumNMfaEAAtm-b.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2065927612153929728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKumN64bIAAUA6y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2065771163570331812",
+        "created_at": "2026-06-14T01:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065970583456940198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065970583456940198",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065927622463463932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furina_8620 羡慕能去现场（主要是希望自己能多出去看看🥹）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065927599700971520",
+            "3_2065927612153929728"
+          ]
+        },
+        "author_id": "1581226356326617088",
+        "conversation_id": "2065771163570331812",
+        "created_at": "2026-06-13T22:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065927622463463932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyIKu0ciWA",
+              "end": 43,
+              "expanded_url": "https://x.com/Furina_8620/status/2065927622463463932/photo/1",
+              "media_key": "3_2065927599700971520",
+              "start": 20,
+              "url": "https://t.co/RyIKu0ciWA"
+            },
+            {
+              "display_url": "pic.x.com/RyIKu0ciWA",
+              "end": 43,
+              "expanded_url": "https://x.com/Furina_8620/status/2065927622463463932/photo/1",
+              "media_key": "3_2065927612153929728",
+              "start": 20,
+              "url": "https://t.co/RyIKu0ciWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065927622463463932",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065771163570331812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 已前往 https://t.co/RyIKu0ciWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12796,
+          "following_count": 3102,
+          "like_count": 40602,
+          "listed_count": 41,
+          "media_count": 4325,
+          "tweet_count": 22571
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員，鋼琴音樂愛好者，巴別塔建設者，文化评论员\n鐵道｜航空｜旅行｜虹咲｜MyGO｜AuADHD&🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯空間站",
+        "name": "東北亞旅行家雪菜",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 335,
+          "like_count": 8267,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 2106
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

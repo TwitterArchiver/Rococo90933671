@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983763408270061568"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1983536630964306090",
+    "created_at": "2025-10-30T05:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T06:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983763412451815520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvkJy9hv1x",
+          "end": 57,
+          "expanded_url": "https://x.com/Rococo90933671/status/1983763412451815520/photo/1",
+          "media_key": "3_1983763408270061568",
+          "start": 34,
+          "url": "https://t.co/XvkJy9hv1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983763412451815520",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983591559254921625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 其实情花我也很喜欢，小学的时候单曲循环过 https://t.co/XvkJy9hv1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_1983763408270061568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4e-TzRa8AAFW9K.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983763408270061568"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1983536630964306090",
+        "created_at": "2025-10-30T05:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983763412451815520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvkJy9hv1x",
+              "end": 57,
+              "expanded_url": "https://x.com/Rococo90933671/status/1983763412451815520/photo/1",
+              "media_key": "3_1983763408270061568",
+              "start": 34,
+              "url": "https://t.co/XvkJy9hv1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983763412451815520",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983591559254921625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 其实情花我也很喜欢，小学的时候单曲循环过 https://t.co/XvkJy9hv1x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "conversation_id": "1983536630964306090",
+        "created_at": "2025-10-29T17:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983591559254921625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983591559254921625",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983556196822024611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 情花好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6511,
+          "following_count": 2203,
+          "like_count": 28616,
+          "listed_count": 19,
+          "media_count": 2801,
+          "tweet_count": 16598
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "男的，叫我小弦 小七哩。七哩＝Chili🌶️是喜欢的乐队名，Yin🎼是弦的粤语读音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjvJsc"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "七哩哩🎼🔮",
+        "pinned_tweet_id": "1932738224021246228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980117436717322240/w02lD6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 816,
+          "like_count": 113036,
+          "listed_count": 12,
+          "media_count": 641,
+          "tweet_count": 22615
+        },
+        "url": "https://t.co/rhXAcjvJsc",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

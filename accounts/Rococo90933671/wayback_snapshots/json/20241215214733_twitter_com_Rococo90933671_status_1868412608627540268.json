@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1841862927327846674",
+    "created_at": "2024-12-15T21:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T22:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868412608627540268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354733875268907009",
+          "start": 0,
+          "username": "Russian_Longist"
+        },
+        {
+          "end": 29,
+          "id": "1713013072632410112",
+          "start": 17,
+          "username": "IUSTITIA_SA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SLAVA_T_80/sta…",
+          "end": 148,
+          "expanded_url": "https://x.com/SLAVA_T_80/status/1868301657764987004?t=LgE5qPAP-oAf5U7kHi1BKA&s=19",
+          "start": 125,
+          "url": "https://t.co/6sdwfAtMZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868412608627540268",
+    "in_reply_to_user_id": "1354733875268907009",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868301657764987004",
+        "type": "quoted"
+      },
+      {
+        "id": "1841862927327846674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russian_Longist @IUSTITIA_SA This is his another account, could you please tell me if this post in Russian is grammatical?\n\nhttps://t.co/6sdwfAtMZT"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [IUSTITIA_SA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "IUSTITIA_SA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "IUSTITIA_SA"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1868301657764987004].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1868301657764987004",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868301657764987004"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1841862927327846674",
+        "created_at": "2024-12-15T21:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T22:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868412608627540268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354733875268907009",
+              "start": 0,
+              "username": "Russian_Longist"
+            },
+            {
+              "end": 29,
+              "id": "1713013072632410112",
+              "start": 17,
+              "username": "IUSTITIA_SA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SLAVA_T_80/sta…",
+              "end": 148,
+              "expanded_url": "https://x.com/SLAVA_T_80/status/1868301657764987004?t=LgE5qPAP-oAf5U7kHi1BKA&s=19",
+              "start": 125,
+              "url": "https://t.co/6sdwfAtMZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868412608627540268",
+        "in_reply_to_user_id": "1354733875268907009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868301657764987004",
+            "type": "quoted"
+          },
+          {
+            "id": "1841862927327846674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russian_Longist @IUSTITIA_SA This is his another account, could you please tell me if this post in Russian is grammatical?\n\nhttps://t.co/6sdwfAtMZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841862916410101760"
+          ]
+        },
+        "author_id": "1354733875268907009",
+        "conversation_id": "1841862927327846674",
+        "created_at": "2024-10-03T15:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T16:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841862927327846674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713013072632410112",
+              "start": 0,
+              "username": "IUSTITIA_SA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OjeebBBjE",
+              "end": 53,
+              "expanded_url": "https://x.com/Russian_Longist/status/1841862927327846674/photo/1",
+              "media_key": "3_1841862916410101760",
+              "start": 30,
+              "url": "https://t.co/9OjeebBBjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841862927327846674",
+        "in_reply_to_user_id": "1713013072632410112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@IUSTITIA_SA Why u ban me???😭 https://t.co/9OjeebBBjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1961,
+          "like_count": 19374,
+          "listed_count": 5,
+          "media_count": 1358,
+          "tweet_count": 10820
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T10:12:39.000Z",
+        "description": "Русский мужик  | Тит.3:4-6 | Huey Long fan | Social Conservative | ЗА Нац-Трудовой Строй  | Russian Nationalist & Longist | For Space colonization!| #Zа_победу",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 159,
+                "start": 149,
+                "tag": "Zа_победу"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Huey_Longism",
+                "end": 23,
+                "expanded_url": "https://t.me/Huey_Longism",
+                "start": 0,
+                "url": "https://t.co/WwFQUInZNs"
+              }
+            ]
+          }
+        },
+        "id": "1354733875268907009",
+        "location": "Россия единая и неделимая! ",
+        "name": "Russian Huey Long fan 🇷🇺🇷🇺🇷🇺|Z|",
+        "pinned_tweet_id": "1837153883572900157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680759786663473154/BA6m7fud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 804,
+          "like_count": 5455,
+          "listed_count": 14,
+          "media_count": 2956,
+          "tweet_count": 12689
+        },
+        "url": "https://t.co/WwFQUInZNs",
+        "username": "Russian_Longist",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1826812720060268774",
+    "created_at": "2024-08-24T02:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T03:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827175438156013850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729678224068911104",
+          "start": 0,
+          "username": "kafei684134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827175438156013850",
+    "in_reply_to_user_id": "1729678224068911104",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826812720060268774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafei684134 nb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1826812720060268774",
+        "created_at": "2024-08-24T02:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T03:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827175438156013850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729678224068911104",
+              "start": 0,
+              "username": "kafei684134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827175438156013850",
+        "in_reply_to_user_id": "1729678224068911104",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826812720060268774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafei684134 nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826812717883379712"
+          ]
+        },
+        "author_id": "1729678224068911104",
+        "conversation_id": "1826812720060268774",
+        "created_at": "2024-08-23T02:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T03:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826812720060268774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/az1igjefjg",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kafei684134/status/1826812720060268774/photo/1",
+              "media_key": "3_1826812717883379712",
+              "start": 10,
+              "url": "https://t.co/AZ1iGjefJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826812720060268774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11419,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轻轻松松，直接拿下 https://t.co/AZ1iGjefJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1608,
+          "like_count": 14423,
+          "listed_count": 2,
+          "tweet_count": 7580
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T01:47:31.000Z",
+        "description": "☆社會貢獻 万歲☆/小聪明蛋@2SJ7ntKBdEtTKrM /挚友@NanaNana_os/笨蛋朋友@ln9814003229572/可爱的小猫@SakuraCatMoe/负能小号@Rin1760503/可以在这里问问题https://t.co/I5XJYBhxH7❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "2SJ7ntKBdEtTKrM"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "NanaNana_os"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "ln9814003229572"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "SakuraCatMoe"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "Rin1760503"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kafei684134",
+                "end": 134,
+                "expanded_url": "https://ngl.link/kafei684134",
+                "start": 111,
+                "url": "https://t.co/I5XJYBhxH7"
+              }
+            ]
+          }
+        },
+        "id": "1729678224068911104",
+        "location": "科普卢星区",
+        "name": "⛩️Kafei☕⛩️",
+        "pinned_tweet_id": "1805657914453233755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800099030669860864/yYYgbPq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 309,
+          "like_count": 11455,
+          "listed_count": 4,
+          "tweet_count": 6887
+        },
+        "username": "kafei684134",
+        "verified": false
+      }
+    ]
+  }
+}

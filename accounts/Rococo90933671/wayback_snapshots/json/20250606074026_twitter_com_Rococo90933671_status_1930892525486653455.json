@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930892492171309056"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1930892525486653455",
+    "created_at": "2025-06-06T07:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T08:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930892525486653455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VnT0U6n6iF",
+          "end": 37,
+          "expanded_url": "https://x.com/Rococo90933671/status/1930892525486653455/photo/1",
+          "media_key": "3_1930892492171309056",
+          "start": 14,
+          "url": "https://t.co/VnT0U6n6iF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930892525486653455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "zyn转战B站了，怪可爱的 https://t.co/VnT0U6n6iF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930892525486653455].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930892525486653455",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930892525486653455"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930892492171309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvofcdW8AAFgYo.jpg",
+        "width": 877
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 2145,
+          "like_count": 24778,
+          "listed_count": 10,
+          "media_count": 2169,
+          "tweet_count": 14246
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

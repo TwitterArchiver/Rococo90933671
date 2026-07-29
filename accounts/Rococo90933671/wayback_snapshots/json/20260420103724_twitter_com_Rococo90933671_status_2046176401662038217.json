@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2045621563710648434",
+    "created_at": "2026-04-20T10:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046176401662038217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "953550526364336133",
+          "start": 0,
+          "username": "pipilu246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046176401662038217",
+    "in_reply_to_user_id": "953550526364336133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046068361302565208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipilu246 从最底层的原理来看，确实，本质上都是物质资源的分配问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2045621563710648434",
+        "created_at": "2026-04-20T10:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046176401662038217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "953550526364336133",
+              "start": 0,
+              "username": "pipilu246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046176401662038217",
+        "in_reply_to_user_id": "953550526364336133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046068361302565208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipilu246 从最底层的原理来看，确实，本质上都是物质资源的分配问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "953550526364336133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2045621563710648434",
+        "created_at": "2026-04-20T03:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046068361302565208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046068361302565208",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045621563710648434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 你没说在点上。你描述的这种现象，本质上是由于社会容错率低，社会保障不完备，社会氛围压抑不允许人们活出自我导致的。对应的是零和游戏的应试教育，剥削型政府以及性压抑磨平棱角的中国文化，让人们每一步举轻若重如履薄冰，必须按照上层规划的模板生存，违背模板即犯错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10283,
+          "following_count": 2925,
+          "like_count": 35595,
+          "listed_count": 30,
+          "media_count": 3723,
+          "tweet_count": 20697
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-17T08:52:16.000Z",
+        "description": "",
+        "id": "953550526364336133",
+        "name": "Evil Gay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1010909211205595136/MjoXTsku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 236,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1166
+        },
+        "username": "pipilu246",
+        "verified": false
+      }
+    ]
+  }
+}

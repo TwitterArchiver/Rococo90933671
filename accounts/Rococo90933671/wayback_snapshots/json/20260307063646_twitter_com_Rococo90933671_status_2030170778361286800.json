@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2030124309235351563",
+    "created_at": "2026-03-07T06:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030170778361286800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "MomoneChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030170778361286800",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030124309235351563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoneChino 能不能享受一个人的时光，关键还是看内心的状态。在我看来这是很珍贵的，因为我的心好久没有完全属于自己了，总是在焦虑恐惧中度过，环境再好也于事无补\n\n吃好喝好哦~"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2030124309235351563].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2030124309235351563",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2030124309235351563"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2030124309235351563",
+        "created_at": "2026-03-07T06:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030170778361286800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "MomoneChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030170778361286800",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030124309235351563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoneChino 能不能享受一个人的时光，关键还是看内心的状态。在我看来这是很珍贵的，因为我的心好久没有完全属于自己了，总是在焦虑恐惧中度过，环境再好也于事无补\n\n吃好喝好哦~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 2621,
+          "like_count": 30915,
+          "listed_count": 25,
+          "media_count": 3291,
+          "tweet_count": 18478
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "aka. 深柠｜苹果产品首席体验官",
+        "id": "1921935866114756608",
+        "location": "China",
+        "name": "桃寝智乃",
+        "pinned_tweet_id": "2029183288808796227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029565022121435136/-Hhf4UKL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 175,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 521
+        },
+        "username": "MomoneChino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797631346460045312"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1797630624246939803",
+    "created_at": "2024-06-03T14:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T15:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797631350377427008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "dongzimin194455"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uqWh0ablYL",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1797631350377427008/photo/1",
+          "media_key": "3_1797631346460045312",
+          "start": 17,
+          "url": "https://t.co/uqWh0ablYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797631350377427008",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797630624246939803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongzimin194455 https://t.co/uqWh0ablYL"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1797630624246939803].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1797630624246939803",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1797630624246939803"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_1797631346460045312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPJ4L3LbsAA6iLo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797631346460045312"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1797630624246939803",
+        "created_at": "2024-06-03T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797631350377427008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "dongzimin194455"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uqWh0ablYL",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1797631350377427008/photo/1",
+              "media_key": "3_1797631346460045312",
+              "start": 17,
+              "url": "https://t.co/uqWh0ablYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797631350377427008",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797630624246939803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongzimin194455 https://t.co/uqWh0ablYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 924,
+          "like_count": 5446,
+          "listed_count": 3,
+          "tweet_count": 3615
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》人鱼姬相爱CG\n社恐无脑二次元哲学逼，互FO扣1（看心情），情绪垃圾桶欢迎交流 我爱国所以反贼不要来沾边 主人@Allknowbody",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Allknowbody"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "习近平总书记的床上",
+        "name": "人鱼姬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797456961786810368/WAZ4dIZa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 500,
+          "like_count": 19548,
+          "listed_count": 1,
+          "tweet_count": 2318
+        },
+        "username": "dongzimin194455",
+        "verified": false
+      }
+    ]
+  }
+}

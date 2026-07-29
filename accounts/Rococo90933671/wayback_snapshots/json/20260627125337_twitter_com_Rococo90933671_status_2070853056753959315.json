@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2070838837954449856",
+    "created_at": "2026-06-27T12:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070853056753959315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507723638249713664",
+          "start": 0,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070853056753959315",
+    "in_reply_to_user_id": "1507723638249713664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070838837954449856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuebanzhu 妙啊，绝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2070838837954449856",
+        "created_at": "2026-06-27T12:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070853056753959315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070853056753959315",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070838837954449856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu 妙啊，绝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507723638249713664",
+        "conversation_id": "2070838837954449856",
+        "created_at": "2026-06-27T11:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070838837954449856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2070516542136303954",
+              "start": 20,
+              "url": "https://t.co/pPQj4rAwad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070838837954449856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070516542136303954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大喊一声\n草尼玛\n看有多少人回头就行了 https://t.co/pPQj4rAwad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13063,
+          "following_count": 3156,
+          "like_count": 41895,
+          "listed_count": 40,
+          "media_count": 4493,
+          "tweet_count": 23218
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。人送外号法盲。被别人说是左翼的自称非典型自由主义支持者，自测光谱为右翼。政治面貌境外势力汉奸叛徒反革命分子+反日滞纳人。\n一般都在厕所发推，所以自诩为荒川厕所🥱创始人。\n🥳私信被锁看不到了",
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半@厕所革命",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14386,
+          "following_count": 7045,
+          "like_count": 348984,
+          "listed_count": 97,
+          "media_count": 3932,
+          "tweet_count": 49838
+        },
+        "url": "",
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

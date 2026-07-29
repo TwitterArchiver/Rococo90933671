@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1869306613963825376",
+    "created_at": "2024-12-18T09:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T10:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869308331577487749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869308331577487749",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869306613963825376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 好家伙这是我学过的版本，我就是在那个时候开始记笔记的时候把最大城市写成best big city的（因为英语课还没有学最高级），因为要记那几个国家的最大城市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1869306613963825376",
+        "created_at": "2024-12-18T09:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869308331577487749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869308331577487749",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869306613963825376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 好家伙这是我学过的版本，我就是在那个时候开始记笔记的时候把最大城市写成best big city的（因为英语课还没有学最高级），因为要记那几个国家的最大城市"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869294964414586880",
+            "3_1869294964422877184",
+            "3_1869294964418781184",
+            "3_1869294964414537728"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1869306613963825376",
+        "created_at": "2024-12-18T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869306613963825376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "中日友好"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTNWE7ZMws",
+              "end": 174,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1869306613963825376/photo/1",
+              "media_key": "3_1869294964414586880",
+              "start": 151,
+              "url": "https://t.co/yTNWE7ZMws"
+            },
+            {
+              "display_url": "pic.x.com/yTNWE7ZMws",
+              "end": 174,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1869306613963825376/photo/1",
+              "media_key": "3_1869294964422877184",
+              "start": 151,
+              "url": "https://t.co/yTNWE7ZMws"
+            },
+            {
+              "display_url": "pic.x.com/yTNWE7ZMws",
+              "end": 174,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1869306613963825376/photo/1",
+              "media_key": "3_1869294964418781184",
+              "start": 151,
+              "url": "https://t.co/yTNWE7ZMws"
+            },
+            {
+              "display_url": "pic.x.com/yTNWE7ZMws",
+              "end": 174,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1869306613963825376/photo/1",
+              "media_key": "3_1869294964414537728",
+              "start": 151,
+              "url": "https://t.co/yTNWE7ZMws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869306613963825376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如今的课本对日本的描述，也许和你记忆中真的有差异...😳\n\n✨在“我们的邻国”章节中，日本是第一个被介绍的国家\n\n✨课本用了大量文字来描述日本的东方文化性\n\n✨对唐朝时文化交流的描述由单向的遣唐使变成了双向交流\n\n✨结尾是亮点，这篇小日记真的反映了教育的改变‼️\n\n未来一定会越来越好🌈\n\n#中日友好 https://t.co/yTNWE7ZMws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 1958,
+          "like_count": 19546,
+          "listed_count": 5,
+          "media_count": 1371,
+          "tweet_count": 10896
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "若非群玉山头见，会向瑶台月下逢。",
+        "id": "1553107630511603712",
+        "location": "彩云间",
+        "name": "纪真由子",
+        "pinned_tweet_id": "1868558542678237615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865736630247809024/Qxu9B2PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8330,
+          "following_count": 2524,
+          "like_count": 15555,
+          "listed_count": 36,
+          "media_count": 1232,
+          "tweet_count": 13632
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

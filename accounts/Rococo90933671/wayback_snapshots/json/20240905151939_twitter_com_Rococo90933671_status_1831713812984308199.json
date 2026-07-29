@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1831693878615011368",
+    "created_at": "2024-09-05T15:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T16:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831713812984308199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282893311573766145",
+          "start": 0,
+          "username": "9moX20076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831713812984308199",
+    "in_reply_to_user_id": "1282893311573766145",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831693878615011368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9moX20076 いいぞと思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1831693878615011368",
+        "created_at": "2024-09-05T15:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831713812984308199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282893311573766145",
+              "start": 0,
+              "username": "9moX20076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831713812984308199",
+        "in_reply_to_user_id": "1282893311573766145",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831693878615011368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9moX20076 いいぞと思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282893311573766145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for 成人式 (A Coming‐Of‐Age Ceremony)",
+              "id": "1333426778145058817",
+              "name": "成人式 (A Coming‐Of‐Age Ceremony)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1831693878615011368",
+        "created_at": "2024-09-05T14:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T15:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831693878615011368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831693878615011368",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来年の成人式だけど、漢服で行こうかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 1693,
+          "like_count": 15619,
+          "listed_count": 2,
+          "tweet_count": 8242
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "フォト/自作PC/スマホ/イヤホン(Hifi发烧中)/ゲーム/旅行/音楽/謎…\n\n日本生まれ華僑/JLPT N1 168/180点\n\nなんかあればDM\n\nサブ→@Nozomu_AK_3\n\n2024/07/26 23:13:37 follower 4545人 達成！！！\n\n台湾・北京到来予定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Nozomu_AK_3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "geartics.com/9moX20076",
+                "end": 23,
+                "expanded_url": "https://www.geartics.com/9moX20076",
+                "start": 0,
+                "url": "https://t.co/eKm6l1diEW"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "location": "中国⇔日本",
+        "name": "Kia",
+        "pinned_tweet_id": "1809212791175496018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828994834134433793/yyqZWcsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 5847,
+          "like_count": 68831,
+          "listed_count": 39,
+          "tweet_count": 61403
+        },
+        "url": "https://t.co/eKm6l1diEW",
+        "username": "9moX20076",
+        "verified": false
+      }
+    ]
+  }
+}

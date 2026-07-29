@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1882258425457106992",
+    "created_at": "2025-01-24T10:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T11:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882730823390249218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "118169394",
+          "start": 0,
+          "username": "ShengXue_ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882730823390249218",
+    "in_reply_to_user_id": "118169394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882258425457106992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengXue_ca 仙之人兮列如麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1882258425457106992",
+        "created_at": "2025-01-24T10:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T11:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882730823390249218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "118169394",
+              "start": 0,
+              "username": "ShengXue_ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882730823390249218",
+        "in_reply_to_user_id": "118169394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882258425457106992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengXue_ca 仙之人兮列如麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882258421086384128"
+          ]
+        },
+        "author_id": "118169394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1882258425457106992",
+        "created_at": "2025-01-23T02:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T03:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882258425457106992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bK2hKIiQZD",
+              "end": 76,
+              "expanded_url": "https://x.com/ShengXue_ca/status/1882258425457106992/photo/1",
+              "media_key": "3_1882258421086384128",
+              "start": 53,
+              "url": "https://t.co/bK2hKIiQZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882258425457106992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 623257,
+          "like_count": 1185,
+          "quote_count": 36,
+          "reply_count": 387,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大反共青年才俊公子沈、多伦多方脸、杨若辉聚在“寻找共同点论坛 — 2025加拿大藏汉新年联谊会”上🙏 https://t.co/bK2hKIiQZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 2059,
+          "like_count": 21493,
+          "listed_count": 7,
+          "media_count": 1606,
+          "tweet_count": 12065
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-27T20:33:14.000Z",
+        "description": "An independent free person in front of all social signs such as power, authority, faith, nation boundaries, race, gender, occupation, money, and relationships.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.boxun.com/hero/shengxue/",
+                "end": 23,
+                "expanded_url": "http://blog.boxun.com/hero/shengxue/",
+                "start": 0,
+                "url": "https://t.co/5CqOcBn7SR"
+              }
+            ]
+          }
+        },
+        "id": "118169394",
+        "location": "加拿大",
+        "name": "盛雪SHENG Xue",
+        "pinned_tweet_id": "1822517662188023964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275850100896563201/x72i_lsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222314,
+          "following_count": 4848,
+          "like_count": 139396,
+          "listed_count": 800,
+          "media_count": 6804,
+          "tweet_count": 57713
+        },
+        "url": "https://t.co/5CqOcBn7SR",
+        "username": "ShengXue_ca",
+        "verified": true
+      }
+    ]
+  }
+}

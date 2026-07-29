@@ -1,0 +1,388 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Royal Family",
+          "id": "1098692833333014528",
+          "name": "British Royal Family"
+        }
+      }
+    ],
+    "conversation_id": "1804054196984885748",
+    "created_at": "2024-06-22T02:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T03:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804342400757961161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "36042554",
+          "start": 0,
+          "username": "RoyalFamily"
+        },
+        {
+          "end": 17,
+          "id": "705747834486833154",
+          "start": 13,
+          "username": "RCT"
+        },
+        {
+          "end": 34,
+          "id": "2812768561",
+          "start": 18,
+          "username": "KensingtonRoyal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804342400757961161",
+    "in_reply_to_user_id": "36042554",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804054196984885748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoyalFamily @RCT @KensingtonRoyal Happy birthday"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          }
+        ],
+        "conversation_id": "1804054196984885748",
+        "created_at": "2024-06-22T02:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T03:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804342400757961161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "36042554",
+              "start": 0,
+              "username": "RoyalFamily"
+            },
+            {
+              "end": 17,
+              "id": "705747834486833154",
+              "start": 13,
+              "username": "RCT"
+            },
+            {
+              "end": 34,
+              "id": "2812768561",
+              "start": 18,
+              "username": "KensingtonRoyal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804342400757961161",
+        "in_reply_to_user_id": "36042554",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804054196984885748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoyalFamily @RCT @KensingtonRoyal Happy birthday"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804054190601183232"
+          ]
+        },
+        "author_id": "36042554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          }
+        ],
+        "conversation_id": "1804054196984885748",
+        "created_at": "2024-06-21T07:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T08:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804054196984885748"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Wales",
+              "probability": 0.5462,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "705747834486833154",
+              "start": 44,
+              "username": "RCT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IEWU8ZeycE",
+              "end": 72,
+              "expanded_url": "https://twitter.com/RoyalFamily/status/1804054196984885748/photo/1",
+              "media_key": "3_1804054190601183232",
+              "start": 49,
+              "url": "https://t.co/IEWU8ZeycE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804054196984885748",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 453747,
+          "like_count": 26427,
+          "quote_count": 148,
+          "reply_count": 565,
+          "retweet_count": 1808
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday to The Prince of Wales! 🎉\n\n📷 @RCT https://t.co/IEWU8ZeycE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1249,
+          "like_count": 9886,
+          "listed_count": 3,
+          "tweet_count": 5313
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-28T11:31:02.000Z",
+        "description": "The latest news and updates on the work of The King, The Queen and The Royal Family.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "royal.uk",
+                "end": 23,
+                "expanded_url": "http://www.royal.uk",
+                "start": 0,
+                "url": "https://t.co/vi7yfrg3iw"
+              }
+            ]
+          }
+        },
+        "id": "36042554",
+        "location": "United Kingdom",
+        "name": "The Royal Family",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724107436556951552/XbmBPg9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692387,
+          "following_count": 465,
+          "like_count": 5008,
+          "listed_count": 10634,
+          "tweet_count": 39404
+        },
+        "url": "https://t.co/vi7yfrg3iw",
+        "username": "RoyalFamily",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T13:32:50.000Z",
+        "description": "We're a charity caring for the #RoyalCollection & looking after visitors to #BuckinghamPalace #KingsGallery #WindsorCastle #HolyroodPalace #RoyalMews",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 31,
+                "tag": "RoyalCollection"
+              },
+              {
+                "end": 93,
+                "start": 76,
+                "tag": "BuckinghamPalace"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "tag": "KingsGallery"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "tag": "WindsorCastle"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "tag": "HolyroodPalace"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "tag": "RoyalMews"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rct.uk",
+                "end": 23,
+                "expanded_url": "https://www.rct.uk/",
+                "start": 0,
+                "url": "https://t.co/3s8ZKNKllp"
+              }
+            ]
+          }
+        },
+        "id": "705747834486833154",
+        "location": "London, Windsor and Edinburgh",
+        "name": "Royal Collection Trust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574677047892377600/clMwUgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56884,
+          "following_count": 218,
+          "like_count": 2454,
+          "listed_count": 447,
+          "tweet_count": 5211
+        },
+        "url": "https://t.co/3s8ZKNKllp",
+        "username": "RCT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-16T08:49:03.000Z",
+        "description": "The official account of The Prince and Princess of Wales, based at Kensington Palace.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@princeandprin…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@princeandprincessofwales",
+                "start": 0,
+                "url": "https://t.co/fBFTFFg8eg"
+              }
+            ]
+          }
+        },
+        "id": "2812768561",
+        "location": "London, UK",
+        "name": "The Prince and Princess of Wales",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725151934342922240/umdLF_BY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978176,
+          "following_count": 496,
+          "like_count": 1684,
+          "listed_count": 4568,
+          "tweet_count": 12795
+        },
+        "url": "https://t.co/fBFTFFg8eg",
+        "username": "KensingtonRoyal",
+        "verified": true
+      }
+    ]
+  }
+}

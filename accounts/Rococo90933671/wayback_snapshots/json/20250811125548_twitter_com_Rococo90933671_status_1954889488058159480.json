@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1395109724786290690",
+          "name": "Travel accommodations "
+        }
+      }
+    ],
+    "conversation_id": "1954888845067157679",
+    "created_at": "2025-08-11T12:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T13:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954889488058159480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651469730740592642",
+          "start": 0,
+          "username": "KawaiiSmolChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954889488058159480",
+    "in_reply_to_user_id": "1651469730740592642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954888845067157679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiSmolChino 有没有Airbnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3073,
+        "media_key": "3_1954888671750234112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyEo47cboAAAt_M.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          }
+        ],
+        "conversation_id": "1954888845067157679",
+        "created_at": "2025-08-11T12:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954889488058159480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651469730740592642",
+              "start": 0,
+              "username": "KawaiiSmolChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954889488058159480",
+        "in_reply_to_user_id": "1651469730740592642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954888845067157679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiSmolChino 有没有Airbnb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954888671750234112"
+          ]
+        },
+        "author_id": "1651469730740592642",
+        "conversation_id": "1954888845067157679",
+        "created_at": "2025-08-11T12:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954888845067157679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIxFNBPTsI",
+              "end": 67,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/1954888845067157679/photo/1",
+              "media_key": "3_1954888671750234112",
+              "start": 44,
+              "url": "https://t.co/iIxFNBPTsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954888845067157679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还得是希尔顿，体验比昨天好太多了\n（升个豪华套房续住了（泳衣也买了\n明天再在重庆玩一天 https://t.co/iIxFNBPTsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5345,
+          "following_count": 2189,
+          "like_count": 26669,
+          "listed_count": 12,
+          "media_count": 2479,
+          "tweet_count": 15421
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T06:14:10.000Z",
+        "description": "（笨蛋）~Dear My Sister~@Chinonya1 @Minatooo_O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Minatooo_O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/chino_suki",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/chino_suki",
+                "start": 0,
+                "url": "https://t.co/jUt8EzMvzf"
+              }
+            ]
+          }
+        },
+        "id": "1651469730740592642",
+        "location": "シュレディンガーの綿 🐇",
+        "name": "𝒞𝒽𝒾𝓃𝑜~☕️🍧🩵",
+        "pinned_tweet_id": "1794022382446977369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951206179281281024/Op4tke2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 626,
+          "like_count": 46806,
+          "listed_count": 1,
+          "media_count": 2042,
+          "tweet_count": 8096
+        },
+        "url": "https://t.co/jUt8EzMvzf",
+        "username": "KawaiiSmolChino",
+        "verified": true
+      }
+    ]
+  }
+}

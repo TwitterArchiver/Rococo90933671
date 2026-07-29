@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1789645846428123453",
+    "created_at": "2024-05-12T13:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T14:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789651253431320597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1654785562081894400",
+          "start": 0,
+          "username": "btlesson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789651253431320597",
+    "in_reply_to_user_id": "1654785562081894400",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789645846428123453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btlesson 和谈得来的人就可以啦，只是，这样的人真的真的很少呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1789645846428123453",
+        "created_at": "2024-05-12T13:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T14:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789651253431320597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1654785562081894400",
+              "start": 0,
+              "username": "btlesson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789651253431320597",
+        "in_reply_to_user_id": "1654785562081894400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789645846428123453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btlesson 和谈得来的人就可以啦，只是，这样的人真的真的很少呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1654785562081894400",
+        "conversation_id": "1789645846428123453",
+        "created_at": "2024-05-12T13:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T14:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789645846428123453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789645846428123453",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下喜欢聊天的人哪来那么多话说，为什么我老被骂敷衍，我真的不知道回答什么话，我的生活也很平淡没什么可分享的有趣的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 353,
+          "like_count": 879,
+          "listed_count": 1,
+          "tweet_count": 1130
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T09:50:23.000Z",
+        "description": "",
+        "id": "1654785562081894400",
+        "name": "li1-xCoO2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786766669026893824/MGqlbcmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 73,
+          "like_count": 1274,
+          "listed_count": 1,
+          "tweet_count": 139
+        },
+        "username": "btlesson",
+        "verified": false
+      }
+    ]
+  }
+}

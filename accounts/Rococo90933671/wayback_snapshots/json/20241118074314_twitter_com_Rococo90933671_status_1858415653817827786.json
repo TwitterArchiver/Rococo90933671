@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1858413244148490382",
+    "created_at": "2024-11-18T07:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T08:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858415653817827786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651469730740592642",
+          "start": 0,
+          "username": "KawaiiSmolChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858415653817827786",
+    "in_reply_to_user_id": "1651469730740592642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858413244148490382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiSmolChino 总是忍不住哼起：\n\n爱情像cappuccino\n浓浓的眷恋泡沫\n诱人的气息\n多爱不释手~\n\n虽然从未有过爱情😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1858413244148490382",
+        "created_at": "2024-11-18T07:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858415653817827786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651469730740592642",
+              "start": 0,
+              "username": "KawaiiSmolChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858415653817827786",
+        "in_reply_to_user_id": "1651469730740592642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858413244148490382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiSmolChino 总是忍不住哼起：\n\n爱情像cappuccino\n浓浓的眷恋泡沫\n诱人的气息\n多爱不释手~\n\n虽然从未有过爱情😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858413225056079872",
+            "3_1858413225219649536",
+            "3_1858413225051897856",
+            "3_1858413225211297792"
+          ]
+        },
+        "author_id": "1651469730740592642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1858413244148490382",
+        "created_at": "2024-11-18T07:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858413244148490382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AY3K9unfDX",
+              "end": 155,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/1858413244148490382/photo/1",
+              "media_key": "3_1858413225056079872",
+              "start": 132,
+              "url": "https://t.co/AY3K9unfDX"
+            },
+            {
+              "display_url": "pic.x.com/AY3K9unfDX",
+              "end": 155,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/1858413244148490382/photo/1",
+              "media_key": "3_1858413225219649536",
+              "start": 132,
+              "url": "https://t.co/AY3K9unfDX"
+            },
+            {
+              "display_url": "pic.x.com/AY3K9unfDX",
+              "end": 155,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/1858413244148490382/photo/1",
+              "media_key": "3_1858413225051897856",
+              "start": 132,
+              "url": "https://t.co/AY3K9unfDX"
+            },
+            {
+              "display_url": "pic.x.com/AY3K9unfDX",
+              "end": 155,
+              "expanded_url": "https://x.com/KawaiiSmolChino/status/1858413244148490382/photo/1",
+              "media_key": "3_1858413225211297792",
+              "start": 132,
+              "url": "https://t.co/AY3K9unfDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858413244148490382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "请问你今天要来杯Cappuccino吗？\n（二次元打卡😹）\n不枉我兜兜转转半个小时，也算是找到了目前综合评分（个人评分）最高的一家咖啡厅☕️\n\n咖啡不错，图中的喝起来是干卡布奇诺，咖啡味和奶香的平衡控制的很好（不过不算最顶级），待会再试试这里的摩卡做的怎么样；\n环境分直接打满分：有落地窗，有院子有池塘；偏暖的装修风格把这刮着寒风的季节调换成了早秋；没有放嘈杂的歌，没有在喧闹的人，不像遍大街的连锁咖啡店和快餐店那样一股只想逼人走的感觉；还有不知在哪放着有香薰，混合着咖啡香，可以一边煮咖啡一边安心摸猫猫😌\n\n看会书再回去🫧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问你今天要来杯Cappuccino吗？\n（二次元打卡😹）\n不枉我兜兜转转半个小时，也算是找到了目前综合评分（个人评分）最高的一家咖啡厅☕️\n\n咖啡不错，图中的喝起来是干卡布奇诺，咖啡味和奶香的平衡控制的很好（不过不算最顶级），待会再试试这里的摩卡做的怎么样；… https://t.co/AY3K9unfDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1945,
+          "like_count": 18302,
+          "listed_count": 5,
+          "tweet_count": 10257
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T06:14:10.000Z",
+        "description": "贪吃鬼👻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/chino_suki",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/chino_suki",
+                "start": 0,
+                "url": "https://t.co/jUt8EzMvzf"
+              }
+            ]
+          }
+        },
+        "id": "1651469730740592642",
+        "location": "在你身后…🐾",
+        "name": "𝒞𝒽𝒾𝓃𝑜☕️🍟🍜",
+        "pinned_tweet_id": "1794022382446977369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858372228175597568/atmqwQOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 528,
+          "like_count": 31554,
+          "listed_count": 3,
+          "tweet_count": 4606
+        },
+        "url": "https://t.co/jUt8EzMvzf",
+        "username": "KawaiiSmolChino",
+        "verified": false
+      }
+    ]
+  }
+}

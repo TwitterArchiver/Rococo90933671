@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2055258674806034857",
+    "created_at": "2026-05-15T12:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055259437234036917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783404524906196992",
+          "start": 0,
+          "username": "fanzeiwocaonima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055259437234036917",
+    "in_reply_to_user_id": "1783404524906196992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055258674806034857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanzeiwocaonima 烧烤摊上最喜欢的就是鱿鱼章鱼墨鱼啥的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2055258666006347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW-3hTaAAAYMjb.jpg",
+        "width": 1024
+      },
+      {
+        "height": 458,
+        "media_key": "3_2055258667143024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW-3liaUAAfoBB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2055258674806034857",
+        "created_at": "2026-05-15T12:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055259437234036917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783404524906196992",
+              "start": 0,
+              "username": "fanzeiwocaonima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055259437234036917",
+        "in_reply_to_user_id": "1783404524906196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055258674806034857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanzeiwocaonima 烧烤摊上最喜欢的就是鱿鱼章鱼墨鱼啥的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055258666006347776",
+            "3_2055258667143024640"
+          ]
+        },
+        "author_id": "1783404524906196992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055258674806034857",
+        "created_at": "2026-05-15T12:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055258674806034857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p98WUaoz7s",
+              "end": 29,
+              "expanded_url": "https://x.com/fanzeiwocaonima/status/2055258674806034857/photo/1",
+              "media_key": "3_2055258666006347776",
+              "start": 6,
+              "url": "https://t.co/p98WUaoz7s"
+            },
+            {
+              "display_url": "pic.x.com/p98WUaoz7s",
+              "end": 29,
+              "expanded_url": "https://x.com/fanzeiwocaonima/status/2055258674806034857/photo/1",
+              "media_key": "3_2055258667143024640",
+              "start": 6,
+              "url": "https://t.co/p98WUaoz7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055258674806034857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下班吃点儿 https://t.co/p98WUaoz7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11480,
+          "following_count": 3045,
+          "like_count": 38076,
+          "listed_count": 37,
+          "media_count": 3974,
+          "tweet_count": 21485
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-25T07:56:00.000Z",
+        "description": "聪明的人容易变成赤色分子，基本盘，半工半读人，号炸了，推友寻回中。Our mission is the great rejuvenation of the Chinese nation",
+        "id": "1783404524906196992",
+        "name": "胜利主义Leo同志(三叶）☘️",
+        "pinned_tweet_id": "2006697720795599083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041165865018875904/ZRfuijnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 732,
+          "like_count": 37228,
+          "listed_count": 4,
+          "media_count": 783,
+          "tweet_count": 6282
+        },
+        "username": "fanzeiwocaonima",
+        "verified": false
+      }
+    ]
+  }
+}

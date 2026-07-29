@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792780509350879258",
+    "created_at": "2024-05-21T04:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T05:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792780509350879258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738854438926733312",
+          "start": 3,
+          "username": "Chinaxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792780509350879258",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792768655299891383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chinaxiduo: 有情侣的全图了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792780509350879258",
+        "created_at": "2024-05-21T04:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T05:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792780509350879258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738854438926733312",
+              "start": 3,
+              "username": "Chinaxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792780509350879258",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792768655299891383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chinaxiduo: 有情侣的全图了😋"
+      },
+      {
+        "attachments": {},
+        "author_id": "1738854438926733312",
+        "conversation_id": "1792768655299891383",
+        "created_at": "2024-05-21T04:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T05:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792768655299891383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792768655299891383",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有情侣的全图了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 572,
+          "like_count": 2212,
+          "listed_count": 0,
+          "tweet_count": 2147
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T09:29:56.000Z",
+        "description": "光",
+        "id": "1738854438926733312",
+        "location": "Hong Kong",
+        "name": "蓝泽光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780108050747342848/C2LtI720_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 668,
+          "like_count": 37748,
+          "listed_count": 3,
+          "tweet_count": 6229
+        },
+        "username": "Chinaxiduo",
+        "verified": false
+      }
+    ]
+  }
+}

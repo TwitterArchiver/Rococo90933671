@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1833503376732008745",
+    "created_at": "2024-09-10T16:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T17:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833543683414888459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833543683414888459",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833503376732008745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akirameru_QAQ 睡一觉就好了的感觉确实很美好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1833503376732008745].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1833503376732008745",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1833503376732008745"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1833503376732008745",
+        "created_at": "2024-09-10T16:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T17:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833543683414888459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833543683414888459",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833503376732008745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ 睡一觉就好了的感觉确实很美好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 1772,
+          "like_count": 16168,
+          "listed_count": 2,
+          "tweet_count": 8526
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺 || Computer Tech💻 || 互fo好文明\nLANG=zh_CN(平常)/zh_TW/en_US\n分身@mkc_Cute\n監視Followers第一人，和我互fo就別想逃哦♥️~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MtFloveU",
+                "end": 23,
+                "expanded_url": "https://github.com/MtFloveU",
+                "start": 0,
+                "url": "https://t.co/KrrI53HBG4"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 627,
+          "like_count": 68660,
+          "listed_count": 3,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/KrrI53HBG4",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

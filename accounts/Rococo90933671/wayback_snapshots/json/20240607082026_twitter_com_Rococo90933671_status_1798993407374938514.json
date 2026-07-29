@@ -1,0 +1,462 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1798954253060354328",
+    "created_at": "2024-06-07T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798993407374938514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "215939847",
+          "start": 0,
+          "username": "bboczeng"
+        },
+        {
+          "end": 23,
+          "id": "1446813263526772736",
+          "start": 10,
+          "username": "MakeItAQuote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798993407374938514",
+    "in_reply_to_user_id": "215939847",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798954253060354328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bboczeng @MakeItAQuote Quote"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1798954253060354328",
+        "created_at": "2024-06-07T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798993407374938514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            },
+            {
+              "end": 23,
+              "id": "1446813263526772736",
+              "start": 10,
+              "username": "MakeItAQuote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798993407374938514",
+        "in_reply_to_user_id": "215939847",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798954253060354328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng @MakeItAQuote Quote"
+      },
+      {
+        "attachments": {},
+        "author_id": "215939847",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "1798954253060354328",
+        "created_at": "2024-06-07T05:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T06:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798954253060354328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kobeissiletter…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kobeissiletter/status/1798638991644000316",
+              "start": 6,
+              "url": "https://t.co/vy6MZvMUc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798954253060354328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9405,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798638991644000316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈的逼 https://t.co/vy6MZvMUc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 975,
+          "like_count": 6201,
+          "listed_count": 2,
+          "tweet_count": 3924
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，欢迎订阅日报阅读我的投资经验分享与市场总结，或加入会员群讨论\n失败学、润学创始人，弘扬知识、真相和逻辑\nYouTube科普和键政频道（https://t.co/1HbWAvCPfN）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              },
+              {
+                "display_url": "youtube.com/@boist",
+                "end": 121,
+                "expanded_url": "http://youtube.com/@boist",
+                "start": 98,
+                "url": "https://t.co/1HbWAvCPfN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1798967133378138461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675380931006459904/mwE_8Bwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122760,
+          "following_count": 581,
+          "like_count": 49251,
+          "listed_count": 596,
+          "tweet_count": 48266
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-09T12:22:23.000Z",
+        "description": "Input: \"@makeitaquote Quote\" to generate a tweet. Input: \"@DeleteMyQuote Delete\" if you want a tweet removed. Powered by @socialtensor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "makeitaquote"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "DeleteMyQuote"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "socialtensor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeitaquote.com",
+                "end": 23,
+                "expanded_url": "https://makeitaquote.com/",
+                "start": 0,
+                "url": "https://t.co/SeOd2QVomH"
+              }
+            ]
+          }
+        },
+        "id": "1446813263526772736",
+        "name": "Make it a quote",
+        "pinned_tweet_id": "1735304467489124358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446978647705931777/Ze-efpAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662931,
+          "following_count": 11,
+          "like_count": 112,
+          "listed_count": 1103,
+          "tweet_count": 1571547
+        },
+        "url": "https://t.co/SeOd2QVomH",
+        "username": "MakeItAQuote",
+        "verified": true
+      }
+    ]
+  }
+}

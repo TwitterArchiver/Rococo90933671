@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1853643101073489924",
+    "created_at": "2024-11-05T06:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T07:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853685330865750410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823190171241861120",
+          "start": 0,
+          "username": "shuangdunjiagou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853685330865750410",
+    "in_reply_to_user_id": "1823190171241861120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853643101073489924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuangdunjiagou 晚上会和肺抢空气，不好😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1853643101073489924",
+        "created_at": "2024-11-05T06:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T07:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853685330865750410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823190171241861120",
+              "start": 0,
+              "username": "shuangdunjiagou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853685330865750410",
+        "in_reply_to_user_id": "1823190171241861120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853643101073489924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangdunjiagou 晚上会和肺抢空气，不好😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853643098271682560"
+          ]
+        },
+        "author_id": "1823190171241861120",
+        "conversation_id": "1853643101073489924",
+        "created_at": "2024-11-05T03:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T04:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853643101073489924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "原创"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aN2n6STSOf",
+              "end": 53,
+              "expanded_url": "https://x.com/shuangdunjiagou/status/1853643101073489924/photo/1",
+              "media_key": "3_1853643098271682560",
+              "start": 30,
+              "url": "https://t.co/aN2n6STSOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853643101073489924",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1633,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想办法在肺部塞满绿叶是不是就能实现空气的自给自足？#原创 https://t.co/aN2n6STSOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1873,
+          "like_count": 17168,
+          "listed_count": 5,
+          "tweet_count": 9617
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T02:49:57.000Z",
+        "description": "",
+        "id": "1823190171241861120",
+        "name": "fufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823347390826283008/4pq-8pdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 35,
+          "like_count": 40,
+          "listed_count": 0,
+          "tweet_count": 72
+        },
+        "username": "shuangdunjiagou",
+        "verified": false
+      }
+    ]
+  }
+}

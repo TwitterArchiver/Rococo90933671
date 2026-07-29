@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972257468698054656"
+      ],
+      "media_source_tweet_id": [
+        "1972257476080025657"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1972595569148461455",
+    "created_at": "2025-09-29T09:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T10:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972595569148461455"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "綾華",
+          "probability": 0.8101,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "神里綾華生誕祭2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1215287008349708288",
+          "start": 3,
+          "username": "odd_sky475"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qtpvNztg3M",
+          "end": 78,
+          "expanded_url": "https://x.com/odd_sky475/status/1972257476080025657/photo/1",
+          "media_key": "3_1972257468698054656",
+          "start": 55,
+          "url": "https://t.co/qtpvNztg3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972595569148461455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972257476080025657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odd_sky475: #神里綾華生誕祭2025\n綾華誕生日おめでとう🌸🎆\n原神5周年おめでとう！！ https://t.co/qtpvNztg3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1972257468698054656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17dt-Nb0AAqU35.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972257468698054656"
+          ],
+          "media_source_tweet_id": [
+            "1972257476080025657"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1972595569148461455",
+        "created_at": "2025-09-29T09:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972595569148461455"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "綾華",
+              "probability": 0.8101,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "神里綾華生誕祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1215287008349708288",
+              "start": 3,
+              "username": "odd_sky475"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtpvNztg3M",
+              "end": 78,
+              "expanded_url": "https://x.com/odd_sky475/status/1972257476080025657/photo/1",
+              "media_key": "3_1972257468698054656",
+              "start": 55,
+              "url": "https://t.co/qtpvNztg3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972595569148461455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972257476080025657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odd_sky475: #神里綾華生誕祭2025\n綾華誕生日おめでとう🌸🎆\n原神5周年おめでとう！！ https://t.co/qtpvNztg3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972257468698054656"
+          ]
+        },
+        "author_id": "1215287008349708288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1972257476080025657",
+        "created_at": "2025-09-28T11:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T12:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972257476080025657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "綾華",
+              "probability": 0.7982,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "神里綾華生誕祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtpvNztg3M",
+              "end": 62,
+              "expanded_url": "https://x.com/odd_sky475/status/1972257476080025657/photo/1",
+              "media_key": "3_1972257468698054656",
+              "start": 39,
+              "url": "https://t.co/qtpvNztg3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972257476080025657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 25252,
+          "like_count": 2454,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "#神里綾華生誕祭2025\n綾華誕生日おめでとう🌸🎆\n原神5周年おめでとう！！ https://t.co/qtpvNztg3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6518,
+          "following_count": 2207,
+          "like_count": 28426,
+          "listed_count": 19,
+          "media_count": 2704,
+          "tweet_count": 16312
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T14:59:44.000Z",
+        "description": "🟦絵☔️描👟き🦈 お仕事等▶︎【mail】 oddblue475@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/50015361",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/50015361",
+                "start": 0,
+                "url": "https://t.co/i9Pai5KiXc"
+              }
+            ]
+          }
+        },
+        "id": "1215287008349708288",
+        "name": "ODD🦈",
+        "pinned_tweet_id": "1865366036733911135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928847728341299200/WAQP0Jrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45248,
+          "following_count": 555,
+          "like_count": 26594,
+          "listed_count": 316,
+          "media_count": 298,
+          "tweet_count": 5456
+        },
+        "url": "https://t.co/i9Pai5KiXc",
+        "username": "odd_sky475",
+        "verified": true
+      }
+    ]
+  }
+}

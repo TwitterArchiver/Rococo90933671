@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1839868520588554598",
+    "created_at": "2024-09-28T04:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T05:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839880107659305401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1828975646665781251",
+          "start": 0,
+          "username": "MIZUKI__8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839880107659305401",
+    "in_reply_to_user_id": "1828975646665781251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839868520588554598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIZUKI__8964 三重正常人资格证😋👍🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839868520588554598].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839868520588554598",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839868520588554598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1839868520588554598",
+        "created_at": "2024-09-28T04:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T05:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839880107659305401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1828975646665781251",
+              "start": 0,
+              "username": "MIZUKI__8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839880107659305401",
+        "in_reply_to_user_id": "1828975646665781251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839868520588554598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIZUKI__8964 三重正常人资格证😋👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 1826,
+          "like_count": 16621,
+          "listed_count": 3,
+          "tweet_count": 8958
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T01:59:19.000Z",
+        "description": "欢迎互fo大号@Mizuki_8964｜神聖大未來帝國第一任內閣總理兼帝國蒼藍軍總司令｜神聖大未來帝國開國元勳｜我們信仰初音未來｜我家暁山瑞希才是心地善良溫柔可愛貌美如花出道即巔峰的世界第一可愛粉毛 ！不服來戰！世界上最好的曉山瑞希！！！！！！！！！大號@Mizuki_8964逃生@Fibortr8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "Fibortr8964"
+              }
+            ]
+          }
+        },
+        "id": "1828975646665781251",
+        "location": "神聖大未來帝國——戰時陪都 瑞希梵寺",
+        "name": "北流叙輪奈🇨🇳",
+        "pinned_tweet_id": "1839689288591823249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838602415849009152/quPSJx5i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 153,
+          "like_count": 571,
+          "listed_count": 0,
+          "tweet_count": 290
+        },
+        "username": "MIZUKI__8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1793094366443241868",
+    "created_at": "2024-05-22T04:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T05:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793140788848976151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506139885370970118",
+          "start": 0,
+          "username": "kasuminks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793140788848976151",
+    "in_reply_to_user_id": "1506139885370970118",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793094366443241868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasuminks 明日は心も空も素敵な青"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1793094366443241868",
+        "created_at": "2024-05-22T04:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793140788848976151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506139885370970118",
+              "start": 0,
+              "username": "kasuminks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793140788848976151",
+        "in_reply_to_user_id": "1506139885370970118",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793094366443241868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasuminks 明日は心も空も素敵な青"
+      },
+      {
+        "attachments": {},
+        "author_id": "1506139885370970118",
+        "conversation_id": "1793094366443241868",
+        "created_at": "2024-05-22T01:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T02:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793094366443241868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793094366443241868",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "留下一句你最喜欢的歌词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 585,
+          "like_count": 2291,
+          "listed_count": 0,
+          "tweet_count": 2219
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T05:25:15.000Z",
+        "description": "みんなで実現した物語。最好的闺蜜@pnghshba，可爱的人@tokimekiyu，好きな人@stupiaaaaa,想要和大家做朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "pnghshba"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "tokimekiyu"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "stupiaaaaa"
+              }
+            ]
+          }
+        },
+        "id": "1506139885370970118",
+        "name": "Tamako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788764708566339584/QKgbvgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 244,
+          "like_count": 199,
+          "listed_count": 0,
+          "tweet_count": 145
+        },
+        "username": "kasuminks",
+        "verified": false
+      }
+    ]
+  }
+}

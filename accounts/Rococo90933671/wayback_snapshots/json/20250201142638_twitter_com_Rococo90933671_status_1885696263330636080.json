@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1885695251203207293",
+    "created_at": "2025-02-01T14:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T15:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885696263330636080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885696263330636080",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885695251203207293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 喻大华讲道光咸丰的系列我上初中的时候就找来看过一部分，没想到最近会因为一句颇具一句艺术性的“我说的是清朝啊”而火起来"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885695251203207293].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885695251203207293",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885695251203207293"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1885695251203207293",
+        "created_at": "2025-02-01T14:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T15:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885696263330636080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885696263330636080",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885695251203207293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 喻大华讲道光咸丰的系列我上初中的时候就找来看过一部分，没想到最近会因为一句颇具一句艺术性的“我说的是清朝啊”而火起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 2151,
+          "like_count": 22379,
+          "listed_count": 8,
+          "media_count": 1658,
+          "tweet_count": 12442
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "迟哩颖是雏草姬喵丨isfp丨♂丨Cantonese丨不键政丨ChiliChill丨Chili🌶️是喜欢乐队的前缀，Yin🎼是弦的粤语读音丨可以叫我巧弦、小弦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/Goyrncev7I"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山县",
+        "name": "迟哩颖🎼🔮🌊",
+        "pinned_tweet_id": "1881397605307175422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881380910899376128/VNjMp8yv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1258,
+          "like_count": 89211,
+          "listed_count": 9,
+          "media_count": 730,
+          "tweet_count": 17658
+        },
+        "url": "https://t.co/Goyrncev7I",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1886014344649113716",
+    "created_at": "2025-02-02T15:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T16:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886077747916927369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "kleekawaii521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886077747916927369",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886014344649113716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kleekawaii521 说的太好了，信息茧房永远存在，但是我们可以在很多方面尽量减少信息差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1886014344649113716",
+        "created_at": "2025-02-02T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886077747916927369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "kleekawaii521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886077747916927369",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886014344649113716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kleekawaii521 说的太好了，信息茧房永远存在，但是我们可以在很多方面尽量减少信息差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1886014344649113716",
+        "created_at": "2025-02-02T11:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886014344649113716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guojiazongshuj…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/guojiazongshuji/status/1885985524214816952",
+              "start": 146,
+              "url": "https://t.co/zWlNoLICVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886014344649113716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885985524214816952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只能说完全不后悔。\n未翻时读书感觉书本上、现实中的中国与网上的中国太有割裂感了，翻了以后割裂感马上就消失了：还是要多读书。\n而且Google、GPT、社区、博客与文档对学习的助力非常大，也让我能得一手英文信息。可以说对墙国学生而言翻不翻墙会直接在信息获取以及学习能力上拉出一道坎，刷题补不了 https://t.co/zWlNoLICVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 2172,
+          "like_count": 22512,
+          "listed_count": 8,
+          "media_count": 1669,
+          "tweet_count": 12493
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Undergraduate in CS | C/C++ & Python | ENFJ | Complaining about Chinese politics, society and education | History & ancient classics | Social Democracy",
+        "id": "1858763452732633090",
+        "location": "Tokyo-to, Japan",
+        "name": "kleekwaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858772268723433473/JMeTn6x0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 47,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 410
+        },
+        "username": "kleekawaii521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1826041206729748744",
+    "created_at": "2024-08-21T12:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T13:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826241708147007836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1606989235424481280",
+          "start": 0,
+          "username": "WangSongyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826241708147007836",
+    "in_reply_to_user_id": "1606989235424481280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826041206729748744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangSongyou 我看饿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1826041206729748744",
+        "created_at": "2024-08-21T12:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T13:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826241708147007836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1606989235424481280",
+              "start": 0,
+              "username": "WangSongyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826241708147007836",
+        "in_reply_to_user_id": "1606989235424481280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826041206729748744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangSongyou 我看饿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826041190426488837"
+          ]
+        },
+        "author_id": "1606989235424481280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1826041206729748744",
+        "created_at": "2024-08-20T23:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T00:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826041206729748744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfwc7voo68",
+              "end": 25,
+              "expanded_url": "https://twitter.com/WangSongyou/status/1826041206729748744/photo/1",
+              "media_key": "3_1826041190426488837",
+              "start": 2,
+              "url": "https://t.co/cFwC7voo68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826041206729748744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早 https://t.co/cFwC7voo68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 1596,
+          "like_count": 14266,
+          "listed_count": 2,
+          "tweet_count": 7484
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T12:24:39.000Z",
+        "description": "fw一个喽，会亿点计算机网络，想pass，天天脑子乱乱的…（别试了，网站ping不通，偶尔玩mc时开一次服务器）不要ddos我好吗？域名已经换了2个了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "urfav.asuscomm.com",
+                "end": 23,
+                "expanded_url": "http://urfav.asuscomm.com",
+                "start": 0,
+                "url": "https://t.co/qtVQPu6ePm"
+              }
+            ]
+          }
+        },
+        "id": "1606989235424481280",
+        "location": "中国 山东省 济宁市",
+        "name": "Ecwang（互fo）",
+        "pinned_tweet_id": "1825911518623576393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677647257380999169/8UGMaSkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 483,
+          "like_count": 499,
+          "listed_count": 0,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/qtVQPu6ePm",
+        "username": "WangSongyou",
+        "verified": false
+      }
+    ]
+  }
+}

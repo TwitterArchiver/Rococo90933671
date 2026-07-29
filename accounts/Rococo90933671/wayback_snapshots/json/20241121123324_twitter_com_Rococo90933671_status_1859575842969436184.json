@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1859573618088476679",
+    "created_at": "2024-11-21T12:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T13:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859575842969436184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859575842969436184",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859573618088476679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 我前几天也被标了，我以为是钢姐举报我的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1859573618088476679",
+        "created_at": "2024-11-21T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859575842969436184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859575842969436184",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859573618088476679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 我前几天也被标了，我以为是钢姐举报我的原因"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859573603534241795"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1859573618088476679",
+        "created_at": "2024-11-21T12:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T13:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859573618088476679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDvm9U78x6",
+              "end": 25,
+              "expanded_url": "https://x.com/baizhou_kawaii/status/1859573618088476679/photo/1",
+              "media_key": "3_1859573603534241795",
+              "start": 2,
+              "url": "https://t.co/HDvm9U78x6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859573618088476679",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅 https://t.co/HDvm9U78x6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 1963,
+          "like_count": 18495,
+          "listed_count": 5,
+          "tweet_count": 10363
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "这里是白粥|怎么称呼都可以哦|里推@cypress_nazuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "cypress_nazuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Nazuna07041…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Nazuna070413/",
+                "start": 0,
+                "url": "https://t.co/5J7ImWmvQ6"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "你❤️里",
+        "name": "坂下白粥🕊️🌛💧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841855706666033152/DD_MzYgh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 13,
+          "tweet_count": 15340
+        },
+        "url": "https://t.co/5J7ImWmvQ6",
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

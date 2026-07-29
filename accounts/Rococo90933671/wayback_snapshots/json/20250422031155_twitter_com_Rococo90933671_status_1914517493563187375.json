@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1914516232235311550",
+    "created_at": "2025-04-22T03:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914517493563187375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "kleekawaii521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914517493563187375",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914516232235311550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kleekawaii521 我嘞个大小字体啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914516218889035781",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpG6W4ea4AUinXP.jpg",
+        "width": 1098
+      },
+      {
+        "height": 1881,
+        "media_key": "3_1914516187960274944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpG6VFQbcAAKJIz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1914516232235311550",
+        "created_at": "2025-04-22T03:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914517493563187375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "kleekawaii521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914517493563187375",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914516232235311550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kleekawaii521 我嘞个大小字体啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914516218889035781",
+            "3_1914516187960274944"
+          ]
+        },
+        "author_id": "1858763452732633090",
+        "conversation_id": "1914516232235311550",
+        "created_at": "2025-04-22T03:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914516232235311550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Gemini",
+              "probability": 0.3672,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLEhjUnno8",
+              "end": 53,
+              "expanded_url": "https://x.com/kleekawaii521/status/1914516232235311550/photo/1",
+              "media_key": "3_1914516218889035781",
+              "start": 30,
+              "url": "https://t.co/zLEhjUnno8"
+            },
+            {
+              "display_url": "pic.x.com/zLEhjUnno8",
+              "end": 53,
+              "expanded_url": "https://x.com/kleekawaii521/status/1914516232235311550/photo/1",
+              "media_key": "3_1914516187960274944",
+              "start": 30,
+              "url": "https://t.co/zLEhjUnno8"
+            },
+            {
+              "display_url": "x.com/Stars_stair/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Stars_stair/status/1914501695482290660",
+              "start": 54,
+              "url": "https://t.co/INeMbAZKpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914516232235311550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914501695482290660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thank you, Professor Gemini!😭 https://t.co/zLEhjUnno8 https://t.co/INeMbAZKpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 2146,
+          "like_count": 24151,
+          "listed_count": 10,
+          "media_count": 2016,
+          "tweet_count": 13690
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "CS | Interested in mathematics | C/C++ | Positive reader | Share fine traditional Chinese culture | Telling China's stories & Conveying China's voice",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Genshin_I…",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Genshin_Impact",
+                "start": 0,
+                "url": "https://t.co/6T3j3a589R"
+              }
+            ]
+          }
+        },
+        "id": "1858763452732633090",
+        "location": "Tokyo-to, Japan",
+        "name": "kleekwaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759709844086785/7eS_iZEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 107,
+          "like_count": 3579,
+          "listed_count": 5,
+          "media_count": 86,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/6T3j3a589R",
+        "username": "kleekawaii521",
+        "verified": false
+      }
+    ]
+  }
+}

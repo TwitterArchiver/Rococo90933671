@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2080226024282063088",
+    "created_at": "2026-07-24T09:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080587300845871382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676553795034284032",
+          "start": 0,
+          "username": "Mr8722845654196"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1795316619520217105",
+          "start": 34,
+          "url": "https://t.co/GD4Vj57nPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080587300845871382",
+    "in_reply_to_user_id": "1676553795034284032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795316619520217105",
+        "type": "quoted"
+      },
+      {
+        "id": "2080319691193733176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr8722845654196 确实玩过好几年，不过退坑两年了🤓 https://t.co/GD4Vj57nPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1795316617020407808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOo-84DbgAAebN9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2080226024282063088",
+        "created_at": "2026-07-24T09:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080587300845871382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676553795034284032",
+              "start": 0,
+              "username": "Mr8722845654196"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1795316619520217105",
+              "start": 34,
+              "url": "https://t.co/GD4Vj57nPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080587300845871382",
+        "in_reply_to_user_id": "1676553795034284032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795316619520217105",
+            "type": "quoted"
+          },
+          {
+            "id": "2080319691193733176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr8722845654196 确实玩过好几年，不过退坑两年了🤓 https://t.co/GD4Vj57nPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795316617020407808"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1795316619520217105",
+        "created_at": "2024-05-28T04:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795316619520217105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXqFlFRA2x",
+              "end": 131,
+              "expanded_url": "https://x.com/Rococo90933671/status/1795316619520217105/photo/1",
+              "media_key": "3_1795316617020407808",
+              "start": 108,
+              "url": "https://t.co/zXqFlFRA2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795316619520217105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4259,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开挂不小心开到公会战了，👴🏻的青春结束了，正好也少上一个班，多追求一点自己的意义\n2021.10.23-2024.5.28\n正好顺便哀悼昨天不小心在食堂丢掉的公主蕾丝花边伞😢\n2023.5.12-2024.5.27 https://t.co/zXqFlFRA2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676553795034284032",
+        "conversation_id": "2080226024282063088",
+        "created_at": "2026-07-23T15:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080319691193733176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080319691193733176",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080226024282063088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 原来你也玩pcr😯😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13400,
+          "following_count": 3196,
+          "like_count": 44523,
+          "listed_count": 40,
+          "media_count": 4793,
+          "tweet_count": 24297
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T11:29:19.000Z",
+        "description": "啊，若真有神明願意聽我祈禱，請賜予我幸福吧。哪怕平生只有一次，請賜予我一次幸福吧……",
+        "id": "1676553795034284032",
+        "name": "Mr.許",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871940875439542273/bi5xYxwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 78,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "Mr8722845654196",
+        "verified": false
+      }
+    ]
+  }
+}

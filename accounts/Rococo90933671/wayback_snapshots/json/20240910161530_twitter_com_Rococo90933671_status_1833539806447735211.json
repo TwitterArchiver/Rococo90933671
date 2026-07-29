@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1832753582396911774",
+    "created_at": "2024-09-10T16:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T17:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833539806447735211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1526571752167460869",
+          "start": 0,
+          "username": "Henzhilei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833539806447735211",
+    "in_reply_to_user_id": "1526571752167460869",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832753582396911774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Henzhilei 頑張れ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1832753582396911774",
+        "created_at": "2024-09-10T16:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833539806447735211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1526571752167460869",
+              "start": 0,
+              "username": "Henzhilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833539806447735211",
+        "in_reply_to_user_id": "1526571752167460869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832753582396911774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Henzhilei 頑張れ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832753573962330112",
+            "3_1832753573953966080"
+          ]
+        },
+        "author_id": "1526571752167460869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1832753582396911774",
+        "created_at": "2024-09-08T12:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T13:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832753582396911774"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "スターウォーズII",
+              "probability": 0.6566,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yalmvydldw",
+              "end": 127,
+              "expanded_url": "https://twitter.com/Henzhilei/status/1832753582396911774/photo/1",
+              "media_key": "3_1832753573962330112",
+              "start": 104,
+              "url": "https://t.co/YALmVydlDw"
+            },
+            {
+              "display_url": "pic.x.com/yalmvydldw",
+              "end": 127,
+              "expanded_url": "https://twitter.com/Henzhilei/status/1832753582396911774/photo/1",
+              "media_key": "3_1832753573953966080",
+              "start": 104,
+              "url": "https://t.co/YALmVydlDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832753582396911774",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "费死（时）费力给纳塔肝完了，少个宝箱，就那样了。为了帝皇！！冲锋！！\n週末いつも原神をして、ナタは探索完了だ。宝箱が1つ残ったし、まぁいいっか～そして、「スターウォーズII」の時間だ。帝皇のために！進め！！ https://t.co/YALmVydlDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 1771,
+          "like_count": 16155,
+          "listed_count": 2,
+          "tweet_count": 8518
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T14:34:14.000Z",
+        "description": "かつおぶしさんにフォローのため、ガルパを連携した。音ゲー苦手でも、バンドリが好きです。日本語レベルアップ中!N5を目指しています、よろしくお願いします。",
+        "id": "1526571752167460869",
+        "location": "大连　時々　バンドリランド",
+        "name": "痕之泪@平沢唯",
+        "pinned_tweet_id": "1825957167209525311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597904983143292928/NYJYi1Vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 298,
+          "like_count": 6594,
+          "listed_count": 2,
+          "tweet_count": 1297
+        },
+        "username": "Henzhilei",
+        "verified": false
+      }
+    ]
+  }
+}

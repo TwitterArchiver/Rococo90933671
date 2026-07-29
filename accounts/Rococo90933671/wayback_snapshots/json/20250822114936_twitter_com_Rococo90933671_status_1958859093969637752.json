@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1958845402427662811",
+    "created_at": "2025-08-22T11:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958859093969637752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557502082290049024",
+          "start": 0,
+          "username": "peculiarmob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958859093969637752",
+    "in_reply_to_user_id": "1557502082290049024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958845402427662811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peculiarmob 你这句话让本来不敢去接住工作机会的我说什么也要去试试了，虽然还是真的怕啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1958845402427662811",
+        "created_at": "2025-08-22T11:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958859093969637752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557502082290049024",
+              "start": 0,
+              "username": "peculiarmob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958859093969637752",
+        "in_reply_to_user_id": "1557502082290049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958845402427662811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peculiarmob 你这句话让本来不敢去接住工作机会的我说什么也要去试试了，虽然还是真的怕啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557502082290049024",
+        "conversation_id": "1958845402427662811",
+        "created_at": "2025-08-22T10:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T11:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958845402427662811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958845402427662811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "phd读得人压抑，但不读phd，我估计已经自杀了。人生哪有这么多选择让你做的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5367,
+          "following_count": 2189,
+          "like_count": 27238,
+          "listed_count": 12,
+          "media_count": 2544,
+          "tweet_count": 15692
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T23:00:14.000Z",
+        "description": "待业",
+        "id": "1557502082290049024",
+        "name": "甘蔗王",
+        "pinned_tweet_id": "1949085881761202455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935183598874935300/rnxGtKB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 805,
+          "like_count": 4617,
+          "listed_count": 5,
+          "media_count": 791,
+          "tweet_count": 5665
+        },
+        "username": "peculiarmob",
+        "verified": false
+      }
+    ]
+  }
+}

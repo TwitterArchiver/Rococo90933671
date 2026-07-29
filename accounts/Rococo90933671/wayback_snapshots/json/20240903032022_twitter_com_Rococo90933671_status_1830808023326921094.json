@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1830730411862786509",
+    "created_at": "2024-09-03T03:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T04:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830808023326921094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        },
+        {
+          "end": 29,
+          "id": "1816944578496536576",
+          "start": 15,
+          "username": "Yizhikapaiqaq"
+        },
+        {
+          "end": 46,
+          "id": "1801809484936826880",
+          "start": 30,
+          "username": "BelleWalton0714"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 73,
+          "expanded_url": "https://x.com/Rococo90933671/status/1793213554654691512?t=NssAl6hZ_YxOp2vryMwrBg&s=19",
+          "start": 50,
+          "url": "https://t.co/qtilAnClvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830808023326921094",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793213554654691512",
+        "type": "quoted"
+      },
+      {
+        "id": "1830731266536149019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akirameru_QAQ @Yizhikapaiqaq @BelleWalton0714 😨\n\nhttps://t.co/qtilAnClvE"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1830731266536149019].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1830731266536149019",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1830731266536149019"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1830730411862786509",
+        "created_at": "2024-09-03T03:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T04:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830808023326921094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            },
+            {
+              "end": 29,
+              "id": "1816944578496536576",
+              "start": 15,
+              "username": "Yizhikapaiqaq"
+            },
+            {
+              "end": 46,
+              "id": "1801809484936826880",
+              "start": 30,
+              "username": "BelleWalton0714"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 73,
+              "expanded_url": "https://x.com/Rococo90933671/status/1793213554654691512?t=NssAl6hZ_YxOp2vryMwrBg&s=19",
+              "start": 50,
+              "url": "https://t.co/qtilAnClvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830808023326921094",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793213554654691512",
+            "type": "quoted"
+          },
+          {
+            "id": "1830731266536149019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ @Yizhikapaiqaq @BelleWalton0714 😨\n\nhttps://t.co/qtilAnClvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1793213544147902464"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1793213554654691512",
+        "created_at": "2024-05-22T09:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T10:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793213554654691512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqf2u3uomq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1793213554654691512/photo/1",
+              "media_key": "3_1793213544147902464",
+              "start": 17,
+              "url": "https://t.co/TqF2U3UOmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793213554654691512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "达成成就：在学校机房电脑发推✌️ https://t.co/TqF2U3UOmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1677,
+          "like_count": 15330,
+          "listed_count": 2,
+          "tweet_count": 8090
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺 || Computer Tech💻 || 互fo好文明\nLANG=zh_CN(平常)/zh_TW/en_US\n分身@mkc_Cute\n監視Followers第一人，和我互fo就別想逃哦♥️~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MtFloveU",
+                "end": 23,
+                "expanded_url": "https://github.com/MtFloveU",
+                "start": 0,
+                "url": "https://t.co/KrrI53HBG4"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 624,
+          "like_count": 66914,
+          "listed_count": 3,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/KrrI53HBG4",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T21:12:09.000Z",
+        "description": "好欸!\n日常/不是哲学的哲学推 | MtX/MtF但无证无糖(悲) | 状态不稳定 | 不键政 | 可能是家暴党 | 精分 | 回不去家的NZ人🇳🇿 | 生化制药/Computer Science | 想要和大家交朋友! 抱抱最最可爱的妹妹 @OrangeIsIdiot 负能小号@Liangzhikapai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "OrangeIsIdiot"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "Liangzhikapai"
+              }
+            ]
+          }
+        },
+        "id": "1816944578496536576",
+        "location": "China Mainland",
+        "name": "一只卡牌qaq🍥",
+        "pinned_tweet_id": "1817162732212494408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816944835888316417/vRLSYcxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 700,
+          "like_count": 10028,
+          "listed_count": 3,
+          "tweet_count": 841
+        },
+        "username": "Yizhikapaiqaq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T02:51:07.000Z",
+        "description": "",
+        "id": "1801809484936826880",
+        "name": "Belle Walton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809418340596629504/fcVhw74Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 3,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "BelleWalton0714",
+        "verified": false
+      }
+    ]
+  }
+}

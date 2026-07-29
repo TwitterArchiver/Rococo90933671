@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1874285025954586638",
+    "created_at": "2025-01-01T14:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T15:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874470555350704434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "JRDianaForever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874470555350704434",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874285025954586638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JRDianaForever 这种时候真的只想口吐芬芳"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874285025954586638].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1874285025954586638",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1874285025954586638"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1874285025954586638",
+        "created_at": "2025-01-01T14:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T15:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874470555350704434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "JRDianaForever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874470555350704434",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874285025954586638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JRDianaForever 这种时候真的只想口吐芬芳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 2008,
+          "like_count": 20711,
+          "listed_count": 5,
+          "media_count": 1473,
+          "tweet_count": 11488
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "永久锁推号@GabriolaDiana\n酷儿🏳️‍⚧️ 反孔精英 嘉心糖专政\n中国红绿党（生态社会主义❄️）\n⚠️遇到素质低的和魔怔的会拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "GabriolaDiana"
+              }
+            ]
+          }
+        },
+        "id": "1470943033365438470",
+        "location": "嘉心糖广场",
+        "name": "然子",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872805469225664512/0GEZdy_l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 877,
+          "like_count": 22737,
+          "listed_count": 14,
+          "media_count": 1122,
+          "tweet_count": 14806
+        },
+        "username": "JRDianaForever",
+        "verified": false
+      }
+    ]
+  }
+}

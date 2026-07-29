@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056317041884450816"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2055954456530026787",
+    "created_at": "2026-05-18T10:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056317055318855886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xmp9JfwaVb",
+          "end": 65,
+          "expanded_url": "https://x.com/Rococo90933671/status/2056317055318855886/photo/1",
+          "media_key": "3_2056317041884450816",
+          "start": 42,
+          "url": "https://t.co/Xmp9JfwaVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056317055318855886",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055954456530026787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 我用了大概四个月才从78跌破70，之前从来没想过要减😋 https://t.co/Xmp9JfwaVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_2056317041884450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImBdGsa0AA98qW.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2055954452457353216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIg3rn0acAAUVfb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056317041884450816"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2055954456530026787",
+        "created_at": "2026-05-18T10:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056317055318855886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xmp9JfwaVb",
+              "end": 65,
+              "expanded_url": "https://x.com/Rococo90933671/status/2056317055318855886/photo/1",
+              "media_key": "3_2056317041884450816",
+              "start": 42,
+              "url": "https://t.co/Xmp9JfwaVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056317055318855886",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055954456530026787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 我用了大概四个月才从78跌破70，之前从来没想过要减😋 https://t.co/Xmp9JfwaVb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055954452457353216"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2055954456530026787",
+        "created_at": "2026-05-17T10:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055954456530026787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg1hcj7dyZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2055954456530026787/photo/1",
+              "media_key": "3_2055954452457353216",
+              "start": 35,
+              "url": "https://t.co/Qg1hcj7dyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055954456530026787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2500,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人在与脂肪的长期斗争中再次取得阶段性成果，体重成功跌到70kg以下 https://t.co/Qg1hcj7dyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11575,
+          "following_count": 3050,
+          "like_count": 38378,
+          "listed_count": 38,
+          "media_count": 4002,
+          "tweet_count": 21586
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "CnDiode"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2055092198639907006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 1587,
+          "like_count": 7568,
+          "listed_count": 9,
+          "media_count": 988,
+          "tweet_count": 3846
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

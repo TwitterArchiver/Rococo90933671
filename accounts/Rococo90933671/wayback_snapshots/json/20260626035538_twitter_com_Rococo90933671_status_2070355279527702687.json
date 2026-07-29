@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2070318260231516512",
+    "created_at": "2026-06-26T03:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070355279527702687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995056779433275392",
+          "start": 0,
+          "username": "Na3PO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070355279527702687",
+    "in_reply_to_user_id": "1995056779433275392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070318260231516512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Na3PO2 习惯把头像当本人的我就更加了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2070318260231516512",
+        "created_at": "2026-06-26T03:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070355279527702687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995056779433275392",
+              "start": 0,
+              "username": "Na3PO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070355279527702687",
+        "in_reply_to_user_id": "1995056779433275392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070318260231516512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Na3PO2 习惯把头像当本人的我就更加了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995056779433275392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2070318260231516512",
+        "created_at": "2026-06-26T01:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070318260231516512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2554885413341…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Y2554885413341/status/2070126041528721675",
+              "start": 47,
+              "url": "https://t.co/fV7IvB1U5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070318260231516512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070126041528721675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tmd我虽然是先见过图再认得知雲的，但我看到这张图第一反应是知雲而不是画师，也是这辈子有了😿 https://t.co/fV7IvB1U5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13064,
+          "following_count": 3154,
+          "like_count": 41729,
+          "listed_count": 40,
+          "media_count": 4471,
+          "tweet_count": 23152
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "此処は、何処へも繋がる、そうだ。",
+        "id": "1995056779433275392",
+        "name": "Na₃PO₂☮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053737565543641089/yBxl01o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 182,
+          "like_count": 21889,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1883
+        },
+        "url": "",
+        "username": "Na3PO2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338283978164297728",
+          "name": "TFBOYS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338283978164297728",
+          "name": "TFBOYS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338283978164297728",
+          "name": "TFBOYS"
+        }
+      }
+    ],
+    "conversation_id": "1885691063735816235",
+    "created_at": "2025-02-01T14:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T15:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885691063735816235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZR_100505/stat…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/ZR_100505/status/1885661538754724328",
+          "start": 147,
+          "url": "https://t.co/x8m1RxT7C1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885691063735816235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885661538754724328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上初中的时候，管理tfboys的黑粉群，也是自我意识过剩，各种操作，甚至有轻信来卧底的粉丝给她管理然后她把人全踢了这种事情......现在回想起来也是羞愧，也没兴趣去参与了，因为我知道入局本身就是愚昧，哪怕是站在饭圈对面。因为这说明我的高度也就这样了。现在打下这段话的我也一样，但我还是想说 https://t.co/x8m1RxT7C1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338283978164297728",
+              "name": "TFBOYS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338283978164297728",
+              "name": "TFBOYS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338283978164297728",
+              "name": "TFBOYS"
+            }
+          }
+        ],
+        "conversation_id": "1885691063735816235",
+        "created_at": "2025-02-01T14:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T15:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885691063735816235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZR_100505/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/ZR_100505/status/1885661538754724328",
+              "start": 147,
+              "url": "https://t.co/x8m1RxT7C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885691063735816235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885661538754724328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上初中的时候，管理tfboys的黑粉群，也是自我意识过剩，各种操作，甚至有轻信来卧底的粉丝给她管理然后她把人全踢了这种事情......现在回想起来也是羞愧，也没兴趣去参与了，因为我知道入局本身就是愚昧，哪怕是站在饭圈对面。因为这说明我的高度也就这样了。现在打下这段话的我也一样，但我还是想说 https://t.co/x8m1RxT7C1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852857660581748736",
+        "conversation_id": "1885661538754724328",
+        "created_at": "2025-02-01T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885661538754724328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zr_100505/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/zr_100505/status/1885653946988908631",
+              "start": 143,
+              "url": "https://t.co/TPhi6duss0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885661538754724328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 648,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885653946988908631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千晴曾和弱智吧吧主是互fo\n在弱智吧人逐渐增多影响力逐渐变大的时间 在24年7月 千晴得到了吧主的信任 刚开始很勤快的解决了很多广告和违反规则的内容 伪装一下很正常 但同时他就属于纯种马基雅维利 仗着自己是版主 开始欺负不是版主但是同样流量高的人 从隐藏再到屏蔽 哪怕是正常高流量帖子 https://t.co/TPhi6duss0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 2149,
+          "like_count": 22369,
+          "listed_count": 8,
+          "media_count": 1658,
+          "tweet_count": 12441
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T23:37:54.000Z",
+        "description": "",
+        "id": "1852857660581748736",
+        "name": "Naki·zara",
+        "pinned_tweet_id": "1881278902318059710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885060006241861632/7x4kc2LX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 323,
+          "like_count": 19342,
+          "listed_count": 1,
+          "media_count": 2750,
+          "tweet_count": 9151
+        },
+        "username": "ZR_100505",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908400307765469185"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1908400945534558317",
+    "created_at": "2025-04-05T06:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T07:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908400945534558317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ytL59CvB9a",
+          "end": 96,
+          "expanded_url": "https://x.com/Rococo90933671/status/1908400945534558317/photo/1",
+          "media_key": "3_1908400307765469185",
+          "start": 73,
+          "url": "https://t.co/ytL59CvB9a"
+        },
+        {
+          "display_url": "x.com/8964Moothreesa…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/8964Moothreesan/status/1908201196512534984",
+          "start": 97,
+          "url": "https://t.co/ADS7wecMk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908400945534558317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908201196512534984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这个网站啊，初一的时候老师说300块直接三年时间无限使用，当时心动了付钱了……结果后来碰都没碰过了，让它含泪赚300，拿来氪原神都比这强啊😭😭 https://t.co/ytL59CvB9a https://t.co/ADS7wecMk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1908400307765469185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnv_-AGbYAEolka.jpg",
+        "width": 1898
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1908201189298364416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntK3yAbYAApYbr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908400307765469185"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1908400945534558317",
+        "created_at": "2025-04-05T06:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908400945534558317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytL59CvB9a",
+              "end": 96,
+              "expanded_url": "https://x.com/Rococo90933671/status/1908400945534558317/photo/1",
+              "media_key": "3_1908400307765469185",
+              "start": 73,
+              "url": "https://t.co/ytL59CvB9a"
+            },
+            {
+              "display_url": "x.com/8964Moothreesa…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/8964Moothreesan/status/1908201196512534984",
+              "start": 97,
+              "url": "https://t.co/ADS7wecMk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908400945534558317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908201196512534984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这个网站啊，初一的时候老师说300块直接三年时间无限使用，当时心动了付钱了……结果后来碰都没碰过了，让它含泪赚300，拿来氪原神都比这强啊😭😭 https://t.co/ytL59CvB9a https://t.co/ADS7wecMk0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908201189298364416"
+          ]
+        },
+        "author_id": "1897563168559525888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908201196512534984",
+        "created_at": "2025-04-04T16:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908201196512534984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuY9ATIHbQ",
+              "end": 62,
+              "expanded_url": "https://x.com/8964Moothreesan/status/1908201196512534984/photo/1",
+              "media_key": "3_1908201189298364416",
+              "start": 39,
+              "url": "https://t.co/RuY9ATIHbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908201196512534984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 503,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校微机课的唐氏口语练习，上课时老师看着在不敢玩，现在终于可以大胆地玩了😭👊 https://t.co/RuY9ATIHbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4727,
+          "following_count": 2135,
+          "like_count": 23853,
+          "listed_count": 10,
+          "media_count": 1940,
+          "tweet_count": 13444
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T08:21:49.000Z",
+        "description": "前世：@Moothreesan 只想去爱自己想爱的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Moothreesan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpcnews.cn",
+                "end": 23,
+                "expanded_url": "http://www.cpcnews.cn",
+                "start": 0,
+                "url": "https://t.co/mIAU0nXkhA"
+              }
+            ]
+          }
+        },
+        "id": "1897563168559525888",
+        "location": "中南海",
+        "name": "迷人の暮酱",
+        "pinned_tweet_id": "1905256193377141138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897564315567153152/uf5nUdBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 330,
+          "like_count": 3824,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/mIAU0nXkhA",
+        "username": "8964Moothreesan",
+        "verified": false
+      }
+    ]
+  }
+}

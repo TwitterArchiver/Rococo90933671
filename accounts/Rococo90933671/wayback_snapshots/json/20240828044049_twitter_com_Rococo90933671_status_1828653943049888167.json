@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828635745386746207",
+    "created_at": "2024-08-28T04:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T05:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828653943049888167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_Dld"
+        },
+        {
+          "end": 29,
+          "id": "1713013072632410112",
+          "start": 17,
+          "username": "IUSTITIA_SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828653943049888167",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828642439319671257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_Dld @IUSTITIA_SA 穆斯林的极端有很深刻的历史渊源，中学历史老师也告诉我们说伊斯兰教是世界三大宗教唯一具有攻击性的教。确实不得不承认，大多数的暴恐分子都是被穆斯林思想洗过脑的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1828642439319671257].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1828642439319671257",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1828642439319671257"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828635745386746207",
+        "created_at": "2024-08-28T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828653943049888167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_Dld"
+            },
+            {
+              "end": 29,
+              "id": "1713013072632410112",
+              "start": 17,
+              "username": "IUSTITIA_SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828653943049888167",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828642439319671257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_Dld @IUSTITIA_SA 穆斯林的极端有很深刻的历史渊源，中学历史老师也告诉我们说伊斯兰教是世界三大宗教唯一具有攻击性的教。确实不得不承认，大多数的暴恐分子都是被穆斯林思想洗过脑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 1652,
+          "like_count": 14747,
+          "listed_count": 2,
+          "tweet_count": 7769
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "我只是个无聊的人，信奉天主教，也是个平凡人，当生活不如意时便只能寄希望于异世界。生活推，岁静状态，严禁键政。请尊重宗教人士，特别欢迎各位天主教教友互相关注🤝，严禁诈骗机器人、喷子、黄推、广告推、恶意账户、冒仿账户与各类三无账户🚫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinacatholic.cn",
+                "end": 23,
+                "expanded_url": "https://www.chinacatholic.cn",
+                "start": 0,
+                "url": "https://t.co/1YfU9bc2FL"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "异世界，拉丁皇国，圣保禄天主教堂",
+        "name": "星座爱丽希亚✝️⛪✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818575168433991680/lYrQhD8v_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 600,
+          "like_count": 26619,
+          "listed_count": 1,
+          "tweet_count": 3274
+        },
+        "url": "https://t.co/1YfU9bc2FL",
+        "username": "Starry_Sand_Dld",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T02:05:44.000Z",
+        "description": "“你们要防备假先知，他们到你们这里来，外面披着羊皮，里面却是残暴的狼。 (马太福音 7: 15 )    极右翼，美利坚爱国者，坚定的基督徒。反共产主义，反无政府主义，反资本主义，反巴勒斯坦/反伊斯兰教/反无神论。伊斯兰教是敌基督的宗教。",
+        "id": "1713013072632410112",
+        "location": "BBBN70 Arizona",
+        "name": "✝Lumine Shepard 🇺🇸🇮🇱🎗️",
+        "pinned_tweet_id": "1828624829358186880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826801578608918529/_nfKXNpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 669,
+          "like_count": 36435,
+          "listed_count": 6,
+          "tweet_count": 16876
+        },
+        "username": "IUSTITIA_SA",
+        "verified": false
+      }
+    ]
+  }
+}

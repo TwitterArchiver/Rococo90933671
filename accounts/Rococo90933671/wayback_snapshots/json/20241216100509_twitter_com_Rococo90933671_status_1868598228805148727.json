@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868598225353207808"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1868392427125707258",
+    "created_at": "2024-12-16T10:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T11:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868598228805148727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1285633492131262465",
+          "start": 0,
+          "username": "youthful_vista"
+        },
+        {
+          "end": 31,
+          "id": "1846929027690266624",
+          "start": 16,
+          "username": "MIKUloverrrrr1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tae8xdiK1X",
+          "end": 55,
+          "expanded_url": "https://x.com/Rococo90933671/status/1868598228805148727/photo/1",
+          "media_key": "3_1868598225353207808",
+          "start": 32,
+          "url": "https://t.co/Tae8xdiK1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868598228805148727",
+    "in_reply_to_user_id": "1285633492131262465",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868484653222670640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youthful_vista @Mikuloverrrrr1 https://t.co/Tae8xdiK1X"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1868484653222670640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1868484653222670640",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1868484653222670640"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_1868598225353207808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6YL4oacAAzhxy.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868598225353207808"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1868392427125707258",
+        "created_at": "2024-12-16T10:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T11:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868598228805148727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1285633492131262465",
+              "start": 0,
+              "username": "youthful_vista"
+            },
+            {
+              "end": 31,
+              "id": "1846929027690266624",
+              "start": 16,
+              "username": "MIKUloverrrrr1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tae8xdiK1X",
+              "end": 55,
+              "expanded_url": "https://x.com/Rococo90933671/status/1868598228805148727/photo/1",
+              "media_key": "3_1868598225353207808",
+              "start": 32,
+              "url": "https://t.co/Tae8xdiK1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868598228805148727",
+        "in_reply_to_user_id": "1285633492131262465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868484653222670640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youthful_vista @Mikuloverrrrr1 https://t.co/Tae8xdiK1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 1963,
+          "like_count": 19401,
+          "listed_count": 5,
+          "media_count": 1360,
+          "tweet_count": 10834
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:53:18.000Z",
+        "description": "我是睡觉领域大神/如果你是逆民请滚",
+        "id": "1285633492131262465",
+        "location": "China",
+        "name": "不要变回溺水的尸体",
+        "pinned_tweet_id": "1860648848730784074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849149747980054528/V2juspwD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 333,
+          "like_count": 4107,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 6852
+        },
+        "username": "youthful_vista",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T14:59:50.000Z",
+        "description": "历史文化、逻辑人文、二次元爱好者。#劝人高质感社交恋爱第一人 私信咨询 。❤️🇨🇳左翼建制派 友好不论立场 排斥芝黑、殖人、封建保b 🏳️‍🌈ALLY&非二元性别 | 🇵🇸🇷🇺 |🎗️🕊️ | 杜绝极端反智 🚪小号@congniangmiku挚友@qinglongxiangmo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 17,
+                "tag": "劝人高质感社交恋爱第一人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "congniangmiku"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn",
+                "start": 0,
+                "url": "https://t.co/GPpZZAWkWE"
+              }
+            ]
+          }
+        },
+        "id": "1846929027690266624",
+        "location": "中华人民共和国PRC",
+        "name": "葱娘酱miku赛高",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846930323080204289/RMLWhDN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 66,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/GPpZZAWkWE",
+        "username": "MIKUloverrrrr1",
+        "verified": false
+      }
+    ]
+  }
+}

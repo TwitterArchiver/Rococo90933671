@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "1866405804422877284",
+    "created_at": "2024-12-10T10:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T11:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866426019525308580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866426019525308580",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866405804422877284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ 你居然会ae，好厉害！Adobe的软件真的没一个容易学会用的我觉得，所以你很厉害，我想和你🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "1866405804422877284",
+        "created_at": "2024-12-10T10:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866426019525308580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866426019525308580",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866405804422877284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ 你居然会ae，好厉害！Adobe的软件真的没一个容易学会用的我觉得，所以你很厉害，我想和你🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378723007762366467",
+        "conversation_id": "1866405804422877284",
+        "created_at": "2024-12-10T08:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866405804422877284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866405804422877284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么我学校还在开H5的课程🤧这种烂大街的五毛钱动画我开ae一分钟就做完了，他还让我多学一门软件\n大部分学校就是养老院，对社会最大的贡献就是把这些老古董圈起来让他们管着一群没脑子的小登，让他们别出去祸害社会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 1951,
+          "like_count": 19086,
+          "listed_count": 5,
+          "media_count": 1328,
+          "tweet_count": 10698
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨失败学研修中丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨不能理性讨论的话请你走开丨晶哥别抓我我现在就紫砂😭丨有时可能没看到消息请见谅丨欢迎互FO但奇奇怪怪者退散丨脑公@IzarbellaKujou_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 129,
+                "username": "IzarbellaKujou_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/NOPixUXfaA"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "location": "幻想乡红魔馆地下室",
+        "name": "Flandre scarlet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848267121870213120/lil0r5l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3272,
+          "like_count": 27331,
+          "listed_count": 4,
+          "media_count": 499,
+          "tweet_count": 7586
+        },
+        "url": "https://t.co/NOPixUXfaA",
+        "username": "Flandre_OvO_",
+        "verified": false
+      }
+    ]
+  }
+}

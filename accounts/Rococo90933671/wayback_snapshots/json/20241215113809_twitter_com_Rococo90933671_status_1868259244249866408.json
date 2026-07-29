@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1868175556652748917",
+    "created_at": "2024-12-15T11:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868259244249866408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868259244249866408",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868175556652748917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 1.你是个正常人\n2.你被发现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1868175556652748917",
+        "created_at": "2024-12-15T11:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868259244249866408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868259244249866408",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868175556652748917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 1.你是个正常人\n2.你被发现了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868175550340288512"
+          ]
+        },
+        "author_id": "1824428396258234368",
+        "conversation_id": "1868175556652748917",
+        "created_at": "2024-12-15T06:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868175556652748917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVvoYuZqvV",
+              "end": 35,
+              "expanded_url": "https://x.com/wingsing355236/status/1868175556652748917/photo/1",
+              "media_key": "3_1868175550340288512",
+              "start": 12,
+              "url": "https://t.co/VVvoYuZqvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868175556652748917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雖然不知道為什麼要封我 https://t.co/VVvoYuZqvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1958,
+          "like_count": 19322,
+          "listed_count": 5,
+          "media_count": 1355,
+          "tweet_count": 10797
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "心動心動 精通鐵路／航空知識! 個性極電波",
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心5樓08室",
+        "name": "毛新宇宙{豊川四郎}(E486)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866426307757985792/HT1EMHZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 297,
+          "like_count": 26240,
+          "listed_count": 1,
+          "media_count": 727,
+          "tweet_count": 3111
+        },
+        "username": "wingsing355236",
+        "verified": false
+      }
+    ]
+  }
+}

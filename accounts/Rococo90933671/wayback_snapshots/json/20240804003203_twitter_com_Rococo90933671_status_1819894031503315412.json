@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1819272273427132712",
+    "created_at": "2024-08-04T00:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T01:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819894031503315412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805598136531890176",
+          "start": 0,
+          "username": "yournamethat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819894031503315412",
+    "in_reply_to_user_id": "1805598136531890176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819272273427132712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yournamethat 欢迎问我问题🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1819272273427132712",
+        "created_at": "2024-08-04T00:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T01:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819894031503315412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805598136531890176",
+              "start": 0,
+              "username": "yournamethat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819894031503315412",
+        "in_reply_to_user_id": "1805598136531890176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819272273427132712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yournamethat 欢迎问我问题🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805598136531890176",
+        "conversation_id": "1819272273427132712",
+        "created_at": "2024-08-02T07:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T08:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819272273427132712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819272273427132712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我撅定了，我要学好英语与日语，硬刚生肉。🤓🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1458,
+          "like_count": 12422,
+          "listed_count": 1,
+          "tweet_count": 6655
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T13:45:24.000Z",
+        "description": "逢见必赞，欢迎互fo",
+        "id": "1805598136531890176",
+        "name": "不吃白色雞翅",
+        "pinned_tweet_id": "1815524371932598752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816866919644893184/MpTnvnYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 848,
+          "listed_count": 0,
+          "tweet_count": 175
+        },
+        "username": "yournamethat",
+        "verified": false
+      }
+    ]
+  }
+}

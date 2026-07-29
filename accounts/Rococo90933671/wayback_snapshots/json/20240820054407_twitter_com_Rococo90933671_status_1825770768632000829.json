@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1825571428747685891",
+    "created_at": "2024-08-20T05:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T06:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825770768632000829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793537449182003200",
+          "start": 0,
+          "username": "Z_Miyazakicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825770768632000829",
+    "in_reply_to_user_id": "1793537449182003200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825769928164782583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z_Miyazakicc 希望你是预言家，而不是空想家🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1825571428747685891",
+        "created_at": "2024-08-20T05:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825770768632000829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793537449182003200",
+              "start": 0,
+              "username": "Z_Miyazakicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825770768632000829",
+        "in_reply_to_user_id": "1793537449182003200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825769928164782583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_Miyazakicc 希望你是预言家，而不是空想家🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793537449182003200",
+        "conversation_id": "1825571428747685891",
+        "created_at": "2024-08-20T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825769928164782583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825769928164782583",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825767419681583259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 没事没事都会有的😆而且会有很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 1583,
+          "like_count": 14072,
+          "listed_count": 2,
+          "tweet_count": 7405
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T07:00:35.000Z",
+        "description": "大学牲，ENTP。艺术未遂。热爱摄影和钢琴，想去全世界拍照和觅食。南京限时土著，来玩可以免费给你当导游😝。 人生计划是不被任何词汇定义、追逐财富自由和寻找知己。随缘互fo。 ｜Keep moving,retain romantic,brave,wise and lonely. 持续进步，保持浪漫、勇猛、智慧、孤独。",
+        "id": "1793537449182003200",
+        "location": "Hong Kong",
+        "name": "炸鸡神Zackie",
+        "pinned_tweet_id": "1824087894065385674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816108742343278592/_FWDi6jZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 144,
+          "like_count": 18467,
+          "listed_count": 0,
+          "tweet_count": 2837
+        },
+        "username": "Z_Miyazakicc",
+        "verified": false
+      }
+    ]
+  }
+}

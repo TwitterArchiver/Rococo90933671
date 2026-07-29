@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1795951813566329144",
+    "created_at": "2024-05-29T23:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T00:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795962019381674452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782169277753081856",
+          "start": 0,
+          "username": "Jing_100311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795962019381674452",
+    "in_reply_to_user_id": "1782169277753081856",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795951813566329144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jing_100311 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1795951813566329144",
+        "created_at": "2024-05-29T23:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T00:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795962019381674452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782169277753081856",
+              "start": 0,
+              "username": "Jing_100311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795962019381674452",
+        "in_reply_to_user_id": "1782169277753081856",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795951813566329144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jing_100311 🫂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1782169277753081856",
+        "conversation_id": "1795951813566329144",
+        "created_at": "2024-05-29T22:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T23:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795951813566329144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795951813566329144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 260,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没体验过父爱\n所以现在有男生稍微对我好一点\n就喜欢上了\n我知道这是缺陷但无法控制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 828,
+          "like_count": 4075,
+          "listed_count": 1,
+          "tweet_count": 3051
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:07:29.000Z",
+        "description": "06/🇺🇸🇨🇳/凉席/日记/二次元浓度忽高忽低/欢迎互fo/最近正在考虑要不要尝试od",
+        "id": "1782169277753081856",
+        "name": "景",
+        "pinned_tweet_id": "1795266448551756186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782169386448461824/ZzfL8C4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 239,
+          "like_count": 162,
+          "listed_count": 0,
+          "tweet_count": 265
+        },
+        "username": "Jing_100311",
+        "verified": false
+      }
+    ]
+  }
+}

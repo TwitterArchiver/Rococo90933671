@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1864671917590106408",
+    "created_at": "2024-12-05T14:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T15:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864676479034089625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864676479034089625",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864671917590106408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 弹了验证就会这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1864671917590106408",
+        "created_at": "2024-12-05T14:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864676479034089625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864676479034089625",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864671917590106408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 弹了验证就会这样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864671905716031495"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "conversation_id": "1864671917590106408",
+        "created_at": "2024-12-05T14:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864671917590106408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/570RUgbpOG",
+              "end": 55,
+              "expanded_url": "https://x.com/MinaseAyano/status/1864671917590106408/photo/1",
+              "media_key": "3_1864671905716031495",
+              "start": 32,
+              "url": "https://t.co/570RUgbpOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864671917590106408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会这样啊\n我以为只有我自己看会出问题结果你们看也一样是吗 https://t.co/570RUgbpOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 1940,
+          "like_count": 18920,
+          "listed_count": 5,
+          "media_count": 1311,
+          "tweet_count": 10629
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.12 | 炸柜 家长态度不知道 | 坐标山东济宁 欢迎来贴贴 | 日常碎碎念 不键政 | 最爱的姐姐&老婆@Kisaragi_Momoe | 可以来这里提问！https://t.co/FSnEA3AsOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Kisaragi_Momoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 117,
+                "expanded_url": "https://ngl.link/minaseayano",
+                "start": 94,
+                "url": "https://t.co/FSnEA3AsOU"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "就在你身后哦",
+        "name": "綾乃Ayano🍥",
+        "pinned_tweet_id": "1859600621323812879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863052980527763456/2cVQFn2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2646
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

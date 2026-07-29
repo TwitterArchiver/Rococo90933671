@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857932189138096128"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1857932192367751228",
+    "created_at": "2024-11-16T23:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T00:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857932192367751228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "939091",
+          "start": 0,
+          "username": "JoeBiden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2uHjr3TnC",
+          "end": 68,
+          "expanded_url": "https://x.com/Rococo90933671/status/1857932192367751228/photo/1",
+          "media_key": "3_1857932189138096128",
+          "start": 45,
+          "url": "https://t.co/F2uHjr3TnC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857932192367751228",
+    "in_reply_to_user_id": "939091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@JoeBiden \n人们都只知道他上楼梯摔倒过，可没有一个人发现他从来没有下楼梯摔倒过 https://t.co/F2uHjr3TnC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1857932189138096128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcize3ZXEAAKC_z.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857932189138096128"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1857932192367751228",
+        "created_at": "2024-11-16T23:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T00:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857932192367751228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "939091",
+              "start": 0,
+              "username": "JoeBiden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2uHjr3TnC",
+              "end": 68,
+              "expanded_url": "https://x.com/Rococo90933671/status/1857932192367751228/photo/1",
+              "media_key": "3_1857932189138096128",
+              "start": 45,
+              "url": "https://t.co/F2uHjr3TnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857932192367751228",
+        "in_reply_to_user_id": "939091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@JoeBiden \n人们都只知道他上楼梯摔倒过，可没有一个人发现他从来没有下楼梯摔倒过 https://t.co/F2uHjr3TnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 1935,
+          "like_count": 18145,
+          "listed_count": 5,
+          "tweet_count": 10189
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-11T17:51:24.000Z",
+        "description": "Husband to @DrBiden, proud father and grandfather. Ready to finish the job for all Americans. Official account is @POTUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "DrBiden"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "username": "POTUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joebiden.com",
+                "end": 23,
+                "expanded_url": "http://joebiden.com",
+                "start": 0,
+                "url": "https://t.co/g69HDLeWU6"
+              }
+            ]
+          }
+        },
+        "id": "939091",
+        "location": "Washington, DC",
+        "name": "Joe Biden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38392335,
+          "following_count": 46,
+          "like_count": 27,
+          "listed_count": 42299,
+          "tweet_count": 10881
+        },
+        "url": "https://t.co/g69HDLeWU6",
+        "username": "JoeBiden",
+        "verified": true
+      }
+    ]
+  }
+}

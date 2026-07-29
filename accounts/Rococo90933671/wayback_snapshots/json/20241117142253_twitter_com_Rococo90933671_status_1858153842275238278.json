@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1857822147353117101",
+    "created_at": "2024-11-17T14:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T15:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858153842275238278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821011948571369473",
+          "start": 0,
+          "username": "chj2000www"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858153842275238278",
+    "in_reply_to_user_id": "1821011948571369473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857822147353117101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chj2000www 看弹幕其实也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1857822147353117101",
+        "created_at": "2024-11-17T14:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T15:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858153842275238278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821011948571369473",
+              "start": 0,
+              "username": "chj2000www"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858153842275238278",
+        "in_reply_to_user_id": "1821011948571369473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857822147353117101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chj2000www 看弹幕其实也可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857822137031036928"
+          ]
+        },
+        "author_id": "1821011948571369473",
+        "conversation_id": "1857822147353117101",
+        "created_at": "2024-11-16T16:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857822147353117101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRgMwpPBc1",
+              "end": 44,
+              "expanded_url": "https://x.com/chj2000www/status/1857822147353117101/photo/1",
+              "media_key": "3_1857822137031036928",
+              "start": 21,
+              "url": "https://t.co/XRgMwpPBc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857822147353117101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3092,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "每次逛完墙内键政评论区都能短暂成为支黑😅 https://t.co/XRgMwpPBc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 1941,
+          "like_count": 18246,
+          "listed_count": 5,
+          "tweet_count": 10228
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:34:27.000Z",
+        "description": "大好き🍟🍔🥓🍕🌭🥪🍿🥫🥗🥙🧀🍮🧁🍰🍩🍫🍡🍢🍚🍙🍣🍱🍛🍤🍥🍨🌮🌯🍝🍜🦪🍲逃生艙：@shiti8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "shiti8964"
+              }
+            ]
+          }
+        },
+        "id": "1821011948571369473",
+        "location": "在离你最近的马路上被🚛创死之后转生到的异世界🪐",
+        "name": "桔梗 ききょう⛩️",
+        "pinned_tweet_id": "1857822147353117101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857863032702951424/5RfR6PJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 626,
+          "like_count": 892,
+          "listed_count": 0,
+          "tweet_count": 781
+        },
+        "username": "chj2000www",
+        "verified": false
+      }
+    ]
+  }
+}

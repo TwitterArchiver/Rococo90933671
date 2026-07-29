@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2052989254809342336",
+    "created_at": "2026-05-09T12:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053086546304336039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053086546304336039",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052989254809342336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 果然无聊才是发现新事物的动力源🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5461,
+        "height": 368,
+        "media_key": "13_2052989135225552896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052989135225552896/img/xtxWqcxxB6gRl1xO.jpg",
+        "public_metrics": {
+          "view_count": 390
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052989135225552896/vid/avc1/448x270/U5CdD0bzgNE2clVt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052989135225552896/vid/avc1/612x368/D0wHL9bzJIFnv_dD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052989135225552896/pl/axW_nSraopKKRTGR.m3u8?tag=14"
+          }
+        ],
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2052989254809342336",
+        "created_at": "2026-05-09T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053086546304336039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053086546304336039",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052989254809342336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 果然无聊才是发现新事物的动力源🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052989135225552896"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "2052989254809342336",
+        "created_at": "2026-05-09T05:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052989254809342336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFGEHYnxTL",
+              "end": 43,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2052989254809342336/video/1",
+              "media_key": "13_2052989135225552896",
+              "start": 20,
+              "url": "https://t.co/PFGEHYnxTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052989254809342336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1115,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现Claude这个图标点一下会缩一下 https://t.co/PFGEHYnxTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11375,
+          "following_count": 3035,
+          "like_count": 37855,
+          "listed_count": 36,
+          "media_count": 3958,
+          "tweet_count": 21605
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "じゅかい｜厉害的生命也会露出茫然的神色吗?｜雄性｜16岁｜文具控 术力口 科技食品爱好者｜里推@shuhaishiwo｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "shuhaishiwo"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/vUdsXWw2h5",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/vUdsXWw2h5",
+                "start": 0,
+                "url": "https://t.co/DeDtrCIx26"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2051657958724075974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050780675603853312/8O0XU3en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2293,
+          "like_count": 53258,
+          "listed_count": 6,
+          "media_count": 1973,
+          "tweet_count": 12067
+        },
+        "url": "https://t.co/DeDtrCIx26",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1804836314556096917",
+    "created_at": "2024-06-23T19:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T20:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804952666122125600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_Dld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804952666122125600",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804836314556096917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_Dld 一级耗能瞩目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1804836314556096917",
+        "created_at": "2024-06-23T19:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T20:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804952666122125600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_Dld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804952666122125600",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804836314556096917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_Dld 一级耗能瞩目"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804836310235983872"
+          ]
+        },
+        "author_id": "1794387376384376832",
+        "conversation_id": "1804836314556096917",
+        "created_at": "2024-06-23T11:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804836314556096917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PKcSt0mrnf",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Starry_Sand_Dld/status/1804836314556096917/photo/1",
+              "media_key": "3_1804836310235983872",
+              "start": 31,
+              "url": "https://t.co/PKcSt0mrnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804836314556096917",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡的破书房终于安装了空调，三伏天总算能挺过去不再蒸桑拿了。 https://t.co/PKcSt0mrnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1256,
+          "like_count": 10339,
+          "listed_count": 3,
+          "tweet_count": 5467
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "平凡人，大学专科生，为毕业证而实习打工，机修学徒，进行车辆保养与维修工作，在汽车4S店上班。生活推，讨厌政治，忙于工作。感谢大家的关照与支持，欢迎互Fo，但是禁止诈骗机器人、喷子、黄推、广告推与各种三无账户🚫。",
+        "id": "1794387376384376832",
+        "location": "4S店汽车修理车间——车辆工程流水线",
+        "name": "幻夜星梦砂🌠🌌✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794387669130072064/VcuPuoFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 77,
+          "like_count": 3708,
+          "listed_count": 0,
+          "tweet_count": 487
+        },
+        "username": "Starry_Sand_Dld",
+        "verified": false
+      }
+    ]
+  }
+}

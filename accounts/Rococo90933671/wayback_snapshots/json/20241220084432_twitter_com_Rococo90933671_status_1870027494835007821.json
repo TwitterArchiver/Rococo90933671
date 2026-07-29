@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1804863549786996765",
+    "created_at": "2024-12-20T08:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T09:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870027494835007821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802223029772263424",
+          "start": 0,
+          "username": "HuangHun_Yue"
+        },
+        {
+          "end": 28,
+          "id": "1678773839403319302",
+          "start": 14,
+          "username": "shenchun14496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870027494835007821",
+    "in_reply_to_user_id": "1802223029772263424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870014482438861016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangHun_Yue @shenchun14496 那确实"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1870014482438861016].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1870014482438861016",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1870014482438861016"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1804863549786996765",
+        "created_at": "2024-12-20T08:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T09:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870027494835007821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802223029772263424",
+              "start": 0,
+              "username": "HuangHun_Yue"
+            },
+            {
+              "end": 28,
+              "id": "1678773839403319302",
+              "start": 14,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870027494835007821",
+        "in_reply_to_user_id": "1802223029772263424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870014482438861016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangHun_Yue @shenchun14496 那确实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 1967,
+          "like_count": 19638,
+          "listed_count": 5,
+          "media_count": 1384,
+          "tweet_count": 10942
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T06:14:12.000Z",
+        "description": "",
+        "id": "1802223029772263424",
+        "name": "烟柳弄晴",
+        "pinned_tweet_id": "1841781655318757764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829065448975151106/y9vfpbRj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 327,
+          "like_count": 11307,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 911
+        },
+        "username": "HuangHun_Yue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:30:59.000Z",
+        "description": "我反复思考我对未来没有规划的原因 可能是因为在我原来的计划里 我现在应该已经死掉了",
+        "id": "1678773839403319302",
+        "location": "白兔药瓶里",
+        "name": "浦岛隧道「在里头待3秒，外面世界即过了2小时」⛩️虽然我不会起名字，但我会整个老长名字给你抄🌟🌟",
+        "pinned_tweet_id": "1796167812404150397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819312319316611073/wzc6I5Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 148,
+          "like_count": 23196,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 8506
+        },
+        "username": "shenchun14496",
+        "verified": false
+      }
+    ]
+  }
+}

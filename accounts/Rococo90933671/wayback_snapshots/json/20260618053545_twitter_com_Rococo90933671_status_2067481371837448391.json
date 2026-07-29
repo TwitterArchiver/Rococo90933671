@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2067400905713193098",
+    "created_at": "2026-06-18T05:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067481371837448391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995056779433275392",
+          "start": 0,
+          "username": "Na3PO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067481371837448391",
+    "in_reply_to_user_id": "1995056779433275392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067400905713193098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Na3PO2 那你是很棒的宝宝😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2067400905713193098",
+        "created_at": "2026-06-18T05:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067481371837448391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995056779433275392",
+              "start": 0,
+              "username": "Na3PO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067481371837448391",
+        "in_reply_to_user_id": "1995056779433275392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067400905713193098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Na3PO2 那你是很棒的宝宝😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995056779433275392",
+        "conversation_id": "2067400905713193098",
+        "created_at": "2026-06-18T00:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067400905713193098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2067289236148232296",
+              "start": 27,
+              "url": "https://t.co/zZl1U1mcl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067400905713193098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067289236148232296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了最后一条有时会上头，其他我都能做到(*ﾟ∇ﾟ)ﾉ https://t.co/zZl1U1mcl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12826,
+          "following_count": 3118,
+          "like_count": 40926,
+          "listed_count": 42,
+          "media_count": 4374,
+          "tweet_count": 22733
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "此処は、何処へも繋がる、そうだ。",
+        "id": "1995056779433275392",
+        "name": "Na₃PO₂☮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053737565543641089/yBxl01o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 165,
+          "like_count": 20435,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "Na3PO2",
+        "verified": false
+      }
+    ]
+  }
+}

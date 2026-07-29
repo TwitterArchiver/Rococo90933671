@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2041762775979151440",
+    "created_at": "2026-04-08T12:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041858637266874638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041858637266874638",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041762775979151440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 第四张是碳基生物能想出来的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2041762572253458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXMPeLa8AAb_YA.jpg",
+        "width": 2481
+      },
+      {
+        "height": 509,
+        "media_key": "3_2041762589890461696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXMQf4aQAAN5t9.jpg",
+        "width": 740
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2041762614121000966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXMR6Ja8AY0iUE.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1308,
+        "media_key": "3_2041762633960058883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXMTEDa8AMjjU2.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2041762775979151440",
+        "created_at": "2026-04-08T12:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041858637266874638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041858637266874638",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041762775979151440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 第四张是碳基生物能想出来的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041762572253458432",
+            "3_2041762589890461696",
+            "3_2041762614121000966",
+            "3_2041762633960058883"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2041762775979151440",
+        "created_at": "2026-04-08T06:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:06:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041759680759038092",
+          "2041762775979151440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kBg6LFgF0",
+              "end": 157,
+              "expanded_url": "https://x.com/wuerbangbang/status/2041762775979151440/photo/1",
+              "media_key": "3_2041762572253458432",
+              "start": 134,
+              "url": "https://t.co/8kBg6LFgF0"
+            },
+            {
+              "display_url": "pic.x.com/8kBg6LFgF0",
+              "end": 157,
+              "expanded_url": "https://x.com/wuerbangbang/status/2041762775979151440/photo/1",
+              "media_key": "3_2041762589890461696",
+              "start": 134,
+              "url": "https://t.co/8kBg6LFgF0"
+            },
+            {
+              "display_url": "pic.x.com/8kBg6LFgF0",
+              "end": 157,
+              "expanded_url": "https://x.com/wuerbangbang/status/2041762775979151440/photo/1",
+              "media_key": "3_2041762614121000966",
+              "start": 134,
+              "url": "https://t.co/8kBg6LFgF0"
+            },
+            {
+              "display_url": "pic.x.com/8kBg6LFgF0",
+              "end": 157,
+              "expanded_url": "https://x.com/wuerbangbang/status/2041762775979151440/photo/1",
+              "media_key": "3_2041762633960058883",
+              "start": 134,
+              "url": "https://t.co/8kBg6LFgF0"
+            },
+            {
+              "display_url": "x.com/JapanTraCul/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/JapanTraCul/status/2041450911353188544",
+              "start": 158,
+              "url": "https://t.co/vUbZoGrfhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041762775979151440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "佛祖涅槃是中国人很熟悉的题材，日本画师的涅槃图最早也是模仿中国。但后来他们就开始放飞自我，画了各种奇奇怪怪的“见立绘涅槃图”。如：\n\n图1：18世纪英一蝶《见立业平涅槃图》。在原业平是平安时代著名美男，六歌仙之一，据说睡过三千女人，所以这幅涅槃图里围着哭的都是女人；\n\n图2：1854年佚名《八代目市川团十郎死绘》。这是一幅歌舞伎的浮世绘“死绘”即遗照。注意看：画面下方连他养的一只猫都在哭；\n\n图3：1794—1800年伊藤若冲《果蔬涅槃图》。这已经不是人类了吧！为什么萝卜会涅槃啊？？作者伊藤若冲生于京都锦小路一家果蔬批发商家庭，他的这幅涅槃图被认为是为追思逝去的家人而绘；\n\n图4：19世纪中期《阳物涅槃图》。无法评价……这种画，中国人是无论如何也不可能画出来的……\n\n其实想想这种恶搞也是有种禅意的趣味在里面的，我看《果蔬涅槃图》会想起宋代禅僧牧溪那回味无穷的《六柿图》🍅。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 8677,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041450911353188544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "佛祖涅槃是中国人很熟悉的题材，日本画师的涅槃图最早也是模仿中国。但后来他们就开始放飞自我，画了各种奇奇怪怪的“见立绘涅槃图”。如：\n\n图1：18世纪英一蝶《见立业平涅槃图》。在原业平是平安时代著名美男，六歌仙之一，据说睡过三千女人，所以这幅涅槃图里围着哭的都是女人； https://t.co/8kBg6LFgF0 https://t.co/vUbZoGrfhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9918,
+          "following_count": 2849,
+          "like_count": 34186,
+          "listed_count": 29,
+          "media_count": 3587,
+          "tweet_count": 20028
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & kitty🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8369,
+          "following_count": 947,
+          "like_count": 14721,
+          "listed_count": 33,
+          "media_count": 2310,
+          "tweet_count": 7354
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1835608679049294250",
+    "created_at": "2024-09-16T10:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T11:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835631029521887558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835631029521887558",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835608679049294250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 可我听说华为的996007这种也是重灾区，不知道是不是真的。如果这样的话，他自己抑郁想自杀，可又给多少人制造了这种抑郁呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1835608679049294250",
+        "created_at": "2024-09-16T10:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T11:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835631029521887558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835631029521887558",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835608679049294250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 可我听说华为的996007这种也是重灾区，不知道是不是真的。如果这样的话，他自己抑郁想自杀，可又给多少人制造了这种抑郁呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1835605108920381440"
+          ],
+          "media_source_tweet_id": [
+            "1835605346426966417"
+          ]
+        },
+        "author_id": "1374225903136481284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1835608679049294250",
+        "created_at": "2024-09-16T09:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835608679049294250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jk040kck5c",
+              "end": 60,
+              "expanded_url": "https://twitter.com/btzibl1/status/1835605346426966417/video/1",
+              "media_key": "7_1835605108920381440",
+              "start": 37,
+              "url": "https://t.co/jk040Kck5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835608679049294250",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 609,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最可爱的人之一。\n你能想象他压力最大的时候有半年躲在被窝里哭，想自杀吗？ https://t.co/jk040Kck5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 1794,
+          "like_count": 16462,
+          "listed_count": 3,
+          "tweet_count": 8719
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "Be true, be brave, be strong… \n真相不反抗，就被谎言拿走了阵地。\nI'm proud of being Chinese.",
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1751155746484682802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565251208117473282/9moZGZa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44024,
+          "following_count": 3128,
+          "like_count": 164458,
+          "listed_count": 173,
+          "tweet_count": 75652
+        },
+        "username": "Whatis7777777",
+        "verified": true
+      }
+    ]
+  }
+}

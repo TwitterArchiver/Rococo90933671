@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880782263853731840"
+      ],
+      "media_source_tweet_id": [
+        "1880782483257725369"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1880908833364774991",
+    "created_at": "2025-01-19T09:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880908833364774991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766062676130856960",
+          "start": 3,
+          "username": "PixelGeek606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GxCwYPmXWS",
+          "end": 91,
+          "expanded_url": "https://x.com/PixelGeek606/status/1880782483257725369/photo/1",
+          "media_key": "3_1880782263853731840",
+          "start": 68,
+          "url": "https://t.co/GxCwYPmXWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880908833364774991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880782483257725369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PixelGeek606: 今天才看到这个傻杯儿，精神胜利法让牠展现得淋漓尽致，骂完就拉黑，就像班上最后一名的欠登一样，招人嫌 https://t.co/GxCwYPmXWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_1880782263853731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhnhgRDbUAAeDR3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880782263853731840"
+          ],
+          "media_source_tweet_id": [
+            "1880782483257725369"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1880908833364774991",
+        "created_at": "2025-01-19T09:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880908833364774991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766062676130856960",
+              "start": 3,
+              "username": "PixelGeek606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxCwYPmXWS",
+              "end": 91,
+              "expanded_url": "https://x.com/PixelGeek606/status/1880782483257725369/photo/1",
+              "media_key": "3_1880782263853731840",
+              "start": 68,
+              "url": "https://t.co/GxCwYPmXWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880908833364774991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880782483257725369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PixelGeek606: 今天才看到这个傻杯儿，精神胜利法让牠展现得淋漓尽致，骂完就拉黑，就像班上最后一名的欠登一样，招人嫌 https://t.co/GxCwYPmXWS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880782263853731840"
+          ]
+        },
+        "author_id": "1766062676130856960",
+        "conversation_id": "1880782483257725369",
+        "created_at": "2025-01-19T01:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880782483257725369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxCwYPmXWS",
+              "end": 73,
+              "expanded_url": "https://x.com/PixelGeek606/status/1880782483257725369/photo/1",
+              "media_key": "3_1880782263853731840",
+              "start": 50,
+              "url": "https://t.co/GxCwYPmXWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880782483257725369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 949,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天才看到这个傻杯儿，精神胜利法让牠展现得淋漓尽致，骂完就拉黑，就像班上最后一名的欠登一样，招人嫌 https://t.co/GxCwYPmXWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 2050,
+          "like_count": 21376,
+          "listed_count": 7,
+          "media_count": 1581,
+          "tweet_count": 11931
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T11:25:39.000Z",
+        "description": "技术宅，操作系统、硬件及计网\n关注数码产品，只粉产品不粉厂商\n疯疯癫癫，有时发疯\n修配厂公子（网左扣的帽子）\n极度排斥OD圈，请某些人自重\n我以中国人为荣🇨🇳\n正在建政脱敏，少聊时政",
+        "id": "1766062676130856960",
+        "location": "璃月港",
+        "name": "爱吃巧克力的橡木蛋糕卷🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867713899539443712/nz5a53eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 171,
+          "like_count": 15705,
+          "listed_count": 1,
+          "media_count": 1153,
+          "tweet_count": 6562
+        },
+        "username": "PixelGeek606",
+        "verified": false
+      }
+    ]
+  }
+}

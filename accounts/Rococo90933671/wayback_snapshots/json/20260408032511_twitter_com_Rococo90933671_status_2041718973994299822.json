@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041718904918265856"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2041575425751859676",
+    "created_at": "2026-04-08T03:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041718973994299822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701051815260004353",
+          "start": 0,
+          "username": "zhiweiwar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d42DXsNvoj",
+          "end": 41,
+          "expanded_url": "https://x.com/Rococo90933671/status/2041718973994299822/photo/1",
+          "media_key": "3_2041718904918265856",
+          "start": 18,
+          "url": "https://t.co/d42DXsNvoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041718973994299822",
+    "in_reply_to_user_id": "1701051815260004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041575425751859676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiweiwar 应该是这个吧 https://t.co/d42DXsNvoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2041718904918265856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWkhsraUAAW2Ya.png",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041575417979793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUiBqLa8AAwjVi.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041718904918265856"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2041575425751859676",
+        "created_at": "2026-04-08T03:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041718973994299822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701051815260004353",
+              "start": 0,
+              "username": "zhiweiwar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d42DXsNvoj",
+              "end": 41,
+              "expanded_url": "https://x.com/Rococo90933671/status/2041718973994299822/photo/1",
+              "media_key": "3_2041718904918265856",
+              "start": 18,
+              "url": "https://t.co/d42DXsNvoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041718973994299822",
+        "in_reply_to_user_id": "1701051815260004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041575425751859676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiweiwar 应该是这个吧 https://t.co/d42DXsNvoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041575417979793408"
+          ]
+        },
+        "author_id": "1701051815260004353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041575425751859676",
+        "created_at": "2026-04-07T17:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041575425751859676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRk389shPw",
+              "end": 51,
+              "expanded_url": "https://x.com/zhiweiwar/status/2041575425751859676/photo/1",
+              "media_key": "3_2041575417979793408",
+              "start": 28,
+              "url": "https://t.co/tRk389shPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041575425751859676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那个，我请问，一下你们有这个选项吗\n列表下面的社群附注 https://t.co/tRk389shPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9925,
+          "following_count": 2851,
+          "like_count": 34348,
+          "listed_count": 28,
+          "media_count": 3580,
+          "tweet_count": 19993
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T01:56:34.000Z",
+        "description": "孤山月影照金河，不见人间惆怅客\nThe Supreme God Olorun Proi Proi\n私はとても孤独ですので、どうぞよろしくお願いいたします I'm 之wei. It's nice to meet you.",
+        "id": "1701051815260004353",
+        "location": "OOR WWR",
+        "name": "之wei",
+        "pinned_tweet_id": "2040844677012979827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024293700646658048/V5GYHjdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1182,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 9097
+        },
+        "username": "zhiweiwar",
+        "verified": true
+      }
+    ]
+  }
+}

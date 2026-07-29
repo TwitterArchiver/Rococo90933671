@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1864166270444425633",
+    "created_at": "2024-12-04T04:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T05:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864167493490651315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615586607482163201",
+          "start": 0,
+          "username": "RealKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864167493490651315",
+    "in_reply_to_user_id": "1615586607482163201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864166270444425633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealKafuuChino 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1864166270444425633",
+        "created_at": "2024-12-04T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864167493490651315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615586607482163201",
+              "start": 0,
+              "username": "RealKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864167493490651315",
+        "in_reply_to_user_id": "1615586607482163201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864166270444425633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealKafuuChino 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "conversation_id": "1864166270444425633",
+        "created_at": "2024-12-04T04:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T05:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864166270444425633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864166270444425633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近比较频繁，看色图重云了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 1940,
+          "like_count": 18763,
+          "listed_count": 5,
+          "media_count": 1295,
+          "tweet_count": 10560
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "日本語を勉強しています | EnglishOK | 中文母语者 | 日常Tweets",
+        "id": "1615586607482163201",
+        "name": "智乃",
+        "pinned_tweet_id": "1827344616011788670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855473186709864448/Z4leU_ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 1025,
+          "like_count": 33639,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 376
+        },
+        "username": "RealKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

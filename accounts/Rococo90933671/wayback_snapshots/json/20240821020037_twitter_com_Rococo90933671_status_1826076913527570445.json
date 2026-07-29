@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1826062223162355908",
+    "created_at": "2024-08-21T02:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T03:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826076913527570445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817670398076735488",
+          "start": 0,
+          "username": "546474asdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826076913527570445",
+    "in_reply_to_user_id": "1817670398076735488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826062223162355908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@546474asdh 重量级👍🏻\n毕竟他的号每天那么多信息，精准找到你可不容易"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1826062223162355908].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1826062223162355908",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1826062223162355908"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1826062223162355908",
+        "created_at": "2024-08-21T02:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T03:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826076913527570445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817670398076735488",
+              "start": 0,
+              "username": "546474asdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826076913527570445",
+        "in_reply_to_user_id": "1817670398076735488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826062223162355908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@546474asdh 重量级👍🏻\n毕竟他的号每天那么多信息，精准找到你可不容易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 1586,
+          "like_count": 14185,
+          "listed_count": 2,
+          "tweet_count": 7449
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T21:16:22.000Z",
+        "description": "薄熙来官方授权名字🇨🇳┊纪念我们的林彪@8964bot @Death8964LB🇨🇳🪦┊只屏蔽弱智，不明账号😁┊左翼🚩┊钢铁雄心4与波兰球爱好者🫀┊默认对正常人和平共处友善交流😁┊惹到我会一直整你👁️┊爱好是嗑瓜子┊可以随便转我的作品但是要标明出处",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "8964bot"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Death8964LB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/57qLpihls5"
+              }
+            ]
+          }
+        },
+        "id": "1817670398076735488",
+        "location": "☀️18:00 🌙06:00   🇨🇳China ",
+        "name": "一口吃掉老父亲三根肋骨🇨🇳✨",
+        "pinned_tweet_id": "1825900063618642067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825206148909375488/BTNxUKI5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 170,
+          "like_count": 1338,
+          "listed_count": 1,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/57qLpihls5",
+        "username": "546474asdh",
+        "verified": false
+      }
+    ]
+  }
+}

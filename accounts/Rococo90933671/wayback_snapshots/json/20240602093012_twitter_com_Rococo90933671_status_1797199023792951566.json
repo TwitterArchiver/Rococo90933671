@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1797194854780506602",
+    "created_at": "2024-06-02T09:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797199023792951566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "795240655287177216",
+          "start": 0,
+          "username": "ShaDow_0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797199023792951566",
+    "in_reply_to_user_id": "795240655287177216",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797194854780506602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaDow_0528 日差しや青空と共に、美しい感じ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1797194854780506602",
+        "created_at": "2024-06-02T09:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797199023792951566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "795240655287177216",
+              "start": 0,
+              "username": "ShaDow_0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797199023792951566",
+        "in_reply_to_user_id": "795240655287177216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797194854780506602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaDow_0528 日差しや青空と共に、美しい感じ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797194838477312000"
+          ]
+        },
+        "author_id": "795240655287177216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1797194854780506602",
+        "created_at": "2024-06-02T09:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797194854780506602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ggnk0IPE1I",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ShaDow_0528/status/1797194854780506602/photo/1",
+              "media_key": "3_1797194838477312000",
+              "start": 7,
+              "url": "https://t.co/Ggnk0IPE1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797194854780506602",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "良い天気だね https://t.co/Ggnk0IPE1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 908,
+          "like_count": 5071,
+          "listed_count": 1,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T12:25:21.000Z",
+        "description": "香港人🇭🇰想平凡的活著/中 ENG 粵 JP/ 中二病 / 性癖:蘿莉 獸娘 偽娘 / 喜歡諧音&地獄梗 / LGBT友好 / 網絡上的假面愚者🎭讓世界多幾分快樂🎉 / 無情的梗圖機器 / 流螢的專屬騎士 /「飛螢撲火，向死而生」/「 一無所有，或者贏下所有」/「別人一輩子的傷，用你一輩子的後悔來償還」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shadow_0528?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shadow_0528?si=xsoPUJm5W1hn92TH",
+                "start": 0,
+                "url": "https://t.co/RLyruhGkwL"
+              }
+            ]
+          }
+        },
+        "id": "795240655287177216",
+        "location": "Hong Kong",
+        "name": "白影Shadow🔥流螢的專屬騎士🔥",
+        "pinned_tweet_id": "1791441924005720119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792161537496678400/XowTnatY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 380,
+          "like_count": 34779,
+          "listed_count": 2,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/RLyruhGkwL",
+        "username": "ShaDow_0528",
+        "verified": false
+      }
+    ]
+  }
+}

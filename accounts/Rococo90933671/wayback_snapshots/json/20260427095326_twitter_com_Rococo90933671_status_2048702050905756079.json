@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2048612816568078586",
+    "created_at": "2026-04-27T09:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048702050905756079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1600027372064894977",
+          "start": 0,
+          "username": "lmohng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048702050905756079",
+    "in_reply_to_user_id": "1600027372064894977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048685452136476989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmohng1 这个看上去肉和蛋白质都挺多，应该可以好吃才对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1042,
+        "media_key": "3_2048685446159564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5kjxLagAAjDT9.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2048612816568078586",
+        "created_at": "2026-04-27T09:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048702050905756079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1600027372064894977",
+              "start": 0,
+              "username": "lmohng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048702050905756079",
+        "in_reply_to_user_id": "1600027372064894977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048685452136476989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmohng1 这个看上去肉和蛋白质都挺多，应该可以好吃才对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048685446159564800"
+          ]
+        },
+        "author_id": "1600027372064894977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048612816568078586",
+        "created_at": "2026-04-27T08:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048685452136476989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JadCbtl5AW",
+              "end": 55,
+              "expanded_url": "https://x.com/lmohng1/status/2048685452136476989/photo/1",
+              "media_key": "3_2048685446159564800",
+              "start": 32,
+              "url": "https://t.co/JadCbtl5AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048685452136476989",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048612816568078586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 英国早餐被说成拼凑有点贻笑大方 https://t.co/JadCbtl5AW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10652,
+          "following_count": 2971,
+          "like_count": 36641,
+          "listed_count": 34,
+          "media_count": 3795,
+          "tweet_count": 21019
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:21:17.000Z",
+        "description": "ダンゴを飼いましょう！",
+        "id": "1600027372064894977",
+        "location": "Hachioji-shi, Tokyo",
+        "name": "リベンツ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785195500075130880/ebp3PRu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 248,
+          "like_count": 1808,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1932
+        },
+        "username": "lmohng1",
+        "verified": false
+      }
+    ]
+  }
+}

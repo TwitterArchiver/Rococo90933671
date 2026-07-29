@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1995166173097533543",
+    "created_at": "2025-12-01T08:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995417179190436334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        },
+        {
+          "end": 23,
+          "id": "10228272",
+          "start": 15,
+          "username": "YouTube"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995417179190436334",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995166173097533543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 @YouTube 柴静的阴阳怪气让你很难说她在阴阳怪气，但她又确实阴阳怪气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1995166173097533543",
+        "created_at": "2025-12-01T08:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995417179190436334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            },
+            {
+              "end": 23,
+              "id": "10228272",
+              "start": 15,
+              "username": "YouTube"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995417179190436334",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995166173097533543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 @YouTube 柴静的阴阳怪气让你很难说她在阴阳怪气，但她又确实阴阳怪气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374225903136481284",
+        "conversation_id": "1995166173097533543",
+        "created_at": "2025-11-30T16:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995166173097533543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 148,
+              "id": "10228272",
+              "start": 140,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "视频说明：为什么柴静对中国人充满恶意为什么我们要用“恶意”这个极端的词来定性柴静？因为本期视频将通过事实发现问题—反问推动推理—逻辑严密定性，为您拆解一个柴静终生无法逃离的底层逻辑。🔎 本期视频的核心论证恐惧与权力： 柴静对权威（童年恐惧）的逃离，最终演变成对更大话语权的病态追求。她的职业生涯，就是一场从体制内...",
+              "display_url": "youtu.be/Wemt686IcpU?si…",
+              "end": 136,
+              "expanded_url": "https://youtu.be/Wemt686IcpU?si=biUKoOypJd93UCjZ",
+              "start": 113,
+              "status": 200,
+              "title": "为什么说柴静对中国人怀有巨大恶意？",
+              "unwound_url": "https://www.youtube.com/watch?si=biUKoOypJd93UCjZ&v=Wemt686IcpU&feature=youtu.be",
+              "url": "https://t.co/IvkI6oH7G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995166173097533543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 40144,
+          "like_count": 136,
+          "quote_count": 4,
+          "reply_count": 54,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "为什么说柴静对中国人怀有巨大恶意？ \n视频说明：为什么柴静对中国人充满恶意 为什么我们要用“恶意”这个极端的词来定性柴静？  因为本期视频将通过事实发现问题—反问推动推理—逻辑严密定性，为您拆解一个柴静终生无法逃离的底层逻辑。https://t.co/IvkI6oH7G2 来自 @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6575,
+          "following_count": 2220,
+          "like_count": 29081,
+          "listed_count": 18,
+          "media_count": 2911,
+          "tweet_count": 16986
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "并没有政治立场，\n如果一定要有，\n那就永远支持真相和人性吧！\n小号：@SmallGoodL\nBe true, be brave, be strong… \nI'm proud of being Chinese.\nYouTube频道：https://t.co/JaWOOlxlKG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "SmallGoodL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.ly/yJbtD",
+                "end": 138,
+                "expanded_url": "https://t.ly/yJbtD",
+                "start": 115,
+                "url": "https://t.co/JaWOOlxlKG"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1995166173097533543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914869466762293248/13sKKCwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51143,
+          "following_count": 3561,
+          "like_count": 215077,
+          "listed_count": 181,
+          "media_count": 6959,
+          "tweet_count": 95073
+        },
+        "username": "Whatis7777777",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkin.bio/youtube",
+                "end": 23,
+                "expanded_url": "http://linkin.bio/youtube",
+                "start": 0,
+                "url": "https://t.co/zyd5mI67Ld"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69089936,
+          "following_count": 1144,
+          "like_count": 6034,
+          "listed_count": 76328,
+          "media_count": 16063,
+          "tweet_count": 60436
+        },
+        "url": "https://t.co/zyd5mI67Ld",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

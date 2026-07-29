@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1895709970546803079",
+    "created_at": "2025-03-01T06:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T07:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895717223689589124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755256924520804352",
+          "start": 0,
+          "username": "Exusiai159_2"
+        },
+        {
+          "end": 27,
+          "id": "1753419726582345728",
+          "start": 14,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 39,
+          "id": "1253165636210978817",
+          "start": 28,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895717223689589124",
+    "in_reply_to_user_id": "1755256924520804352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895709970546803079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159_2 @GravitySwiss @Exusiai159 为什么会这样？"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Exusiai159].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Exusiai159",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Exusiai159"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895709967438790658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk7qK-ZbQAI8QPt.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1895709970546803079",
+        "created_at": "2025-03-01T06:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T07:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895717223689589124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755256924520804352",
+              "start": 0,
+              "username": "Exusiai159_2"
+            },
+            {
+              "end": 27,
+              "id": "1753419726582345728",
+              "start": 14,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 39,
+              "id": "1253165636210978817",
+              "start": 28,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895717223689589124",
+        "in_reply_to_user_id": "1755256924520804352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895709970546803079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159_2 @GravitySwiss @Exusiai159 为什么会这样？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895709967438790658"
+          ]
+        },
+        "author_id": "1755256924520804352",
+        "conversation_id": "1895709970546803079",
+        "created_at": "2025-03-01T05:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895709970546803079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253165636210978817",
+              "start": 3,
+              "username": "Exusiai159"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhbGLFsWvx",
+              "end": 59,
+              "expanded_url": "https://x.com/Exusiai159_2/status/1895709970546803079/photo/1",
+              "media_key": "3_1895709967438790658",
+              "start": 36,
+              "url": "https://t.co/QhbGLFsWvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895709970546803079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一代目@Exusiai159被妈死克拿下了，正在打复活赛，大家帮我转转 https://t.co/QhbGLFsWvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 2176,
+          "like_count": 23253,
+          "listed_count": 10,
+          "media_count": 1763,
+          "tweet_count": 12887
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T15:47:38.000Z",
+        "description": "@Exusiai159 的二代目\n/一代目被没有马的一龙同志把家端了，于是我决定天天去他推文底下发遗像",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Exusiai159"
+              }
+            ]
+          }
+        },
+        "id": "1755256924520804352",
+        "name": "一只能天使（二代目）",
+        "pinned_tweet_id": "1833578873738691004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833555471208484864/_ZBftbqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 215,
+          "like_count": 630,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 163
+        },
+        "username": "Exusiai159_2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 2395,
+          "like_count": 84242,
+          "listed_count": 14,
+          "media_count": 1078,
+          "tweet_count": 23782
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

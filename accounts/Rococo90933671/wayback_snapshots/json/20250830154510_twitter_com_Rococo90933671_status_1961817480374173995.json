@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489542346047852544",
+          "name": "India politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518657363795845121",
+          "name": "India political figures"
+        }
+      }
+    ],
+    "conversation_id": "1961742784932823511",
+    "created_at": "2025-08-30T15:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961817480374173995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "18839785",
+          "start": 0,
+          "username": "narendramodi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961817480374173995",
+    "in_reply_to_user_id": "18839785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961742784932823511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@narendramodi 第一次首页刷到老仙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1961742548944539648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmCdFqb0AAenzS.jpg",
+        "width": 2824
+      },
+      {
+        "height": 2174,
+        "media_key": "3_1961742576299745280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmCerkbIAA-nK9.jpg",
+        "width": 1805
+      },
+      {
+        "height": 2307,
+        "media_key": "3_1961742592493903872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmCfn5aYAAbkDw.jpg",
+        "width": 1999
+      },
+      {
+        "height": 2530,
+        "media_key": "3_1961742618238550016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmChHzagAAj44O.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "1961742784932823511",
+        "created_at": "2025-08-30T15:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961817480374173995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "18839785",
+              "start": 0,
+              "username": "narendramodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961817480374173995",
+        "in_reply_to_user_id": "18839785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961742784932823511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@narendramodi 第一次首页刷到老仙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961742548944539648",
+            "3_1961742576299745280",
+            "3_1961742592493903872",
+            "3_1961742618238550016"
+          ]
+        },
+        "author_id": "18839785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "1961742784932823511",
+        "created_at": "2025-08-30T10:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961742784932823511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vs59dukMND",
+              "end": 61,
+              "expanded_url": "https://x.com/narendramodi/status/1961742784932823511/photo/1",
+              "media_key": "3_1961742548944539648",
+              "start": 38,
+              "url": "https://t.co/vs59dukMND"
+            },
+            {
+              "display_url": "pic.x.com/vs59dukMND",
+              "end": 61,
+              "expanded_url": "https://x.com/narendramodi/status/1961742784932823511/photo/1",
+              "media_key": "3_1961742576299745280",
+              "start": 38,
+              "url": "https://t.co/vs59dukMND"
+            },
+            {
+              "display_url": "pic.x.com/vs59dukMND",
+              "end": 61,
+              "expanded_url": "https://x.com/narendramodi/status/1961742784932823511/photo/1",
+              "media_key": "3_1961742592493903872",
+              "start": 38,
+              "url": "https://t.co/vs59dukMND"
+            },
+            {
+              "display_url": "pic.x.com/vs59dukMND",
+              "end": 61,
+              "expanded_url": "https://x.com/narendramodi/status/1961742784932823511/photo/1",
+              "media_key": "3_1961742618238550016",
+              "start": 38,
+              "url": "https://t.co/vs59dukMND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961742784932823511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 1329937,
+          "like_count": 23993,
+          "quote_count": 165,
+          "reply_count": 1023,
+          "retweet_count": 2805
+        },
+        "reply_settings": "everyone",
+        "text": "抵达中国天津，期待在上海合作组织峰会期间展开深入讨论，并与各国领导人会晤。 https://t.co/vs59dukMND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5392,
+          "following_count": 2204,
+          "like_count": 27414,
+          "listed_count": 14,
+          "media_count": 2578,
+          "tweet_count": 15840
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-10T17:18:56.000Z",
+        "description": "Prime Minister of India",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "narendramodi.in",
+                "end": 23,
+                "expanded_url": "http://www.narendramodi.in",
+                "start": 0,
+                "url": "https://t.co/m2qxixtyKj"
+              }
+            ]
+          }
+        },
+        "id": "18839785",
+        "location": "India",
+        "name": "Narendra Modi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108965101,
+          "following_count": 2679,
+          "like_count": 0,
+          "listed_count": 31906,
+          "media_count": 19329,
+          "tweet_count": 47366
+        },
+        "url": "https://t.co/m2qxixtyKj",
+        "username": "narendramodi",
+        "verified": true
+      }
+    ]
+  }
+}

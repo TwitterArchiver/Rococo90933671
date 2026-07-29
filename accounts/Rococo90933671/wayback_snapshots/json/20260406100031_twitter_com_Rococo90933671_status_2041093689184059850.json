@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2040799698127101956",
+    "created_at": "2026-04-06T10:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041093689184059850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041093689184059850",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040799698127101956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 没事就好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2040799698127101956",
+        "created_at": "2026-04-06T10:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041093689184059850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041093689184059850",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040799698127101956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 没事就好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2040799698127101956",
+        "created_at": "2026-04-05T14:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040799698127101956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mario_2333/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/mario_2333/status/2040673802888130600",
+              "start": 25,
+              "url": "https://t.co/ENNGFpIR9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040799698127101956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我非常抱歉的要好好解释一下，因为完全是人为失误…\n\n背景是我确实有一套自己搓的垃圾意外处理机制，设定为我点击一次链接延长一个月，这个时候会先对我发出两个渠道的提醒和对我一个朋友发出简单确认提醒；如果再继续一个星期没点链接确认则会认定我没能力接触网络或回应任何消息，程序会自动执行大量操作，主要是指示如何处理各项事务，绕过法律渠道提取可能的数字和实体财产，极端情况设备全部损毁时继续操作的一些授权文件\n\n发推、qq微信相关联系，都在第二次超时后有指示手动处理方法，但是这条推来源于一个api操作，这个本身是预防性操作，防止无法成功得到我的账号权限，本身没做完建设也只是随便写了一句话。\n7天前晚上2点多我收到了对我的第一次提醒，我立刻再做了确认，还把邮件点了个第二天提醒，我关键处理事务的朋友也看到了而且知道我挺好的，但是可能晚上脑子不太清楚的样子我把这个没完整建设的东西忘了，而且印象里我做了取消但是没成功…我确实不知道为啥会这样确实没想不起来当时怎么做的，而且晚上在睡觉（\n\n已经整改为全部依赖邮件和仅涉及2人的人工行为，它可以不成功但是应该不会误触，反正我自己做了垃圾东西没啥借口的我立正挨打想骂我就骂我吧我认可（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5767,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040673802888130600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非常抱歉的要好好解释一下，因为完全是人为失误… https://t.co/ENNGFpIR9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9946,
+          "following_count": 2838,
+          "like_count": 34108,
+          "listed_count": 28,
+          "media_count": 3561,
+          "tweet_count": 19872
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | Follow ≠ Endorsement⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 263,
+          "like_count": 43971,
+          "listed_count": 15,
+          "media_count": 928,
+          "tweet_count": 14198
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

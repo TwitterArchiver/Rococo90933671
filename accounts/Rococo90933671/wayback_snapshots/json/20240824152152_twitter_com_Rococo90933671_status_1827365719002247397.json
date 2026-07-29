@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1827166164163948912",
+    "created_at": "2024-08-24T15:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T16:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827365719002247397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409474469580591109",
+          "start": 0,
+          "username": "welles_george"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827365719002247397",
+    "in_reply_to_user_id": "1409474469580591109",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827195885509599424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@welles_george 我这个离黑曜石还有多远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1827166164163948912",
+        "created_at": "2024-08-24T15:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T16:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827365719002247397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409474469580591109",
+              "start": 0,
+              "username": "welles_george"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827365719002247397",
+        "in_reply_to_user_id": "1409474469580591109",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827195885509599424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welles_george 我这个离黑曜石还有多远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409474469580591109",
+        "conversation_id": "1827166164163948912",
+        "created_at": "2024-08-24T04:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T05:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827195885509599424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827195885509599424",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827166164163948912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 我在黑曜石上卡了幾週了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 1616,
+          "like_count": 14447,
+          "listed_count": 2,
+          "tweet_count": 7589
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T11:32:00.000Z",
+        "description": "高中牲/喜欢玩游戏/不喜欢学习/PUBG MOBILE/原神/胆小却喜欢恐怖游戏/Steam玩家只玩得起打大折的低价游戏/喜欢打羽毛球🏸/喜欢台湾🇹🇼/YouTuber/",
+        "id": "1409474469580591109",
+        "name": "低调无人气的芙宁娜🇭🇰🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791837470470123520/AbCwuwbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 57,
+          "like_count": 1748,
+          "listed_count": 0,
+          "tweet_count": 748
+        },
+        "username": "welles_george",
+        "verified": false
+      }
+    ]
+  }
+}

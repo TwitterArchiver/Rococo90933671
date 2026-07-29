@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1863983960042459572",
+    "created_at": "2024-12-04T00:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T01:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864109046623805576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Erica_local"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864109046623805576",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863983960042459572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erica_local 那个时候我根本不玩推"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1863983960042459572].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1863983960042459572",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1863983960042459572"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1863983960042459572",
+        "created_at": "2024-12-04T00:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T01:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864109046623805576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Erica_local"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864109046623805576",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863983960042459572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erica_local 那个时候我根本不玩推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 1936,
+          "like_count": 18730,
+          "listed_count": 5,
+          "media_count": 1293,
+          "tweet_count": 10551
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "",
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚共和国",
+        "name": "Erica今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850462519397326848/IcIp5dx4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 3848,
+          "like_count": 193906,
+          "listed_count": 3,
+          "media_count": 1078,
+          "tweet_count": 6780
+        },
+        "username": "Erica_local",
+        "verified": false
+      }
+    ]
+  }
+}

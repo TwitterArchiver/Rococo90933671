@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1962419344526500156",
+    "created_at": "2025-09-01T16:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962552220089712641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962552220089712641",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962419344526500156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 感觉像繁中版钢姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1962419341103976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzvp_k7b0AA4k8l.jpg",
+        "width": 1344
+      },
+      {
+        "height": 977,
+        "media_key": "3_1962419341502365696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzvp_maawAACSDV.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1962419344526500156",
+        "created_at": "2025-09-01T16:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962552220089712641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962552220089712641",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962419344526500156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 感觉像繁中版钢姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962419341103976448",
+            "3_1962419341502365696"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962419344526500156",
+        "created_at": "2025-09-01T07:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962419344526500156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XL2nDy2tHi",
+              "end": 31,
+              "expanded_url": "https://x.com/miike_hrk/status/1962419344526500156/photo/1",
+              "media_key": "3_1962419341103976448",
+              "start": 8,
+              "url": "https://t.co/XL2nDy2tHi"
+            },
+            {
+              "display_url": "pic.x.com/XL2nDy2tHi",
+              "end": 31,
+              "expanded_url": "https://x.com/miike_hrk/status/1962419344526500156/photo/1",
+              "media_key": "3_1962419341502365696",
+              "start": 8,
+              "url": "https://t.co/XL2nDy2tHi"
+            },
+            {
+              "display_url": "x.com/miike_hrk/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/miike_hrk/status/1962140031801569428",
+              "start": 32,
+              "url": "https://t.co/LbVB2wDIVf"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1962419344526500156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 573,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962140031801569428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是什么🐸啊？ https://t.co/XL2nDy2tHi https://t.co/LbVB2wDIVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 2206,
+          "like_count": 27504,
+          "listed_count": 13,
+          "media_count": 2588,
+          "tweet_count": 15899
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "Capital Institute of Pediatric｜Cosplayers｜Tourette's Syndrome｜CFA＆MD｜SP500 ETF Trading Analyst",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkG0FP"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Yabao Road, Beijing, China",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "1918768838596055278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 367,
+          "like_count": 28371,
+          "listed_count": 9,
+          "media_count": 9474,
+          "tweet_count": 40532
+        },
+        "url": "https://t.co/11RmQkG0FP",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

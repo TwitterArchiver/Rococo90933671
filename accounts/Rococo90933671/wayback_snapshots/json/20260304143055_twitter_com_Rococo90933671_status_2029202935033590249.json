@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2029157105450790948",
+    "created_at": "2026-03-04T14:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029202935033590249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613147491528212480",
+          "start": 0,
+          "username": "x_uta_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029202935033590249",
+    "in_reply_to_user_id": "1613147491528212480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029157105450790948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_uta_ 水着が好き"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2029157097150291968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkDoQEbIAAXs2V.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2029157105450790948",
+        "created_at": "2026-03-04T14:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029202935033590249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613147491528212480",
+              "start": 0,
+              "username": "x_uta_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029202935033590249",
+        "in_reply_to_user_id": "1613147491528212480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029157105450790948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_uta_ 水着が好き"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029157097150291968"
+          ]
+        },
+        "author_id": "1613147491528212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2029157105450790948",
+        "created_at": "2026-03-04T11:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029157105450790948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "原神"
+            },
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCsRMxpL49",
+              "end": 75,
+              "expanded_url": "https://x.com/x_uta_/status/2029157105450790948/photo/1",
+              "media_key": "3_2029157097150291968",
+              "start": 52,
+              "url": "https://t.co/vCsRMxpL49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029157105450790948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 4030,
+          "like_count": 619,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "フリーナ | Furina\n*SFW Illustration*\n#原神 #GenshinImpact https://t.co/vCsRMxpL49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9123,
+          "following_count": 2660,
+          "like_count": 30843,
+          "listed_count": 26,
+          "media_count": 3268,
+          "tweet_count": 18387
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T12:15:28.000Z",
+        "description": "SD×加筆で毎日更新中🎨\nふとした表情や、ドキッとする瞬間が好き🫧\nPatreonで差分や、ちょっと叡智で特別なやつも🍀\nこっちでちょっぴり秘密なイラストも公開中→@x_uta_uraniwa🔞\nBOOTHでイラスト販売してます✨\n詳しくはリンクから♡\n※無断使用,転載🆖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "x_uta_uraniwa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xuta",
+                "end": 23,
+                "expanded_url": "https://lit.link/xuta",
+                "start": 0,
+                "url": "https://t.co/TUuZET7jzH"
+              }
+            ]
+          }
+        },
+        "id": "1613147491528212480",
+        "name": "詩 -Uta-",
+        "pinned_tweet_id": "2029121045123469449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904555214205825024/WyU8bj2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45951,
+          "following_count": 137,
+          "like_count": 17879,
+          "listed_count": 235,
+          "media_count": 1383,
+          "tweet_count": 11705
+        },
+        "url": "https://t.co/TUuZET7jzH",
+        "username": "x_uta_",
+        "verified": true
+      }
+    ]
+  }
+}

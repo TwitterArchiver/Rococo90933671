@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1867446882664099888",
+    "created_at": "2024-12-13T05:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867446882664099888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/s4tuRday_joe/s…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/s4tuRday_joe/status/1867397949116101105",
+          "start": 80,
+          "url": "https://t.co/bacrPyqkJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867446882664099888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867397949116101105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2024年度总结：\n牵手0次\n亲嘴0次\n恋爱0次\n阻碍0次\n暧昧0次\n聊烧0次\n去酒吧0次\n夜不归宿0次\n原神游玩天数366天\n崩坏·星穹铁道游玩天数366天 https://t.co/bacrPyqkJD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1867446882664099888",
+        "created_at": "2024-12-13T05:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867446882664099888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s4tuRday_joe/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/s4tuRday_joe/status/1867397949116101105",
+              "start": 80,
+              "url": "https://t.co/bacrPyqkJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867446882664099888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867397949116101105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年度总结：\n牵手0次\n亲嘴0次\n恋爱0次\n阻碍0次\n暧昧0次\n聊烧0次\n去酒吧0次\n夜不归宿0次\n原神游玩天数366天\n崩坏·星穹铁道游玩天数366天 https://t.co/bacrPyqkJD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797143402347479040",
+        "conversation_id": "1867397949116101105",
+        "created_at": "2024-12-13T02:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T03:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867397949116101105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867397949116101105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 22,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年度总结：\n牵手0次\n亲嘴0次\n恋爱0次\n阻碍0次\n暧昧0次\n聊烧0次\n去酒吧0次\n夜不归宿0次\n舞萌当前版本游玩次数260次\n舞萌DX游玩总次数260次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1952,
+          "like_count": 19141,
+          "listed_count": 5,
+          "media_count": 1340,
+          "tweet_count": 10740
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "身在世中静坐 心如明月当空\n碎碎念@idunnowh0ami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "idunnowh0ami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "桐梓林",
+        "name": "周陸4ReaL",
+        "pinned_tweet_id": "1847133754273534152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829725825505378305/SeNrQTAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 557,
+          "like_count": 5988,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}

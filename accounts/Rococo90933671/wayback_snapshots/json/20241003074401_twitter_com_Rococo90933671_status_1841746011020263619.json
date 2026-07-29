@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1841370160722026527",
+    "created_at": "2024-10-03T07:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T08:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841746011020263619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749392003836841984",
+          "start": 0,
+          "username": "AGoodistFeel111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841746011020263619",
+    "in_reply_to_user_id": "1749392003836841984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841372060687511889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGoodistFeel111 湖南湘潭，万楼景区"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1841372060687511889].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1841372060687511889",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1841372060687511889"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1841370160722026527",
+        "created_at": "2024-10-03T07:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T08:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841746011020263619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749392003836841984",
+              "start": 0,
+              "username": "AGoodistFeel111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841746011020263619",
+        "in_reply_to_user_id": "1749392003836841984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841372060687511889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGoodistFeel111 湖南湘潭，万楼景区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 1836,
+          "like_count": 16706,
+          "listed_count": 3,
+          "tweet_count": 9013
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T11:22:30.000Z",
+        "description": "吉吉国民♿️/爱玩抽象/自由东亚联合体/🚩🇺🇦/喜欢的国家（文化上的）：🇦🇺🇨🇦🇳🇿🇮🇸🇸🇪🇳🇴🇬🇷🇪🇸🇦🇹🇮🇪🇩🇪/有时鉴证/玩崩铁☄✨💫🚂🚃🚃@wao187071",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "wao187071"
+              }
+            ]
+          }
+        },
+        "id": "1749392003836841984",
+        "location": "♿️吉吉国首都B三狼市白银路36号♿️",
+        "name": "Hmmad-Discom➡️🆔😋",
+        "pinned_tweet_id": "1835170219150496079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841381822867091456/3K_OOkic_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 214,
+          "like_count": 756,
+          "listed_count": 0,
+          "tweet_count": 876
+        },
+        "username": "AGoodistFeel111",
+        "verified": false
+      }
+    ]
+  }
+}

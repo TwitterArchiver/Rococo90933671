@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042612895335456768"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2042517206354006439",
+    "created_at": "2026-04-10T14:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042612948632506856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHuTjpG1Id",
+          "end": 38,
+          "expanded_url": "https://x.com/Rococo90933671/status/2042612948632506856/photo/1",
+          "media_key": "3_2042612895335456768",
+          "start": 15,
+          "url": "https://t.co/NHuTjpG1Id"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042612948632506856",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042517206354006439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 正好做了一下 https://t.co/NHuTjpG1Id"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2042612895335456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjRmygaIAAglfh.jpg",
+        "width": 1197
+      },
+      {
+        "height": 1242,
+        "media_key": "3_2042517190038163460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kAfakAQ9f8c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2042517200108687363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kmAakAMB4Rp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042612895335456768"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-10T14:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042612948632506856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHuTjpG1Id",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042612948632506856/photo/1",
+              "media_key": "3_2042612895335456768",
+              "start": 15,
+              "url": "https://t.co/NHuTjpG1Id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042612948632506856",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042517206354006439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 正好做了一下 https://t.co/NHuTjpG1Id"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042517190038163460",
+            "3_2042517200108687363"
+          ]
+        },
+        "author_id": "2030455725374550016",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-10T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042517206354006439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517190038163460",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            },
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517200108687363",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042517206354006439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3882,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SBTI已被GFW封禁。 https://t.co/ieydnxcosC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9892,
+          "following_count": 2858,
+          "like_count": 34466,
+          "listed_count": 30,
+          "media_count": 3613,
+          "tweet_count": 20168
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "是男孩子 | 2007 | 超级社恐、胆小 | 不建政 不聊黄 | 精神状态不稳定 | 回fo私信我喵 |没情商(如果回复的不好 原谅我...)",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "pinned_tweet_id": "2041147956926218646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 120,
+          "like_count": 4839,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 700
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

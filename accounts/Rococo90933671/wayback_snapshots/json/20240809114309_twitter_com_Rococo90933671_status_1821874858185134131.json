@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1821868845440934060",
+    "created_at": "2024-08-09T11:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T12:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821874858185134131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1715269179563991040",
+          "start": 0,
+          "username": "huhanliu1368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821874858185134131",
+    "in_reply_to_user_id": "1715269179563991040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821868845440934060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhanliu1368 确实帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1821868845440934060",
+        "created_at": "2024-08-09T11:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T12:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821874858185134131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1715269179563991040",
+              "start": 0,
+              "username": "huhanliu1368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821874858185134131",
+        "in_reply_to_user_id": "1715269179563991040",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821868845440934060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhanliu1368 确实帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821868842328739840"
+          ]
+        },
+        "author_id": "1715269179563991040",
+        "conversation_id": "1821868845440934060",
+        "created_at": "2024-08-09T11:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T12:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821868845440934060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dutiohqqs",
+              "end": 42,
+              "expanded_url": "https://twitter.com/huhanliu1368/status/1821868845440934060/photo/1",
+              "media_key": "3_1821868842328739840",
+              "start": 19,
+              "url": "https://t.co/5dutiohqqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821868845440934060",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一时兴起，对着牛顿先生来了一发☺️👻 https://t.co/5dutiohqqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 1512,
+          "like_count": 12898,
+          "listed_count": 1,
+          "tweet_count": 6893
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T07:30:34.000Z",
+        "description": "不涉政，文史哲爱好者\n我就是个看二次元动漫打游戏的\n我即是我。\n日本語が少しできます\n\nFury enthusiasts",
+        "id": "1715269179563991040",
+        "location": "万华镜",
+        "name": "koさん",
+        "pinned_tweet_id": "1813953182747521318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744552667660365824/0FhQ_X0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 802,
+          "like_count": 6209,
+          "listed_count": 4,
+          "tweet_count": 4831
+        },
+        "username": "huhanliu1368",
+        "verified": false
+      }
+    ]
+  }
+}

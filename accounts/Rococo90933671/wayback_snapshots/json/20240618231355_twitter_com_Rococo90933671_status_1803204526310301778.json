@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1081201766195032064",
+    "created_at": "2024-06-18T23:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T00:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803204526310301778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "619187741",
+          "start": 0,
+          "username": "_maeshima_ami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803204526310301778",
+    "in_reply_to_user_id": "619187741",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1081201766195032064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_maeshima_ami 美しいね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1081201766195032064",
+        "created_at": "2024-06-18T23:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T00:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803204526310301778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "619187741",
+              "start": 0,
+              "username": "_maeshima_ami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803204526310301778",
+        "in_reply_to_user_id": "619187741",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1081201766195032064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_maeshima_ami 美しいね"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1081201761954615296"
+          ]
+        },
+        "author_id": "619187741",
+        "conversation_id": "1081201766195032064",
+        "created_at": "2019-01-04T14:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2019-01-04T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1081201766195032064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "新しいプロフィール画像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RzdG1c9os9",
+              "end": 36,
+              "expanded_url": "https://twitter.com/MAESHIMAAMI_ave/status/1081201766195032064/photo/1",
+              "media_key": "3_1081201761954615296",
+              "start": 13,
+              "url": "https://t.co/RzdG1c9os9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1081201766195032064",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 0,
+          "like_count": 12619,
+          "quote_count": 39,
+          "reply_count": 283,
+          "retweet_count": 1980
+        },
+        "reply_settings": "everyone",
+        "text": "#新しいプロフィール画像 https://t.co/RzdG1c9os9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1246,
+          "like_count": 9404,
+          "listed_count": 3,
+          "tweet_count": 5134
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-26T15:47:34.000Z",
+        "description": "Official Site＆FC「Angraecum」 https://t.co/0q5OpPYwTq Instagram https://t.co/WVfTa22o9x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maeshima-ami.net",
+                "end": 51,
+                "expanded_url": "https://maeshima-ami.net/",
+                "start": 28,
+                "url": "https://t.co/0q5OpPYwTq"
+              },
+              {
+                "display_url": "instagram.com/_maeshima_ami?…",
+                "end": 85,
+                "expanded_url": "https://instagram.com/_maeshima_ami?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
+                "start": 62,
+                "url": "https://t.co/WVfTa22o9x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voicekit.jp/talent/maeshim…",
+                "end": 23,
+                "expanded_url": "https://voicekit.jp/talent/maeshimaami/",
+                "start": 0,
+                "url": "https://t.co/kMLjEdHV3L"
+              }
+            ]
+          }
+        },
+        "id": "619187741",
+        "location": "ボイスキット",
+        "name": "前島亜美",
+        "pinned_tweet_id": "1754021270923231381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753571140319219712/bwiHmVKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315934,
+          "following_count": 0,
+          "like_count": 596,
+          "listed_count": 3389,
+          "tweet_count": 23725
+        },
+        "url": "https://t.co/kMLjEdHV3L",
+        "username": "_maeshima_ami",
+        "verified": false
+      }
+    ]
+  }
+}

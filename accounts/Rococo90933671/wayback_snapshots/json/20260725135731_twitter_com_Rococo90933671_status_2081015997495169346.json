@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2080960086227534053",
+    "created_at": "2026-07-25T13:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081015997495169346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2081015804951470407",
+          "start": 27,
+          "url": "https://t.co/tz5ffVGPXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081015997495169346",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081015804951470407",
+        "type": "quoted"
+      },
+      {
+        "id": "2080960086227534053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 主要是别逼自己一定要怎么做 https://t.co/tz5ffVGPXy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2081015773015982081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFA0eKaQAEeqWt.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2080960086227534053",
+        "created_at": "2026-07-25T13:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081015997495169346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2081015804951470407",
+              "start": 27,
+              "url": "https://t.co/tz5ffVGPXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081015997495169346",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081015804951470407",
+            "type": "quoted"
+          },
+          {
+            "id": "2080960086227534053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 主要是别逼自己一定要怎么做 https://t.co/tz5ffVGPXy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081015773015982081"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2081015804951470407",
+        "created_at": "2026-07-25T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081015804951470407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5RK4CXsx9",
+              "end": 143,
+              "expanded_url": "https://x.com/Rococo90933671/status/2081015804951470407/photo/1",
+              "media_key": "3_2081015773015982081",
+              "start": 120,
+              "url": "https://t.co/t5RK4CXsx9"
+            },
+            {
+              "display_url": "x.com/hiroe_yoshida/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/hiroe_yoshida/status/2080938639744434335",
+              "start": 144,
+              "url": "https://t.co/cUwdrTotql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081015804951470407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080938639744434335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个虽然有参考价值和实践意义，但是真的得看情况。我从去年六月底开始减肥，硬是靠运动和少吃减下来了，但是我的压抑、焦虑和不快乐是结构性的，和自我认同感、自我价值感深度挂钩，不是运动的那点多巴胺和内啡肽可以弥补的……\n当然不可否认运动是有用的 https://t.co/t5RK4CXsx9 https://t.co/cUwdrTotql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "2080960086227534053",
+        "created_at": "2026-07-25T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080960086227534053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiroe_yoshida/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/hiroe_yoshida/status/2080938639744434335",
+              "start": 22,
+              "url": "https://t.co/l6CSjdNiCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080960086227534053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 440,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080938639744434335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要等好转一点的，我现在连出去买菜都极为艰难 https://t.co/l6CSjdNiCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13406,
+          "following_count": 3202,
+          "like_count": 44736,
+          "listed_count": 40,
+          "media_count": 4812,
+          "tweet_count": 24393
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，生活号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 114,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 91,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZFez"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "喵星",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2080911535036330068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062305837201383424/QmG_C6uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17478,
+          "following_count": 2191,
+          "like_count": 15201,
+          "listed_count": 119,
+          "media_count": 7405,
+          "tweet_count": 28769
+        },
+        "url": "https://t.co/hP17kdZFez",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040165566",
+          "name": "ご注文はうさぎですか??"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294476284609720320",
+          "name": "Is the Order a Rabbit?"
+        }
+      }
+    ],
+    "conversation_id": "2031651398069407988",
+    "created_at": "2026-03-11T08:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031651398069407988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seanminecraft2…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/seanminecraft2/status/2031322677726818784",
+          "start": 6,
+          "url": "https://t.co/K7XplzprBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031651398069407988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031322677726818784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可愛すぎる https://t.co/K7XplzprBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2031322671523442691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDC1NRRaMAMDxUa.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "2031651398069407988",
+        "created_at": "2026-03-11T08:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031651398069407988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seanminecraft2…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/seanminecraft2/status/2031322677726818784",
+              "start": 6,
+              "url": "https://t.co/K7XplzprBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031651398069407988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031322677726818784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可愛すぎる https://t.co/K7XplzprBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031322671523442691"
+          ]
+        },
+        "author_id": "3303490891",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "2031322677726818784",
+        "created_at": "2026-03-10T10:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031322677726818784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "gochiusa"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "チノ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2JJZTfwIu",
+              "end": 52,
+              "expanded_url": "https://x.com/seanminecraft2/status/2031322677726818784/photo/1",
+              "media_key": "3_2031322671523442691",
+              "start": 29,
+              "url": "https://t.co/e2JJZTfwIu"
+            },
+            {
+              "display_url": "x.com/seanminecraft2…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/seanminecraft2/status/2031313345400418425",
+              "start": 53,
+              "url": "https://t.co/w1RElOb6Nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031322677726818784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 162,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031313345400418425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「歐尼醬，這樣的我可愛嗎？」\n#gochiusa #チノ https://t.co/e2JJZTfwIu https://t.co/w1RElOb6Nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9274,
+          "following_count": 2662,
+          "like_count": 31372,
+          "listed_count": 25,
+          "media_count": 3324,
+          "tweet_count": 18655
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-01T14:57:55.000Z",
+        "description": "大家好! 我是Seanminecraft! 👋\n\n在這裡可以看到各種可愛女孩子飄在天空的圖片，包含泡泡、無重力、魔法等，如果喜歡可以點個喜歡、轉推以及關注喔!🥰\nP站: https://t.co/Wv7KjX9OtN\n\n關鍵字 Keyword: 🫧泡の中、飄浮、シャボン玉フェチ\n主要語言: 中文 (中国語)、EN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/gG5OGX",
+                "end": 108,
+                "expanded_url": "https://reurl.cc/gG5OGX",
+                "start": 85,
+                "url": "https://t.co/Wv7KjX9OtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Seanminecraft",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Seanminecraft",
+                "start": 0,
+                "url": "https://t.co/42f9OxMcZv"
+              }
+            ]
+          }
+        },
+        "id": "3303490891",
+        "location": "台灣",
+        "name": "🫧🌤Seanminecraft18⛈🫧",
+        "pinned_tweet_id": "1917241207308313003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031243866729541632/8K54SAWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 340,
+          "like_count": 24466,
+          "listed_count": 5,
+          "media_count": 1524,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/42f9OxMcZv",
+        "username": "seanminecraft2",
+        "verified": true
+      }
+    ]
+  }
+}

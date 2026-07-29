@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867927861887455232"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1867927877263786486",
+    "created_at": "2024-12-14T13:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T14:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867927877263786486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oExuUgPOo",
+          "end": 106,
+          "expanded_url": "https://x.com/Rococo90933671/status/1867927877263786486/photo/1",
+          "media_key": "3_1867927861887455232",
+          "start": 83,
+          "url": "https://t.co/9oExuUgPOo"
+        },
+        {
+          "display_url": "x.com/RealKafuuChino…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/RealKafuuChino/status/1867925553187275140",
+          "start": 107,
+          "url": "https://t.co/o6kl7HVJr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867927877263786486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867925553187275140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的高中还是太正常了，我为了多玩会手机从第二个学期一直到毕业都是走读，手机几乎没断过，虽然是自己偷偷在网上买了两个二手的，证据如下：\n毕竟是我为数不多能炫耀的事了😋 https://t.co/9oExuUgPOo https://t.co/o6kl7HVJr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867927861887455232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gew2fmHbUAAjs77.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867927861887455232"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1867927877263786486",
+        "created_at": "2024-12-14T13:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T14:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867927877263786486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oExuUgPOo",
+              "end": 106,
+              "expanded_url": "https://x.com/Rococo90933671/status/1867927877263786486/photo/1",
+              "media_key": "3_1867927861887455232",
+              "start": 83,
+              "url": "https://t.co/9oExuUgPOo"
+            },
+            {
+              "display_url": "x.com/RealKafuuChino…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/RealKafuuChino/status/1867925553187275140",
+              "start": 107,
+              "url": "https://t.co/o6kl7HVJr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867927877263786486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867925553187275140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的高中还是太正常了，我为了多玩会手机从第二个学期一直到毕业都是走读，手机几乎没断过，虽然是自己偷偷在网上买了两个二手的，证据如下：\n毕竟是我为数不多能炫耀的事了😋 https://t.co/9oExuUgPOo https://t.co/o6kl7HVJr3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1867925553187275140",
+        "created_at": "2024-12-14T13:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T14:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867925553187275140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1867815605195485678",
+              "start": 143,
+              "url": "https://t.co/naW7Oxvmlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867925553187275140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867815605195485678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我读过这学校。\n只能说实际情况并没有那么夸张，学生都是相当活分的，带手机进校被发现绝大部分时候根本不会回家，我个人觉得管的不如（我想象中的）衡水严。\n我自己因为家长的配合，在这个学校的时候玩出花了都\n而且这种破文件不是时不时就要来吓唬一下人嘛？\n不过应试教育确实是残害了很多人身心健康 https://t.co/naW7Oxvmlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 1954,
+          "like_count": 19255,
+          "listed_count": 5,
+          "media_count": 1347,
+          "tweet_count": 10768
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "🩵Kafuu Chino🩵 | English | 中文 | 日常Tweets | 日本語を勉強しています,でもあまり話しることができまさん。初めての日本旅行の準備をしています。よるしく！",
+        "id": "1615586607482163201",
+        "name": "智乃@日本旅行準備中",
+        "pinned_tweet_id": "1865985802683257299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855473186709864448/Z4leU_ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 1034,
+          "like_count": 33791,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 427
+        },
+        "username": "RealKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

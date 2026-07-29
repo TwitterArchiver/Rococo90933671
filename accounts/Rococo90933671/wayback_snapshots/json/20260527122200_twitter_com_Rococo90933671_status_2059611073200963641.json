@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2059611073200963641",
+    "created_at": "2026-05-27T12:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059611073200963641"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059611073200963641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "转载自Threads博主“viregeek”：\n\n终于理解，为什么童年创伤在小时候没什么感觉，到了25-35这个年龄段，创伤就开始爆发。\n\n因为你出社会了，你看见身边人的爸爸妈妈是怎么疼孩子、怎么把孩子捧在手心上的。\n\n因为你当爸爸妈妈了，你才知道，那些难听的话，怎么舍得对自己的小孩说出口。\n\n因为你知道孩子想吃什么菜，就会买她爱吃的；而不是大人吃什么，小孩就得跟着吃什么。不吃，还会被骂挑食。\n\n因为自己的孩子，你连离开视线一下都不放心，更别说长时间放在别人家。你也终于明白，让一个十几岁的孩子离开家，却不问他身上有没有钱、有没有地方住，是多么过分的事。\n\n因为你独立了，或者有了自己的家庭，你终于感受到「安全」了，你可以替自己做决定了。 当神经系统感受到安全之后，那些伤口才会慢慢解冻，你也终于有能力心疼自己。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转载自Threads博主“viregeek”：\n\n终于理解，为什么童年创伤在小时候没什么感觉，到了25-35这个年龄段，创伤就开始爆发。\n\n因为你出社会了，你看见身边人的爸爸妈妈是怎么疼孩子、怎么把孩子捧在手心上的。\n\n因为你当爸爸妈妈了，你才知道，那些难听的话，怎么舍得对自己的小孩说出口。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2059611073200963641",
+        "created_at": "2026-05-27T12:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059611073200963641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059611073200963641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转载自Threads博主“viregeek”：\n\n终于理解，为什么童年创伤在小时候没什么感觉，到了25-35这个年龄段，创伤就开始爆发。\n\n因为你出社会了，你看见身边人的爸爸妈妈是怎么疼孩子、怎么把孩子捧在手心上的。\n\n因为你当爸爸妈妈了，你才知道，那些难听的话，怎么舍得对自己的小孩说出口。\n\n因为你知道孩子想吃什么菜，就会买她爱吃的；而不是大人吃什么，小孩就得跟着吃什么。不吃，还会被骂挑食。\n\n因为自己的孩子，你连离开视线一下都不放心，更别说长时间放在别人家。你也终于明白，让一个十几岁的孩子离开家，却不问他身上有没有钱、有没有地方住，是多么过分的事。\n\n因为你独立了，或者有了自己的家庭，你终于感受到「安全」了，你可以替自己做决定了。 当神经系统感受到安全之后，那些伤口才会慢慢解冻，你也终于有能力心疼自己。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转载自Threads博主“viregeek”：\n\n终于理解，为什么童年创伤在小时候没什么感觉，到了25-35这个年龄段，创伤就开始爆发。\n\n因为你出社会了，你看见身边人的爸爸妈妈是怎么疼孩子、怎么把孩子捧在手心上的。\n\n因为你当爸爸妈妈了，你才知道，那些难听的话，怎么舍得对自己的小孩说出口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12217,
+          "following_count": 3066,
+          "like_count": 39218,
+          "listed_count": 42,
+          "media_count": 4107,
+          "tweet_count": 21956
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

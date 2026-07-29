@@ -1,0 +1,247 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1804072373865582803",
+    "created_at": "2024-06-21T14:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T15:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804153043795259614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684550976760578048",
+          "start": 0,
+          "username": "saksamalah"
+        },
+        {
+          "end": 26,
+          "id": "1761706660329037824",
+          "start": 12,
+          "username": "MIKUloverrrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804153043795259614",
+    "in_reply_to_user_id": "1684550976760578048",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804149297354805709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah @MIKUloverrrrr 🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1804149297354805709].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1804149297354805709",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1804149297354805709"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1804072373865582803",
+        "created_at": "2024-06-21T14:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804153043795259614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684550976760578048",
+              "start": 0,
+              "username": "saksamalah"
+            },
+            {
+              "end": 26,
+              "id": "1761706660329037824",
+              "start": 12,
+              "username": "MIKUloverrrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804153043795259614",
+        "in_reply_to_user_id": "1684550976760578048",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804149297354805709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah @MIKUloverrrrr 🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1255,
+          "like_count": 9795,
+          "listed_count": 3,
+          "tweet_count": 5283
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T13:07:17.000Z",
+        "description": "Malaysia，country of malaysian, Not Only for Malays.👀=纯分享 反跨言论只是指部分不好的跨😘 ||老婆🤔：@hhhhhhhhhh68887\n秋明，大和，吴hh，苏鸿，@shuibpng1，邹zx\n|@M600_spitfire|亲@allknowbody",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "hhhhhhhhhh68887"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "shuibpng1"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "allknowbody"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wutong.tw",
+                "end": 23,
+                "expanded_url": "http://wutong.tw",
+                "start": 0,
+                "url": "https://t.co/bA3tkH15tb"
+              }
+            ]
+          }
+        },
+        "id": "1684550976760578048",
+        "location": " 红星常在 ",
+        "name": "［大好友跨卡慈］1969.5.13马来排华屠杀事件☭🇨🇳 淡推²",
+        "pinned_tweet_id": "1803803940070490462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802094074276757504/PfySJtEV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 993,
+          "like_count": 22145,
+          "listed_count": 1,
+          "tweet_count": 15665
+        },
+        "url": "https://t.co/bA3tkH15tb",
+        "username": "saksamalah",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T10:56:40.000Z",
+        "description": "历史和二次元爱好者，喜欢好好说话有必要认知的所有人。❤️🇨🇳❤️亲建制左翼 友好交流不论立场 排斥芝黑、殖人、封建保b | 🏳️‍🌈ALLY&非二元性别 stand with🇵🇸🇷🇺 厌烦没常识反智的人。小号@congniangmiku 好朋友@qinglongxiangmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "congniangmiku"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          }
+        },
+        "id": "1761706660329037824",
+        "location": "中华人民共和国PRC❤️",
+        "name": "葱娘酱miku赛高🇨🇳",
+        "pinned_tweet_id": "1803324783322443949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799075709375086592/MhWO5BRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 783,
+          "like_count": 39069,
+          "listed_count": 1,
+          "tweet_count": 10026
+        },
+        "username": "MIKUloverrrrr",
+        "verified": false
+      }
+    ]
+  }
+}

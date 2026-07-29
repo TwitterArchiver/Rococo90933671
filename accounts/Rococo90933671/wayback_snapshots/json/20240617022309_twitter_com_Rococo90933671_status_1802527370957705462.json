@@ -1,0 +1,371 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1802334467023090127",
+    "created_at": "2024-06-17T02:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T03:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802527370957705462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669537626779701248",
+          "start": 0,
+          "username": "SWANNEKO_128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802527370957705462",
+    "in_reply_to_user_id": "1669537626779701248",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802334467023090127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SWANNEKO_128 我也害怕虫子🥹\n至于鬼和血，那更多是出于本能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1802334467023090127",
+        "created_at": "2024-06-17T02:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T03:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802527370957705462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669537626779701248",
+              "start": 0,
+              "username": "SWANNEKO_128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802527370957705462",
+        "in_reply_to_user_id": "1669537626779701248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802334467023090127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SWANNEKO_128 我也害怕虫子🥹\n至于鬼和血，那更多是出于本能"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802334456298217472",
+            "3_1802334456294039553",
+            "3_1802334456398938112",
+            "3_1802334458932256768"
+          ]
+        },
+        "author_id": "1669537626779701248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1802334467023090127",
+        "created_at": "2024-06-16T13:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T14:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802334467023090127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dHM19nwA38",
+              "end": 110,
+              "expanded_url": "https://twitter.com/SWANNEKO_128/status/1802334467023090127/photo/1",
+              "media_key": "3_1802334456298217472",
+              "start": 87,
+              "url": "https://t.co/dHM19nwA38"
+            },
+            {
+              "display_url": "pic.twitter.com/dHM19nwA38",
+              "end": 110,
+              "expanded_url": "https://twitter.com/SWANNEKO_128/status/1802334467023090127/photo/1",
+              "media_key": "3_1802334456294039553",
+              "start": 87,
+              "url": "https://t.co/dHM19nwA38"
+            },
+            {
+              "display_url": "pic.twitter.com/dHM19nwA38",
+              "end": 110,
+              "expanded_url": "https://twitter.com/SWANNEKO_128/status/1802334467023090127/photo/1",
+              "media_key": "3_1802334456398938112",
+              "start": 87,
+              "url": "https://t.co/dHM19nwA38"
+            },
+            {
+              "display_url": "pic.twitter.com/dHM19nwA38",
+              "end": 110,
+              "expanded_url": "https://twitter.com/SWANNEKO_128/status/1802334467023090127/photo/1",
+              "media_key": "3_1802334458932256768",
+              "start": 87,
+              "url": "https://t.co/dHM19nwA38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802334467023090127",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是天鹅猫_SWANneko！\n我喜欢的东西：画画，搞oc，任天堂游戏（splatoon3，宝可梦，等等）maimai，听VOCALOID\n我害怕的东西：虫子，鬼，血 https://t.co/dHM19nwA38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1280,
+          "like_count": 8856,
+          "listed_count": 2,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T02:49:42.000Z",
+        "description": "斯普拉遁3｜スプラトゥーン3｜Splatoon3｜初音ミク｜ポケモン｜NINTENDO｜MAIMAI｜中文EnglishOK｜日本語勉強中｜(⁠●⁠’⁠3⁠)⁠♡⁠(⁠ε⁠`⁠●⁠)@0xSorrowRain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "0xSorrowRain"
+              }
+            ]
+          }
+        },
+        "id": "1669537626779701248",
+        "name": "SWANneko",
+        "pinned_tweet_id": "1802334467023090127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801985738600484864/NWnJUdll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 39,
+          "like_count": 78,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "username": "SWANNEKO_128",
+        "verified": false
+      }
+    ]
+  }
+}

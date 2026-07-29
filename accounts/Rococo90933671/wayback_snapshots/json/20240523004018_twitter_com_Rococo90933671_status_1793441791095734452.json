@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792779144520143294",
+    "created_at": "2024-05-23T00:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T01:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793441791095734452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1578382959173898243",
+          "start": 0,
+          "username": "afreexie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793441791095734452",
+    "in_reply_to_user_id": "1578382959173898243",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792779144520143294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afreexie 能给我一个fo吗，我很喜欢你的头像🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792779144520143294",
+        "created_at": "2024-05-23T00:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T01:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793441791095734452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1578382959173898243",
+              "start": 0,
+              "username": "afreexie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793441791095734452",
+        "in_reply_to_user_id": "1578382959173898243",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792779144520143294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afreexie 能给我一个fo吗，我很喜欢你的头像🤓☝️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1578382959173898243",
+        "conversation_id": "1792779144520143294",
+        "created_at": "2024-05-21T04:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T05:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792779144520143294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792779144520143294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1636,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的孩子们，我回来了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 611,
+          "like_count": 2382,
+          "listed_count": 0,
+          "tweet_count": 2314
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T13:53:27.000Z",
+        "description": "一般路过岁静喵~",
+        "id": "1578382959173898243",
+        "location": "马上就到你家门口",
+        "name": "一隻摸魚的屑🛠️-シロコ",
+        "pinned_tweet_id": "1773374321777365051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761313192922460160/kqq3v5Af_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1412,
+          "like_count": 3134,
+          "listed_count": 3,
+          "tweet_count": 2905
+        },
+        "username": "afreexie",
+        "verified": false
+      }
+    ]
+  }
+}

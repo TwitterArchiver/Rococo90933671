@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2027667646372872377",
+    "created_at": "2026-02-28T14:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027758472566390889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027758472566390889",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027667646372872377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 我逛超市，看到腊肉本来根本没什么，就是我们这里很平常的东西，结果因为玩了推，无法直视了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2027667643738779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO4-puacAAl_Hr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2212,
+        "media_key": "3_2027667639410298881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO4-ZmbEAEPgFa.jpg",
+        "width": 1660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2027667646372872377",
+        "created_at": "2026-02-28T14:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027758472566390889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027758472566390889",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027667646372872377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 我逛超市，看到腊肉本来根本没什么，就是我们这里很平常的东西，结果因为玩了推，无法直视了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027667643738779648",
+            "3_2027667639410298881"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2027667646372872377",
+        "created_at": "2026-02-28T08:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027667646372872377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91GacihUDs",
+              "end": 65,
+              "expanded_url": "https://x.com/wuerbangbang/status/2027667646372872377/photo/1",
+              "media_key": "3_2027667643738779648",
+              "start": 42,
+              "url": "https://t.co/91GacihUDs"
+            },
+            {
+              "display_url": "pic.x.com/91GacihUDs",
+              "end": 65,
+              "expanded_url": "https://x.com/wuerbangbang/status/2027667646372872377/photo/1",
+              "media_key": "3_2027667639410298881",
+              "start": 42,
+              "url": "https://t.co/91GacihUDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027667646372872377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4839,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看小外甥的脑筋急转弯，觉得自己的笑点已经变成狗屎一样了。哎卧槽支黑怎么这么坏啊😭。 https://t.co/91GacihUDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8632,
+          "following_count": 2347,
+          "like_count": 30443,
+          "listed_count": 25,
+          "media_count": 3240,
+          "tweet_count": 18268
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、旅游手工、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7287,
+          "following_count": 921,
+          "like_count": 11482,
+          "listed_count": 30,
+          "media_count": 2000,
+          "tweet_count": 6317
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

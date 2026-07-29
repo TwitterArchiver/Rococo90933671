@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1969349910962028570",
+    "created_at": "2025-09-20T11:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T12:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969365323477631489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3305178362",
+          "start": 0,
+          "username": "sym_yukine"
+        },
+        {
+          "end": 26,
+          "id": "1311243736429387776",
+          "start": 12,
+          "username": "yamatoseika_j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969365323477631489",
+    "in_reply_to_user_id": "3305178362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969363488717094958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sym_yukine @yamatoseika_j 啊，我初中班主任教英语的，警告我们最辣鸡的就是百度翻译（当时是2014年）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1969349910962028570",
+        "created_at": "2025-09-20T11:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969365323477631489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3305178362",
+              "start": 0,
+              "username": "sym_yukine"
+            },
+            {
+              "end": 26,
+              "id": "1311243736429387776",
+              "start": 12,
+              "username": "yamatoseika_j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969365323477631489",
+        "in_reply_to_user_id": "3305178362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969363488717094958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sym_yukine @yamatoseika_j 啊，我初中班主任教英语的，警告我们最辣鸡的就是百度翻译（当时是2014年）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3305178362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1969349910962028570",
+        "created_at": "2025-09-20T11:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969363488717094958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1311243736429387776",
+              "start": 0,
+              "username": "yamatoseika_j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969363488717094958",
+        "in_reply_to_user_id": "1311243736429387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969349910962028570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamatoseika_j 谷歌翻译很烂的，我日翻中要么百度翻译要么用AI翻译"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5630,
+          "following_count": 2202,
+          "like_count": 28288,
+          "listed_count": 19,
+          "media_count": 2677,
+          "tweet_count": 16229
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-03T13:30:33.000Z",
+        "description": "臭打游戏的，主要转发星铁、原神、崩3相关美图。\n不建政，不会回fo某些建政含量高的推油（但不妨碍日常互动）。\n会预防性拉黑看不顺眼的数字生命。",
+        "id": "3305178362",
+        "name": "希点鸭片",
+        "pinned_tweet_id": "1664605684607102977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763467664004198400/1gUYPlGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1262,
+          "like_count": 38838,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 12625
+        },
+        "username": "sym_yukine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-30T09:57:39.000Z",
+        "description": "ほぼ趣味垢。ホヨバ好き。崩壊3rd、崩壊スターレイルが大好き！！3rd二部最高だからやってほしい人。その他、原神とか崩壊学園、ペルソナとかゼルダ、FEも好き。スピッツ好き。カープファン堂林推し",
+        "id": "1311243736429387776",
+        "name": "大和星歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786604022629330944/TnVu-SsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 1220,
+          "like_count": 41556,
+          "listed_count": 5,
+          "media_count": 673,
+          "tweet_count": 5648
+        },
+        "username": "yamatoseika_j",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2027053391755784286",
+    "created_at": "2026-02-27T02:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027206280767840560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 26,
+          "id": "1388562729586229249",
+          "start": 11,
+          "username": "Schalemiyazagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20226…",
+          "end": 61,
+          "expanded_url": "https://x.com/i/status/2022609554308206643",
+          "start": 38,
+          "url": "https://t.co/zINZYOTH4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027206280767840560",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022609554308206643",
+        "type": "quoted"
+      },
+      {
+        "id": "2027053391755784286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @Schalemiyazagi 放个原视频在这里🤓\n\nhttps://t.co/zINZYOTH4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79969,
+        "height": 480,
+        "media_key": "13_2022609291937746945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022609291937746945/img/xeAwG7M0ehFOZllE.jpg",
+        "public_metrics": {
+          "view_count": 28245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609291937746945/vid/avc1/360x270/HjXlJ6ym_mSmqj79.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609291937746945/vid/avc1/480x360/ZbeOZjDwgymNyYtA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609291937746945/vid/avc1/640x480/BcsQgvAJI9hOByMe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022609291937746945/pl/FMG_G0P9RGz0wFrX.m3u8?tag=14&v=2c5"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 1224,
+        "media_key": "3_2027053384357048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGKUDNa8AARgHC.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2027053391755784286",
+        "created_at": "2026-02-27T02:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027206280767840560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 26,
+              "id": "1388562729586229249",
+              "start": 11,
+              "username": "Schalemiyazagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20226…",
+              "end": 61,
+              "expanded_url": "https://x.com/i/status/2022609554308206643",
+              "start": 38,
+              "url": "https://t.co/zINZYOTH4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027206280767840560",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022609554308206643",
+            "type": "quoted"
+          },
+          {
+            "id": "2027053391755784286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Schalemiyazagi 放个原视频在这里🤓\n\nhttps://t.co/zINZYOTH4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022609291937746945"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2022609554308206643",
+        "created_at": "2026-02-14T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022609554308206643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMLUwYZNpZ",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2022609554308206643/video/1",
+              "media_key": "13_2022609291937746945",
+              "start": 15,
+              "url": "https://t.co/TMLUwYZNpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022609554308206643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 96198,
+          "like_count": 510,
+          "quote_count": 16,
+          "reply_count": 32,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "爱蒋TV，蒋介石治疗失智老人 https://t.co/TMLUwYZNpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027053384357048320"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2027053391755784286",
+        "created_at": "2026-02-26T16:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027053391755784286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjaWq68hlH",
+              "end": 27,
+              "expanded_url": "https://x.com/Minokakay/status/2027053391755784286/photo/1",
+              "media_key": "3_2027053384357048320",
+              "start": 4,
+              "url": "https://t.co/BjaWq68hlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027053391755784286",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 36293,
+          "like_count": 354,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "😁😁😁 https://t.co/BjaWq68hlH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7789,
+          "following_count": 2258,
+          "like_count": 30244,
+          "listed_count": 22,
+          "media_count": 3227,
+          "tweet_count": 18204
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14059,
+          "following_count": 1066,
+          "like_count": 44118,
+          "listed_count": 52,
+          "media_count": 1734,
+          "tweet_count": 25251
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-01T18:35:43.000Z",
+        "description": "ᕕ(◠ڼ◠)ᕗ #ブルーアーカイブ 夏萊中級教師 永遠愛著 #小鳥遊ホシノ ||鐵道迷||飛友||一日不辱包，空中生荊棘 「國安部逮捕名單」稱號持續擁有中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 8,
+                "tag": "ブルーアーカイブ"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "小鳥遊ホシノ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miyazakioriic…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@miyazakioriichi",
+                "start": 0,
+                "url": "https://t.co/yfX65bTdZg"
+              }
+            ]
+          }
+        },
+        "id": "1388562729586229249",
+        "location": "日本国キヴォトス特別行政区シャーレ連邦捜査部",
+        "name": "みやざきおりいち先生",
+        "pinned_tweet_id": "2015821090560627010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004906309263785984/GkHsRzsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1246,
+          "like_count": 9337,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 8361
+        },
+        "url": "https://t.co/yfX65bTdZg",
+        "username": "Schalemiyazagi",
+        "verified": false
+      }
+    ]
+  }
+}

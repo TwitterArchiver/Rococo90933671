@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1793892028885213254",
+    "created_at": "2024-05-24T06:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T07:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793892746782236789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1582576763615383552",
+          "start": 0,
+          "username": "megurukim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793892746782236789",
+    "in_reply_to_user_id": "1582576763615383552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793892028885213254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@megurukim いや~僕がいない~嫌だね🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1793892028885213254",
+        "created_at": "2024-05-24T06:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793892746782236789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1582576763615383552",
+              "start": 0,
+              "username": "megurukim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793892746782236789",
+        "in_reply_to_user_id": "1582576763615383552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793892028885213254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@megurukim いや~僕がいない~嫌だね🥺"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793892017749274624"
+          ]
+        },
+        "author_id": "1582576763615383552",
+        "conversation_id": "1793892028885213254",
+        "created_at": "2024-05-24T06:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793892028885213254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Qq0z8gmeSI",
+              "end": 32,
+              "expanded_url": "https://twitter.com/megurukim/status/1793892028885213254/photo/1",
+              "media_key": "3_1793892017749274624",
+              "start": 9,
+              "url": "https://t.co/Qq0z8gmeSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793892028885213254",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近上推有些少… https://t.co/Qq0z8gmeSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 668,
+          "like_count": 2598,
+          "listed_count": 0,
+          "tweet_count": 2467
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "中国語, English, 日本語. ブルアカ、ピアノ、アニメが好き JPOP作曲者 ⭐️宇沢玲紗に、お任せください！⭐️ 日台友好！",
+        "id": "1582576763615383552",
+        "location": "Washington, DC",
+        "name": "迷人的小紗💤",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775803646183378944/U0eaeTwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1253,
+          "like_count": 32715,
+          "listed_count": 5,
+          "tweet_count": 5906
+        },
+        "username": "megurukim",
+        "verified": false
+      }
+    ]
+  }
+}

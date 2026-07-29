@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1791674170381844990",
+    "created_at": "2024-05-18T03:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T04:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791674830338846946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1330461853856751623",
+          "start": 0,
+          "username": "TruePoint11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791674830338846946",
+    "in_reply_to_user_id": "1330461853856751623",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791674170381844990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruePoint11 让我卖卖🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791674170381844990",
+        "created_at": "2024-05-18T03:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T04:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791674830338846946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1330461853856751623",
+              "start": 0,
+              "username": "TruePoint11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791674830338846946",
+        "in_reply_to_user_id": "1330461853856751623",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791674170381844990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruePoint11 让我卖卖🥵🥵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1330461853856751623",
+        "conversation_id": "1791674170381844990",
+        "created_at": "2024-05-18T03:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T04:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791674170381844990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791674170381844990",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖逼者，皆自由！\n晚安，宝子们❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见不站队/对跨圈友好/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 567,
+          "like_count": 1742,
+          "listed_count": 0,
+          "tweet_count": 1786
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T10:44:11.000Z",
+        "description": "加拿大母狗，诗人，雅逼文化缔造者，自由卖逼主义领袖/大号累了玩小号，盛雪另一面～",
+        "id": "1330461853856751623",
+        "location": "No.1 Maibi BLD, Toronto, CA",
+        "name": "盛雪❤️SHENG Xüe",
+        "pinned_tweet_id": "1593023269132984323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602575929011732481/-eus0j8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8758,
+          "following_count": 594,
+          "like_count": 5856,
+          "listed_count": 14,
+          "tweet_count": 7248
+        },
+        "username": "TruePoint11",
+        "verified": false
+      }
+    ]
+  }
+}

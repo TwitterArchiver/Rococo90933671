@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2080935684941189218",
+    "created_at": "2026-07-26T00:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081180245730967734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081180245730967734",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080935684941189218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya 据传也是为了反诈，我用我自己新开的邮箱创的号也被光速封了，但是用了很久的邮箱存活率就高一点。\n\n我的大号是2021年的，建号的时候梯子也不见得有多干净，但是一直没有事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2080935676963704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD3-RHb0AA1Yh6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2080935684941189218",
+        "created_at": "2026-07-26T00:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081180245730967734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081180245730967734",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080935684941189218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya 据传也是为了反诈，我用我自己新开的邮箱创的号也被光速封了，但是用了很久的邮箱存活率就高一点。\n\n我的大号是2021年的，建号的时候梯子也不见得有多干净，但是一直没有事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080935676963704832"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2080935684941189218",
+        "created_at": "2026-07-25T08:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080935684941189218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxlsk2vqnX",
+              "end": 42,
+              "expanded_url": "https://x.com/ffynya/status/2080935684941189218/photo/1",
+              "media_key": "3_2080935676963704832",
+              "start": 19,
+              "url": "https://t.co/sxlsk2vqnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080935684941189218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4565,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注册facebook账号被光速封号😅 https://t.co/sxlsk2vqnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13413,
+          "following_count": 3204,
+          "like_count": 44824,
+          "listed_count": 41,
+          "media_count": 4818,
+          "tweet_count": 24423
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜友跨🏳️‍⚧️｜人道主义者｜互关｜不od｜不改花刀｜心理正常｜170cm 50kg｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "地球",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互fo",
+        "pinned_tweet_id": "2080251790172504204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 347,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

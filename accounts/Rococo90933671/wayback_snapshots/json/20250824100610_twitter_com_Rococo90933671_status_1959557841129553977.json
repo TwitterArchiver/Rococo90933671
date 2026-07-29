@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1722072532939907528",
+    "created_at": "2025-08-24T10:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T11:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959557841129553977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        },
+        {
+          "end": 26,
+          "id": "1849254199592185856",
+          "start": 13,
+          "username": "carol1911902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959557841129553977",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1722072532939907528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping @carol1911902 看到他下一个号了，但是他在干什么"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [carol1911902].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "carol1911902",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "carol1911902"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_1722072525981753344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F-YH1qSaIAAC4uY.jpg",
+        "width": 640
+      },
+      {
+        "height": 701,
+        "media_key": "3_1722072529668587520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F-YH14BawAAYGcC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1722072532939907528",
+        "created_at": "2025-08-24T10:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T11:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959557841129553977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            },
+            {
+              "end": 26,
+              "id": "1849254199592185856",
+              "start": 13,
+              "username": "carol1911902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959557841129553977",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1722072532939907528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping @carol1911902 看到他下一个号了，但是他在干什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1722072525981753344",
+            "3_1722072529668587520"
+          ]
+        },
+        "author_id": "1699298317392580608",
+        "conversation_id": "1722072532939907528",
+        "created_at": "2023-11-08T02:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-08T03:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1722072532939907528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1849254199592185856",
+              "start": 19,
+              "username": "carol1911902"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDoambIadE",
+              "end": 152,
+              "expanded_url": "https://x.com/Ayane2304/status/1722072532939907528/photo/1",
+              "media_key": "3_1722072525981753344",
+              "start": 129,
+              "url": "https://t.co/pDoambIadE"
+            },
+            {
+              "display_url": "pic.x.com/pDoambIadE",
+              "end": 152,
+              "expanded_url": "https://x.com/Ayane2304/status/1722072532939907528/photo/1",
+              "media_key": "3_1722072529668587520",
+              "start": 129,
+              "url": "https://t.co/pDoambIadE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1722072532939907528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3366,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "同志们、朋友们：\n　　今天，我們的推友@carol1911902\n永遠停止了思考。\n　　我们懷著极其沉痛的心情悼念我们的 carol 同志。\n         carol 永垂不朽！\n         我們懷念ta!\n😭😭😭😭🙏🙏🙏🙏\n🕯️🕯️🕯️🕯️🕯️ https://t.co/pDoambIadE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5366,
+          "following_count": 2191,
+          "like_count": 27117,
+          "listed_count": 13,
+          "media_count": 2559,
+          "tweet_count": 15730
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "",
+        "id": "1699298317392580608",
+        "location": "需要回fo请留言",
+        "name": "👊🇨🇳🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958873762062811136/J3RBHi9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 673,
+          "like_count": 66242,
+          "listed_count": 4,
+          "media_count": 3858,
+          "tweet_count": 22495
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

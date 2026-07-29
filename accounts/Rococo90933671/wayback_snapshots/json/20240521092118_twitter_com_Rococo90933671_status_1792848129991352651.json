@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792848127814434816"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792848129991352651",
+    "created_at": "2024-05-21T09:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T10:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792848129991352651"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "清朝孔子",
+          "probability": 0.4845,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/sNKwZfjXnn",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1792848129991352651/photo/1",
+          "media_key": "3_1792848127814434816",
+          "start": 5,
+          "url": "https://t.co/sNKwZfjXnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792848129991352651",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清朝孔子 https://t.co/sNKwZfjXnn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 277,
+        "media_key": "3_1792848127814434816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOF535KagAAHyhZ.jpg",
+        "width": 277
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792848127814434816"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792848129991352651",
+        "created_at": "2024-05-21T09:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T10:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792848129991352651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "清朝孔子",
+              "probability": 0.4845,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sNKwZfjXnn",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1792848129991352651/photo/1",
+              "media_key": "3_1792848127814434816",
+              "start": 5,
+              "url": "https://t.co/sNKwZfjXnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792848129991352651",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清朝孔子 https://t.co/sNKwZfjXnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 573,
+          "like_count": 2225,
+          "listed_count": 0,
+          "tweet_count": 2172
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

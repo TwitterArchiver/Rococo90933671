@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1806040745935249609",
+    "created_at": "2024-06-27T04:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T05:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806182314504011973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799287887701450752",
+          "start": 0,
+          "username": "boyeofufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806182314504011973",
+    "in_reply_to_user_id": "1799287887701450752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806040745935249609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boyeofufu 你是我见过涨得最离谱的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1806040745935249609",
+        "created_at": "2024-06-27T04:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T05:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806182314504011973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799287887701450752",
+              "start": 0,
+              "username": "boyeofufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806182314504011973",
+        "in_reply_to_user_id": "1799287887701450752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806040745935249609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boyeofufu 你是我见过涨得最离谱的😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806040664309989376"
+          ]
+        },
+        "author_id": "1799287887701450752",
+        "conversation_id": "1806040745935249609",
+        "created_at": "2024-06-26T19:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T20:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806040745935249609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OqAyLg3qsn",
+              "end": 38,
+              "expanded_url": "https://twitter.com/boyeofufu/status/1806040745935249609/photo/1",
+              "media_key": "3_1806040664309989376",
+              "start": 15,
+              "url": "https://t.co/OqAyLg3qsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806040745935249609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过一夜的等待，终于可以睡了 https://t.co/OqAyLg3qsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1275,
+          "like_count": 10797,
+          "listed_count": 3,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T03:51:06.000Z",
+        "description": "防失联https://t.co/hw5iV4rvdV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/zhonghuifufu",
+                "end": 26,
+                "expanded_url": "https://twitter.com/zhonghuifufu",
+                "start": 3,
+                "url": "https://t.co/hw5iV4rvdV"
+              }
+            ]
+          }
+        },
+        "id": "1799287887701450752",
+        "location": "中南海",
+        "name": "伯约（推友寻回ing）",
+        "pinned_tweet_id": "1799289698558558707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802222990526169089/jxNTXi2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 196,
+          "like_count": 416,
+          "listed_count": 1,
+          "tweet_count": 484
+        },
+        "username": "boyeofufu",
+        "verified": false
+      }
+    ]
+  }
+}

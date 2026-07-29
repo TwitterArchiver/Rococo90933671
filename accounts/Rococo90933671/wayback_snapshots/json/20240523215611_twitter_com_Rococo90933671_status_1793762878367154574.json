@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1793702167939027058",
+    "created_at": "2024-05-23T21:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T22:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793762878367154574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775505096081825792",
+          "start": 0,
+          "username": "mzd1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793762878367154574",
+    "in_reply_to_user_id": "1775505096081825792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793702167939027058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzd1966 希望你说的是真的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1793702167939027058",
+        "created_at": "2024-05-23T21:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T22:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793762878367154574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775505096081825792",
+              "start": 0,
+              "username": "mzd1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793762878367154574",
+        "in_reply_to_user_id": "1775505096081825792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793702167939027058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzd1966 希望你说的是真的😂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1775505096081825792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1793702167939027058",
+        "created_at": "2024-05-23T17:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T18:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793702167939027058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hnbhger17/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Hnbhger17/status/1793457790612336735",
+              "start": 27,
+              "url": "https://t.co/x5PzXhH4Pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793702167939027058",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793457790612336735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来我的猜测是对的。习近平连任真正的原因就是要整台湾 https://t.co/x5PzXhH4Pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 652,
+          "like_count": 2537,
+          "listed_count": 0,
+          "tweet_count": 2425
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T12:46:27.000Z",
+        "description": "欢迎互fo/实事求是/毛泽东思想拯救世界/只要你反大活蛆，我们就是同志/大号@aoxiongdiguo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "aoxiongdiguo2"
+              }
+            ]
+          }
+        },
+        "id": "1775505096081825792",
+        "location": "香翅捞饭",
+        "name": "于兆力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787902204353069057/Qznk2as2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 543,
+          "like_count": 3413,
+          "listed_count": 2,
+          "tweet_count": 1794
+        },
+        "username": "mzd1966",
+        "verified": false
+      }
+    ]
+  }
+}

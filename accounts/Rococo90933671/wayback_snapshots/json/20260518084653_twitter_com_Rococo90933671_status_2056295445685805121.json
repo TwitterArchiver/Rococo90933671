@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2056014574306873608",
+    "created_at": "2026-05-18T08:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056295445685805121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056295445685805121",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056014574306873608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 逃过一劫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2797,
+        "media_key": "3_2056014515439869952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhuTv3XIAAzTw7.jpg",
+        "width": 1800
+      },
+      {
+        "height": 2780,
+        "media_key": "3_2056014533219495936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhuUyGWsAAI47b.jpg",
+        "width": 1800
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2056014546234462208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhuVilXUAAvvaZ.jpg",
+        "width": 1800
+      },
+      {
+        "height": 2677,
+        "media_key": "3_2056014560830582784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhuWY9WcAAbbRg.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2056014574306873608",
+        "created_at": "2026-05-18T08:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056295445685805121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056295445685805121",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056014574306873608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 逃过一劫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056014515439869952",
+            "3_2056014533219495936",
+            "3_2056014546234462208",
+            "3_2056014560830582784"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2056014574306873608",
+        "created_at": "2026-05-17T14:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056014574306873608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84B0mkX6no",
+              "end": 39,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2056014574306873608/photo/1",
+              "media_key": "3_2056014515439869952",
+              "start": 16,
+              "url": "https://t.co/84B0mkX6no"
+            },
+            {
+              "display_url": "pic.x.com/84B0mkX6no",
+              "end": 39,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2056014574306873608/photo/1",
+              "media_key": "3_2056014533219495936",
+              "start": 16,
+              "url": "https://t.co/84B0mkX6no"
+            },
+            {
+              "display_url": "pic.x.com/84B0mkX6no",
+              "end": 39,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2056014574306873608/photo/1",
+              "media_key": "3_2056014546234462208",
+              "start": 16,
+              "url": "https://t.co/84B0mkX6no"
+            },
+            {
+              "display_url": "pic.x.com/84B0mkX6no",
+              "end": 39,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2056014574306873608/photo/1",
+              "media_key": "3_2056014560830582784",
+              "start": 16,
+              "url": "https://t.co/84B0mkX6no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056014574306873608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2831,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "封了一大批人，时间线终于干净了 https://t.co/84B0mkX6no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11574,
+          "following_count": 3049,
+          "like_count": 38345,
+          "listed_count": 38,
+          "media_count": 4000,
+          "tweet_count": 21578
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "花开花落花不语，人来人往客如云",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "Wellington † Pixel",
+        "pinned_tweet_id": "2056005641123070417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055242704154460161/dHMrnrWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 4262,
+          "like_count": 18021,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

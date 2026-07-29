@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1883492266893103202",
+    "created_at": "2025-01-26T14:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T15:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883520307639844875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883520307639844875",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883517149760917550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP 抱歉可能会揭你伤疤，就是想问下，你被丢过东西吗？这是一种赤裸裸的边界侵犯，我真的无法原谅，特别是在自己如今最脆弱的这段时期。所以我甚至在那篇推里直接祝自己的亲爹早日那啥，我真的气坏了。\n发了这么一段可能让你不舒服的话，抱歉了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883517149760917550].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883517149760917550",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883517149760917550"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1883492266893103202",
+        "created_at": "2025-01-26T14:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883520307639844875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883520307639844875",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883517149760917550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP 抱歉可能会揭你伤疤，就是想问下，你被丢过东西吗？这是一种赤裸裸的边界侵犯，我真的无法原谅，特别是在自己如今最脆弱的这段时期。所以我甚至在那篇推里直接祝自己的亲爹早日那啥，我真的气坏了。\n发了这么一段可能让你不舒服的话，抱歉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 2096,
+          "like_count": 21830,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 12213
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/理論學習中/И снег, и ветер,И звёзд ночной полёт 聽風雪喧嚷，看夜空流星飛翔/Ні капітуляції!",
+        "id": "1232837627939676160",
+        "location": "北俄罗斯解放阵线 阿尔汉格尔斯克",
+        "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
+        "pinned_tweet_id": "1881755792875078132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867740910626516996/k6X_4_j8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1886,
+          "like_count": 103710,
+          "listed_count": 17,
+          "media_count": 3325,
+          "tweet_count": 18061
+        },
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      }
+    ]
+  }
+}

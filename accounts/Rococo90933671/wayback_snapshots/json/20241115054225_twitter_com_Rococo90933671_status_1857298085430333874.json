@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1857287613847318959",
+    "created_at": "2024-11-15T05:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T06:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857298085430333874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773643005532020736",
+          "start": 0,
+          "username": "wcecya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857298085430333874",
+    "in_reply_to_user_id": "1773643005532020736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857287613847318959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcecya 你发了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1857287613847318959",
+        "created_at": "2024-11-15T05:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T06:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857298085430333874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773643005532020736",
+              "start": 0,
+              "username": "wcecya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857298085430333874",
+        "in_reply_to_user_id": "1773643005532020736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857287613847318959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcecya 你发了什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857287611100094464"
+          ]
+        },
+        "author_id": "1773643005532020736",
+        "conversation_id": "1857287613847318959",
+        "created_at": "2024-11-15T05:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T06:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857287613847318959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54bAHGowfS",
+              "end": 35,
+              "expanded_url": "https://x.com/wcecya/status/1857287613847318959/photo/1",
+              "media_key": "3_1857287611100094464",
+              "start": 12,
+              "url": "https://t.co/54bAHGowfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857287613847318959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这 qq 就不让我用了 https://t.co/54bAHGowfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 1921,
+          "like_count": 17894,
+          "listed_count": 5,
+          "tweet_count": 10079
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T09:27:03.000Z",
+        "description": "一块二刺螈扣扣代码炼铜喜欢电音的不可回收垃圾丨没法跟粉区支黑对线丨对线我第一个把自己扔垃圾桶丨想要消灭所有大欧派丨 纯纯乐天派丨好想空出时间推 gal丨友跨🏳️‍⚧️丨迫真日常系黄推丨缘分到了就回 fo 🥺，或者二刺螈私信我回 fo 🥺\n\n Minecraft Mod 开发大咕咕，下面网站在施工🚧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wcgal.xyz",
+                "end": 23,
+                "expanded_url": "http://wcgal.xyz",
+                "start": 0,
+                "url": "https://t.co/zLhBO87zNa"
+              }
+            ]
+          }
+        },
+        "id": "1773643005532020736",
+        "location": "2.5次元",
+        "name": "迷人的二次元🥵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835535314913501184/DJ7LhgIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 181,
+          "like_count": 1928,
+          "listed_count": 0,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/zLhBO87zNa",
+        "username": "wcecya",
+        "verified": false
+      }
+    ]
+  }
+}

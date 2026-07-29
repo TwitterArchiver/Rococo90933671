@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1915362068523606338",
+    "created_at": "2025-04-24T13:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T14:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915405297222631791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "kleekawaii521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915405297222631791",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915362068523606338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kleekawaii521 美元这个价让我觉得是在抢钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_1915361312164765703",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS69yQbYAcUIu8.jpg",
+        "width": 1093
+      },
+      {
+        "height": 940,
+        "media_key": "3_1915361312194125826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS69yXbYAIsuMm.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1015,
+        "media_key": "3_1915361312164765697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS69yQbYAEwpQ3.jpg",
+        "width": 1096
+      },
+      {
+        "height": 810,
+        "media_key": "3_1915361312177348608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpS69yTbYAAZDLv.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1915362068523606338",
+        "created_at": "2025-04-24T13:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915405297222631791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "kleekawaii521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915405297222631791",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915362068523606338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kleekawaii521 美元这个价让我觉得是在抢钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915361312164765703",
+            "3_1915361312194125826",
+            "3_1915361312164765697",
+            "3_1915361312177348608"
+          ]
+        },
+        "author_id": "1858763452732633090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1915362068523606338",
+        "created_at": "2025-04-24T11:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915362068523606338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0ZYm5IbfL",
+              "end": 84,
+              "expanded_url": "https://x.com/kleekawaii521/status/1915362068523606338/photo/1",
+              "media_key": "3_1915361312164765703",
+              "start": 61,
+              "url": "https://t.co/L0ZYm5IbfL"
+            },
+            {
+              "display_url": "pic.x.com/L0ZYm5IbfL",
+              "end": 84,
+              "expanded_url": "https://x.com/kleekawaii521/status/1915362068523606338/photo/1",
+              "media_key": "3_1915361312194125826",
+              "start": 61,
+              "url": "https://t.co/L0ZYm5IbfL"
+            },
+            {
+              "display_url": "pic.x.com/L0ZYm5IbfL",
+              "end": 84,
+              "expanded_url": "https://x.com/kleekawaii521/status/1915362068523606338/photo/1",
+              "media_key": "3_1915361312164765697",
+              "start": 61,
+              "url": "https://t.co/L0ZYm5IbfL"
+            },
+            {
+              "display_url": "pic.x.com/L0ZYm5IbfL",
+              "end": 84,
+              "expanded_url": "https://x.com/kleekawaii521/status/1915362068523606338/photo/1",
+              "media_key": "3_1915361312177348608",
+              "start": 61,
+              "url": "https://t.co/L0ZYm5IbfL"
+            },
+            {
+              "display_url": "x.com/howie_serious/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/howie_serious/status/1915208919829631113",
+              "start": 85,
+              "url": "https://t.co/OBh81ECWHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915362068523606338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915208919829631113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来都非常心动，准备氪金了，但还是请Gemini教授看了一下，不要冲动消费。结果是我这人比较听劝，遂决定不氪，徐徐图之。 https://t.co/L0ZYm5IbfL https://t.co/OBh81ECWHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4722,
+          "following_count": 2149,
+          "like_count": 24117,
+          "listed_count": 10,
+          "media_count": 2024,
+          "tweet_count": 13729
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "CS | Interested in mathematics | Optimistic reader",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.m.wikipedia.org/wiki/Genshin_I…",
+                "end": 23,
+                "expanded_url": "https://en.m.wikipedia.org/wiki/Genshin_Impact",
+                "start": 0,
+                "url": "https://t.co/w6iYPrTVaJ"
+              }
+            ]
+          }
+        },
+        "id": "1858763452732633090",
+        "location": "California, USA",
+        "name": "kleekwaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759709844086785/7eS_iZEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 109,
+          "like_count": 3743,
+          "listed_count": 5,
+          "media_count": 88,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/w6iYPrTVaJ",
+        "username": "kleekawaii521",
+        "verified": false
+      }
+    ]
+  }
+}

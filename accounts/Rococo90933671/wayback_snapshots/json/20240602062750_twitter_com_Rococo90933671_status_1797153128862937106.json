@@ -1,0 +1,477 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1797151550353428867",
+    "created_at": "2024-06-02T06:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T07:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797153128862937106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761706660329037824",
+          "start": 0,
+          "username": "MIKUloverrrrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yourdadscolt/s…",
+          "end": 61,
+          "expanded_url": "https://x.com/yourdadscolt/status/1794944541000339594?t=SGPP6wZJbv1z-Iqy67abaA&s=19",
+          "start": 38,
+          "url": "https://t.co/PFUJBCBpbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797153128862937106",
+    "in_reply_to_user_id": "1761706660329037824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794944541000339594",
+        "type": "quoted"
+      },
+      {
+        "id": "1797151550353428867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUloverrrrr 确实不可接受，过于下作了\n阴暗belike：\nhttps://t.co/PFUJBCBpbd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1797151550353428867",
+        "created_at": "2024-06-02T06:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797153128862937106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761706660329037824",
+              "start": 0,
+              "username": "MIKUloverrrrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yourdadscolt/s…",
+              "end": 61,
+              "expanded_url": "https://x.com/yourdadscolt/status/1794944541000339594?t=SGPP6wZJbv1z-Iqy67abaA&s=19",
+              "start": 38,
+              "url": "https://t.co/PFUJBCBpbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797153128862937106",
+        "in_reply_to_user_id": "1761706660329037824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794944541000339594",
+            "type": "quoted"
+          },
+          {
+            "id": "1797151550353428867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUloverrrrr 确实不可接受，过于下作了\n阴暗belike：\nhttps://t.co/PFUJBCBpbd"
+      },
+      {
+        "attachments": {},
+        "author_id": "1686596112382349312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1794321796847800738",
+        "created_at": "2024-05-27T04:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794944541000339594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 27,
+              "id": "1555577720482168832",
+              "start": 16,
+              "username": "yvonne_pai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794944541000339594",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794590739491701146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @yvonne_pai 原神？难怪"
+      },
+      {
+        "attachments": {},
+        "author_id": "1761706660329037824",
+        "conversation_id": "1797151550353428867",
+        "created_at": "2024-06-02T06:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797151550353428867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/GNJc8K",
+              "end": 40,
+              "expanded_url": "http://xhslink.com/GNJc8K",
+              "start": 17,
+              "unwound_url": "https://www.xiaohongshu.com/website-login/error?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F665bf456000000000f00c67b%3Fapp_platform%3Dios%26app_version%3D8.38%26share_from_user_hidden%3Dtrue%26type%3Dnormal%26author_share%3D1%26xhsshare%3DCopyLink%26shareRedId%3DODo7ODM8Ojk2NzUyOTgwNjc0OTc1OzhC%26apptime%3D1717309250&error_code=300015&error_msg=%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BC%82%E5%B8%B8%EF%BC%8C%E8%AF%B7%E5%B0%9D%E8%AF%95%E5%85%B3%E9%97%AD%2F%E5%8D%B8%E8%BD%BD%E9%A3%8E%E9%99%A9%E6%8F%92%E4%BB%B6%E6%88%96%E9%87%8D%E5%90%AF%E8%AF%95%E8%AF%95",
+              "url": "https://t.co/KPzUjts4GK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797151550353428867",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毁坏侮辱他人作品的行为不可接受。\nhttps://t.co/KPzUjts4GK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 903,
+          "like_count": 5026,
+          "listed_count": 1,
+          "tweet_count": 3435
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T10:56:40.000Z",
+        "description": "历史和二次元爱好者，喜欢好好说话有必要认知的所有人。❤️🇨🇳❤️亲建制左翼 友好交流不论立场 谢绝殖黑、极端亲西方、洋奴。反封建老保 🏳️‍🌈&ALLY&非二元性别 stand with🇵🇸🇷🇺 痛击反常识反智者。小号@congniangmiku 好朋友@qinglongxiangmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "congniangmiku"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          }
+        },
+        "id": "1761706660329037824",
+        "location": "中华人民共和国PRC❤️",
+        "name": "葱娘酱miku赛高🇨🇳",
+        "pinned_tweet_id": "1797089045899821166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791833972416319488/Kth-4bIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 658,
+          "like_count": 30140,
+          "listed_count": 1,
+          "tweet_count": 8014
+        },
+        "username": "MIKUloverrrrr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T04:33:49.000Z",
+        "description": "劣畜殖人观察爱好者",
+        "id": "1686596112382349312",
+        "name": "老王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686668859196211200/6XTP1-Ef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 80,
+          "like_count": 109,
+          "listed_count": 1,
+          "tweet_count": 575
+        },
+        "username": "yourdadscolt",
+        "verified": false
+      }
+    ]
+  }
+}

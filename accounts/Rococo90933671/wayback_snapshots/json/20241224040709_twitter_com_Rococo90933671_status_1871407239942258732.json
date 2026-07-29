@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1871404288116929001",
+    "created_at": "2024-12-24T04:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T05:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871407239942258732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_Nht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871407239942258732",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871404288116929001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_Nht 我觉得这是以偏概全，把一些人干的坏事责怪到整个宗教上"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1871404288116929001].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1871404288116929001",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1871404288116929001"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1871404288116929001",
+        "created_at": "2024-12-24T04:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T05:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871407239942258732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_Nht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871407239942258732",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871404288116929001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_Nht 我觉得这是以偏概全，把一些人干的坏事责怪到整个宗教上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3056,
+          "following_count": 1977,
+          "like_count": 19956,
+          "listed_count": 5,
+          "media_count": 1417,
+          "tweet_count": 11102
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "我并不想把时间浪费在推特上。性情乖僻，信奉天主教，平凡人。当生活不如意时便只能寄希望于异世界。生活推，岁静状态，严禁键政。不欢迎陌生人，懒得吵架对线，一律拉黑和挂所遇到的诈骗机器人、喷子、黄推、广告推、恶意账户、冒仿账户、乞讨账户与各类三无账户，也包括了对着我恶意键政的用户🚫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinacatholic.cn",
+                "end": 23,
+                "expanded_url": "https://www.chinacatholic.cn",
+                "start": 0,
+                "url": "https://t.co/ShcYO1ld2e"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "上海市",
+        "name": "圣座·冬日雪莲✝️⛪🍼🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870828789405765632/ZN0_dV_F_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 746,
+          "like_count": 60956,
+          "listed_count": 1,
+          "media_count": 1295,
+          "tweet_count": 7736
+        },
+        "url": "https://t.co/ShcYO1ld2e",
+        "username": "Starry_Sand_Nht",
+        "verified": false
+      }
+    ]
+  }
+}

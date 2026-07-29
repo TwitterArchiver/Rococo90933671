@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1799573889988571611",
+    "created_at": "2024-06-09T00:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T01:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799604774767296898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634964413420560385",
+          "start": 0,
+          "username": "shuibpng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799604774767296898",
+    "in_reply_to_user_id": "1634964413420560385",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799573889988571611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuibpng1 Just one last dance~\nBefore we say goodbye~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1799573889988571611",
+        "created_at": "2024-06-09T00:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T01:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799604774767296898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634964413420560385",
+              "start": 0,
+              "username": "shuibpng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799604774767296898",
+        "in_reply_to_user_id": "1634964413420560385",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799573889988571611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuibpng1 Just one last dance~\nBefore we say goodbye~"
+      },
+      {
+        "attachments": {},
+        "author_id": "1634964413420560385",
+        "conversation_id": "1799573889988571611",
+        "created_at": "2024-06-08T22:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T23:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799573889988571611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799573889988571611",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一舞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1016,
+          "like_count": 6545,
+          "listed_count": 2,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T17:07:56.000Z",
+        "description": "你好，休息一下吧，不要落入了无止境的争吵了",
+        "id": "1634964413420560385",
+        "location": "中华人民共和国",
+        "name": "帅逼鹏",
+        "pinned_tweet_id": "1783937664653123629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783539747190628352/hUpGIjNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 194,
+          "like_count": 30759,
+          "listed_count": 1,
+          "tweet_count": 2114
+        },
+        "username": "shuibpng1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1862522646325600691",
+    "created_at": "2024-11-29T15:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T16:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862524639228174834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1517937189224472576",
+          "start": 0,
+          "username": "miorine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862524639228174834",
+    "in_reply_to_user_id": "1517937189224472576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862522646325600691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miorine_8964 现在注意到了🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1862522646325600691].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1862522646325600691",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1862522646325600691"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1862522646325600691",
+        "created_at": "2024-11-29T15:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T16:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862524639228174834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517937189224472576",
+              "start": 0,
+              "username": "miorine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862524639228174834",
+        "in_reply_to_user_id": "1517937189224472576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862522646325600691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miorine_8964 现在注意到了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|从不主动b任何人|b只为记录谁先b了我|大家都是朋友|欢迎找中间人沟通互相解b❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 1938,
+          "like_count": 18531,
+          "listed_count": 5,
+          "media_count": 1259,
+          "tweet_count": 10420
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T18:43:37.000Z",
+        "description": "已润｜爱中TV｜共产党～LOVE｜🚪¥3000w",
+        "id": "1517937189224472576",
+        "name": "网友仁顺菜",
+        "pinned_tweet_id": "1847477533035340127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855089932835926017/F2lPyRRU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 11293
+        },
+        "username": "miorine_8964",
+        "verified": false
+      }
+    ]
+  }
+}

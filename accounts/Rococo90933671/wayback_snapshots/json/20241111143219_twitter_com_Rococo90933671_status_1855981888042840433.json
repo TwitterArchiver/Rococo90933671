@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "1855942139106005348",
+    "created_at": "2024-11-11T14:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T15:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855981888042840433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        },
+        {
+          "end": 30,
+          "id": "1837566102723088385",
+          "start": 17,
+          "username": "Cloudier0177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855981888042840433",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855944527627849889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 @Cloudier0177 即使是这样，我CPU也烧了……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855944527627849889].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855944527627849889",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855944527627849889"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1855942139106005348",
+        "created_at": "2024-11-11T14:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T15:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855981888042840433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 30,
+              "id": "1837566102723088385",
+              "start": 17,
+              "username": "Cloudier0177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855981888042840433",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855944527627849889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 @Cloudier0177 即使是这样，我CPU也烧了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 1888,
+          "like_count": 17377,
+          "listed_count": 5,
+          "tweet_count": 9821
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "@lumuyuanMadoka 的转生号——————————————————————\n日常推\n———————————————————\n小圆本体(非我)@MIKUMagic39C5BB\nお兄ちゃん@kxk1388574",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lumuyuanMadoka"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "MIKUMagic39C5BB"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "kxk1388574"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "name": "鹿目圆○",
+        "pinned_tweet_id": "1855946057726751094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827543213004976128/lVapjAZL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 176,
+          "like_count": 3233,
+          "listed_count": 0,
+          "tweet_count": 1223
+        },
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T18:54:44.000Z",
+        "description": "万能精神病记事簿ver2.0       \nTouhou/无性恋/岁月静好             \n新号互fo～原@cloudier0138569",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "cloudier0138569"
+              }
+            ]
+          }
+        },
+        "id": "1837566102723088385",
+        "name": "三日月歸雲🌧️",
+        "pinned_tweet_id": "1854255159091826791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837801262521503744/e9ur8-Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 250,
+          "like_count": 118,
+          "listed_count": 0,
+          "tweet_count": 597
+        },
+        "username": "Cloudier0177",
+        "verified": false
+      }
+    ]
+  }
+}

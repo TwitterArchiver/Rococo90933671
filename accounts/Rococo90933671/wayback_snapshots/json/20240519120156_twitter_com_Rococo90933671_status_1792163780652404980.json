@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792131011566031240",
+    "created_at": "2024-05-19T12:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T13:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792163780652404980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1294881385811832832",
+          "start": 0,
+          "username": "Yukikitsunechan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792163780652404980",
+    "in_reply_to_user_id": "1294881385811832832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792131011566031240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukikitsunechan 你的follower就不能穿了吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792131011566031240",
+        "created_at": "2024-05-19T12:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T13:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792163780652404980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1294881385811832832",
+              "start": 0,
+              "username": "Yukikitsunechan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792163780652404980",
+        "in_reply_to_user_id": "1294881385811832832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792131011566031240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukikitsunechan 你的follower就不能穿了吗🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1294881385811832832",
+        "conversation_id": "1792131011566031240",
+        "created_at": "2024-05-19T09:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T10:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792131011566031240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792131011566031240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1110,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "白丝很好，建议我的following 都穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 631,
+          "like_count": 1980,
+          "listed_count": 0,
+          "tweet_count": 1959
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T06:19:29.000Z",
+        "description": "404 NOT FOUND",
+        "id": "1294881385811832832",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1790955072467485015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791274606499880960/UMwLHYoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 80,
+          "like_count": 21553,
+          "listed_count": 2,
+          "tweet_count": 54
+        },
+        "username": "Yukikitsunechan",
+        "verified": false
+      }
+    ]
+  }
+}

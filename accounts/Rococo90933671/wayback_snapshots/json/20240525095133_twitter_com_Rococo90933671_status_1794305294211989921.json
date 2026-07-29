@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1794288879866105908",
+    "created_at": "2024-05-25T09:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T10:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794305294211989921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794305294211989921",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794288879866105908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 《小动物》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1794288879866105908",
+        "created_at": "2024-05-25T09:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T10:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794305294211989921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794305294211989921",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794288879866105908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 《小动物》"
+      },
+      {
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1794288879866105908",
+        "created_at": "2024-05-25T08:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T09:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794288879866105908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794288879866105908",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们为什么那么喜欢抽象？\n大象🐘明明那么可爱。\n\n别抽🐘了，好吗？\n\n要爱护小动物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 705,
+          "like_count": 2894,
+          "listed_count": 0,
+          "tweet_count": 2622
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "幻想を信じて、今年も宜しくお願い致します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timegrass.gitee.io/time-grass",
+                "end": 23,
+                "expanded_url": "http://www.timegrass.gitee.io/time-grass",
+                "start": 0,
+                "url": "https://t.co/lzBpJvfXHK"
+              }
+            ]
+          }
+        },
+        "id": "1054322364870246400",
+        "location": "無言フォロー失礼します / フォローバ100%",
+        "name": "Mr.What🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792262743040679936/hI0vec-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1334,
+          "like_count": 22659,
+          "listed_count": 1,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/lzBpJvfXHK",
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

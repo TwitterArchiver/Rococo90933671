@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1858799518298595820",
+    "created_at": "2024-11-19T16:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T17:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858908750469619830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Erica14476"
+        },
+        {
+          "end": 24,
+          "id": "1622346900824522752",
+          "start": 12,
+          "username": "Miatta_Leon"
+        },
+        {
+          "end": 35,
+          "id": "1802228543989878784",
+          "start": 25,
+          "username": "GPCR_1967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858908750469619830",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858908515332747390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erica14476 @Miatta_Leon @GPCR_1967 那应该是我肤浅了，我指的是推文右下角的数字"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858908515332747390].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858908515332747390",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858908515332747390"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1858799518298595820",
+        "created_at": "2024-11-19T16:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T17:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858908750469619830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Erica14476"
+            },
+            {
+              "end": 24,
+              "id": "1622346900824522752",
+              "start": 12,
+              "username": "Miatta_Leon"
+            },
+            {
+              "end": 35,
+              "id": "1802228543989878784",
+              "start": 25,
+              "username": "GPCR_1967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858908750469619830",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858908515332747390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erica14476 @Miatta_Leon @GPCR_1967 那应该是我肤浅了，我指的是推文右下角的数字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 1956,
+          "like_count": 18410,
+          "listed_count": 5,
+          "tweet_count": 10307
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "",
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "Erica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850462519397326848/IcIp5dx4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 3856,
+          "like_count": 192082,
+          "listed_count": 4,
+          "tweet_count": 6569
+        },
+        "username": "Erica14476",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "location": "香港",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 3569,
+          "like_count": 155559,
+          "listed_count": 6,
+          "tweet_count": 26826
+        },
+        "username": "Miatta_Leon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T06:35:55.000Z",
+        "description": "是二次元害了你吗？",
+        "id": "1802228543989878784",
+        "location": "朱加什维利格勒 反二次元笑话社",
+        "name": "朱加什维利格勒广播台",
+        "pinned_tweet_id": "1809162912134771024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814305452668370944/ObuxiRmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 200,
+          "like_count": 4414,
+          "listed_count": 4,
+          "tweet_count": 1804
+        },
+        "username": "GPCR_1967",
+        "verified": false
+      }
+    ]
+  }
+}

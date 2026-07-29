@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1905897203685605628",
+    "created_at": "2025-03-29T09:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T10:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905921339833332059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843131527351394304",
+          "start": 0,
+          "username": "xu244986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905921339833332059",
+    "in_reply_to_user_id": "1843131527351394304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905920871853855128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu244986 我倒是都差了好多分"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905920871853855128].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905920871853855128",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905920871853855128"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1905897203685605628",
+        "created_at": "2025-03-29T09:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905921339833332059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843131527351394304",
+              "start": 0,
+              "username": "xu244986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905921339833332059",
+        "in_reply_to_user_id": "1843131527351394304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905920871853855128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu244986 我倒是都差了好多分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 2135,
+          "like_count": 23639,
+          "listed_count": 10,
+          "media_count": 1899,
+          "tweet_count": 13304
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T03:29:45.000Z",
+        "description": "安石得政，行新法，光逆疏其利害。迩英进读，至曹参代萧何事，帝曰：汉常守萧何之法不变，可乎？对曰：宁独汉也，使三代之君常守禹、汤、文、武之法，虽至今存可也。汉武取高帝约束纷更，盗贼半天下；元帝改孝宣之政，汉业遂衰。由此言之，祖宗之法不可变也。（进步逼： @shan80799）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "shan80799"
+              }
+            ]
+          }
+        },
+        "id": "1843131527351394304",
+        "location": "大宋东京开封府",
+        "name": "宋丞相温国司马文正公Caswerlebel",
+        "pinned_tweet_id": "1895025671954669712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843719602406338561/wFI3qtKt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 194,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 532
+        },
+        "username": "xu244986",
+        "verified": false
+      }
+    ]
+  }
+}

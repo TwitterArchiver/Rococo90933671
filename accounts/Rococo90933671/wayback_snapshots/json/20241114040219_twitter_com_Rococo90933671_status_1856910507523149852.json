@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1856603630771802280",
+    "created_at": "2024-11-14T04:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856910507523149852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856910507523149852",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856603630771802280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1856603630771802280",
+        "created_at": "2024-11-14T04:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856910507523149852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856910507523149852",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856603630771802280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856603479063822336"
+          ]
+        },
+        "author_id": "1818107582117994496",
+        "conversation_id": "1856603630771802280",
+        "created_at": "2024-11-13T07:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856603630771802280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njrkW8qLrX",
+              "end": 56,
+              "expanded_url": "https://x.com/CypressAlbert/status/1856603630771802280/photo/1",
+              "media_key": "3_1856603479063822336",
+              "start": 33,
+              "url": "https://t.co/njrkW8qLrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856603630771802280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27221,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个快乐的小孩怎么也不会想到十年之后ta会变成一具半死不活的尸体 https://t.co/njrkW8qLrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 1899,
+          "like_count": 17582,
+          "listed_count": 5,
+          "tweet_count": 9959
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂但是不是正常人|分裂情感性障碍|将死之人|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|可以称呼我为姐哥吗|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/DABgbQ6vuqF/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/DABgbQ6vuqF/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "start": 0,
+                "url": "https://t.co/2DAglc5VjK"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1848292910501867732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 488,
+          "like_count": 5763,
+          "listed_count": 1,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/2DAglc5VjK",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

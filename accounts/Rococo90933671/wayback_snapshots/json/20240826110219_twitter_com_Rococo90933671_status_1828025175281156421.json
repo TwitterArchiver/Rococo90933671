@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828023219011703183",
+    "created_at": "2024-08-26T11:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828025175281156421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1709492459011801088",
+          "start": 0,
+          "username": "winniexi2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828025175281156421",
+    "in_reply_to_user_id": "1709492459011801088",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828023219011703183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winniexi2952 1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1828023219011703183].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1828023219011703183",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1828023219011703183"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828023219011703183",
+        "created_at": "2024-08-26T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828025175281156421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709492459011801088",
+              "start": 0,
+              "username": "winniexi2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828025175281156421",
+        "in_reply_to_user_id": "1709492459011801088",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828023219011703183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winniexi2952 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1634,
+          "like_count": 14585,
+          "listed_count": 2,
+          "tweet_count": 7674
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T08:55:48.000Z",
+        "description": "/温和支黑，支性可改///私信互fo🎉/包蜜8级/成分复杂中/乳華內容注意💔/对线注意🔥/最爱的活动是赛博斗蛆蛆/生活小号推： @winniexjp2952",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "winniexjp2952"
+              }
+            ]
+          }
+        },
+        "id": "1709492459011801088",
+        "location": "IP属地：404",
+        "name": "一只噗噗熊（镇魂曲版）",
+        "pinned_tweet_id": "1807693890025402765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828021162326249472/SQ7-Qrl__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 723,
+          "like_count": 7767,
+          "listed_count": 6,
+          "tweet_count": 2897
+        },
+        "username": "winniexi2952",
+        "verified": false
+      }
+    ]
+  }
+}

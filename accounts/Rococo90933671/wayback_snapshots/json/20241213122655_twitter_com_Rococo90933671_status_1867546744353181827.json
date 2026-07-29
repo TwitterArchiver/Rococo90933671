@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1867475959643078746",
+    "created_at": "2024-12-13T12:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T13:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867546744353181827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651208060537556992",
+          "start": 0,
+          "username": "hydra1919810"
+        },
+        {
+          "end": 22,
+          "id": "1533401546230181888",
+          "start": 14,
+          "username": "OFETYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867546744353181827",
+    "in_reply_to_user_id": "1651208060537556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867522027521003806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hydra1919810 @OFETYun 至少在可预见的未来，我是说什么也不想去当兵的。你说我想去也选不上？那就太好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867522027521003806].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867522027521003806",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867522027521003806"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1867475959643078746",
+        "created_at": "2024-12-13T12:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T13:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867546744353181827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651208060537556992",
+              "start": 0,
+              "username": "hydra1919810"
+            },
+            {
+              "end": 22,
+              "id": "1533401546230181888",
+              "start": 14,
+              "username": "OFETYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867546744353181827",
+        "in_reply_to_user_id": "1651208060537556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867522027521003806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hydra1919810 @OFETYun 至少在可预见的未来，我是说什么也不想去当兵的。你说我想去也选不上？那就太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|想让我屏蔽你是世界上最难的事情❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 1951,
+          "like_count": 19171,
+          "listed_count": 5,
+          "media_count": 1340,
+          "tweet_count": 10744
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T12:54:22.000Z",
+        "description": "某人的牢騷小賬 內容請勿傳播\n生人勿進 感謝配合",
+        "id": "1651208060537556992",
+        "location": "404 not found",
+        "name": "市政北七路上亡命天涯🏃🏃",
+        "pinned_tweet_id": "1831223519344247173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863577264803442688/AWPOLxJ9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 586,
+          "like_count": 41144,
+          "listed_count": 1,
+          "media_count": 1011,
+          "tweet_count": 8635
+        },
+        "username": "hydra1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T10:53:20.000Z",
+        "description": "秉烛夜游 bluesky: https://t.co/3tVLLnKXZ7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oaaoyun.bsky.social",
+                "end": 37,
+                "expanded_url": "http://oaaoyun.bsky.social",
+                "start": 14,
+                "url": "https://t.co/3tVLLnKXZ7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "12339.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.12339.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/WTa6b6TS1G"
+              }
+            ]
+          }
+        },
+        "id": "1533401546230181888",
+        "location": "Shinjuku Nichōme",
+        "name": "☁",
+        "pinned_tweet_id": "1855464825423642960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863989491658297344/97ZYeKj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 399,
+          "like_count": 20619,
+          "listed_count": 0,
+          "media_count": 573,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/WTa6b6TS1G",
+        "username": "OFETYun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1831930948642033736",
+    "created_at": "2024-09-06T05:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T06:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831931683794514059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597945043251187712",
+          "start": 0,
+          "username": "RayestandRaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831931683794514059",
+    "in_reply_to_user_id": "1597945043251187712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831930948642033736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RayestandRaye 铁子在铁窗里偷着乐了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1831930948642033736",
+        "created_at": "2024-09-06T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831931683794514059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "RayestandRaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831931683794514059",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831930948642033736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RayestandRaye 铁子在铁窗里偷着乐了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "1831930948642033736",
+        "created_at": "2024-09-06T05:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T06:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831930948642033736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831930948642033736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明中国的确有体制优势，集中力量办大事，足协每年几个亿花出去成功踢出来个七比零，扬国威😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 1696,
+          "like_count": 15669,
+          "listed_count": 2,
+          "tweet_count": 8269
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "命运笼罩我以不公，我却将它谱成诗歌\n倘若今日仍是坚韧，那么死亡明日再说",
+        "id": "1597945043251187712",
+        "location": "前往天国的道路",
+        "name": "Rayest",
+        "pinned_tweet_id": "1761444674458497366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829883304180662272/tllAHN_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 618,
+          "like_count": 37013,
+          "listed_count": 5,
+          "tweet_count": 7718
+        },
+        "username": "RayestandRaye",
+        "verified": false
+      }
+    ]
+  }
+}

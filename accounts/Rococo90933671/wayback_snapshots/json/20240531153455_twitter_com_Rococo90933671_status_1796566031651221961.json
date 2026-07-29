@@ -1,0 +1,182 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1796565298004549856",
+    "created_at": "2024-05-31T15:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T16:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796566031651221961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792029527897669632",
+          "start": 0,
+          "username": "LoveEveryContry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796566031651221961",
+    "in_reply_to_user_id": "1792029527897669632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796565298004549856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveEveryContry 也门要战斗，也门要战斗~把是是非非绕绕征服~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1796565298004549856",
+        "created_at": "2024-05-31T15:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T16:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796566031651221961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792029527897669632",
+              "start": 0,
+              "username": "LoveEveryContry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796566031651221961",
+        "in_reply_to_user_id": "1792029527897669632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796565298004549856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveEveryContry 也门要战斗，也门要战斗~把是是非非绕绕征服~"
+      },
+      {
+        "attachments": {},
+        "author_id": "1792029527897669632",
+        "conversation_id": "1796565298004549856",
+        "created_at": "2024-05-31T15:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T16:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796565298004549856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Yemen",
+              "probability": 0.9708,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "Yemen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796565298004549856",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Love #Yemen."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 873,
+          "like_count": 4637,
+          "listed_count": 1,
+          "tweet_count": 3288
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T03:08:46.000Z",
+        "description": "Love every country in the world.",
+        "id": "1792029527897669632",
+        "location": "World",
+        "name": "Love Every Country",
+        "pinned_tweet_id": "1795128375444377966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792030503291506688/ExF5foMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 306,
+          "like_count": 1214,
+          "listed_count": 0,
+          "tweet_count": 408
+        },
+        "username": "LoveEveryContry",
+        "verified": true
+      }
+    ]
+  }
+}

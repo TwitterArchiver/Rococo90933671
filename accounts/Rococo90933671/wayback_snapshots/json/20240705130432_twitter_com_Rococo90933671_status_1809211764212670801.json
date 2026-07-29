@@ -1,0 +1,275 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808889574514700292"
+      ],
+      "media_source_tweet_id": [
+        "1808889579266847200"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1809211764212670801",
+    "created_at": "2024-07-05T13:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T14:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809211764212670801"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "レイラちゃん",
+          "probability": 0.8348,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1359269069975810053",
+          "start": 3,
+          "username": "tuyumiso0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/6XtLK5PPY6",
+          "end": 52,
+          "expanded_url": "https://twitter.com/tuyumiso0/status/1808889579266847200/photo/1",
+          "media_key": "3_1808889574514700292",
+          "start": 29,
+          "url": "https://t.co/6XtLK5PPY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809211764212670801",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808889579266847200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuyumiso0: ハンバーガーとレイラちゃん https://t.co/6XtLK5PPY6"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ふだん大きなお口であくびするけどこういうでかい食べ物に出くわしたらどう食べるのが正解なんだろう？あんまりがっついちゃちょっとはしたないかも……ど、どうやって食べるんだろうっていってとりあえず小さなお口で1口行こうとするけど絶対に全部食べれないバンズに小さい1口の後を残しておいて欲しいです。手袋部分はどうなってるのか分からないので有識者の方がいたら教えて欲しいです！！！です！！とりあえず衛生的に外しました。マックの芋入ってる新作美味しかったですので描きましたすみません",
+        "height": 729,
+        "media_key": "3_1808889574514700292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp3e-7bMAQh-8j.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808889574514700292"
+          ],
+          "media_source_tweet_id": [
+            "1808889579266847200"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1809211764212670801",
+        "created_at": "2024-07-05T13:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T14:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809211764212670801"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "レイラちゃん",
+              "probability": 0.8348,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1359269069975810053",
+              "start": 3,
+              "username": "tuyumiso0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6XtLK5PPY6",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tuyumiso0/status/1808889579266847200/photo/1",
+              "media_key": "3_1808889574514700292",
+              "start": 29,
+              "url": "https://t.co/6XtLK5PPY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809211764212670801",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808889579266847200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuyumiso0: ハンバーガーとレイラちゃん https://t.co/6XtLK5PPY6"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808889574514700292"
+          ]
+        },
+        "author_id": "1359269069975810053",
+        "conversation_id": "1808889579266847200",
+        "created_at": "2024-07-04T15:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T16:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808889579266847200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "レイラちゃん",
+              "probability": 0.8184,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6XtLK5PPY6",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tuyumiso0/status/1808889579266847200/photo/1",
+              "media_key": "3_1808889574514700292",
+              "start": 14,
+              "url": "https://t.co/6XtLK5PPY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808889579266847200",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 19374,
+          "like_count": 1822,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "ハンバーガーとレイラちゃん https://t.co/6XtLK5PPY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 1283,
+          "like_count": 11220,
+          "listed_count": 2,
+          "tweet_count": 5886
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T22:33:08.000Z",
+        "description": "好き勝手やらせてもらってやす✌️✌️ゲームが大好き🎮お絵描きもすきぃ〜🎨✍💕色んなの描いたり(大体原神のレイラちゃん)言ったりしていますだよ🙋‍♀️ (マイキー垢🗝▶︎▶︎ @tuyumiso1)※RPと空リプ多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "tuyumiso1"
+              }
+            ]
+          }
+        },
+        "id": "1359269069975810053",
+        "location": "ほぼ山",
+        "name": "つゆみそ",
+        "pinned_tweet_id": "1808162446735298670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774936257262682112/1sjFCKCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 92,
+          "like_count": 6042,
+          "listed_count": 8,
+          "tweet_count": 2618
+        },
+        "username": "tuyumiso0",
+        "verified": false
+      }
+    ]
+  }
+}

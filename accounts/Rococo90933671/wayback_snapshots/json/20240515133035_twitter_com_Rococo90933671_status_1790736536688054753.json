@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1790733915243581661",
+    "created_at": "2024-05-15T13:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T14:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790736536688054753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790736536688054753",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790733915243581661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 这一定是语言本身制作得不好，怎么能怪你们程序猿😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1790733915243581661",
+        "created_at": "2024-05-15T13:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T14:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790736536688054753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790736536688054753",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790733915243581661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 这一定是语言本身制作得不好，怎么能怪你们程序猿😡"
+      },
+      {
+        "attachments": {},
+        "author_id": "408702956",
+        "conversation_id": "1790733915243581661",
+        "created_at": "2024-05-15T13:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T14:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790733915243581661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bojack83473397…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bojack83473397/status/1790711240731570243",
+              "start": 12,
+              "url": "https://t.co/FPYxpCuFQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790733915243581661",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790711240731570243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这根本就是我现在的项目 https://t.co/FPYxpCuFQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见/不站队/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 473,
+          "like_count": 1317,
+          "listed_count": 0,
+          "tweet_count": 1495
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 手淫宅男 油汗肥男 下头国男 恋童渴屄 雄性萌豚 术力口厨 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1749253576940040225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743105548898234368/M6FEgis3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 1646,
+          "like_count": 259558,
+          "listed_count": 31,
+          "tweet_count": 42248
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

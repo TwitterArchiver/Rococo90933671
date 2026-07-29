@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1942568083719348704",
+    "created_at": "2025-07-08T13:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942574012388741173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2795947818",
+          "start": 0,
+          "username": "dom_rancon_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942574012388741173",
+    "in_reply_to_user_id": "2795947818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942569476513284150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dom_rancon_xi 他们可能算一个证明“超越身份对立是可能的”的真实范例。\n在中国多民族国家框架下，他们实现了文化保存与国家统一之间的平衡；\n用托利的观点解释，他们没有被民族、历史、意识形态的“小我”所吞没；\n朝鲜族人可以保有自己的文化形式，但是又不必陷于对抗性的身份认同中"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942569476513284150].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942569476513284150",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942569476513284150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1942568083719348704",
+        "created_at": "2025-07-08T13:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942574012388741173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2795947818",
+              "start": 0,
+              "username": "dom_rancon_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942574012388741173",
+        "in_reply_to_user_id": "2795947818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942569476513284150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dom_rancon_xi 他们可能算一个证明“超越身份对立是可能的”的真实范例。\n在中国多民族国家框架下，他们实现了文化保存与国家统一之间的平衡；\n用托利的观点解释，他们没有被民族、历史、意识形态的“小我”所吞没；\n朝鲜族人可以保有自己的文化形式，但是又不必陷于对抗性的身份认同中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 2159,
+          "like_count": 25381,
+          "listed_count": 9,
+          "media_count": 2314,
+          "tweet_count": 14800
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-07T13:59:54.000Z",
+        "description": "我は日本語が下手です、無言フォロー失礼しました。丨Chinese user丨遊戲鍵垢/精神地球人，有意互fo可直拍(？)，沒過的私丨沒在刷推就是在刷怪丨我是真的看不懂日文啦｡･ﾟ･ヽ(இдஇ`)ﾉ･ﾟ･｡ 求求你們放過我好不好?",
+        "id": "2795947818",
+        "name": "三戰邊緣的傻逼炮灰NPC 👊🐧🔥（淡推）",
+        "pinned_tweet_id": "1924071213737152886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262715758783561728/EfusHoRf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 1323,
+          "like_count": 104584,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6360
+        },
+        "username": "dom_rancon_xi",
+        "verified": false
+      }
+    ]
+  }
+}

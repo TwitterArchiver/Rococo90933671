@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811242429829505024"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1809093534185836948",
+    "created_at": "2024-07-11T03:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T04:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811242433088536681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720429901348810752",
+          "start": 0,
+          "username": "teufel__nmsl102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/wlgJgA6G3i",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1811242433088536681/photo/1",
+          "media_key": "3_1811242429829505024",
+          "start": 17,
+          "url": "https://t.co/wlgJgA6G3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811242433088536681",
+    "in_reply_to_user_id": "1720429901348810752",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809093534185836948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teufel__nmsl102 https://t.co/wlgJgA6G3i"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1809093534185836948].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1809093534185836948",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1809093534185836948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 333,
+        "media_key": "3_1811242429829505024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSLTZMAaYAAYlD-.jpg",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811242429829505024"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1809093534185836948",
+        "created_at": "2024-07-11T03:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T04:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811242433088536681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720429901348810752",
+              "start": 0,
+              "username": "teufel__nmsl102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wlgJgA6G3i",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1811242433088536681/photo/1",
+              "media_key": "3_1811242429829505024",
+              "start": 17,
+              "url": "https://t.co/wlgJgA6G3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811242433088536681",
+        "in_reply_to_user_id": "1720429901348810752",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809093534185836948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teufel__nmsl102 https://t.co/wlgJgA6G3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1326,
+          "like_count": 11437,
+          "listed_count": 2,
+          "tweet_count": 6014
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T13:17:16.000Z",
+        "description": "“回族的心是一个氧化还原反应，那么那么的干净”——［数据删除］，2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yinoe.blog.fc2blog.us",
+                "end": 23,
+                "expanded_url": "http://yinoe.blog.fc2blog.us",
+                "start": 0,
+                "url": "https://t.co/KUykm2gNTy"
+              }
+            ]
+          }
+        },
+        "id": "1720429901348810752",
+        "location": "/usr/bin/",
+        "name": "中风的一摊",
+        "pinned_tweet_id": "1809093534185836948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806570528570007552/ohdRNRqz_x96.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 93,
+          "listed_count": 0,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/KUykm2gNTy",
+        "username": "teufel__nmsl102",
+        "verified": false
+      }
+    ]
+  }
+}
