@@ -1,0 +1,404 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "1800278729136247212",
+    "created_at": "2024-06-11T12:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T13:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800504102792945764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        },
+        {
+          "end": 27,
+          "id": "588093066",
+          "start": 15,
+          "username": "tankman2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800504102792945764",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800321119595253959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 @tankman2002 可若没有道德与规则的约束，人本就是意气用事的感情动物。这个时候，支配我们的“小我”就是要找一个载体，在为自己制造更多痛苦的同时发泄痛苦。而和人们的利益密切相关的政治主体往往是很好的目标，所以立场的对立和心中的仇恨就无法避免了。而后者又会加剧前者在一切沟通交流中的先行现象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1800278729136247212",
+        "created_at": "2024-06-11T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800504102792945764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            },
+            {
+              "end": 27,
+              "id": "588093066",
+              "start": 15,
+              "username": "tankman2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800504102792945764",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800321119595253959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 @tankman2002 可若没有道德与规则的约束，人本就是意气用事的感情动物。这个时候，支配我们的“小我”就是要找一个载体，在为自己制造更多痛苦的同时发泄痛苦。而和人们的利益密切相关的政治主体往往是很好的目标，所以立场的对立和心中的仇恨就无法避免了。而后者又会加剧前者在一切沟通交流中的先行现象"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374225903136481284",
+        "conversation_id": "1800278729136247212",
+        "created_at": "2024-06-11T00:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T01:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800321119595253959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "588093066",
+              "start": 0,
+              "username": "tankman2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800321119595253959",
+        "in_reply_to_user_id": "588093066",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14802,
+          "like_count": 176,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800278729136247212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tankman2002 我的建议是：无论你恨谁，请保持实事求是的态度。 世界上没有任何一个力量可以大于事实本身。\n自己一个人的事情不顺利，就要批判整个共产党，批判整个社会，和自己生活不如意，转而批判整个中国人，又有什么区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1081,
+          "like_count": 7148,
+          "listed_count": 2,
+          "tweet_count": 4318
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "Be true, be brave, be strong… \n真相不反抗，就被谎言拿走了阵地。\nI'm proud of being Chinese.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/2499175627",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/2499175627",
+                "start": 0,
+                "url": "https://t.co/YJDGmltXNs"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1799605199415476540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565251208117473282/9moZGZa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38686,
+          "following_count": 2906,
+          "like_count": 143576,
+          "listed_count": 147,
+          "tweet_count": 67254
+        },
+        "url": "https://t.co/YJDGmltXNs",
+        "username": "Whatis7777777",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-23T04:47:01.000Z",
+        "description": "前刑警，后反贼。十度喝茶，二次抄家。野生太史令，头铁读书人。“二大爷”系列文章作者。现居美国。油管频道：二爷故事https://t.co/Uz0ZaGNoaH；电报群https://t.co/e55GSyRhIV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Tankman2020",
+                "end": 79,
+                "expanded_url": "http://youtube.com/@Tankman2020",
+                "start": 56,
+                "url": "https://t.co/Uz0ZaGNoaH"
+              },
+              {
+                "display_url": "t.me/tankman1989",
+                "end": 106,
+                "expanded_url": "http://t.me/tankman1989",
+                "start": 83,
+                "url": "https://t.co/e55GSyRhIV"
+              }
+            ]
+          }
+        },
+        "id": "588093066",
+        "location": "United States",
+        "name": "二大爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546721046723584000/LlgxAVK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273379,
+          "following_count": 181,
+          "like_count": 197,
+          "listed_count": 948,
+          "tweet_count": 2806
+        },
+        "username": "tankman2002",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1810833679020872043",
+    "created_at": "2024-07-10T03:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T04:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810885772880519534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582576763615383552",
+          "start": 0,
+          "username": "meguru8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810885772880519534",
+    "in_reply_to_user_id": "1582576763615383552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810833679020872043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meguru8964 萨瓦迪卡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1810833679020872043].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1810833679020872043",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1810833679020872043"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1810833679020872043",
+        "created_at": "2024-07-10T03:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T04:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810885772880519534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582576763615383552",
+              "start": 0,
+              "username": "meguru8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810885772880519534",
+        "in_reply_to_user_id": "1582576763615383552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810833679020872043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meguru8964 萨瓦迪卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 1305,
+          "like_count": 11377,
+          "listed_count": 2,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "中国語、English、日本語。 ブルアカ好き。JPOP作曲者。⭐️宇沢レイサに、お任せください！⭐️",
+        "id": "1582576763615383552",
+        "location": "Hawaii, USA",
+        "name": "迷人的小紗💤",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809412787506143232/2OVtHFHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 1442,
+          "like_count": 39153,
+          "listed_count": 6,
+          "tweet_count": 7634
+        },
+        "username": "meguru8964",
+        "verified": false
+      }
+    ]
+  }
+}

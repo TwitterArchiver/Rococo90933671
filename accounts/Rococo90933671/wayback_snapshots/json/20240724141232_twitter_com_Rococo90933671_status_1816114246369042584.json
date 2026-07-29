@@ -1,0 +1,347 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1816064734656971096",
+    "created_at": "2024-07-24T14:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T15:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816114246369042584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763849324826628096",
+          "start": 0,
+          "username": "LumuyuanMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816114246369042584",
+    "in_reply_to_user_id": "1763849324826628096",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816064734656971096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumuyuanMadoka I think you have a point"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1816064734656971096",
+        "created_at": "2024-07-24T14:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T15:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816114246369042584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763849324826628096",
+              "start": 0,
+              "username": "LumuyuanMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816114246369042584",
+        "in_reply_to_user_id": "1763849324826628096",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816064734656971096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumuyuanMadoka I think you have a point"
+      },
+      {
+        "attachments": {},
+        "author_id": "1763849324826628096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1816064734656971096",
+        "created_at": "2024-07-24T10:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T11:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816064734656971096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 282,
+              "expanded_url": "https://twitter.com/elonmusk/status/1815907844434112999",
+              "start": 259,
+              "url": "https://t.co/r6H1CA09Z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816064734656971096",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815907844434112999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "With all due respect, your post is very unprofessional, the correct way to vote on the internet would be a couple of regular options and one pointless funny option, so as to filter out people who want to interact with you but are not serious about the issue. https://t.co/r6H1CA09Z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1394,
+          "like_count": 11976,
+          "listed_count": 2,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T08:50:48.000Z",
+        "description": "可以称呼我为○or“大圆”//——\n圆神，缘神，「米哈柚」 //\n事情要辩证的看，二元对立不可取\n————————————————\n尽量不键政了，以下仅用于展示我的立场(以小见大)：\n对我中国人的身份感到自豪//\n不左倾，不带有民族主义色彩//\n不厌恶原神玩家，厌恶op",
+        "id": "1763849324826628096",
+        "location": "圆环之理",
+        "name": "鹿目圆○",
+        "pinned_tweet_id": "1816064734656971096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800843551955361793/n-aAFVIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 266,
+          "like_count": 7886,
+          "listed_count": 3,
+          "tweet_count": 3072
+        },
+        "username": "LumuyuanMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

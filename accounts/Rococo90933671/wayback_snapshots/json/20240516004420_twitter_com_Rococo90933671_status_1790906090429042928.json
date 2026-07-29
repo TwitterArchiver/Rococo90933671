@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1790219976873595073",
+    "created_at": "2024-05-16T00:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T01:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790906090429042928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741393579946188801",
+          "start": 0,
+          "username": "wsjgdykdsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790906090429042928",
+    "in_reply_to_user_id": "1741393579946188801",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790219976873595073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsjgdykdsj 你看看奶奶，有通天纹你看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1790219976873595073",
+        "created_at": "2024-05-16T00:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T01:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790906090429042928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741393579946188801",
+              "start": 0,
+              "username": "wsjgdykdsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790906090429042928",
+        "in_reply_to_user_id": "1741393579946188801",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790219976873595073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsjgdykdsj 你看看奶奶，有通天纹你看看"
+      },
+      {
+        "attachments": {},
+        "author_id": "1741393579946188801",
+        "conversation_id": "1790219976873595073",
+        "created_at": "2024-05-14T03:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T04:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790219976873595073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790219976873595073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭乡下的能不能别来上海沾边，大老远来草个b有意思吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见/不站队/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 499,
+          "like_count": 1382,
+          "listed_count": 0,
+          "tweet_count": 1550
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T09:39:25.000Z",
+        "description": "沪国皇帝\n臭乡下的进城来拱白菜了",
+        "id": "1741393579946188801",
+        "name": "星川いろは⛩️三代目（parody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790219153577816064/Kcao2Ch-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "like_count": 28,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "wsjgdykdsj",
+        "verified": false
+      }
+    ]
+  }
+}

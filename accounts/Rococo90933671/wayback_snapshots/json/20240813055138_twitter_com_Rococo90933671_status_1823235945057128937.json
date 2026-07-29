@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1823201966027374602",
+    "created_at": "2024-08-13T05:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T06:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823235945057128937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776233964316811264",
+          "start": 0,
+          "username": "by3404988594059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823235945057128937",
+    "in_reply_to_user_id": "1776233964316811264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823228735384096983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@by3404988594059 我去看看不会诛十族吧😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1823201966027374602",
+        "created_at": "2024-08-13T05:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T06:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823235945057128937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776233964316811264",
+              "start": 0,
+              "username": "by3404988594059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823235945057128937",
+        "in_reply_to_user_id": "1776233964316811264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823228735384096983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@by3404988594059 我去看看不会诛十族吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776233964316811264",
+        "conversation_id": "1823201966027374602",
+        "created_at": "2024-08-13T05:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T06:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823228735384096983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823228735384096983",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823201966027374602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 有篇文章叫蚊对，方孝孺写的，挺有意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/互fo可能看不到请直接私聊不用拘束Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1510,
+          "like_count": 13272,
+          "listed_count": 1,
+          "tweet_count": 7104
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T13:02:50.000Z",
+        "description": "豈能盡人意，但求無愧我心\n        不鍵政，但莫惹我\n        Long live the great unity of the people of the world",
+        "id": "1776233964316811264",
+        "name": "boyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785204460542722048/28ZDJsU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 251,
+          "like_count": 735,
+          "listed_count": 0,
+          "tweet_count": 586
+        },
+        "username": "by3404988594059",
+        "verified": false
+      }
+    ]
+  }
+}

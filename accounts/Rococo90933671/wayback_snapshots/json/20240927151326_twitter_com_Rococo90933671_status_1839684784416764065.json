@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1839671743708791112",
+    "created_at": "2024-09-27T15:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T16:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839684784416764065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723291140030623744",
+          "start": 0,
+          "username": "xsli137173"
+        },
+        {
+          "end": 26,
+          "id": "1663066129923981312",
+          "start": 12,
+          "username": "Akirameru_QAQ"
+        },
+        {
+          "end": 43,
+          "id": "1804491731200864256",
+          "start": 27,
+          "username": "Ludwig_von_Remi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839684784416764065",
+    "in_reply_to_user_id": "1723291140030623744",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839672816792219761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsli137173 @Akirameru_QAQ @Ludwig_von_Remi That's his own choice, you've never done things wrong🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Ludwig_von_Remi].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ludwig_von_Remi",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ludwig_von_Remi"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1839671743708791112",
+        "created_at": "2024-09-27T15:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T16:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839684784416764065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723291140030623744",
+              "start": 0,
+              "username": "xsli137173"
+            },
+            {
+              "end": 26,
+              "id": "1663066129923981312",
+              "start": 12,
+              "username": "Akirameru_QAQ"
+            },
+            {
+              "end": 43,
+              "id": "1804491731200864256",
+              "start": 27,
+              "username": "Ludwig_von_Remi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839684784416764065",
+        "in_reply_to_user_id": "1723291140030623744",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839672816792219761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsli137173 @Akirameru_QAQ @Ludwig_von_Remi That's his own choice, you've never done things wrong🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723291140030623744",
+        "conversation_id": "1839671743708791112",
+        "created_at": "2024-09-27T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839672816792219761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            },
+            {
+              "end": 31,
+              "id": "1804491731200864256",
+              "start": 15,
+              "username": "Ludwig_von_Remi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839672816792219761",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839671743708791112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ @Ludwig_von_Remi My fault.....😿😿😿😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1825,
+          "like_count": 16615,
+          "listed_count": 3,
+          "tweet_count": 8949
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T10:48:33.000Z",
+        "description": "中国大陆人，支持中国国民党，坚定的左翼，100%互fo,社会民主主义者，极端的天主教徒😤✝️ ,支持🇵🇸🇺🇦🇦🇲与两国方案,可爱的❤️小男娘🥵,上海独立主义者，想要变成女生🤔，反抗准备中ing",
+        "id": "1723291140030623744",
+        "location": "乌克兰自由地区",
+        "name": "xs-li🇵🇸🏳️‍⚧️🇺🇦🇦🇲🇾🇪🇱🇧✝️",
+        "pinned_tweet_id": "1838961999209767221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723291620316246016/b4uuk4LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1935,
+          "like_count": 98176,
+          "listed_count": 7,
+          "tweet_count": 3906
+        },
+        "username": "xsli137173",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺 || Hug wanted || 互fo😘\n物理硬件是男性，阿弃是女孩子，我已经在尝试着改变了...\n喜欢推友们，有你们在就不会孤独\n分身@mkc_Cute\nfo们要好好的哦，不要单取我好吗，不然会被我挂出来的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ColdWindBlow",
+                "end": 23,
+                "expanded_url": "https://t.me/ColdWindBlow",
+                "start": 0,
+                "url": "https://t.co/CImmUnbsjz"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "冷風吹（阿棄）🥺♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 628,
+          "like_count": 74237,
+          "listed_count": 3,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/CImmUnbsjz",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

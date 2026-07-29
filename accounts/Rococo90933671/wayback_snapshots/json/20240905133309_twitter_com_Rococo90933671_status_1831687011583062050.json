@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1831649242307592431",
+    "created_at": "2024-09-05T13:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T14:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831687011583062050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345706318703722496",
+          "start": 0,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831687011583062050",
+    "in_reply_to_user_id": "1345706318703722496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831649242307592431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OriyukiAkari 小时候电脑那些东西真的都是自己探索出来的，现在都用手机了就没那种耐心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1831649242307592431",
+        "created_at": "2024-09-05T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T14:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831687011583062050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831687011583062050",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831649242307592431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OriyukiAkari 小时候电脑那些东西真的都是自己探索出来的，现在都用手机了就没那种耐心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831649233235267584"
+          ]
+        },
+        "author_id": "1345706318703722496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1831649242307592431",
+        "created_at": "2024-09-05T11:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T12:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831649242307592431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0woanqsorn",
+              "end": 122,
+              "expanded_url": "https://twitter.com/OriyukiAkari/status/1831649242307592431/photo/1",
+              "media_key": "3_1831649233235267584",
+              "start": 99,
+              "url": "https://t.co/0wOanqSORN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831649242307592431",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才知道网络文盲到了这么严重的地步😰本来以为给了¥150要去大干一场，没想到就是简简单单的Everything索引不完全重建一下就好了，还有Windows太旧用易升更新就好……原来电脑店这么赚钱呀🤯 https://t.co/0wOanqSORN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1700,
+          "like_count": 15580,
+          "listed_count": 2,
+          "tweet_count": 8224
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "〇 永远的18.y.o 〇 男大 〇 简中｜Eng｜日本語 〇 友🏳️‍⚧️ 〇 CS｜金融｜数码 〇 随缘回fo 〇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "location": "P.R.China",
+        "name": "鸢",
+        "pinned_tweet_id": "1755984910152601828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788330455902855169/TIIDX8h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 99,
+          "like_count": 5991,
+          "listed_count": 2,
+          "tweet_count": 3572
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false
+      }
+    ]
+  }
+}

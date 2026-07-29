@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1821153820639895678",
+    "created_at": "2024-08-07T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821179533766357499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719246678191214592",
+          "start": 0,
+          "username": "qing_liu88367"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821179533766357499",
+    "in_reply_to_user_id": "1719246678191214592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821153820639895678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_liu88367 一样一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1821153820639895678",
+        "created_at": "2024-08-07T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821179533766357499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719246678191214592",
+              "start": 0,
+              "username": "qing_liu88367"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821179533766357499",
+        "in_reply_to_user_id": "1719246678191214592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821153820639895678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_liu88367 一样一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821153811249164289"
+          ]
+        },
+        "author_id": "1719246678191214592",
+        "conversation_id": "1821153820639895678",
+        "created_at": "2024-08-07T11:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T12:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821153820639895678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T57e80TmNT",
+              "end": 42,
+              "expanded_url": "https://twitter.com/qing_liu88367/status/1821153820639895678/photo/1",
+              "media_key": "3_1821153811249164289",
+              "start": 19,
+              "url": "https://t.co/T57e80TmNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821153820639895678",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没看推特了，打开私信一看心凉半截 https://t.co/T57e80TmNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 1501,
+          "like_count": 12729,
+          "listed_count": 1,
+          "tweet_count": 6804
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T06:55:41.000Z",
+        "description": "互fo没fo的私信，平常不清列表，所以fo你一辈子，看心情发帖，都是些负面信息嘴有点臭想屏蔽就屏蔽，不键政",
+        "id": "1719246678191214592",
+        "location": "地球",
+        "name": "知洲（淡推中）",
+        "pinned_tweet_id": "1815238975533289933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744026585156788224/a-jrVDES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1003,
+          "like_count": 2625,
+          "listed_count": 1,
+          "tweet_count": 2073
+        },
+        "username": "qing_liu88367",
+        "verified": false
+      }
+    ]
+  }
+}

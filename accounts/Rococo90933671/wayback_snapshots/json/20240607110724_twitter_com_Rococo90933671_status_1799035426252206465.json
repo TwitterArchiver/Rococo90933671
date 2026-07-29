@@ -1,0 +1,386 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1799035426252206465",
+    "created_at": "2024-06-07T11:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T12:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799035426252206465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1799035367443792036",
+          "start": 12,
+          "url": "https://t.co/8ZU7w8Dg2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799035426252206465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799035367443792036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么小米是性价比的神 https://t.co/8ZU7w8Dg2o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1799035426252206465",
+        "created_at": "2024-06-07T11:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T12:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799035426252206465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1799035367443792036",
+              "start": 12,
+              "url": "https://t.co/8ZU7w8Dg2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799035426252206465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799035367443792036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么小米是性价比的神 https://t.co/8ZU7w8Dg2o"
+      },
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1799010183471100381",
+        "created_at": "2024-06-07T11:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T12:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799035367443792036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620714577431494656",
+              "start": 0,
+              "username": "pandeng1234"
+            },
+            {
+              "end": 24,
+              "id": "1684788633797287936",
+              "start": 13,
+              "username": "Liuyun1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799035367443792036",
+        "in_reply_to_user_id": "1620714577431494656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799016887260778891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandeng1234 @Liuyun1911 苹果看不了文件，限制太多，垃圾玩意😋\n华为下不了谷歌，有翻墙软件看推特油管也只能看网页版，更不用说只有APP的墙外软件那根本下不了，垃圾玩意😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 977,
+          "like_count": 6257,
+          "listed_count": 2,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

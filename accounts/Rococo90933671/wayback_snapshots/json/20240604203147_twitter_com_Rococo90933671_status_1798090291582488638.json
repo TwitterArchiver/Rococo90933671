@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1797851285955441134",
+    "created_at": "2024-06-04T20:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T21:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798090291582488638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3305178362",
+          "start": 0,
+          "username": "sym_yukine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798090291582488638",
+    "in_reply_to_user_id": "3305178362",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797851285955441134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sym_yukine 鸭鸭说得对，但我既不ban人，也不争辩，我是阿哈，专看乐子🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1797851285955441134",
+        "created_at": "2024-06-04T20:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T21:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798090291582488638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3305178362",
+              "start": 0,
+              "username": "sym_yukine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798090291582488638",
+        "in_reply_to_user_id": "3305178362",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797851285955441134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sym_yukine 鸭鸭说得对，但我既不ban人，也不争辩，我是阿哈，专看乐子🤓"
+      },
+      {
+        "attachments": {},
+        "author_id": "3305178362",
+        "conversation_id": "1797851285955441134",
+        "created_at": "2024-06-04T04:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797851285955441134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797851285955441134",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少争辩，善用屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 951,
+          "like_count": 5824,
+          "listed_count": 2,
+          "tweet_count": 3744
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-03T13:30:33.000Z",
+        "description": "喜怒哀乐，凭谁如何\n悲欢离合，尽是过客",
+        "id": "3305178362",
+        "name": "希点鸭片",
+        "pinned_tweet_id": "1664605684607102977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763467664004198400/1gUYPlGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 867,
+          "like_count": 15509,
+          "listed_count": 0,
+          "tweet_count": 7819
+        },
+        "username": "sym_yukine",
+        "verified": false
+      }
+    ]
+  }
+}

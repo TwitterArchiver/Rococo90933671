@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1791923650482041148",
+    "created_at": "2024-05-19T04:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T05:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792054381787169156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521508530552983552",
+          "start": 0,
+          "username": "leanshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792054381787169156",
+    "in_reply_to_user_id": "1521508530552983552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791923650482041148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leanshou 绑绑我的🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1791923650482041148",
+        "created_at": "2024-05-19T04:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T05:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792054381787169156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521508530552983552",
+              "start": 0,
+              "username": "leanshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792054381787169156",
+        "in_reply_to_user_id": "1521508530552983552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791923650482041148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leanshou 绑绑我的🥵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1521508530552983552",
+        "conversation_id": "1791923650482041148",
+        "created_at": "2024-05-18T20:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T21:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791923650482041148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791923650482041148",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想被绑起来🤤（睡不着，又开始发癫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/友一切政见不站队/对跨圈友好/Languages ranked by proficiency: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 612,
+          "like_count": 1918,
+          "listed_count": 0,
+          "tweet_count": 1895
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T15:15:27.000Z",
+        "description": "你好，欢迎来到凌宿予笙的主页哇！/发言如有错欢迎指正。/𝕏",
+        "id": "1521508530552983552",
+        "location": "PRC",
+        "name": "凌宿予笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736056784346058752/u9IiMpQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 98,
+          "like_count": 2234,
+          "listed_count": 0,
+          "tweet_count": 275
+        },
+        "username": "leanshou",
+        "verified": false
+      }
+    ]
+  }
+}

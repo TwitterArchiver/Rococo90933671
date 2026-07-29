@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1821141475322908838",
+    "created_at": "2024-08-07T13:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T14:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821177078856999081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679329911742558208",
+          "start": 0,
+          "username": "keqing__1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821177078856999081",
+    "in_reply_to_user_id": "1679329911742558208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821141475322908838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keqing__1120 仇恨教育确实不可取"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1821141475322908838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1821141475322908838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1821141475322908838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1821141475322908838",
+        "created_at": "2024-08-07T13:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T14:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821177078856999081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679329911742558208",
+              "start": 0,
+              "username": "keqing__1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821177078856999081",
+        "in_reply_to_user_id": "1679329911742558208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821141475322908838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keqing__1120 仇恨教育确实不可取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 1501,
+          "like_count": 12720,
+          "listed_count": 1,
+          "tweet_count": 6799
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T03:20:51.000Z",
+        "description": "立足蓝色大陆史，辐射到其他领域，泛左友好；anti🇷🇺，🇵🇸🤜🏻💥🇮🇱😁👍；部分马蹄铁主义，认同极端支黑=最支之人，温和友好；极端蒋粉不要来我这自找没趣，有意讨论者可私😁👍",
+        "id": "1679329911742558208",
+        "location": "一个没有压迫的极乐世界",
+        "name": "镌刻晴川万代",
+        "pinned_tweet_id": "1816858582505390140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821142079076233220/3-m45AHo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 827,
+          "like_count": 7777,
+          "listed_count": 5,
+          "tweet_count": 3571
+        },
+        "username": "keqing__1120",
+        "verified": false
+      }
+    ]
+  }
+}

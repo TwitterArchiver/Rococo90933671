@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1847952561703374924",
+    "created_at": "2024-10-20T10:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T11:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847953876143534295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1654569889888370688",
+          "start": 0,
+          "username": "Tide_Raine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847953876143534295",
+    "in_reply_to_user_id": "1654569889888370688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847952561703374924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tide_Raine 我连华为麦芒都安不上谷歌框架😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1847952561703374924",
+        "created_at": "2024-10-20T10:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T11:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847953876143534295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1654569889888370688",
+              "start": 0,
+              "username": "Tide_Raine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847953876143534295",
+        "in_reply_to_user_id": "1654569889888370688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847952561703374924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tide_Raine 我连华为麦芒都安不上谷歌框架😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847952556431151104"
+          ]
+        },
+        "author_id": "1654569889888370688",
+        "conversation_id": "1847952561703374924",
+        "created_at": "2024-10-20T10:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T11:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847952561703374924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAA7q3KpJP",
+              "end": 35,
+              "expanded_url": "https://x.com/Tide_Raine/status/1847952561703374924/photo/1",
+              "media_key": "3_1847952556431151104",
+              "start": 12,
+              "url": "https://t.co/UAA7q3KpJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847952561703374924",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10分钟搞定鸿蒙gms https://t.co/UAA7q3KpJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 1873,
+          "like_count": 16848,
+          "listed_count": 4,
+          "tweet_count": 9269
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T19:33:07.000Z",
+        "description": "人生似海，起落浮沉｜我家hxd @FoolsChasinger | 傻逼不配给我发反思卷，反思你妈｜小红书重度患者｜无脑骂我的请去下面地址挂个号\n\nBITCF in Macau Cityu，主修云计算技术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "FoolsChasinger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shallowlone",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shallowlone",
+                "start": 0,
+                "url": "https://t.co/I9SL20hjaC"
+              }
+            ]
+          }
+        },
+        "id": "1654569889888370688",
+        "location": "Castle Peak Hospital, Tuen Mun",
+        "name": "浅珑",
+        "pinned_tweet_id": "1847128322859585599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832468832818229250/SOFoTNLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 4792,
+          "like_count": 76798,
+          "listed_count": 4,
+          "tweet_count": 25784
+        },
+        "url": "https://t.co/I9SL20hjaC",
+        "username": "Tide_Raine",
+        "verified": false
+      }
+    ]
+  }
+}

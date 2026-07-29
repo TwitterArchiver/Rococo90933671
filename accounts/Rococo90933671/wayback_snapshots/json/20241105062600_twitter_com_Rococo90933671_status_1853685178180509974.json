@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1853069284496617905",
+    "created_at": "2024-11-05T06:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T07:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853685178180509974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409474469580591109",
+          "start": 0,
+          "username": "welles_george"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853685178180509974",
+    "in_reply_to_user_id": "1409474469580591109",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853069284496617905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@welles_george 全  员  恶  人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1853069284496617905",
+        "created_at": "2024-11-05T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853685178180509974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409474469580591109",
+              "start": 0,
+              "username": "welles_george"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853685178180509974",
+        "in_reply_to_user_id": "1409474469580591109",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853069284496617905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welles_george 全  员  恶  人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853069273285214209"
+          ]
+        },
+        "author_id": "1409474469580591109",
+        "conversation_id": "1853069284496617905",
+        "created_at": "2024-11-03T13:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853069284496617905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXjBcZc5gN",
+              "end": 23,
+              "expanded_url": "https://x.com/welles_george/status/1853069284496617905/photo/1",
+              "media_key": "3_1853069273285214209",
+              "start": 0,
+              "url": "https://t.co/bXjBcZc5gN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853069284496617905",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 133407,
+          "like_count": 1153,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bXjBcZc5gN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 1873,
+          "like_count": 17167,
+          "listed_count": 5,
+          "tweet_count": 9616
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T11:32:00.000Z",
+        "description": "高中牲/喜欢玩游戏/不喜欢学习/PUBG MOBILE/原神/胆小却喜欢恐怖游戏/Steam玩家只玩得起打大折的低价游戏/喜欢打羽毛球🏸/喜欢台湾🇹🇼/YouTuber/",
+        "id": "1409474469580591109",
+        "name": "低调无人气的芙宁娜🇭🇰🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791837470470123520/AbCwuwbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 57,
+          "like_count": 2382,
+          "listed_count": 0,
+          "tweet_count": 1145
+        },
+        "username": "welles_george",
+        "verified": false
+      }
+    ]
+  }
+}

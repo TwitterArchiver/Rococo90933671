@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560346238066647042",
+          "name": "Tower of Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899346412994570",
+          "name": "Open world games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560346238066647042",
+          "name": "Tower of Fantasy"
+        }
+      }
+    ],
+    "conversation_id": "1839941328274112817",
+    "created_at": "2024-09-29T04:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T05:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840251908872909268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840251908872909268",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839941328274112817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 是游戏的那个幻塔吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560346238066647042",
+              "name": "Tower of Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560346238066647042",
+              "name": "Tower of Fantasy"
+            }
+          }
+        ],
+        "conversation_id": "1839941328274112817",
+        "created_at": "2024-09-29T04:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T05:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840251908872909268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840251908872909268",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839941328274112817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 是游戏的那个幻塔吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839941314739351552",
+            "3_1839941314730962946",
+            "3_1839941314751987712",
+            "3_1839941314743545856"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560346238066647042",
+              "name": "Tower of Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560346238066647042",
+              "name": "Tower of Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1839941328274112817",
+        "created_at": "2024-09-28T08:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T09:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839941328274112817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rscdmaurq7",
+              "end": 48,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1839941328274112817/photo/1",
+              "media_key": "3_1839941314739351552",
+              "start": 25,
+              "url": "https://t.co/RScdMaURq7"
+            },
+            {
+              "display_url": "pic.x.com/rscdmaurq7",
+              "end": 48,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1839941328274112817/photo/1",
+              "media_key": "3_1839941314730962946",
+              "start": 25,
+              "url": "https://t.co/RScdMaURq7"
+            },
+            {
+              "display_url": "pic.x.com/rscdmaurq7",
+              "end": 48,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1839941328274112817/photo/1",
+              "media_key": "3_1839941314751987712",
+              "start": 25,
+              "url": "https://t.co/RScdMaURq7"
+            },
+            {
+              "display_url": "pic.x.com/rscdmaurq7",
+              "end": 48,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1839941328274112817/photo/1",
+              "media_key": "3_1839941314743545856",
+              "start": 25,
+              "url": "https://t.co/RScdMaURq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839941328274112817",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6572,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天東京遊戲展結束了\n還在幻塔區遇到了打工的星醬 https://t.co/RScdMaURq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 1825,
+          "like_count": 16639,
+          "listed_count": 3,
+          "tweet_count": 8973
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "在日二次元，喜歡ACG。偶像厨，音游狗「プロセカ皆伝260」，管人痴，喊call应援家，ヲた芸初級打師，厄介小鬼，MIX警察。喜歡二次元不是一種罪，偌大一個國家，連人們喜歡二次元的愛好都要進行打壓，不允許人們擁有自己的小天地。那就別談實現所謂的民族偉大復興，更別扯爲世界指明方向 終不悔為伊憔悴，回首闌珊處，獨望衆天涯",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋節操🌸🇯🇵",
+        "pinned_tweet_id": "1772835531313025098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 1557,
+          "like_count": 110182,
+          "listed_count": 10,
+          "tweet_count": 39030
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      }
+    ]
+  }
+}

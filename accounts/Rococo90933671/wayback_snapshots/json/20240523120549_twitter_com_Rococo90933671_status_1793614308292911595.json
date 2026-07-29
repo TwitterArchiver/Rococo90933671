@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1793582394974593520",
+    "created_at": "2024-05-23T12:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T13:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793614308292911595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657726063806660609",
+          "start": 0,
+          "username": "XiaoZhi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793614308292911595",
+    "in_reply_to_user_id": "1657726063806660609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793582394974593520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi443 信息量极大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1793582394974593520",
+        "created_at": "2024-05-23T12:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T13:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793614308292911595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657726063806660609",
+              "start": 0,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793614308292911595",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793582394974593520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi443 信息量极大"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657726063806660609",
+        "conversation_id": "1793582394974593520",
+        "created_at": "2024-05-23T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793582394974593520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793582394974593520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内的台湾自由行看样子是遥遥无期了 🤦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 628,
+          "like_count": 2471,
+          "listed_count": 0,
+          "tweet_count": 2388
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T12:35:41.000Z",
+        "description": "🏳️‍🌈 Bi • INFP",
+        "id": "1657726063806660609",
+        "name": "小智",
+        "pinned_tweet_id": "1785171691511095408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779054710508670976/VoaqCsuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 171,
+          "like_count": 4419,
+          "listed_count": 1,
+          "tweet_count": 1354
+        },
+        "username": "XiaoZhi443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1801308307413438582",
+    "created_at": "2024-06-14T01:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T02:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801424966560399462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "895057561",
+          "start": 0,
+          "username": "Char1es4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801424966560399462",
+    "in_reply_to_user_id": "895057561",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801308307413438582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Char1es4k 见pronhub就知道成分了🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1801308307413438582].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801308307413438582",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1801308307413438582"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1801308307413438582",
+        "created_at": "2024-06-14T01:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T02:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801424966560399462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "895057561",
+              "start": 0,
+              "username": "Char1es4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801424966560399462",
+        "in_reply_to_user_id": "895057561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801308307413438582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Char1es4k 见pronhub就知道成分了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo(可以私信)/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1197,
+          "like_count": 8001,
+          "listed_count": 2,
+          "tweet_count": 4609
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-21T10:08:25.000Z",
+        "description": "Kommunistische Partei Chinas stürzen! ☭⃠ | Anti-woke | 忽左忽右 | 沪语, English, Deutsch | 键政&生活吐槽&学习shit post | Computer Vision, Robotics, Embedded System",
+        "id": "895057561",
+        "location": "Hessen, Deutschland",
+        "name": "Char1es🇺🇦🇹🇼🇩🇪🇪🇺",
+        "pinned_tweet_id": "1675524485200445442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620068043421323266/p-I2utnq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 726,
+          "like_count": 29014,
+          "listed_count": 2,
+          "tweet_count": 5987
+        },
+        "username": "Char1es4k",
+        "verified": false
+      }
+    ]
+  }
+}
