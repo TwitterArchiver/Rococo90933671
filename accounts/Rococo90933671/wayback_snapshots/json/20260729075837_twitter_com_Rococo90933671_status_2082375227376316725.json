@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "175",
+          "name": "Emergency Events"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      }
+    ],
+    "conversation_id": "2082375227376316725",
+    "created_at": "2026-07-29T07:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082375227376316725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hin_a0921/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hin_a0921/status/2082008861788287090",
+          "start": 37,
+          "url": "https://t.co/VCcJyzJPjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082375227376316725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082008861788287090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果真的有这样的能力，为什么不直接控制日本，把日本变成亲中政府？🤓☝️️ https://t.co/VCcJyzJPjV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "2082375227376316725",
+        "created_at": "2026-07-29T07:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082375227376316725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hin_a0921/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hin_a0921/status/2082008861788287090",
+              "start": 37,
+              "url": "https://t.co/VCcJyzJPjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082375227376316725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082008861788287090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果真的有这样的能力，为什么不直接控制日本，把日本变成亲中政府？🤓☝️️ https://t.co/VCcJyzJPjV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777613669943382016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "2082008861788287090",
+        "created_at": "2026-07-28T07:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082008861788287090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "地震"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "地震速報"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082008861788287090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 163874,
+          "like_count": 51,
+          "quote_count": 87,
+          "reply_count": 165,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#地震 #地震速報\n中国による人工地震が発生\n震度7\n高市政権に変わってから不幸の連続である。\n日本政府は早急に中国に対して圧力をかけるべきである💢💢\n地震によって津波が発生してるようなので気をつけて。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13432,
+          "following_count": 3210,
+          "like_count": 45345,
+          "listed_count": 41,
+          "media_count": 4858,
+          "tweet_count": 24626
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T08:25:10.000Z",
+        "description": "",
+        "id": "1777613669943382016",
+        "name": "🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082356296838459392/DYGoL1P6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 41,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "hin_a0921",
+        "verified": false
+      }
+    ]
+  }
+}

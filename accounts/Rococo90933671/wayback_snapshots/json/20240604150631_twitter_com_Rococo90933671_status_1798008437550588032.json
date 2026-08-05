@@ -1,0 +1,200 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1797663210528719166",
+    "created_at": "2024-06-04T15:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T16:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798008437550588032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739852038497067008",
+          "start": 0,
+          "username": "MIKUMagic39C5BB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798008437550588032",
+    "in_reply_to_user_id": "1739852038497067008",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797663210528719166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUMagic39C5BB 😍😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1797663210528719166].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1797663210528719166",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1797663210528719166"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1797663210528719166",
+        "created_at": "2024-06-04T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798008437550588032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739852038497067008",
+              "start": 0,
+              "username": "MIKUMagic39C5BB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798008437550588032",
+        "in_reply_to_user_id": "1739852038497067008",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797663210528719166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUMagic39C5BB 😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 948,
+          "like_count": 5767,
+          "listed_count": 1,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T03:33:54.000Z",
+        "description": "魔法大头\n@Kuna54188\n@Kyouko_1917\n@M600_spitfire\n@Score_Tmig\n一半是被迫家里蹲的前女神，另一半是魔法少女。双性恋，温和极左，讨厌对线，哲学爱好者，前古典五人推AU，猫左造饭少女，出卖灵魂许愿终结绝望螺旋。水平低下如有冒犯请见谅。不代表且不参加任何阵营，切勿刻板印象。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Kuna54188"
+              },
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Kyouko_1917"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Score_Tmig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "http://madoka-magica.com",
+                "start": 0,
+                "url": "https://t.co/V1TBJylbDK"
+              }
+            ]
+          }
+        },
+        "id": "1739852038497067008",
+        "location": "银之庭院 见泷原市 上锁的卧室",
+        "name": "见泷原圆脸",
+        "pinned_tweet_id": "1791476554066956467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792569870703620096/mB5caIwJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 287,
+          "like_count": 3879,
+          "listed_count": 2,
+          "tweet_count": 6522
+        },
+        "url": "https://t.co/V1TBJylbDK",
+        "username": "MIKUMagic39C5BB",
+        "verified": false
+      }
+    ]
+  }
+}

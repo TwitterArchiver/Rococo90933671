@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852719490620080616",
+    "created_at": "2024-11-02T14:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T15:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852720818901676209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2750181766",
+          "start": 0,
+          "username": "Subaru_Zenobia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852720818901676209",
+    "in_reply_to_user_id": "2750181766",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852719490620080616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Subaru_Zenobia 互联网没有记忆系列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852719490620080616",
+        "created_at": "2024-11-02T14:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T15:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852720818901676209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2750181766",
+              "start": 0,
+              "username": "Subaru_Zenobia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852720818901676209",
+        "in_reply_to_user_id": "2750181766",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852719490620080616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Subaru_Zenobia 互联网没有记忆系列"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852719487117836288"
+          ]
+        },
+        "author_id": "2750181766",
+        "conversation_id": "1852719490620080616",
+        "created_at": "2024-11-02T14:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T15:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852719490620080616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAVJBjqXKl",
+              "end": 23,
+              "expanded_url": "https://x.com/Subaru_Zenobia/status/1852719490620080616/photo/1",
+              "media_key": "3_1852719487117836288",
+              "start": 0,
+              "url": "https://t.co/bAVJBjqXKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852719490620080616",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bAVJBjqXKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1890,
+          "like_count": 17066,
+          "listed_count": 5,
+          "tweet_count": 9542
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-22T15:16:18.000Z",
+        "description": "推友尋回，原賬號 @LQM_Zenobia\n/幼兒園大班在讀\n/至今一切社會的歷史都是階級鬥爭的歷史。\n/非建製派\n/馬列毛主義貢薩羅思想\n/接受所有意識形態，無論有多魔怔💖\n/💓💓我關注了你，所以請你也關注我吧😘🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "LQM_Zenobia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/subaru…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/subaru-zenobia.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3aX088KGTT"
+              }
+            ]
+          }
+        },
+        "id": "2750181766",
+        "location": "第十三都市",
+        "name": "☭❤️小E童鞋᭄🚩",
+        "pinned_tweet_id": "1852719490620080616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850037207379345409/4sIv4NoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 2504,
+          "like_count": 7010,
+          "listed_count": 4,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/3aX088KGTT",
+        "username": "Subaru_Zenobia",
+        "verified": false
+      }
+    ]
+  }
+}

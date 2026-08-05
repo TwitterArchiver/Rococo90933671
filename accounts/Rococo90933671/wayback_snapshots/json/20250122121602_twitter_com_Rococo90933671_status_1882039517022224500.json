@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1881994059096773033",
+    "created_at": "2025-01-22T12:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T13:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882039517022224500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711718284717137920",
+          "start": 0,
+          "username": "liminfin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882039517022224500",
+    "in_reply_to_user_id": "1711718284717137920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881994059096773033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liminfin 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1881994059096773033",
+        "created_at": "2025-01-22T12:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T13:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882039517022224500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711718284717137920",
+              "start": 0,
+              "username": "liminfin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882039517022224500",
+        "in_reply_to_user_id": "1711718284717137920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881994059096773033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liminfin 我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1881994058182352896"
+          ]
+        },
+        "author_id": "1711718284717137920",
+        "conversation_id": "1881994059096773033",
+        "created_at": "2025-01-22T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881994059096773033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881994059096773033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正的正道人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 2054,
+          "like_count": 21400,
+          "listed_count": 7,
+          "media_count": 1598,
+          "tweet_count": 12015
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T12:20:41.000Z",
+        "description": "道不同不相為謀",
+        "id": "1711718284717137920",
+        "location": "Hong Kong revolucionària",
+        "name": "𝕷𝖎𝖒",
+        "pinned_tweet_id": "1882022330903465985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868707516307439616/Y66o4ran_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 2077,
+          "like_count": 96897,
+          "listed_count": 18,
+          "media_count": 2890,
+          "tweet_count": 27800
+        },
+        "username": "liminfin",
+        "verified": false
+      }
+    ]
+  }
+}

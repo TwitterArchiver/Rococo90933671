@@ -1,0 +1,329 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1376646790158589952",
+          "name": "Imperial Household Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1376646790158589952",
+          "name": "Imperial Household Agency"
+        }
+      }
+    ],
+    "conversation_id": "1789707415287423263",
+    "created_at": "2024-05-13T02:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T03:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789839070270488882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1629380034413862912",
+          "start": 0,
+          "username": "tt_ttaa41634614"
+        },
+        {
+          "end": 30,
+          "id": "1782419761747427328",
+          "start": 17,
+          "username": "Mrhequhecong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789839070270488882",
+    "in_reply_to_user_id": "1629380034413862912",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789739278995472445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt_ttaa41634614 @Mrhequhecong 日本ではそんなに多くの噂がないためと思います、なぜなら、中国では多くの人が清朝に反感を持っていて、皇室の子孫にも同じかもしれない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376646790158589952",
+              "name": "Imperial Household Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376646790158589952",
+              "name": "Imperial Household Agency"
+            }
+          }
+        ],
+        "conversation_id": "1789707415287423263",
+        "created_at": "2024-05-13T02:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T03:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789839070270488882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1629380034413862912",
+              "start": 0,
+              "username": "tt_ttaa41634614"
+            },
+            {
+              "end": 30,
+              "id": "1782419761747427328",
+              "start": 17,
+              "username": "Mrhequhecong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789839070270488882",
+        "in_reply_to_user_id": "1629380034413862912",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789739278995472445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt_ttaa41634614 @Mrhequhecong 日本ではそんなに多くの噂がないためと思います、なぜなら、中国では多くの人が清朝に反感を持っていて、皇室の子孫にも同じかもしれない"
+      },
+      {
+        "attachments": {},
+        "author_id": "1629380034413862912",
+        "conversation_id": "1789707415287423263",
+        "created_at": "2024-05-12T19:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T20:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789739278995472445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782419761747427328",
+              "start": 0,
+              "username": "Mrhequhecong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789739278995472445",
+        "in_reply_to_user_id": "1782419761747427328",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789710891266535618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrhequhecong あるみたいです。日本でも昔の大名の子孫は未だに金持ちの人が多いですからね(笑)\nそれにしても、中国じゃなくて日本に居るってのが謎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 366,
+          "like_count": 932,
+          "listed_count": 1,
+          "tweet_count": 1175
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T07:18:09.000Z",
+        "description": "ボカロ アニメ 声優好きl中世~近代辺りの世界史が好きl好きな人物はフリードリヒ2世と韓信lWTもやってる プマカス最高(定期) lたまに病みツイしますがお構いなくlAzki しぐれうい 樋口楓 剣持刀也 舞元啓介さんが好きです。",
+        "id": "1629380034413862912",
+        "location": "ブランデンブルグ選帝侯國",
+        "name": "旅人",
+        "pinned_tweet_id": "1789762942575018410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789291655746752512/-B7cKsVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 254,
+          "like_count": 1334,
+          "listed_count": 0,
+          "tweet_count": 547
+        },
+        "username": "tt_ttaa41634614",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T14:42:51.000Z",
+        "description": "07年日语生，来自大陆的广东高中生",
+        "id": "1782419761747427328",
+        "location": "广东省惠州市",
+        "name": "何去何从",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782421289568743425/3tfG0ZI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 162,
+          "like_count": 1254,
+          "listed_count": 0,
+          "tweet_count": 660
+        },
+        "username": "Mrhequhecong",
+        "verified": false
+      }
+    ]
+  }
+}

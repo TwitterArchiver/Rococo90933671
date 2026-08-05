@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828480517773369819",
+    "created_at": "2024-08-28T04:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T05:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828654554952446138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "JRDianaForever"
+        },
+        {
+          "end": 29,
+          "id": "1786592917731389440",
+          "start": 16,
+          "username": "VonLinne8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828654554952446138",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828639432192438372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JRDianaForever @VonLinne8964 政治狂热是真的无法应付，太让人红温了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1828639432192438372].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1828639432192438372",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1828639432192438372"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828480517773369819",
+        "created_at": "2024-08-28T04:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T05:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828654554952446138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "JRDianaForever"
+            },
+            {
+              "end": 29,
+              "id": "1786592917731389440",
+              "start": 16,
+              "username": "VonLinne8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828654554952446138",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828639432192438372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JRDianaForever @VonLinne8964 政治狂热是真的无法应付，太让人红温了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 1652,
+          "like_count": 14749,
+          "listed_count": 2,
+          "tweet_count": 7771
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Queer🏳️‍⚧️ 生态主义 喜欢的地方是BC和WA 奋斗目标是建立一个嘉心糖专政的联邦制国家 ⚠️遇到魔怔人会拉黑",
+        "id": "1470943033365438470",
+        "location": "生态社会主义联邦",
+        "name": "🏳️‍⚧️❄️然书记🍫🌲",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823619355902709760/Y6cIGIxf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 890,
+          "like_count": 20638,
+          "listed_count": 15,
+          "tweet_count": 12243
+        },
+        "username": "JRDianaForever",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T03:05:28.000Z",
+        "description": "【不友善的发言会被B，珍惜你说话的权利】\n\n不是在职执业护士，只是为了和@nursenika1840对仗才这么取名的\n\n政治冷感，取这样的名字是为了避免内容被搬运至内网，并非反共民运冲塔主义者\n\n社会自由主义｜跨女｜无键政内容生活号私信获取｜主页有不适内容的会 Block，如存在误会需要取 Block 请设法联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "nursenika1840"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/5HjGL39QmBeQQb…",
+                "end": 23,
+                "expanded_url": "https://maps.app.goo.gl/5HjGL39QmBeQQb9L6",
+                "start": 0,
+                "url": "https://t.co/lDozG0BkP3"
+              }
+            ]
+          }
+        },
+        "id": "1786592917731389440",
+        "location": "Taipei City, Taiwan",
+        "name": "8️⃣9️⃣6️⃣4️⃣新加坡护士生VonLinne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805315408670736386/PqYMhhhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 540,
+          "like_count": 47454,
+          "listed_count": 3,
+          "tweet_count": 16511
+        },
+        "url": "https://t.co/lDozG0BkP3",
+        "username": "VonLinne8964",
+        "verified": false
+      }
+    ]
+  }
+}

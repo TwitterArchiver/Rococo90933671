@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2083389261802569803",
+    "created_at": "2026-08-01T04:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083406174188388376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052451216542887937",
+          "start": 0,
+          "username": "bixng858010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083406174188388376",
+    "in_reply_to_user_id": "2052451216542887937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083389261802569803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bixng858010 一万年太久，只争朝夕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2083389261802569803",
+        "created_at": "2026-08-01T04:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083406174188388376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052451216542887937",
+              "start": 0,
+              "username": "bixng858010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083406174188388376",
+        "in_reply_to_user_id": "2052451216542887937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083389261802569803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bixng858010 一万年太久，只争朝夕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052451216542887937",
+        "conversation_id": "2083389261802569803",
+        "created_at": "2026-08-01T03:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083389261802569803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyun114514/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zhiyun114514/status/2083197001232183542",
+              "start": 13,
+              "url": "https://t.co/pSXsPZOooL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083389261802569803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083197001232183542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将用一万年来理解这句话 https://t.co/pSXsPZOooL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13486,
+          "following_count": 3219,
+          "like_count": 45814,
+          "listed_count": 42,
+          "media_count": 4902,
+          "tweet_count": 24792
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T18:11:35.000Z",
+        "description": "何意味（欢迎互fo）",
+        "id": "2052451216542887937",
+        "location": "中国",
+        "name": "星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052604321418629120/szRlv48t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 515,
+          "like_count": 19852,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1913
+        },
+        "url": "",
+        "username": "bixng858010",
+        "verified": false
+      }
+    ]
+  }
+}

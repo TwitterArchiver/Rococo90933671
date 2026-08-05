@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1828459961665401212",
+    "created_at": "2024-08-28T05:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T06:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828665666368684078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806650625100312576",
+          "start": 0,
+          "username": "SSSY2024"
+        },
+        {
+          "end": 25,
+          "id": "1260553941714186241",
+          "start": 10,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 40,
+          "id": "1347265835082141703",
+          "start": 26,
+          "username": "shipin_xiazai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828665666368684078",
+    "in_reply_to_user_id": "1806650625100312576",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828461587276915014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SSSY2024 @whyyoutouzhele @shipin_xiazai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1828459961665401212",
+        "created_at": "2024-08-28T05:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T06:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828665666368684078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806650625100312576",
+              "start": 0,
+              "username": "SSSY2024"
+            },
+            {
+              "end": 25,
+              "id": "1260553941714186241",
+              "start": 10,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 40,
+              "id": "1347265835082141703",
+              "start": 26,
+              "username": "shipin_xiazai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828665666368684078",
+        "in_reply_to_user_id": "1806650625100312576",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828461587276915014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SSSY2024 @whyyoutouzhele @shipin_xiazai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1828461440686051328"
+          ]
+        },
+        "author_id": "1806650625100312576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1828459961665401212",
+        "created_at": "2024-08-27T15:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828461587276915014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iv8xjvlott",
+              "end": 52,
+              "expanded_url": "https://twitter.com/SSSY2024/status/1828461587276915014/video/1",
+              "media_key": "13_1828461440686051328",
+              "start": 29,
+              "url": "https://t.co/iV8xjVLOTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828461587276915014",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 51423,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828459961665401212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 🤣估计是给习近平用的…… https://t.co/iV8xjVLOTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1649,
+          "like_count": 14779,
+          "listed_count": 2,
+          "tweet_count": 7784
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T11:27:40.000Z",
+        "description": "Shanghai Independenc /上海獨立/China Secession/中國分裂——香港警方通缉对象：「九獨」係香港警方喺港區國安法之後公告中嘅講法，指分裂中華人民共和國嘅九種地方獨立思潮，包括上海獨立、南蒙古獨立、西藏獨立、東突厥斯坦獨立、台灣獨立、巴蜀利亞獨立、閩越國獨立、大粵國獨立同埋滿洲國獨立。",
+        "id": "1806650625100312576",
+        "location": "Queens, NY",
+        "name": "孙寅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808957155308904448/pqyDPjvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 359,
+          "like_count": 814,
+          "listed_count": 11,
+          "tweet_count": 1204
+        },
+        "username": "SSSY2024",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676961,
+          "following_count": 916,
+          "like_count": 5216,
+          "listed_count": 7668,
+          "tweet_count": 21931
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-07T19:36:41.000Z",
+        "description": "请在推文中提及@shipin_xiazai 我将在几秒内回复您推特视频下载链接。请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "shipin_xiazai"
+              }
+            ]
+          }
+        },
+        "id": "1347265835082141703",
+        "name": "推特视频下载机器人",
+        "pinned_tweet_id": "1766830564638855578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627378676424736771/opzBXYEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441554,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 348,
+          "tweet_count": 167094
+        },
+        "username": "shipin_xiazai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1838895939307909231",
+    "created_at": "2024-09-25T13:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T14:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838940480585007141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1698164071219007488",
+          "start": 0,
+          "username": "CTFSCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838940480585007141",
+    "in_reply_to_user_id": "1698164071219007488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838895939307909231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTFSCF 船新的炒作赛道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1838895939307909231",
+        "created_at": "2024-09-25T13:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T14:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838940480585007141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1698164071219007488",
+              "start": 0,
+              "username": "CTFSCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838940480585007141",
+        "in_reply_to_user_id": "1698164071219007488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838895939307909231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTFSCF 船新的炒作赛道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698164071219007488",
+        "conversation_id": "1838895939307909231",
+        "created_at": "2024-09-25T10:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T11:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838895939307909231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tama5_no1/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/tama5_no1/status/1838415174916805110",
+              "start": 18,
+              "url": "https://t.co/fGJk2G81T8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838895939307909231",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838415174916805110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不明白，这剥个鸡蛋怎么流量这么高 https://t.co/fGJk2G81T8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 1816,
+          "like_count": 16711,
+          "listed_count": 3,
+          "tweet_count": 8909
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T02:40:51.000Z",
+        "description": "@421S_4分厂\n\n中文推特圈第一家国营制图厂（厂代号t_105）/\n苦难行军中(第十一个五年计划第二周）\n推文朝鲜内容来源：https://t.co/gqlJvC2a0i\n朝鲜内容标签#朝鲜新闻#朝鲜画作#朝鲜宣传画译中#朝鲜宣传画#朝鲜邮票",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "421S_4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dprkportal.kp",
+                "end": 87,
+                "expanded_url": "http://www.dprkportal.kp/",
+                "start": 64,
+                "url": "https://t.co/gqlJvC2a0i"
+              }
+            ]
+          }
+        },
+        "id": "1698164071219007488",
+        "location": "中华人民共和国🇨🇳",
+        "name": "中推第一国营制图厂🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752126150623834112/Ta_22Snc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6600,
+          "following_count": 601,
+          "like_count": 20116,
+          "listed_count": 33,
+          "tweet_count": 9151
+        },
+        "username": "CTFSCF",
+        "verified": false
+      }
+    ]
+  }
+}

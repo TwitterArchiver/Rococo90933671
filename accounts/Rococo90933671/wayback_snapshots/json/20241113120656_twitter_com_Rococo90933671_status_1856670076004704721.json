@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1856615493823566259",
+    "created_at": "2024-11-13T12:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T13:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856670076004704721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1668656828740403202",
+          "start": 0,
+          "username": "qinglongxiangmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856670076004704721",
+    "in_reply_to_user_id": "1668656828740403202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856615493823566259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinglongxiangmo 虾仁猪心🫰🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1856615493823566259",
+        "created_at": "2024-11-13T12:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T13:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856670076004704721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1668656828740403202",
+              "start": 0,
+              "username": "qinglongxiangmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856670076004704721",
+        "in_reply_to_user_id": "1668656828740403202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856615493823566259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinglongxiangmo 虾仁猪心🫰🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856615477650567172",
+            "3_1856615486831910912"
+          ]
+        },
+        "author_id": "1668656828740403202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1856615493823566259",
+        "created_at": "2024-11-13T08:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T09:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856615493823566259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fT6TqkOoss",
+              "end": 35,
+              "expanded_url": "https://x.com/qinglongxiangmo/status/1856615493823566259/photo/1",
+              "media_key": "3_1856615477650567172",
+              "start": 12,
+              "url": "https://t.co/fT6TqkOoss"
+            },
+            {
+              "display_url": "pic.x.com/fT6TqkOoss",
+              "end": 35,
+              "expanded_url": "https://x.com/qinglongxiangmo/status/1856615493823566259/photo/1",
+              "media_key": "3_1856615486831910912",
+              "start": 12,
+              "url": "https://t.co/fT6TqkOoss"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1856577025739280501",
+              "start": 36,
+              "url": "https://t.co/b1hBAQPNWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856615493823566259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 103,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856577025739280501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢推荐，已经在玩了。 https://t.co/fT6TqkOoss https://t.co/b1hBAQPNWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 1894,
+          "like_count": 17553,
+          "listed_count": 5,
+          "tweet_count": 9932
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T16:30:13.000Z",
+        "description": "我本江湖一闲人，\n四海为家看风景丨中华人民共和国万岁，世界人民大团结万岁丨爱好旅行、阅读、睡觉、动漫、影视丨略懂历史哲学、健身跑步减肥丨练习厨艺中丨注册推特初衷:宣扬中国动漫 ＃虹猫蓝兔 丨好朋友: @CPUP2024\n@xiangsaixue520  丨小宝 @RealXiaoer  🇨🇳🥰🇨🇳🥰🇨🇳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "虹猫蓝兔"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "CPUP2024"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "xiangsaixue520"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "RealXiaoer"
+              }
+            ]
+          }
+        },
+        "id": "1668656828740403202",
+        "location": "和平世界Peaceful World🕊️🕊️🕊️",
+        "name": "🍑🍌🫐跳跳喜欢蹦蹦跳🍓🍊🍇",
+        "pinned_tweet_id": "1795017323696263608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820478203770916866/YkmswBLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11486,
+          "following_count": 4945,
+          "like_count": 38948,
+          "listed_count": 9,
+          "tweet_count": 9515
+        },
+        "username": "qinglongxiangmo",
+        "verified": true
+      }
+    ]
+  }
+}

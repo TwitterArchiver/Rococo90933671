@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1871535218315927847",
+    "created_at": "2024-12-24T12:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T13:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871537281481507050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Provided to YouTube by Universal Music GroupChristmas In My Heart · Sarah ConnorChristmas In My Heart℗ 2005 Polydor/Island, a division of Universal Music Gmb...",
+          "display_url": "youtu.be/sXpDwp9iZrw?si…",
+          "end": 23,
+          "expanded_url": "https://youtu.be/sXpDwp9iZrw?si=_EbQKb-ZHc4etkHu",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1871537281884119040/c2KTFZIi?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1871537281884119040/c2KTFZIi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Christmas In My Heart",
+          "unwound_url": "https://www.youtube.com/watch?si=_EbQKb-ZHc4etkHu&v=sXpDwp9iZrw&feature=youtu.be",
+          "url": "https://t.co/Wo8HaYWBgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871537281481507050",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871535218315927847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Wo8HaYWBgw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1871535218315927847",
+        "created_at": "2024-12-24T12:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871537281481507050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Provided to YouTube by Universal Music GroupChristmas In My Heart · Sarah ConnorChristmas In My Heart℗ 2005 Polydor/Island, a division of Universal Music Gmb...",
+              "display_url": "youtu.be/sXpDwp9iZrw?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/sXpDwp9iZrw?si=_EbQKb-ZHc4etkHu",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1871537281884119040/c2KTFZIi?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1871537281884119040/c2KTFZIi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Christmas In My Heart",
+              "unwound_url": "https://www.youtube.com/watch?si=_EbQKb-ZHc4etkHu&v=sXpDwp9iZrw&feature=youtu.be",
+              "url": "https://t.co/Wo8HaYWBgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871537281481507050",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871535218315927847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Wo8HaYWBgw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871535218315927847",
+        "created_at": "2024-12-24T12:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871535218315927847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871535218315927847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心中的圣诞歌曲第一名永远是\n\nSarah Connor 的Christmas in My Heart\n\n因为这是初二时平安夜那天班主任放的歌。她教英语，教完初二上就没在学校了，这是她给我们放的最后一首歌。我一直都很想念她，她是我最喜欢的老师。现在九年了啊……\n直到晚上我才想起来我应该单曲循环😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十五年war3玩家|椎名林檎を愛する|本科辍学|大概率回fo|360°友好|不屏蔽任何账号❤️|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷（每种语言各有一个小号但不公开😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 1986,
+          "like_count": 20064,
+          "listed_count": 5,
+          "media_count": 1420,
+          "tweet_count": 11147
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1807736512747884955",
+    "created_at": "2024-07-01T13:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T14:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807762754754760874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "77427021",
+          "start": 0,
+          "username": "Plooooooooooopp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807762754754760874",
+    "in_reply_to_user_id": "77427021",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807736512747884955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plooooooooooopp 我的高中班主任就说我字不好了，明明初中老师还夸我来着，一模一样的字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1807736512747884955",
+        "created_at": "2024-07-01T13:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T14:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807762754754760874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "77427021",
+              "start": 0,
+              "username": "Plooooooooooopp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807762754754760874",
+        "in_reply_to_user_id": "77427021",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807736512747884955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plooooooooooopp 我的高中班主任就说我字不好了，明明初中老师还夸我来着，一模一样的字"
+      },
+      {
+        "attachments": {},
+        "author_id": "77427021",
+        "conversation_id": "1807736512747884955",
+        "created_at": "2024-07-01T11:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T12:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807736512747884955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rococo90933671/status/1807667281696313676",
+              "start": 17,
+              "url": "https://t.co/bUYUlJxlgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807736512747884955",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807667281696313676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在的学生写的字哦……就不说了。 https://t.co/bUYUlJxlgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1231,
+          "like_count": 11002,
+          "listed_count": 3,
+          "tweet_count": 5770
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-26T08:06:15.000Z",
+        "description": "周老公家管账的。周哥哥周妹妹家管黏糊的。| Emoji 😂 控。｜世界和平。",
+        "id": "77427021",
+        "location": "oz",
+        "name": "看我的眼神～❁҉҉҉҉҉҉҉҉",
+        "pinned_tweet_id": "1071753740007305216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666744844256153600/_hwdFLWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4973,
+          "following_count": 425,
+          "like_count": 3680,
+          "listed_count": 68,
+          "tweet_count": 118808
+        },
+        "username": "Plooooooooooopp",
+        "verified": false
+      }
+    ]
+  }
+}

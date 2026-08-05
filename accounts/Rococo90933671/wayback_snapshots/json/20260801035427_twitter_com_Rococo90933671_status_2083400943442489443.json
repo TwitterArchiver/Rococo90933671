@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083400928615702528"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2083163914884522338",
+    "created_at": "2026-08-01T03:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083400943442489443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2047321889597698048",
+          "start": 0,
+          "username": "JDongfang92813"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ar63fskL1",
+          "end": 61,
+          "expanded_url": "https://x.com/Rococo90933671/status/2083400943442489443/photo/1",
+          "media_key": "3_2083400928615702528",
+          "start": 38,
+          "url": "https://t.co/5ar63fskL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083400943442489443",
+    "in_reply_to_user_id": "2047321889597698048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083367737079025884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDongfang92813 应该就是因为这条推，系统给我发这个了（悲） https://t.co/5ar63fskL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_2083400928615702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm6GzLboAAEAFI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083400928615702528"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2083163914884522338",
+        "created_at": "2026-08-01T03:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400943442489443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047321889597698048",
+              "start": 0,
+              "username": "JDongfang92813"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ar63fskL1",
+              "end": 61,
+              "expanded_url": "https://x.com/Rococo90933671/status/2083400943442489443/photo/1",
+              "media_key": "3_2083400928615702528",
+              "start": 38,
+              "url": "https://t.co/5ar63fskL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400943442489443",
+        "in_reply_to_user_id": "2047321889597698048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083367737079025884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDongfang92813 应该就是因为这条推，系统给我发这个了（悲） https://t.co/5ar63fskL1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047321889597698048",
+        "conversation_id": "2083163914884522338",
+        "created_at": "2026-08-01T01:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083367737079025884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083367737079025884",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083163914884522338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 飞升是陷阱，不要去啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13485,
+          "following_count": 3219,
+          "like_count": 45792,
+          "listed_count": 42,
+          "media_count": 4900,
+          "tweet_count": 24784
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T14:29:29.000Z",
+        "description": "爱看动漫，爱打游戏，喜欢交朋友。私は永遠に桜島麻衣が好き。",
+        "id": "2047321889597698048",
+        "location": "人马座C30-B22",
+        "name": "jianmu dongfang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047326307995045888/tBjHWlnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 2694,
+          "like_count": 5904,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "JDongfang92813",
+        "verified": false
+      }
+    ]
+  }
+}

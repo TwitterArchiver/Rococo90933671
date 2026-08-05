@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1790170696523674050",
+    "created_at": "2024-05-14T04:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T05:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790236994439885230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1342015881975631873",
+          "start": 0,
+          "username": "liuxuanye1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790236994439885230",
+    "in_reply_to_user_id": "1342015881975631873",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790170696523674050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuxuanye1145 我是胡惟庸，快来快来🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1790170696523674050",
+        "created_at": "2024-05-14T04:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T05:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790236994439885230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1342015881975631873",
+              "start": 0,
+              "username": "liuxuanye1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790236994439885230",
+        "in_reply_to_user_id": "1342015881975631873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790170696523674050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuxuanye1145 我是胡惟庸，快来快来🥵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790170685110878208"
+          ]
+        },
+        "author_id": "1342015881975631873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1790170696523674050",
+        "created_at": "2024-05-14T00:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T01:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790170696523674050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/cMpJCsyxL8",
+              "end": 33,
+              "expanded_url": "https://twitter.com/liuxuanye1145/status/1790170696523674050/photo/1",
+              "media_key": "3_1790170685110878208",
+              "start": 10,
+              "url": "https://t.co/cMpJCsyxL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790170696523674050",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊我要搞图图 https://t.co/cMpJCsyxL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单足控/可莉厨/只会打简单电脑的十五年war3玩家/段智美と椎名林檎を愛する/渴望真正地活着/互fo/Languages ranked by my proficiency: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 409,
+          "like_count": 1080,
+          "listed_count": 0,
+          "tweet_count": 1310
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T07:55:09.000Z",
+        "description": "个人成分复杂：“朱元璋、于谦、冉闵、张献忠、全斗焕、朴正熙、金日成、波尔布特、朗诺、本拉登、常凯申、毛泽东、希特勒、邓小平、习近平”似人非人的精神结合体💩。只是缝合怪并非皇汉。\n\n支黑、粉蛆、反贼贵物们可以撒泡尿淹死自己……",
+        "id": "1342015881975631873",
+        "location": "大明 应天府",
+        "name": "明太祖朱叭叭",
+        "pinned_tweet_id": "1689338431527333889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687192174742622214/yfil5Qfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 231,
+          "like_count": 6395,
+          "listed_count": 2,
+          "tweet_count": 1087
+        },
+        "username": "liuxuanye1145",
+        "verified": false
+      }
+    ]
+  }
+}

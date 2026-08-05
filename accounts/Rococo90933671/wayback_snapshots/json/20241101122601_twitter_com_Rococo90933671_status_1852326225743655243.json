@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852201423280443823",
+    "created_at": "2024-11-01T12:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T13:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852326225743655243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1277179391621992449",
+          "start": 0,
+          "username": "YukiYohane_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852326225743655243",
+    "in_reply_to_user_id": "1277179391621992449",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852201423280443823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiYohane_ 羨ましい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852201423280443823",
+        "created_at": "2024-11-01T12:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T13:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852326225743655243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1277179391621992449",
+              "start": 0,
+              "username": "YukiYohane_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852326225743655243",
+        "in_reply_to_user_id": "1277179391621992449",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852201423280443823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiYohane_ 羨ましい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852201421170708480"
+          ]
+        },
+        "author_id": "1277179391621992449",
+        "conversation_id": "1852201423280443823",
+        "created_at": "2024-11-01T04:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852201423280443823"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "関大",
+              "probability": 0.5094,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ph3Hpq1EYT",
+              "end": 34,
+              "expanded_url": "https://x.com/YukiYohane_/status/1852201423280443823/photo/1",
+              "media_key": "3_1852201421170708480",
+              "start": 11,
+              "url": "https://t.co/Ph3Hpq1EYT"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "074afc8472011fcf"
+        },
+        "id": "1852201423280443823",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5462,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "関大、ありがとう！😭 https://t.co/Ph3Hpq1EYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 1881,
+          "like_count": 17020,
+          "listed_count": 5,
+          "tweet_count": 9507
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T09:57:56.000Z",
+        "description": "大阪在住 & 成分属性相近大概率回fo＆ ENFP ＆ 理想主义 ＆中间偏左 & 愛、科学与自由＆華獨＆理解而不是選擇 & 青天白日满地红旗永不落🇹🇼 & 社會自由主義 & #津島善子😈 &  ウマ娘 & 芳文社 etc...",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "津島善子"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100084857522628",
+                "start": 0,
+                "url": "https://t.co/dm3FLwaekx"
+              }
+            ]
+          }
+        },
+        "id": "1277179391621992449",
+        "location": "大阪市 天王寺区",
+        "name": "雪見(ゆきみ)🇹🇼",
+        "pinned_tweet_id": "1689469999851950080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776187229989462016/KHSMFR0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 1395,
+          "like_count": 5309,
+          "listed_count": 4,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/dm3FLwaekx",
+        "username": "YukiYohane_",
+        "verified": false
+      }
+    ]
+  }
+}

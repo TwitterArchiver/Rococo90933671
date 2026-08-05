@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2081878613679640743",
+    "created_at": "2026-07-27T23:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T00:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081878613679640743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lumina_1023/st…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Lumina_1023/status/2081704505121354071",
+          "start": 141,
+          "url": "https://t.co/aGjFUQiv5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081878613679640743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "可莉几乎伴随了我整个大学，尽管我入学三个多月后才入坑，又直到第二年的六月复刻才抽到可莉。\n后来，哪怕打深渊从用胡桃到用玛薇卡，我都会给可莉最好的圣遗物。甚至只要能打过，我都会在深渊队伍里给她留一个位置。\n现在退坑大半年了，可是那段永远无法复制的时光，有可莉的时光，我会永远铭记——\n那段大学生活是无数的巧合和因缘际会汇聚成的宝物，尽管它永远都有瑕疵。\n\n生日快乐，可莉🩷"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081704505121354071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可莉几乎伴随了我整个大学，尽管我入学三个多月后才入坑，又直到第二年的六月复刻才抽到可莉。\n后来，哪怕打深渊从用胡桃到用玛薇卡，我都会给可莉最好的圣遗物。甚至只要能打过，我都会在深渊队伍里给她留一个位置。\n现在退坑大半年了，可是那段永远无法复制的时光，有可莉的时光，我会永远铭记—— https://t.co/aGjFUQiv5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081704480614076418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOzMh5XUAI4kC-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2081878613679640743",
+        "created_at": "2026-07-27T23:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081878613679640743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lumina_1023/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Lumina_1023/status/2081704505121354071",
+              "start": 141,
+              "url": "https://t.co/aGjFUQiv5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081878613679640743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可莉几乎伴随了我整个大学，尽管我入学三个多月后才入坑，又直到第二年的六月复刻才抽到可莉。\n后来，哪怕打深渊从用胡桃到用玛薇卡，我都会给可莉最好的圣遗物。甚至只要能打过，我都会在深渊队伍里给她留一个位置。\n现在退坑大半年了，可是那段永远无法复制的时光，有可莉的时光，我会永远铭记——\n那段大学生活是无数的巧合和因缘际会汇聚成的宝物，尽管它永远都有瑕疵。\n\n生日快乐，可莉🩷"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081704505121354071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可莉几乎伴随了我整个大学，尽管我入学三个多月后才入坑，又直到第二年的六月复刻才抽到可莉。\n后来，哪怕打深渊从用胡桃到用玛薇卡，我都会给可莉最好的圣遗物。甚至只要能打过，我都会在深渊队伍里给她留一个位置。\n现在退坑大半年了，可是那段永远无法复制的时光，有可莉的时光，我会永远铭记—— https://t.co/aGjFUQiv5H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081704480614076418"
+          ]
+        },
+        "author_id": "1392908688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2081704505121354071",
+        "created_at": "2026-07-27T11:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081704505121354071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "Klee"
+            },
+            {
+              "end": 75,
+              "start": 57,
+              "tag": "HappyBirthdayKlee"
+            },
+            {
+              "end": 90,
+              "start": 76,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "PixAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HMlZPdblX",
+              "end": 121,
+              "expanded_url": "https://x.com/Lumina_1023/status/2081704505121354071/photo/1",
+              "media_key": "3_2081704480614076418",
+              "start": 98,
+              "url": "https://t.co/2HMlZPdblX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081704505121354071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3705,
+          "like_count": 384,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday, Klee!❤️\nKlee | クレー❤️\nAlice | アリス❤️\n#Klee #HappyBirthdayKlee #GenshinImpact #PixAI https://t.co/2HMlZPdblX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13428,
+          "following_count": 3212,
+          "like_count": 45165,
+          "listed_count": 41,
+          "media_count": 4841,
+          "tweet_count": 24545
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-30T19:55:43.000Z",
+        "description": "AI artist ❤️\nLove writing fics ❤️\nPlaying gacha games❤️\nTry PixAI for free, link below👇\nhttps://t.co/olIL9sNoli",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "go.pix.ai/lumina-pcn",
+                "end": 111,
+                "expanded_url": "https://go.pix.ai/lumina-pcn",
+                "start": 88,
+                "url": "https://t.co/olIL9sNoli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/Lumina10…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/Lumina1023",
+                "start": 0,
+                "url": "https://t.co/LHSYd4o8Hu"
+              }
+            ]
+          }
+        },
+        "id": "1392908688",
+        "name": "Lumina1023",
+        "pinned_tweet_id": "2081704505121354071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080326246798446592/XOuha7u0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 204,
+          "like_count": 7164,
+          "listed_count": 6,
+          "media_count": 1063,
+          "tweet_count": 5147
+        },
+        "url": "https://t.co/LHSYd4o8Hu",
+        "username": "Lumina_1023",
+        "verified": false
+      }
+    ]
+  }
+}

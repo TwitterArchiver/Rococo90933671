@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1832234350043394168",
+    "created_at": "2024-09-07T05:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T06:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832284628360818992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "953195651587653632",
+          "start": 0,
+          "username": "rd3S55qQjtjMPE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832284628360818992",
+    "in_reply_to_user_id": "953195651587653632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832234350043394168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rd3S55qQjtjMPE6 不是一家人，接后半句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1832234350043394168",
+        "created_at": "2024-09-07T05:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832284628360818992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "953195651587653632",
+              "start": 0,
+              "username": "rd3S55qQjtjMPE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832284628360818992",
+        "in_reply_to_user_id": "953195651587653632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832234350043394168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rd3S55qQjtjMPE6 不是一家人，接后半句"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832234345530372096"
+          ]
+        },
+        "author_id": "953195651587653632",
+        "conversation_id": "1832234350043394168",
+        "created_at": "2024-09-07T01:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T02:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832234350043394168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3gbtirgix",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rd3S55qQjtjMPE6/status/1832234350043394168/photo/1",
+              "media_key": "3_1832234345530372096",
+              "start": 4,
+              "url": "https://t.co/R3gbtIrgIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832234350043394168",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 830,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/R3gbtIrgIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1696,
+          "like_count": 15719,
+          "listed_count": 2,
+          "tweet_count": 8300
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T09:22:07.000Z",
+        "description": "そのまま",
+        "id": "953195651587653632",
+        "name": "🤔非常快",
+        "pinned_tweet_id": "1648904967229698050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592013415413067778/JaPW_9_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6482,
+          "following_count": 777,
+          "like_count": 44417,
+          "listed_count": 33,
+          "tweet_count": 21201
+        },
+        "username": "rd3S55qQjtjMPE6",
+        "verified": false
+      }
+    ]
+  }
+}

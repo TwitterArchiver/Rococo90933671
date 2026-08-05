@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1832701691780796893",
+    "created_at": "2024-09-08T14:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T15:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832790674863014098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832790674863014098",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832701691780796893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 哥们是海南人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1832701691780796893",
+        "created_at": "2024-09-08T14:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T15:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832790674863014098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832790674863014098",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832701691780796893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 哥们是海南人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644328501980561409",
+        "conversation_id": "1832701691780796893",
+        "created_at": "2024-09-08T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832701691780796893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832701691780796893",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 931,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操，现在才恢复供电，我真是服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1723,
+          "like_count": 15900,
+          "listed_count": 2,
+          "tweet_count": 8404
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "回归纯真",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824110270576508928/rWsybOCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10723,
+          "following_count": 2709,
+          "like_count": 35702,
+          "listed_count": 38,
+          "tweet_count": 8796
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

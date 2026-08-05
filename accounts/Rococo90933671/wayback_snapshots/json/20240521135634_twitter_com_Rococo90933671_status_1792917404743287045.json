@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1792917404743287045",
+    "created_at": "2024-05-21T13:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T14:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792917404743287045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769380729409130496",
+          "start": 3,
+          "username": "MaoTseTung93"
+        },
+        {
+          "end": 34,
+          "id": "1512250549726498838",
+          "start": 18,
+          "username": "KaGuRaZaKaShoTa"
+        },
+        {
+          "end": 51,
+          "id": "1702925354132992000",
+          "start": 35,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792917404743287045",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1786963680703463564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoTseTung93: @KaGuRaZaKaShoTa @remilia_servant 我不会甘心的"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [KaGuRaZaKaShoTa].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KaGuRaZaKaShoTa",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KaGuRaZaKaShoTa"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1792917404743287045",
+        "created_at": "2024-05-21T13:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T14:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792917404743287045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769380729409130496",
+              "start": 3,
+              "username": "MaoTseTung93"
+            },
+            {
+              "end": 34,
+              "id": "1512250549726498838",
+              "start": 18,
+              "username": "KaGuRaZaKaShoTa"
+            },
+            {
+              "end": 51,
+              "id": "1702925354132992000",
+              "start": 35,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792917404743287045",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786963680703463564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoTseTung93: @KaGuRaZaKaShoTa @remilia_servant 我不会甘心的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1769380729409130496",
+        "conversation_id": "1786934995950452812",
+        "created_at": "2024-05-05T03:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-05T04:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1786963680703463564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512250549726498838",
+              "start": 0,
+              "username": "KaGuRaZaKaShoTa"
+            },
+            {
+              "end": 33,
+              "id": "1702925354132992000",
+              "start": 17,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786963680703463564",
+        "in_reply_to_user_id": "1512250549726498838",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2719,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786946277605011677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaGuRaZaKaShoTa @remilia_servant 我不会甘心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Proficiencies of languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 576,
+          "like_count": 2262,
+          "listed_count": 0,
+          "tweet_count": 2210
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反帝反殖民壓迫力量萬歲！無產階級文化大革命萬歲! Long Live the People！Long Live the Maoism ! Long Live the GPCR! Free Palestinian People!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不滅的物質存在於世間",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1791102459978686653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786662618947833856/iODEkDzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 173,
+          "like_count": 939,
+          "listed_count": 1,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "［粵/Eng/台/普］生活艱難的中學生👾///絕讚摯友［@irohahakokodayo］超酷帥哥［@lainlain8964］Lim［@liminfin］我大哥［@Oyu_love8964］ 紅脖［@NahZ1ky］ 可愛台妹［@hoshikawa8964］",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "irohahakokodayo"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "lainlain8964"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "liminfin"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Oyu_love8964"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "NahZ1ky"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "hoshikawa8964"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "你櫃子裏面🔪🔪🔪",
+        "name": "◐蕾米の妖精僕◑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790581548712128512/vDN4GUx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7983,
+          "following_count": 1261,
+          "like_count": 61345,
+          "listed_count": 41,
+          "tweet_count": 17942
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

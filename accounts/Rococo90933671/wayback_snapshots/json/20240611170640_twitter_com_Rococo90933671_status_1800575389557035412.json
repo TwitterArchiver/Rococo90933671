@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1800573668671803535",
+    "created_at": "2024-06-11T17:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T18:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800575389557035412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726953590886174720",
+          "start": 0,
+          "username": "chigirin1155"
+        },
+        {
+          "end": 28,
+          "id": "1342790019027595264",
+          "start": 14,
+          "username": "GloryToHK8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800575389557035412",
+    "in_reply_to_user_id": "1726953590886174720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800575293352239458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chigirin1155 @GloryToHK8964 乐子人就没有关系🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1800575293352239458].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1800575293352239458",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1800575293352239458"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1800573668671803535",
+        "created_at": "2024-06-11T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800575389557035412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726953590886174720",
+              "start": 0,
+              "username": "chigirin1155"
+            },
+            {
+              "end": 28,
+              "id": "1342790019027595264",
+              "start": 14,
+              "username": "GloryToHK8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800575389557035412",
+        "in_reply_to_user_id": "1726953590886174720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800575293352239458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chigirin1155 @GloryToHK8964 乐子人就没有关系🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 1109,
+          "like_count": 7274,
+          "listed_count": 2,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T13:20:14.000Z",
+        "description": "英法廚｜本人推內一切事情均為吃瓜狀態,順便我祝你全家幸福安康｜@mikukantella115互動號(前chigirin1155帳號)｜ @CyanimDunkeln @DKsosad666 倆壞逼｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "mikukantella115"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "CyanimDunkeln"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "DKsosad666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/a2u86wTN",
+                "end": 23,
+                "expanded_url": "https://discord.gg/a2u86wTN",
+                "start": 0,
+                "url": "https://t.co/CbkZvf8SkS"
+              }
+            ]
+          }
+        },
+        "id": "1726953590886174720",
+        "location": "火星",
+        "name": "MikuwithKtl的高地小屋",
+        "pinned_tweet_id": "1788978789881639197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800496770734018560/dtcUczLa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 251,
+          "like_count": 9344,
+          "listed_count": 0,
+          "tweet_count": 5392
+        },
+        "url": "https://t.co/CbkZvf8SkS",
+        "username": "chigirin1155",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T11:11:10.000Z",
+        "description": "標籤化的自介無意義，隨著認知擺盪才是人心。 熱愛各種反串、陰陽怪氣。",
+        "id": "1342790019027595264",
+        "name": "傲慢野獸大🍔",
+        "pinned_tweet_id": "1745769246901330399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791591318801825795/heD-WLDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 504,
+          "like_count": 72268,
+          "listed_count": 18,
+          "tweet_count": 41268
+        },
+        "username": "GloryToHK8964",
+        "verified": false
+      }
+    ]
+  }
+}

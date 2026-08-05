@@ -1,0 +1,437 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      }
+    ],
+    "conversation_id": "1795994682507379190",
+    "created_at": "2024-05-30T02:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T03:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796008973285335216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761706660329037824",
+          "start": 0,
+          "username": "MIKUloverrrrr"
+        },
+        {
+          "end": 28,
+          "id": "1255397952325128193",
+          "start": 15,
+          "username": "wakeup_arrow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/heshanshuo/sta…",
+          "end": 78,
+          "expanded_url": "https://x.com/heshanshuo/status/1331696714680393728?t=x7OU0nnuUMrP9ENLL0dGRg&s=19",
+          "start": 55,
+          "url": "https://t.co/uCOGuyAvYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796008973285335216",
+    "in_reply_to_user_id": "1761706660329037824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1331696714680393728",
+        "type": "quoted"
+      },
+      {
+        "id": "1796000375754895831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKUloverrrrr @wakeup_arrow 一开始我以为是霜滑满天郭继承，后来才想起来是郭文贵😂https://t.co/uCOGuyAvYh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "1795994682507379190",
+        "created_at": "2024-05-30T02:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T03:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796008973285335216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761706660329037824",
+              "start": 0,
+              "username": "MIKUloverrrrr"
+            },
+            {
+              "end": 28,
+              "id": "1255397952325128193",
+              "start": 15,
+              "username": "wakeup_arrow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/heshanshuo/sta…",
+              "end": 78,
+              "expanded_url": "https://x.com/heshanshuo/status/1331696714680393728?t=x7OU0nnuUMrP9ENLL0dGRg&s=19",
+              "start": 55,
+              "url": "https://t.co/uCOGuyAvYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796008973285335216",
+        "in_reply_to_user_id": "1761706660329037824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1331696714680393728",
+            "type": "quoted"
+          },
+          {
+            "id": "1796000375754895831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKUloverrrrr @wakeup_arrow 一开始我以为是霜滑满天郭继承，后来才想起来是郭文贵😂https://t.co/uCOGuyAvYh"
+      },
+      {
+        "attachments": {},
+        "author_id": "807291948729892864",
+        "conversation_id": "1331696714680393728",
+        "created_at": "2020-11-25T20:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2020-11-25T21:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1331696714680393728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vyep16/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/vyep16/status/1331529303507361792",
+              "start": 34,
+              "url": "https://t.co/3Ky47lBIGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1331696714680393728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 0,
+          "like_count": 72,
+          "quote_count": 26,
+          "reply_count": 1602,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1331529303507361792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【真谛】信文贵得永生，喜马拉雅邪教助你超脱三界。噢耶！噢耶！噢耶！ https://t.co/3Ky47lBIGC"
+      },
+      {
+        "attachments": {},
+        "author_id": "1761706660329037824",
+        "conversation_id": "1795994682507379190",
+        "created_at": "2024-05-30T02:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T03:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796000375754895831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1255397952325128193",
+              "start": 0,
+              "username": "wakeup_arrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796000375754895831",
+        "in_reply_to_user_id": "1255397952325128193",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795994682507379190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakeup_arrow 郭圣绝对是超越李圣的逆天存在😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/对跨圈友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 827,
+          "like_count": 4094,
+          "listed_count": 1,
+          "tweet_count": 3057
+        },
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T10:56:40.000Z",
+        "description": "历史和二次元爱好者，喜欢具备好好说话能力和必要认知能力的所有人。❤️🇨🇳❤️亲建制左翼 友好交流不论立场 谢绝殖黑、极端亲西方、洋奴、低级粉蛆。反封建老保 love is love🏳️‍🌈&ALLY&非二元性别 stand with🇵🇸🇷🇺 会痛击反常识反智人士。小号@congniangmiku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 134,
+                "username": "congniangmiku"
+              }
+            ]
+          }
+        },
+        "id": "1761706660329037824",
+        "location": "中华人民共和国PRC❤️",
+        "name": "葱娘酱miku赛高🇨🇳",
+        "pinned_tweet_id": "1795855650049741084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791833972416319488/Kth-4bIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 638,
+          "like_count": 28644,
+          "listed_count": 1,
+          "tweet_count": 7482
+        },
+        "username": "MIKUloverrrrr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T07:26:18.000Z",
+        "description": "",
+        "id": "1255397952325128193",
+        "location": "喵喵编辑部",
+        "name": "猫叔讲故事",
+        "pinned_tweet_id": "1792521138859540671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533050936796450817/_QmfSm-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61547,
+          "following_count": 2406,
+          "like_count": 114031,
+          "listed_count": 220,
+          "tweet_count": 56131
+        },
+        "username": "wakeup_arrow",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-09T18:32:54.000Z",
+        "description": "基督徒，支持非暴力运动。",
+        "id": "807291948729892864",
+        "location": "Monterey Park, CA",
+        "name": "河山硕",
+        "pinned_tweet_id": "1331696714680393728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/893943896350183424/-DyhtZIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 628,
+          "like_count": 9717,
+          "listed_count": 23,
+          "tweet_count": 5502
+        },
+        "username": "heshanshuo",
+        "verified": false
+      }
+    ]
+  }
+}

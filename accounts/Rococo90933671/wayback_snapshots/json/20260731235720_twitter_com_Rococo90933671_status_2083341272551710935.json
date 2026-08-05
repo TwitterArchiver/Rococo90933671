@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083341250686844928"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2083341272551710935",
+    "created_at": "2026-07-31T23:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083341272551710935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8pC8I5Nj4S",
+          "end": 65,
+          "expanded_url": "https://x.com/Rococo90933671/status/2083341272551710935/photo/1",
+          "media_key": "3_2083341250686844928",
+          "start": 42,
+          "url": "https://t.co/8pC8I5Nj4S"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1951112735812624434",
+          "start": 66,
+          "url": "https://t.co/Z2oJkfRIb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083341272551710935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951112735812624434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一年居然这么快就过去了，纪念一下。\n这首歌循环了不下几百遍，平均一天听了将近两次🩷 https://t.co/8pC8I5Nj4S https://t.co/Z2oJkfRIb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2384,
+        "media_key": "3_2083341250686844928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmD1FkbgAAxG2H.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951112714778189824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxO-rTkaIAAo8Wg.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083341250686844928"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2083341272551710935",
+        "created_at": "2026-07-31T23:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083341272551710935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pC8I5Nj4S",
+              "end": 65,
+              "expanded_url": "https://x.com/Rococo90933671/status/2083341272551710935/photo/1",
+              "media_key": "3_2083341250686844928",
+              "start": 42,
+              "url": "https://t.co/8pC8I5Nj4S"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1951112735812624434",
+              "start": 66,
+              "url": "https://t.co/Z2oJkfRIb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083341272551710935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951112735812624434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一年居然这么快就过去了，纪念一下。\n这首歌循环了不下几百遍，平均一天听了将近两次🩷 https://t.co/8pC8I5Nj4S https://t.co/Z2oJkfRIb8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951112714778189824"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1951112735812624434",
+        "created_at": "2025-08-01T02:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T03:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951112735812624434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJNxEstW4M",
+              "end": 151,
+              "expanded_url": "https://x.com/Rococo90933671/status/1951112735812624434/photo/1",
+              "media_key": "3_1951112714778189824",
+              "start": 128,
+              "url": "https://t.co/qJNxEstW4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951112735812624434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 565,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢youtube算法让我在8月第一天认识了这么好的一首哈萨克语歌❤️\n目前我的歌单列表保守估计已经有了如下语言：\n汉语、粤语、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语、泰语、印地语、越南语、俄语、匈牙利语、蒙语、哈萨克语、柯尔克孜语、罗马尼亚语 https://t.co/qJNxEstW4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13477,
+          "following_count": 3218,
+          "like_count": 45751,
+          "listed_count": 42,
+          "media_count": 4892,
+          "tweet_count": 24766
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

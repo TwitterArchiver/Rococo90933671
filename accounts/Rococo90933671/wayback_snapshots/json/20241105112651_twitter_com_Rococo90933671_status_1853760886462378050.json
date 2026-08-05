@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1853760886462378050",
+    "created_at": "2024-11-05T11:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T12:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853760886462378050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1549029511865307136",
+          "start": 3,
+          "username": "chishengyu628"
+        },
+        {
+          "end": 30,
+          "id": "1794266757995343872",
+          "start": 19,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853760886462378050",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853729474019524919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chishengyu628: @miyuki_114 现在b人机制改了，钢哥b了一堆人就像把自己关笼子里不让碰，一堆人围观"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1853760886462378050",
+        "created_at": "2024-11-05T11:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T12:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853760886462378050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1549029511865307136",
+              "start": 3,
+              "username": "chishengyu628"
+            },
+            {
+              "end": 30,
+              "id": "1794266757995343872",
+              "start": 19,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853760886462378050",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853729474019524919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chishengyu628: @miyuki_114 现在b人机制改了，钢哥b了一堆人就像把自己关笼子里不让碰，一堆人围观"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549029511865307136",
+        "conversation_id": "1853727691549315237",
+        "created_at": "2024-11-05T09:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T10:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853729474019524919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853729474019524919",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853727691549315237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 现在b人机制改了，钢哥b了一堆人就像把自己关笼子里不让碰，一堆人围观"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 1875,
+          "like_count": 17195,
+          "listed_count": 5,
+          "tweet_count": 9638
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T13:53:35.000Z",
+        "description": "直通车：脑婆🥰 @vanofthess /最好的橙姨 @orangetodayeat /中推圈最全能的黄推 @meinianba123 /好mona！ @asahisuki0 /16岁男娘结婚加 @anifested /唐氏牢猫 @Paranoia23334",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "vanofthess"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "orangetodayeat"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "meinianba123"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "asahisuki0"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "anifested"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1549029511865307136",
+        "location": "我在东北没有家（？",
+        "name": "洛水三千",
+        "pinned_tweet_id": "1847174385440117176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788234928586735616/_jnPGFHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 442,
+          "like_count": 86586,
+          "listed_count": 1,
+          "tweet_count": 14752
+        },
+        "username": "chishengyu628",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "无政府主义//走向创造性的虚无//爱好是换头像",
+        "id": "1794266757995343872",
+        "location": "Internet Yamero",
+        "name": "N1K-J 紫电局地战",
+        "pinned_tweet_id": "1853357261529493611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853725576563130369/CGoM4AW4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 1196,
+          "like_count": 94835,
+          "listed_count": 2,
+          "tweet_count": 14314
+        },
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

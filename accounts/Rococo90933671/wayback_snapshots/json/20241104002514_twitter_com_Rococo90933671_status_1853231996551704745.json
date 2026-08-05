@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      }
+    ],
+    "conversation_id": "1853019176073638022",
+    "created_at": "2024-11-04T00:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T01:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853231996551704745"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "椎名林檎",
+          "probability": 0.8735,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752964869203361792",
+          "start": 0,
+          "username": "Minam1eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853231996551704745",
+    "in_reply_to_user_id": "1752964869203361792",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853019176073638022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minam1eL 椎名林檎の唄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          }
+        ],
+        "conversation_id": "1853019176073638022",
+        "created_at": "2024-11-04T00:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T01:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853231996551704745"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "椎名林檎",
+              "probability": 0.8735,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752964869203361792",
+              "start": 0,
+              "username": "Minam1eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853231996551704745",
+        "in_reply_to_user_id": "1752964869203361792",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853019176073638022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minam1eL 椎名林檎の唄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853019173187907584"
+          ]
+        },
+        "author_id": "1752964869203361792",
+        "conversation_id": "1853019176073638022",
+        "created_at": "2024-11-03T10:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T11:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853019176073638022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmM8oC46NH",
+              "end": 42,
+              "expanded_url": "https://x.com/Minam1eL/status/1853019176073638022/photo/1",
+              "media_key": "3_1853019173187907584",
+              "start": 19,
+              "url": "https://t.co/rmM8oC46NH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853019176073638022",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 75018,
+          "like_count": 777,
+          "quote_count": 52,
+          "reply_count": 877,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条推的一人发一首你喜欢的日语歌 https://t.co/rmM8oC46NH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 1871,
+          "like_count": 17116,
+          "listed_count": 5,
+          "tweet_count": 9580
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:59:36.000Z",
+        "description": "繪畫實在學不會一點啦😢\n平時會看番打遊戲😍\n我一直是阿卡內的粉絲啊🥰\n想要更多fo 有fo就回 所以歡迎互fo！😃\n随意玩玩 https://t.co/jQsP2dq7Yw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minam1el",
+                "end": 86,
+                "expanded_url": "https://ngl.link/minam1el",
+                "start": 63,
+                "url": "https://t.co/jQsP2dq7Yw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96388197",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96388197",
+                "start": 0,
+                "url": "https://t.co/TdjnFauWYn"
+              }
+            ]
+          }
+        },
+        "id": "1752964869203361792",
+        "location": "Los Angeles, CA",
+        "name": "MinamieL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852191351108177922/bEp2gviA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 311,
+          "like_count": 439,
+          "listed_count": 0,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/TdjnFauWYn",
+        "username": "Minam1eL",
+        "verified": false
+      }
+    ]
+  }
+}

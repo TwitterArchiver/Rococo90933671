@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1817229517527928977",
+    "created_at": "2024-07-29T05:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T06:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817795025771889109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548876654843674624",
+          "start": 0,
+          "username": "1h22min_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817795025771889109",
+    "in_reply_to_user_id": "1548876654843674624",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817229517527928977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1h22min_114514 好似😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1817229517527928977",
+        "created_at": "2024-07-29T05:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T06:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817795025771889109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548876654843674624",
+              "start": 0,
+              "username": "1h22min_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817795025771889109",
+        "in_reply_to_user_id": "1548876654843674624",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817229517527928977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1h22min_114514 好似😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817229505108615168"
+          ]
+        },
+        "author_id": "1548876654843674624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1817229517527928977",
+        "created_at": "2024-07-27T16:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T17:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817229517527928977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LLnFk1XMoI",
+              "end": 69,
+              "expanded_url": "https://twitter.com/1h22min_114514/status/1817229517527928977/photo/1",
+              "media_key": "3_1817229505108615168",
+              "start": 46,
+              "url": "https://t.co/LLnFk1XMoI"
+            },
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1817201091550851263",
+              "start": 70,
+              "url": "https://t.co/FPFEJy4DUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817229517527928977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8121,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817201091550851263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据传，谢万军的远方亲戚叫龙丽，目前在可可西里无人区徒步因无人给其直播间打赏，现在濒临死亡！ https://t.co/LLnFk1XMoI https://t.co/FPFEJy4DUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1395,
+          "like_count": 12107,
+          "listed_count": 1,
+          "tweet_count": 6451
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T03:46:01.000Z",
+        "description": "我就是纳粹，我会给自己去纳粹化。少量俄乌战报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/PkJoM41wma"
+              }
+            ]
+          }
+        },
+        "id": "1548876654843674624",
+        "location": "DPR&PRC",
+        "name": "Алексей Юрьевич Мильчаков",
+        "pinned_tweet_id": "1804837693613846970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809569372920508416/cpyLv1Rw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 818,
+          "like_count": 41014,
+          "listed_count": 7,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/PkJoM41wma",
+        "username": "1h22min_114514",
+        "verified": false
+      }
+    ]
+  }
+}

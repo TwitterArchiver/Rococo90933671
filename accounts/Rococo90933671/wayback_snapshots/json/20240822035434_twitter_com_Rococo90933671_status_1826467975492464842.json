@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1376646790158589952",
+          "name": "Imperial Household Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1376646790158589952",
+          "name": "Imperial Household Agency"
+        }
+      }
+    ],
+    "conversation_id": "1826001523664629926",
+    "created_at": "2024-08-22T03:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T04:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826467975492464842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702925354132992000",
+          "start": 0,
+          "username": "remilia_servant"
+        },
+        {
+          "end": 25,
+          "id": "109186648",
+          "start": 17,
+          "username": "nmamtbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826467975492464842",
+    "in_reply_to_user_id": "1702925354132992000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826314382219116866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remilia_servant @nmamtbh 历史上确实有不少女天皇，比中国唯一的一个武则天多多了。更重要的是，武则天不但唯一，而且还不是皇室血脉，相反历史上的女天皇就是皇室血脉。要不是皇室在这一点上反而迂腐守旧规定必须男人才能上，爱子当天皇没一点问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376646790158589952",
+              "name": "Imperial Household Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376646790158589952",
+              "name": "Imperial Household Agency"
+            }
+          }
+        ],
+        "conversation_id": "1826001523664629926",
+        "created_at": "2024-08-22T03:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T04:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826467975492464842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            },
+            {
+              "end": 25,
+              "id": "109186648",
+              "start": 17,
+              "username": "nmamtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826467975492464842",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826314382219116866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant @nmamtbh 历史上确实有不少女天皇，比中国唯一的一个武则天多多了。更重要的是，武则天不但唯一，而且还不是皇室血脉，相反历史上的女天皇就是皇室血脉。要不是皇室在这一点上反而迂腐守旧规定必须男人才能上，爱子当天皇没一点问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702925354132992000",
+        "conversation_id": "1826001523664629926",
+        "created_at": "2024-08-21T17:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826314382219116866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "109186648",
+              "start": 0,
+              "username": "nmamtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826314382219116866",
+        "in_reply_to_user_id": "109186648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12237,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826001523664629926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmamtbh 不管是不是真的，我都希望愛子小姐當天皇...秋篠宮文仁醜聞一大堆，悠仁親王表現的又很輕佻（不只這一條新聞，當這條是假的好了，之前的對外態度也很不友好）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1599,
+          "like_count": 14304,
+          "listed_count": 2,
+          "tweet_count": 7507
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "［粵/Eng/台/普］香港中學生🤍💙///密友 @irohakawaiinee | Comrade @liminfin | 台妹 @kotorichyandesu | 學妹 @zhen0310jk | 小嘰 @spasmodingg111C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "irohakawaiinee"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "liminfin"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "kotorichyandesu"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "zhen0310jk"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "spasmodingg111C"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "紅魔館",
+        "name": "❣蕾米の妖精僕❣",
+        "pinned_tweet_id": "1815449457217204516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812148169821638656/gwTkNOfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13507,
+          "following_count": 1451,
+          "like_count": 89257,
+          "listed_count": 47,
+          "tweet_count": 26182
+        },
+        "username": "remilia_servant",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-28T06:49:27.000Z",
+        "description": "义和拳本拳， U型锁本锁，搬运工本工。",
+        "id": "109186648",
+        "location": "Langley,VA",
+        "name": "Modraaaaa",
+        "pinned_tweet_id": "1598729689014865921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787935675204980736/nAzxbLQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 1103,
+          "like_count": 19065,
+          "listed_count": 23,
+          "tweet_count": 7994
+        },
+        "username": "nmamtbh",
+        "verified": false
+      }
+    ]
+  }
+}

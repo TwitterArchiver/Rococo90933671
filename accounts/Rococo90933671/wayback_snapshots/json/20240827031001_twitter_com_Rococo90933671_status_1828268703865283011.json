@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1827642136935985300",
+    "created_at": "2024-08-27T03:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T04:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828268703865283011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765807011340443648",
+          "start": 0,
+          "username": "WilliamHo24828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828268703865283011",
+    "in_reply_to_user_id": "1765807011340443648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828151731018178809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamHo24828 我也想知道🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1827642136935985300",
+        "created_at": "2024-08-27T03:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T04:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828268703865283011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765807011340443648",
+              "start": 0,
+              "username": "WilliamHo24828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828268703865283011",
+        "in_reply_to_user_id": "1765807011340443648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828151731018178809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamHo24828 我也想知道🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765807011340443648",
+        "conversation_id": "1827642136935985300",
+        "created_at": "2024-08-26T19:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T20:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828151731018178809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828151731018178809",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827642136935985300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 😅对于高中没上的怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1636,
+          "like_count": 14660,
+          "listed_count": 2,
+          "tweet_count": 7711
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T18:29:56.000Z",
+        "description": "Peace, not war.",
+        "id": "1765807011340443648",
+        "name": "William Ho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767953390393511936/XaGpDG3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 76,
+          "like_count": 1203,
+          "listed_count": 1,
+          "tweet_count": 1255
+        },
+        "username": "WilliamHo24828",
+        "verified": false
+      }
+    ]
+  }
+}

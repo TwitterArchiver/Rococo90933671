@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1852187843520782415",
+    "created_at": "2024-11-02T14:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T15:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852720305976000685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834150380797919234",
+          "start": 0,
+          "username": "AmnesiacAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852720305976000685",
+    "in_reply_to_user_id": "1834150380797919234",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852187843520782415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmnesiacAC 好幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1852187843520782415",
+        "created_at": "2024-11-02T14:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852720305976000685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834150380797919234",
+              "start": 0,
+              "username": "AmnesiacAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852720305976000685",
+        "in_reply_to_user_id": "1834150380797919234",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852187843520782415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmnesiacAC 好幽默"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852187834482069505"
+          ]
+        },
+        "author_id": "1834150380797919234",
+        "conversation_id": "1852187843520782415",
+        "created_at": "2024-11-01T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852187843520782415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5V0Ppr7Zi",
+              "end": 28,
+              "expanded_url": "https://x.com/AmnesiacAC/status/1852187843520782415/photo/1",
+              "media_key": "3_1852187834482069505",
+              "start": 5,
+              "url": "https://t.co/y5V0Ppr7Zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852187843520782415",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1715,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈 https://t.co/y5V0Ppr7Zi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1890,
+          "like_count": 17066,
+          "listed_count": 5,
+          "tweet_count": 9541
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T08:41:55.000Z",
+        "description": "人間になりたい...",
+        "id": "1834150380797919234",
+        "name": "Amnesiac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849744876562415619/7a0GSRYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 81,
+          "like_count": 57,
+          "listed_count": 0,
+          "tweet_count": 55
+        },
+        "username": "AmnesiacAC",
+        "verified": false
+      }
+    ]
+  }
+}

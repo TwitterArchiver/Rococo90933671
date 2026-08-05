@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833787746789609472"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "1833782002702553565",
+    "created_at": "2024-09-11T08:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T09:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833787748932894870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780966705269014528",
+          "start": 0,
+          "username": "congniangmiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mj5als9nxo",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1833787748932894870/photo/1",
+          "media_key": "3_1833787746789609472",
+          "start": 23,
+          "url": "https://t.co/Mj5Als9nxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833787748932894870",
+    "in_reply_to_user_id": "1780966705269014528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833782002702553565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congniangmiku 多邻国互关吗🤓 https://t.co/Mj5Als9nxO"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1833782002702553565].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1833782002702553565",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1833782002702553565"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1833787746789609472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXLsPWjb0AAHZ3z.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833787746789609472"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1833782002702553565",
+        "created_at": "2024-09-11T08:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T09:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833787748932894870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780966705269014528",
+              "start": 0,
+              "username": "congniangmiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj5als9nxo",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1833787748932894870/photo/1",
+              "media_key": "3_1833787746789609472",
+              "start": 23,
+              "url": "https://t.co/Mj5Als9nxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833787748932894870",
+        "in_reply_to_user_id": "1780966705269014528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833782002702553565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congniangmiku 多邻国互关吗🤓 https://t.co/Mj5Als9nxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1770,
+          "like_count": 16213,
+          "listed_count": 2,
+          "tweet_count": 8550
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T14:29:11.000Z",
+        "description": "俺葱酱の二代目😎～贴贴可爱的推友们～小号坚决不键政！",
+        "id": "1780966705269014528",
+        "location": "大宇宙歌姬初音未来的怀里",
+        "name": "俺葱酱二代目",
+        "pinned_tweet_id": "1797294619069198448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814948623270191104/MgG7zt_V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 49,
+          "like_count": 1276,
+          "listed_count": 1,
+          "tweet_count": 451
+        },
+        "username": "congniangmiku",
+        "verified": false
+      }
+    ]
+  }
+}

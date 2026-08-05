@@ -1,0 +1,316 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1799471403336622532",
+    "created_at": "2024-06-08T16:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T17:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799471697621590258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799471697621590258",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799471403336622532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 next action：再撕一次宪章"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1799471403336622532",
+        "created_at": "2024-06-08T16:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799471697621590258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799471697621590258",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799471403336622532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 next action：再撕一次宪章"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374225903136481284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          }
+        ],
+        "conversation_id": "1799471403336622532",
+        "created_at": "2024-06-08T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799471403336622532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Megatron_ron/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Megatron_ron/status/1799108157945328020",
+              "start": 97,
+              "url": "https://t.co/yDeW20JEaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799471403336622532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799108157945328020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新闻：以色列被联合国正式列入与 ISIS、博科圣地等齐名的恐怖组织的名单。\n结合上次联合国宣布台湾是中国的一个省，联合国站起来了！\n支持联合国！\nWhat's the next action？ https://t.co/yDeW20JEaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/梦想成为polyglot的语言爱好者/十五年war3玩家/段智美と椎名林檎を愛する/渴望能真正活着/互fo/友一切政见不站队/LGBT友好/Languages: 🇨🇳母语🇬🇧half native🇯🇵N3→N2中🇫🇷0→A1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1011,
+          "like_count": 6515,
+          "listed_count": 2,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "Be true, be brave, be strong… \n真相不反抗，就被谎言拿走了阵地。\nI'm proud of being Chinese.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/2499175627",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/2499175627",
+                "start": 0,
+                "url": "https://t.co/YJDGmltXNs"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1784400346804306131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565251208117473282/9moZGZa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38361,
+          "following_count": 2898,
+          "like_count": 142606,
+          "listed_count": 146,
+          "tweet_count": 66788
+        },
+        "url": "https://t.co/YJDGmltXNs",
+        "username": "Whatis7777777",
+        "verified": true
+      }
+    ]
+  }
+}

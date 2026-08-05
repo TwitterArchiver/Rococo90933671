@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10026230384",
+          "name": "Samsung Galaxy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2084556145746977255",
+    "created_at": "2026-08-04T12:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084616338694353182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752538285459795968",
+          "start": 0,
+          "username": "tadatsukiei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 100,
+          "expanded_url": "https://x.com/Rococo90933671/status/1874018268325044305?s=20",
+          "start": 77,
+          "url": "https://t.co/HhwOTEXo7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084616338694353182",
+    "in_reply_to_user_id": "1752538285459795968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874018268325044305",
+        "type": "quoted"
+      },
+      {
+        "id": "2084587791208604044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tadatsukiei 我当年人生第一部常玩的智能手机就是我妈的三星，当时总容量都只有8G，放到现在啥都做不了😹\n如果今天我真买三星，那也是再续前缘了\nhttps://t.co/HhwOTEXo7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2098,
+        "media_key": "3_1874018252831285251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHZrAabYAMUhU2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026230384",
+              "name": "Samsung Galaxy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2084556145746977255",
+        "created_at": "2026-08-04T12:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084616338694353182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 100,
+              "expanded_url": "https://x.com/Rococo90933671/status/1874018268325044305?s=20",
+              "start": 77,
+              "url": "https://t.co/HhwOTEXo7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616338694353182",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874018268325044305",
+            "type": "quoted"
+          },
+          {
+            "id": "2084587791208604044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 我当年人生第一部常玩的智能手机就是我妈的三星，当时总容量都只有8G，放到现在啥都做不了😹\n如果今天我真买三星，那也是再续前缘了\nhttps://t.co/HhwOTEXo7d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874018252831285251"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026230384",
+              "name": "Samsung Galaxy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1874018268325044305",
+        "created_at": "2024-12-31T09:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T10:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874018268325044305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856885779080904704",
+              "start": 2,
+              "username": "qiand33_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDzmwMZG8d",
+              "end": 177,
+              "expanded_url": "https://x.com/Rococo90933671/status/1874018268325044305/photo/1",
+              "media_key": "3_1874018252831285251",
+              "start": 154,
+              "url": "https://t.co/bDzmwMZG8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874018268325044305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3422,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千晴@qiand33_ 很喜欢三星，真是不知道为什么。说说我和三星的羁绊。2014年下半年我妈开始用三星GALAXY Mega，因为我没有自己的手机放假回来就和她共用。2016年我妈舍不得买新的就又搞了一台一样的旧的，也是因为是我提的喜欢这个型号。到2018年1月某天突然就黑屏报废了，我和三星就到此为止了 https://t.co/bDzmwMZG8d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2084556145746977255",
+        "created_at": "2026-08-04T10:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084587791208604044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587791208604044",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084556145746977255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 三星？pixel？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13545,
+          "following_count": 3228,
+          "like_count": 46383,
+          "listed_count": 42,
+          "media_count": 4953,
+          "tweet_count": 25010
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 777,
+          "like_count": 118257,
+          "listed_count": 5,
+          "media_count": 723,
+          "tweet_count": 8707
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

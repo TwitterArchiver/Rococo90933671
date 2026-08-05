@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "1834805439365775767",
+    "created_at": "2024-09-16T05:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T06:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835546350823576042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1305844679284457473",
+          "start": 0,
+          "username": "ritsutofujiwara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835546350823576042",
+    "in_reply_to_user_id": "1305844679284457473",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834805439365775767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsutofujiwara 哇，提纳里真好喝，哦不是，这冰淇淋可乐真好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "1834805439365775767",
+        "created_at": "2024-09-16T05:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T06:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835546350823576042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1305844679284457473",
+              "start": 0,
+              "username": "ritsutofujiwara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835546350823576042",
+        "in_reply_to_user_id": "1305844679284457473",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834805439365775767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsutofujiwara 哇，提纳里真好喝，哦不是，这冰淇淋可乐真好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834805425784635392"
+          ]
+        },
+        "author_id": "1305844679284457473",
+        "conversation_id": "1834805439365775767",
+        "created_at": "2024-09-14T04:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T05:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834805439365775767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3svrndddd",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ritsutofujiwara/status/1834805439365775767/photo/1",
+              "media_key": "3_1834805425784635392",
+              "start": 5,
+              "url": "https://t.co/D3svrndDDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834805439365775767",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10110,
+          "like_count": 174,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "美味しい https://t.co/D3svrndDDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|段智美と椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 1802,
+          "like_count": 16429,
+          "listed_count": 3,
+          "tweet_count": 8698
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "非国民／天上天下唯我独尊／鍵垢 @Unnamed_RF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Unnamed_RF"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "大稲妻帝国",
+        "name": "律",
+        "pinned_tweet_id": "1831684223490834749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835290426934484992/GIAL9alJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 852,
+          "like_count": 4105,
+          "listed_count": 15,
+          "tweet_count": 39631
+        },
+        "username": "ritsutofujiwara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Seafood",
+          "id": "825065539378688000",
+          "name": "Seafood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Seafood",
+          "id": "825065539378688000",
+          "name": "Seafood"
+        }
+      }
+    ],
+    "conversation_id": "1817496766163689609",
+    "created_at": "2024-07-29T05:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T06:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817788262951629051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817788262951629051",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817496766163689609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 シーフードがすごく好き🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Seafood",
+              "id": "825065539378688000",
+              "name": "Seafood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Seafood",
+              "id": "825065539378688000",
+              "name": "Seafood"
+            }
+          }
+        ],
+        "conversation_id": "1817496766163689609",
+        "created_at": "2024-07-29T05:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T06:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817788262951629051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817788262951629051",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817496766163689609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 シーフードがすごく好き🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817496730394660864",
+            "3_1817496730419740672",
+            "3_1817496730327519232",
+            "3_1817496730348478464"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1817496766163689609",
+        "created_at": "2024-07-28T09:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817496766163689609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yltDGeligY",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1817496766163689609/photo/1",
+              "media_key": "3_1817496730394660864",
+              "start": 10,
+              "url": "https://t.co/yltDGeligY"
+            },
+            {
+              "display_url": "pic.twitter.com/yltDGeligY",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1817496766163689609/photo/1",
+              "media_key": "3_1817496730419740672",
+              "start": 10,
+              "url": "https://t.co/yltDGeligY"
+            },
+            {
+              "display_url": "pic.twitter.com/yltDGeligY",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1817496766163689609/photo/1",
+              "media_key": "3_1817496730327519232",
+              "start": 10,
+              "url": "https://t.co/yltDGeligY"
+            },
+            {
+              "display_url": "pic.twitter.com/yltDGeligY",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/1817496766163689609/photo/1",
+              "media_key": "3_1817496730348478464",
+              "start": 10,
+              "url": "https://t.co/yltDGeligY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817496766163689609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1784,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃海鮮飯🥰🥰🥰 https://t.co/yltDGeligY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/会互fo/友一切政见不站队/LGBT友好/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://m.bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/Lq5XmjyrAi"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1397,
+          "like_count": 12079,
+          "listed_count": 1,
+          "tweet_count": 6430
+        },
+        "url": "https://t.co/Lq5XmjyrAi",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "在日二次元，喜歡ACG。偶像厨，音游狗「プロセカ皆伝260」，管人痴，喊call应援家，ヲた芸初級打師，厄介小鬼，MIX警察。喜歡二次元不是一種罪，偌大一個國家，連人們喜歡二次元的愛好都要進行打壓，不允許人們擁有自己的小天地。那就別談實現所謂的民族偉大復興，更別扯爲世界指明方向 愛我家 @kotorichyandesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "kotorichyandesu"
+              }
+            ]
+          }
+        },
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋芥懆🌸",
+        "pinned_tweet_id": "1802252423634772381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 1910,
+          "like_count": 89060,
+          "listed_count": 8,
+          "tweet_count": 30038
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      }
+    ]
+  }
+}

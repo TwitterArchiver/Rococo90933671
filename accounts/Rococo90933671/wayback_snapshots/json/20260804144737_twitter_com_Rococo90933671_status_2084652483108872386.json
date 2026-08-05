@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2084586772676378738",
+    "created_at": "2026-08-04T14:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084652483108872386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084652483108872386",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084586772676378738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 发个油管，想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2084586772676378738",
+        "created_at": "2026-08-04T14:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084652483108872386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084652483108872386",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084586772676378738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 发个油管，想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2084586772676378738",
+        "created_at": "2026-08-04T10:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084586772676378738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quasarne/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/quasarne/status/2084287881229824326",
+              "start": 8,
+              "url": "https://t.co/8VSTO8ynOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586772676378738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084287881229824326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "B站号被封了😭 https://t.co/8VSTO8ynOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13543,
+          "following_count": 3229,
+          "like_count": 46388,
+          "listed_count": 42,
+          "media_count": 4953,
+          "tweet_count": 25012
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "想留德…｜SAD｜數碼/科幻/政治/语言学趣味 Wikier 绝望的商科牲｜🚩◼️🌹自意社｜éla 🏳️‍🌈gay/pan🏳️‍⚧️｜🌐漢(吴/普)/English｜安人Alt @JunenKim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quasarne",
+                "end": 23,
+                "expanded_url": "https://t.me/quasarne",
+                "start": 0,
+                "url": "https://t.co/ljMe6nz4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084628127964377088/Bms90rmR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1153,
+          "like_count": 85970,
+          "listed_count": 7,
+          "media_count": 1561,
+          "tweet_count": 19620
+        },
+        "url": "https://t.co/ljMe6nz4Sh",
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

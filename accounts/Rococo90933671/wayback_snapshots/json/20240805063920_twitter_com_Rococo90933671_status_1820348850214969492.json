@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1820202780427952461",
+    "created_at": "2024-08-05T06:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T07:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820348850214969492"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "東京",
+          "probability": 0.6576,
+          "start": 13,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "ryuusei0451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820348850214969492",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820202780427952461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryuusei0451 東京，莲莲狂喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1820202780427952461",
+        "created_at": "2024-08-05T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820348850214969492"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "東京",
+              "probability": 0.6576,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "ryuusei0451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820348850214969492",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820202780427952461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryuusei0451 東京，莲莲狂喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1820202780100894721"
+          ]
+        },
+        "author_id": "1680291377228259330",
+        "conversation_id": "1820202780427952461",
+        "created_at": "2024-08-04T20:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T21:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820202780427952461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820202780427952461",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9449,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中國的首都在哪裡？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "360°无死角友好（包括政见）/母单/足控/可莉厨/语言爱好者/梦想成为polyglot/十五年war3玩家/段智美と椎名林檎を愛する/渴望真我/想互fo可能看不到请直接私聊不用拘束/背景图单纯为搞笑/Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/YvoxM9RM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/YvoxM9RMY8mTYDUj/?mibextid=qi2Omg",
+                "start": 0,
+                "url": "https://t.co/QZIBxGhyry"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1789469755726062016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782605662738108416/1KlmrtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1481,
+          "like_count": 12526,
+          "listed_count": 1,
+          "tweet_count": 6709
+        },
+        "url": "https://t.co/QZIBxGhyry",
+        "username": "Rococo90933671",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? (Pier Paolo Pasolini, La Rabbia, 1963)∥@erii_wilson",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "erii_wilson"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Lagoon Company",
+        "name": "𝒜𝓎𝒶",
+        "pinned_tweet_id": "1818422493750739120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818027059324518400/3zMYkunq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1988,
+          "like_count": 18406,
+          "listed_count": 5,
+          "tweet_count": 5055
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "ryuusei0451",
+        "verified": false
+      }
+    ]
+  }
+}
