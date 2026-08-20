@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2085724507428544979",
+    "created_at": "2026-08-07T13:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085724515225751887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1804152600159502488",
+          "start": 19,
+          "url": "https://t.co/nGcwC8Ie7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085724515225751887",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804152600159502488",
+        "type": "quoted"
+      },
+      {
+        "id": "2085724507428544979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是那天一起逛商场的时候领的一张传单 https://t.co/nGcwC8Ie7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1804152502339981312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQmjJF6bUAA_39C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1804152502335737858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQmjJF5akAILOYB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 845,
+        "media_key": "3_2085724486155063296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH7XpibUAALYCv.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2085724507428544979",
+        "created_at": "2026-08-07T13:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085724515225751887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1804152600159502488",
+              "start": 19,
+              "url": "https://t.co/nGcwC8Ie7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085724515225751887",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804152600159502488",
+            "type": "quoted"
+          },
+          {
+            "id": "2085724507428544979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是那天一起逛商场的时候领的一张传单 https://t.co/nGcwC8Ie7V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1804152502339981312",
+            "3_1804152502335737858"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1804152600159502488",
+        "created_at": "2024-06-21T14:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804152600159502488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvj0X2T4OX",
+              "end": 164,
+              "expanded_url": "https://x.com/Rococo90933671/status/1804152600159502488/photo/1",
+              "media_key": "3_1804152502339981312",
+              "start": 141,
+              "url": "https://t.co/Nvj0X2T4OX"
+            },
+            {
+              "display_url": "pic.x.com/Nvj0X2T4OX",
+              "end": 164,
+              "expanded_url": "https://x.com/Rococo90933671/status/1804152600159502488/photo/1",
+              "media_key": "3_1804152502335737858",
+              "start": 141,
+              "url": "https://t.co/Nvj0X2T4OX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804152600159502488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张传单对我来说意义非凡。那天，2020年12月6日，大一。我人生第一次坐火车，一个人去见我最喜欢的老师，教英语的初中班主任。那天是晴天，我和几个同学还有老师一起逛商场的时候领到了这张传单。不知道这家店还活着吗？有机会我想去圣地巡礼。后来我的大学生活，再也没有像那天那样有意义的了 https://t.co/Nvj0X2T4OX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085724486155063296"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085724507428544979",
+        "created_at": "2026-08-07T13:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085724507428544979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkAGmfvNYN",
+              "end": 165,
+              "expanded_url": "https://x.com/Rococo90933671/status/2085724507428544979/photo/1",
+              "media_key": "3_2085724486155063296",
+              "start": 142,
+              "url": "https://t.co/RkAGmfvNYN"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1864102786511917336",
+              "start": 166,
+              "url": "https://t.co/AqwyOF8IW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085724507428544979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个视频发出来的时候，和我初次听到这首歌刚好只差了一两个月。\n\n那时候我刚上大一，12月初和几个同学约好了6号去见最喜欢的初中班主任老师。\n\n我提早买了6号的火车票，然后4号那天下午骑着单车从学校去提前看看那个火车站，以免到时候出差错。\n\n而那个下午，我在单车上一直单曲循环这首歌。\n\n现在回忆起来，感觉也很幸福。谁知道后来我居然毕不了业退学了呢？\n\n所以衬托之下，这个过去是那么美好，那么难以忘怀，令人回味无穷🥹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864102786511917336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个视频发出来的时候，和我初次听到这首歌刚好只差了一两个月。\n\n那时候我刚上大一，12月初和几个同学约好了6号去见最喜欢的初中班主任老师。\n\n我提早买了6号的火车票，然后4号那天下午骑着单车从学校去提前看看那个火车站，以免到时候出差错。\n\n而那个下午，我在单车上一直单曲循环这首歌。 https://t.co/RkAGmfvNYN https://t.co/AqwyOF8IW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13631,
+          "following_count": 3245,
+          "like_count": 46864,
+          "listed_count": 44,
+          "media_count": 4991,
+          "tweet_count": 25176
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

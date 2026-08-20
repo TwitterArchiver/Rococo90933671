@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2085559587386909115",
+    "created_at": "2026-08-07T06:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085612214787195158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794035996889436160",
+          "start": 0,
+          "username": "Eris37298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085612214787195158",
+    "in_reply_to_user_id": "1794035996889436160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085559587386909115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris37298 绝版视频了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34363,
+        "height": 562,
+        "media_key": "13_2085559478708269056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085559478708269056/img/34FzLYDPNlmUxthu.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559478708269056/vid/avc1/614x270/BDffkqgv1WV-9IL9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559478708269056/vid/avc1/820x360/lunC5QTuRmQIu-bR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559478708269056/vid/avc1/1282x562/BwkfTzam1jqJpiIr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085559478708269056/pl/EyDHJqtbXsMkPWqP.m3u8"
+          }
+        ],
+        "width": 1282
+      },
+      {
+        "duration_ms": 58538,
+        "height": 562,
+        "media_key": "13_2085559534098210816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085559534098210816/img/XrZibX7k6XOrGRCT.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559534098210816/vid/avc1/614x270/mHGGDxlW3KW_jfez.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559534098210816/vid/avc1/820x360/eI5A9oSGUfMavYUB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085559534098210816/vid/avc1/1282x562/wOYrYL6E9u9Ly4s1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085559534098210816/pl/kGoPlkcBuyGDDYdO.m3u8"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2085559587386909115",
+        "created_at": "2026-08-07T06:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085612214787195158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794035996889436160",
+              "start": 0,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085612214787195158",
+        "in_reply_to_user_id": "1794035996889436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085559587386909115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris37298 绝版视频了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085559478708269056",
+            "13_2085559534098210816"
+          ]
+        },
+        "author_id": "1794035996889436160",
+        "conversation_id": "2085559587386909115",
+        "created_at": "2026-08-07T02:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085559587386909115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlOmciaqzn",
+              "end": 54,
+              "expanded_url": "https://x.com/Eris37298/status/2085559587386909115/video/1",
+              "media_key": "13_2085559478708269056",
+              "start": 31,
+              "url": "https://t.co/xlOmciaqzn"
+            },
+            {
+              "display_url": "pic.x.com/xlOmciaqzn",
+              "end": 54,
+              "expanded_url": "https://x.com/Eris37298/status/2085559587386909115/video/1",
+              "media_key": "13_2085559534098210816",
+              "start": 31,
+              "url": "https://t.co/xlOmciaqzn"
+            },
+            {
+              "display_url": "x.com/heiwanotate/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/heiwanotate/status/2085557390930591950",
+              "start": 55,
+              "url": "https://t.co/qiTslXUD8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085559587386909115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085557390930591950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有幸保留了这个时装的克里斯战斗视频，真的很怀念这个游戏呢🥺 https://t.co/xlOmciaqzn https://t.co/qiTslXUD8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13632,
+          "following_count": 3243,
+          "like_count": 46796,
+          "listed_count": 42,
+          "media_count": 4984,
+          "tweet_count": 25160
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本語を勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021609907670384640/4sJWtvpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 1539,
+          "like_count": 28907,
+          "listed_count": 7,
+          "media_count": 3282,
+          "tweet_count": 15167
+        },
+        "url": "",
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

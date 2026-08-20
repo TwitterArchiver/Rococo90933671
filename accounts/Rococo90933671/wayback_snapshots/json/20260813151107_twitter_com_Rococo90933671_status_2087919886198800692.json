@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2087815846165151850",
+    "created_at": "2026-08-13T15:11:07.000Z",
+    "display_text_range": [
+      7,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087919886198800692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2012698854785941504",
+          "start": 0,
+          "username": "Fzwos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087919886198800692",
+    "in_reply_to_user_id": "2012698854785941504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087815846165151850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fzwos 很早就见识过丹子的玻璃心了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087815838867062786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlpcZgbAAIJPau.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087815838858649600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlpcZeaoAAW1Ha.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2087815846165151850",
+        "created_at": "2026-08-13T15:11:07.000Z",
+        "display_text_range": [
+          7,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087919886198800692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2012698854785941504",
+              "start": 0,
+              "username": "Fzwos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087919886198800692",
+        "in_reply_to_user_id": "2012698854785941504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087815846165151850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fzwos 很早就见识过丹子的玻璃心了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087815838867062786",
+            "3_2087815838858649600"
+          ]
+        },
+        "author_id": "2012698854785941504",
+        "conversation_id": "2087815846165151850",
+        "created_at": "2026-08-13T08:17:42.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087815846165151850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QcBAgBi0q",
+              "end": 50,
+              "expanded_url": "https://x.com/Fzwos/status/2087815846165151850/photo/1",
+              "media_key": "3_2087815838867062786",
+              "start": 27,
+              "url": "https://t.co/3QcBAgBi0q"
+            },
+            {
+              "display_url": "pic.x.com/3QcBAgBi0q",
+              "end": 50,
+              "expanded_url": "https://x.com/Fzwos/status/2087815846165151850/photo/1",
+              "media_key": "3_2087815838858649600",
+              "start": 27,
+              "url": "https://t.co/3QcBAgBi0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087815846165151850",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087815838867062786"
+          },
+          {
+            "media_key": "3_2087815838858649600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 43047,
+          "like_count": 371,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "老王啊，问个问题还给我拉黑了，这言论自由真绷不住了😂 https://t.co/3QcBAgBi0q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2087919886198800692",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13674,
+          "following_count": 3251,
+          "like_count": 47653,
+          "listed_count": 44,
+          "media_count": 5065,
+          "tweet_count": 25462
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T01:29:50.000Z",
+        "description": "Subscribe me for a pair of socks. X @Fzwnz Instagram @fzwisme WhatsApp @Fzoyr YouTube @Fiwick / Located in Tsuen Wan, Hong Kong.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 36,
+                "username": "Fzwnz"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "username": "fzwisme"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "Fzoyr"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "username": "Fiwick"
+              }
+            ]
+          }
+        },
+        "id": "2012698854785941504",
+        "is_identity_verified": false,
+        "location": "Mennouveaux, France",
+        "most_recent_tweet_id": "2087906971328676239",
+        "name": "Amfanio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012698854785941504/1768700127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085633394571116544/4Am-MMZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 181,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Fzwos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

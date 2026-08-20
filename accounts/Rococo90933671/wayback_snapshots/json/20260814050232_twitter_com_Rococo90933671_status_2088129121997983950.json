@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2088129121997983950",
+    "created_at": "2026-08-14T05:02:32.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088129121997983950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PiPiPiPi01234/…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/PiPiPiPi01234/status/2087883572598424049",
+          "start": 108,
+          "url": "https://t.co/26tIYRxbUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088129121997983950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国立场出发的地图对北方四岛的处理，主要有以下几点：\n\n1. 中国并不承认俄罗斯对北方四岛拥有无争议主权。中国官方长期对日俄北方领土争议保持相对谨慎的立场，并没有把俄罗斯对四岛的主权视为毫无争议的既成事实。\n\n2. 中国地图通常强调“领土主张”而不是单纯绘制实控区。中国自己的地图也存在大量类似情况：地图上的国界线主要表达国家对领土的法律主张，并不意味着每一条线都是现实中的行政控制线。\n\n3. 二战后的领土安排本身存在争议。苏联在1945年占领这些岛屿，日本后来否认其属于日本所谓“千岛列岛”割让范围，并坚持四岛应归日本。因此争议核心并不是俄罗斯有没有控制，而是俄罗斯的控制是否产生了无争议的主权。\n\n4. 当然，地图上的“实线”其实容易产生误解。如果地图把四岛画在日本一侧，不能直接理解成“中国认为日本现在实际控制四岛”。更准确的含义是：在该地图的主权归属表达中，将日本的领土主张作为处理依据。\n\n5. 这和中国自己的领土争议处理逻辑其实并不矛盾。一个国家完全可以承认某地事实上由A控制，同时不承认A拥有无争议主权。实控、法律主权、地图标示是三个不同概念"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087883572598424049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国立场出发的地图对北方四岛的处理，主要有以下几点：\n\n1. 中国并不承认俄罗斯对北方四岛拥有无争议主权。中国官方长期对日俄北方领土争议保持相对谨慎的立场，并没有把俄罗斯对四岛的主权视为毫无争议的既成事实。\n\n2. https://t.co/26tIYRxbUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2087883561106059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmnCWgasAABvoF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2087883566130892800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmnCpObkAAmbUf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2088129121997983950",
+        "created_at": "2026-08-14T05:02:32.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088129121997983950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PiPiPiPi01234/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/PiPiPiPi01234/status/2087883572598424049",
+              "start": 108,
+              "url": "https://t.co/26tIYRxbUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088129121997983950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国立场出发的地图对北方四岛的处理，主要有以下几点：\n\n1. 中国并不承认俄罗斯对北方四岛拥有无争议主权。中国官方长期对日俄北方领土争议保持相对谨慎的立场，并没有把俄罗斯对四岛的主权视为毫无争议的既成事实。\n\n2. 中国地图通常强调“领土主张”而不是单纯绘制实控区。中国自己的地图也存在大量类似情况：地图上的国界线主要表达国家对领土的法律主张，并不意味着每一条线都是现实中的行政控制线。\n\n3. 二战后的领土安排本身存在争议。苏联在1945年占领这些岛屿，日本后来否认其属于日本所谓“千岛列岛”割让范围，并坚持四岛应归日本。因此争议核心并不是俄罗斯有没有控制，而是俄罗斯的控制是否产生了无争议的主权。\n\n4. 当然，地图上的“实线”其实容易产生误解。如果地图把四岛画在日本一侧，不能直接理解成“中国认为日本现在实际控制四岛”。更准确的含义是：在该地图的主权归属表达中，将日本的领土主张作为处理依据。\n\n5. 这和中国自己的领土争议处理逻辑其实并不矛盾。一个国家完全可以承认某地事实上由A控制，同时不承认A拥有无争议主权。实控、法律主权、地图标示是三个不同概念"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087883572598424049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国立场出发的地图对北方四岛的处理，主要有以下几点：\n\n1. 中国并不承认俄罗斯对北方四岛拥有无争议主权。中国官方长期对日俄北方领土争议保持相对谨慎的立场，并没有把俄罗斯对四岛的主权视为毫无争议的既成事实。\n\n2. https://t.co/26tIYRxbUo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087883561106059264",
+            "3_2087883566130892800"
+          ]
+        },
+        "author_id": "920335005976424449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2087883572598424049",
+        "created_at": "2026-08-13T12:46:49.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087883572598424049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQk8vY7ZTd",
+              "end": 72,
+              "expanded_url": "https://x.com/PiPiPiPi01234/status/2087883572598424049/photo/1",
+              "media_key": "3_2087883561106059264",
+              "start": 49,
+              "url": "https://t.co/aQk8vY7ZTd"
+            },
+            {
+              "display_url": "pic.x.com/aQk8vY7ZTd",
+              "end": 72,
+              "expanded_url": "https://x.com/PiPiPiPi01234/status/2087883572598424049/photo/1",
+              "media_key": "3_2087883566130892800",
+              "start": 49,
+              "url": "https://t.co/aQk8vY7ZTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087883572598424049",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087883561106059264"
+          },
+          {
+            "media_key": "3_2087883566130892800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 402593,
+          "like_count": 3573,
+          "quote_count": 66,
+          "reply_count": 119,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "🇷🇺プーチンの北方領土訪問が話題だが、🇨🇳高徳地図・🇨🇳百度地図は北方領土を🇯🇵と言っている👍️ https://t.co/aQk8vY7ZTd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2088129121997983950",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13675,
+          "following_count": 3256,
+          "like_count": 47751,
+          "listed_count": 44,
+          "media_count": 5076,
+          "tweet_count": 25487
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-17T17:05:39.000Z",
+        "description": "旅行🗽⛪️ 交通🚊🚍✈️ キャッシュレス💳📱 についてつぶやきます！！\n\n1日でも早く日本が世界トップレベルのキャッシュレス社会になることを願っています💳⭕️💴❌",
+        "id": "920335005976424449",
+        "is_identity_verified": true,
+        "location": "Japan's Pacific coast",
+        "most_recent_tweet_id": "2087883572598424049",
+        "name": "PiPiPiPi✈️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920335005976424449/1515434581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828069695515144192/K-ZRQ-0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1339,
+          "like_count": 123290,
+          "listed_count": 6,
+          "media_count": 1435,
+          "tweet_count": 10960
+        },
+        "url": "",
+        "username": "PiPiPiPi01234",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

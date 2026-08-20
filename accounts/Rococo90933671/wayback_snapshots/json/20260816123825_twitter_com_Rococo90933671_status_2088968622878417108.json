@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2088941265970941954",
+    "created_at": "2026-08-16T12:38:25.000Z",
+    "display_text_range": [
+      10,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088968622878417108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088968622878417108",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088941265970941954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 个人认为是这样也不奇怪，因为B站这种平台本来就是包罗万象的，只是我们能刷到的范围是有限的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2088941157925748736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1o6lrbgAA53Oo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 779,
+        "media_key": "3_2088941157401456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1o6jubcAA2f2w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2088941265970941954",
+        "created_at": "2026-08-16T12:38:25.000Z",
+        "display_text_range": [
+          10,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088968622878417108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088968622878417108",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088941265970941954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 个人认为是这样也不奇怪，因为B站这种平台本来就是包罗万象的，只是我们能刷到的范围是有限的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088941157925748736",
+            "3_2088941157401456640"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2088941265970941954",
+        "created_at": "2026-08-16T10:49:43.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088941265970941954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTnOA4G7hm",
+              "end": 181,
+              "expanded_url": "https://x.com/MaxForAI/status/2088941265970941954/photo/1",
+              "media_key": "3_2088941157925748736",
+              "start": 158,
+              "url": "https://t.co/RTnOA4G7hm"
+            },
+            {
+              "display_url": "pic.x.com/RTnOA4G7hm",
+              "end": 181,
+              "expanded_url": "https://x.com/MaxForAI/status/2088941265970941954/photo/1",
+              "media_key": "3_2088941157401456640",
+              "start": 158,
+              "url": "https://t.co/RTnOA4G7hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088941265970941954",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088941157925748736"
+          },
+          {
+            "media_key": "3_2088941157401456640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一个暴论：B站是现在国内最热闹的技术论坛。\n\n今天看到推上有人讨论B站上面都是AI大佬。\n\n其实这两周一直在追 DeepSeek V4，我也发现B站可能已经成了国内最被低估的AI技术社区之一。\n\n以前我找最新的 AI 信息，基本就是 X、GitHub、Hugging Face，再加几个技术论坛（L站V站之类的）。\n\nB站在我印象里，更多还是教程、科普和二手信息。\n\n但这次从 DeepSeek V4 一路追到 DeepSeek Harness，我发现很多真正有意思的东西，我居然都是先在 B 站看到的。\n\n举两个最近的例子。\n\n一个是小明XBright这个UP。\n\n在DeepSeek Harness 发布之后，社区里的大家很快发现一个很奇怪的现象：\n官方测试里，工具极少的 Minimal 模式，反而比 Standard 模式表现更好。\n\n小明XBright就开始自己研究 Harness 到底做了什么，最后直接在 Windows 上用标准工具，加上对极简模式思维链的还原，去复现 Minimal 的效果。\n\n这已经不是普通的DeepSeek Harness 使用教程了。\n\n大家实际上是在一起拆 Harness，研究 Context、Tool 和 Prompt 到底怎么影响模型的 Agent 能力。\n\n另一个是隔山水樵这个老哥。\n\n之前我写 DeepSeek V4 可能存在不同模式、不同版本的时候，很多最早的线索就是在他的内容和评论区看到的。\n\n是不是 Max 模式，有没有灰测和路由，不同版本思维链为什么分别喜欢出现「users want me」「let me」之类的表达……\n\n大家直接拿不同 Key、不同时间、不同任务去跑，然后在评论区贴结果互相验证。\n\nHarness 发布之后，他又第一时间拿 V4 Pro 配合 Harness 去测复杂任务。\n\n一条这么硬核的视频，25万播放，半夜还有几百个人同时在看。\n\n这种视频最近在 B 站好像有推流，我能刷到特别多。\n\nDeepSeek 每次一更新，我现在甚至会下意识去 B 站搜一遍。\n\n而且最有意思的还不是这些做完之后的视频，而是B站直播。\n\n每次一个新模型刚发布，我几乎总能找到有人直接开直播，和观众一起测试。\n\n弹幕里有人出题，主播现场跑：\n\n弹幕里发现模型行为不对，马上换 Case；\n跑出了奇怪结果，评论区继续复现；\n再过几个小时，有人把结果整理成视频；\n最后甚至有人把方法做成代码、Skill、插件，扔到 GitHub。\n\n这次 DeepSeek Harness 的插件榜里，前排也出现了多个 B 站 UP 主做的开源项目。\n\n我觉得这种氛围特别好。\n\n它有点像十几年前的某乎或者贴吧，只不过帖子变成了视频，回帖变成了弹幕，围观的人可以直接跟着一起跑实验。\n\n以前我觉得 B 站是一个「看别人讲 AI」的地方。\n\n最近追 DeepSeek 才发现：\n这里正在变成一群人一起玩 AI、测 AI、拆 AI 的地方。\n\n至少在 DeepSeek 这条线上，我现在已经真的会把 B 站当成一手信息源了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6022,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个暴论：B站是现在国内最热闹的技术论坛。\n\n今天看到推上有人讨论B站上面都是AI大佬。\n\n其实这两周一直在追 DeepSeek V4，我也发现B站可能已经成了国内最被低估的AI技术社区之一。\n\n以前我找最新的 AI 信息，基本就是 X、GitHub、Hugging Face，再加几个技术论坛（L站V站之类的）。 https://t.co/RTnOA4G7hm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2088968622878417108",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13703,
+          "following_count": 3271,
+          "like_count": 48098,
+          "listed_count": 44,
+          "media_count": 5110,
+          "tweet_count": 25622
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088965611850473724",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28210,
+          "following_count": 2697,
+          "like_count": 20567,
+          "listed_count": 258,
+          "media_count": 1320,
+          "tweet_count": 9331
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
