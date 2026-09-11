@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2092131829017133228",
+    "created_at": "2026-08-25T08:39:01.000Z",
+    "display_text_range": [
+      17,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092169865360777659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654314718713249793",
+          "start": 0,
+          "username": "sin952204814464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092169865360777659",
+    "in_reply_to_user_id": "1654314718713249793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092168347114938717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sin952204814464 是这样，我两年前（早就没有用苹果手机了，是在非苹果的电脑上弄的）重新在官网注册了一下账号，然后又改了邮箱密码，除此之外，后来我什么都没做就锁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2092131829017133228",
+        "created_at": "2026-08-25T08:39:01.000Z",
+        "display_text_range": [
+          17,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092169865360777659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654314718713249793",
+              "start": 0,
+              "username": "sin952204814464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092169865360777659",
+        "in_reply_to_user_id": "1654314718713249793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092168347114938717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sin952204814464 是这样，我两年前（早就没有用苹果手机了，是在非苹果的电脑上弄的）重新在官网注册了一下账号，然后又改了邮箱密码，除此之外，后来我什么都没做就锁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654314718713249793",
+        "conversation_id": "2092131829017133228",
+        "created_at": "2026-08-25T08:32:59.000Z",
+        "display_text_range": [
+          16,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092168347114938717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092168347114938717",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092131829017133228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 你要说明白为什么报废，报废时账号怎么了？ 只要账号还能登录同时有做过云备份不存在不能找回来的情况吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2092169865360777659",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13935,
+          "following_count": 3275,
+          "like_count": 49166,
+          "listed_count": 40,
+          "media_count": 5211,
+          "tweet_count": 26050
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-05T02:39:08.000Z",
+        "description": "G+遗民。推上原号还被封了，返还无望发信官方也不说明具体原因，就这样还是如舔狗一样的又申请了一个（真心考虑ins了）",
+        "id": "1654314718713249793",
+        "is_identity_verified": false,
+        "location": "will.lain@me.com",
+        "most_recent_tweet_id": "2092168736509985203",
+        "name": "sin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654314718713249793/1781350744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654315519380705282/o4xo3abz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1049,
+          "like_count": 3120,
+          "listed_count": 12,
+          "media_count": 1004,
+          "tweet_count": 18076
+        },
+        "url": "",
+        "username": "sin952204814464",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

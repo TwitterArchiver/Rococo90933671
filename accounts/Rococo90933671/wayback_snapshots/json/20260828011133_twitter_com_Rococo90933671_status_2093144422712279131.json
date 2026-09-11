@@ -1,0 +1,733 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2092858825238008153",
+    "created_at": "2026-08-28T01:11:33.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T02:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093144422712279131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Blue_ArchiveJP…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Blue_ArchiveJP/status/2081354265256468538",
+          "start": 27,
+          "url": "https://t.co/GVA0Z9bbLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093144422712279131",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081354265256468538",
+        "type": "quoted"
+      },
+      {
+        "id": "2092858825238008153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 所以会换卡池，引起玩家一片叫好声😋 https://t.co/GVA0Z9bbLa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 46,
+        "media_key": "3_2092858819332419584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtUAftaMAAbHuu.jpg",
+        "width": 188
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081354258772049920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ0q73awAAIY4e.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081354258788827136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ0q77awAAe-Oy.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081354258860085248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ0q8MaEAA3GMC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2092858825238008153",
+        "created_at": "2026-08-28T01:11:33.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093144422712279131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Blue_ArchiveJP…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Blue_ArchiveJP/status/2081354265256468538",
+              "start": 27,
+              "url": "https://t.co/GVA0Z9bbLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093144422712279131",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081354265256468538",
+            "type": "quoted"
+          },
+          {
+            "id": "2092858825238008153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 所以会换卡池，引起玩家一片叫好声😋 https://t.co/GVA0Z9bbLa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092858819332419584"
+          ]
+        },
+        "author_id": "1491568506898649088",
+        "conversation_id": "2092858825238008153",
+        "created_at": "2026-08-27T06:16:42.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092858825238008153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl3P4qJ5q1",
+              "end": 65,
+              "expanded_url": "https://x.com/a2013bc/status/2092858825238008153/photo/1",
+              "media_key": "3_2092858819332419584",
+              "start": 42,
+              "url": "https://t.co/zl3P4qJ5q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092858825238008153",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092858819332419584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 648,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "碧蓝档案和爱泼斯坦档案都有档案两个字，难道只是巧合吗?\n真的没有制作人的小巧思吗? https://t.co/zl3P4qJ5q1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081354258772049920",
+            "3_2081354258788827136",
+            "3_2081354258860085248"
+          ]
+        },
+        "author_id": "1237586987969687555",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2081354265256468538",
+        "created_at": "2026-07-26T12:21:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081354265256468538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 140,
+              "start": 122,
+              "tag": "ブルアカらいぶほっとの三段活用SP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5LqsGYt9D",
+              "end": 164,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081354265256468538/photo/1",
+              "media_key": "3_2081354258772049920",
+              "start": 141,
+              "url": "https://t.co/w5LqsGYt9D"
+            },
+            {
+              "display_url": "pic.x.com/w5LqsGYt9D",
+              "end": 164,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081354265256468538/photo/1",
+              "media_key": "3_2081354258788827136",
+              "start": 141,
+              "url": "https://t.co/w5LqsGYt9D"
+            },
+            {
+              "display_url": "pic.x.com/w5LqsGYt9D",
+              "end": 164,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081354265256468538/photo/1",
+              "media_key": "3_2081354258860085248",
+              "start": 141,
+              "url": "https://t.co/w5LqsGYt9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081354265256468538",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2081354258772049920"
+          },
+          {
+            "media_key": "3_2081354258788827136"
+          },
+          {
+            "media_key": "3_2081354258860085248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3775,
+          "impression_count": 12977318,
+          "like_count": 15210,
+          "quote_count": 5202,
+          "reply_count": 6654,
+          "retweet_count": 7035
+        },
+        "reply_settings": "everyone",
+        "text": "【新情報⑰】\n7月29日(水)メンテナンス後より、生徒募集の仕様がリニューアルされます！\n\n「呼び出しポイント」の廃止に伴い、新たに「呼び出しチャージ」や「募集回数特典」が実装されます。\n\n※詳細はこちらの画像にてご確認ください\n\n#ブルアカ\n#ブルアカらいぶほっとの三段活用SP https://t.co/w5LqsGYt9D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2093144422712279131",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14004,
+          "following_count": 3266,
+          "like_count": 49473,
+          "listed_count": 39,
+          "media_count": 5245,
+          "tweet_count": 26165
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "“以物配主的人群及其崇拜的偶像，都是火狱的燃料，他们将永居其中。”（21:98-99）\n“惟有……拜偶像的……他们的份就在烧着硫磺的火湖里。”启示录 21:8",
+        "id": "1491568506898649088",
+        "is_identity_verified": false,
+        "location": "😋",
+        "most_recent_tweet_id": "2093134127751123137",
+        "name": "地狱之门守门员🇺🇦",
+        "pinned_tweet_id": "2062073635188416748",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020410978526187520/2Ih7mxPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 1700,
+          "like_count": 26572,
+          "listed_count": 8,
+          "media_count": 2664,
+          "tweet_count": 32190
+        },
+        "url": "",
+        "username": "a2013bc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1468823220585308161/gxOmjfeK_bigger.jpg",
+          "description": "株式会社Yostar",
+          "url": "https://twitter.com/Yostar_Japan",
+          "user_id": [
+            "1076019850495942656"
+          ]
+        },
+        "created_at": "2020-03-11T03:51:59.000Z",
+        "description": "Yostar&NEXON Gamesが贈る学園×青春×物語RPGアプリ『ブルーアーカイブ 』公式X (旧Twitter)です。 ゲーム内最新情報やキヴォトスの出来事などを、私、アロナがお届けします！お問い合わせ・ご要望はこちら：https://t.co/Q6PjW5shFw #ブルアカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "ブルアカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3t88nyr",
+                "end": 137,
+                "expanded_url": "http://bit.ly/3t88nyr",
+                "start": 114,
+                "url": "https://t.co/Q6PjW5shFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/q9A85kccSv"
+              }
+            ]
+          }
+        },
+        "id": "1237586987969687555",
+        "is_identity_verified": false,
+        "location": "シッテムの箱",
+        "most_recent_tweet_id": "2092900174007849164",
+        "name": "ブルーアーカイブ公式",
+        "pinned_tweet_id": "2091722589593079857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237586987969687555/1787310080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686315947550965760/9JfkH8rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391735,
+          "following_count": 197,
+          "like_count": 655,
+          "listed_count": 6959,
+          "media_count": 5264,
+          "tweet_count": 8196
+        },
+        "url": "https://t.co/q9A85kccSv",
+        "username": "Blue_ArchiveJP",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

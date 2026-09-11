@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2091767205583351970",
+    "created_at": "2026-08-24T14:12:21.000Z",
+    "display_text_range": [
+      12,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091891365345181974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "898409056599015429",
+          "start": 0,
+          "username": "R9_Texture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091891365345181974",
+    "in_reply_to_user_id": "898409056599015429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091855500073750809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R9_Texture 这样吗，可是我自己用的时候，的确就是显示离线，只有在用手机热点开了VPN之后，ipv6暴露了我的真实IP地址，它才会说地区不支持🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2091767205583351970",
+        "created_at": "2026-08-24T14:12:21.000Z",
+        "display_text_range": [
+          12,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091891365345181974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "898409056599015429",
+              "start": 0,
+              "username": "R9_Texture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091891365345181974",
+        "in_reply_to_user_id": "898409056599015429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091855500073750809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R9_Texture 这样吗，可是我自己用的时候，的确就是显示离线，只有在用手机热点开了VPN之后，ipv6暴露了我的真实IP地址，它才会说地区不支持🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898409056599015429",
+        "conversation_id": "2091767205583351970",
+        "created_at": "2026-08-24T11:49:50.000Z",
+        "display_text_range": [
+          16,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091855500073750809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091855500073750809",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1016,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091767205583351970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 错误的，你收不到claude的数据信息回复不等于claude收不到你的。gfw的运作原理是你向目标服务发送一个握手数据包，gwf检测但不中断包内容，下个时刻查询后属于黑名单后，向双方发送终止请求。他保证信息双方连不上，但不保证你的握手信息包发不出去。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2091891365345181974",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13907,
+          "following_count": 3275,
+          "like_count": 49094,
+          "listed_count": 41,
+          "media_count": 5206,
+          "tweet_count": 26019
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-18T04:59:45.000Z",
+        "description": "这个世界能够理解爱与被爱-神啊，原谅他们，他们所做的他们不知啊。",
+        "id": "898409056599015429",
+        "is_identity_verified": false,
+        "location": "HZ",
+        "most_recent_tweet_id": "2091855500073750809",
+        "name": "TheTexture",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774710582878593024/OPDxcXeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 139,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "R9_Texture",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

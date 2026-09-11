@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095533079670755328"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2095524589464101144",
+    "created_at": "2026-09-03T15:23:19.000Z",
+    "display_text_range": [
+      13,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095533101854478656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 39,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095530979805061297?s=20",
+          "start": 16,
+          "url": "https://t.co/JkUZIqfpbz"
+        },
+        {
+          "display_url": "pic.x.com/trZMSGHgud",
+          "end": 63,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095533101854478656/photo/1",
+          "media_key": "3_2095533079670755328",
+          "start": 40,
+          "url": "https://t.co/trZMSGHgud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095533101854478656",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095533079670755328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095530979805061297",
+        "type": "quoted"
+      },
+      {
+        "id": "2095524589464101144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ak1raQ_love 巧了\nhttps://t.co/JkUZIqfpbz https://t.co/trZMSGHgud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2095533079670755328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTUO7zbEAA0WWK.png",
+        "width": 760
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095524586796486656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTMglYaEAAYa8R.jpg",
+        "width": 931
+      },
+      {
+        "height": 389,
+        "media_key": "3_2095529972912041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTRaGObMAAr5PT.png",
+        "width": 733
+      },
+      {
+        "height": 2474,
+        "media_key": "3_2095530813307883520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTSLA8aEAAAg69.jpg",
+        "width": 1272
+      },
+      {
+        "height": 424,
+        "media_key": "3_2095530846979813376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTSM-Ya8AAdgSv.png",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095533079670755328"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2095524589464101144",
+        "created_at": "2026-09-03T15:23:19.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095533101854478656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 39,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095530979805061297?s=20",
+              "start": 16,
+              "url": "https://t.co/JkUZIqfpbz"
+            },
+            {
+              "display_url": "pic.x.com/trZMSGHgud",
+              "end": 63,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095533101854478656/photo/1",
+              "media_key": "3_2095533079670755328",
+              "start": 40,
+              "url": "https://t.co/trZMSGHgud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095533101854478656",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095533079670755328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095530979805061297",
+            "type": "quoted"
+          },
+          {
+            "id": "2095524589464101144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 巧了\nhttps://t.co/JkUZIqfpbz https://t.co/trZMSGHgud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095524586796486656"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095524589464101144",
+        "created_at": "2026-09-03T14:49:29.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095524589464101144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLTDpJfeVG",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2095524589464101144/photo/1",
+              "media_key": "3_2095524586796486656",
+              "start": 24,
+              "url": "https://t.co/BLTDpJfeVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095524589464101144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095524586796486656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7766,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT 404了？？？被删库跑路了？？ https://t.co/BLTDpJfeVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095529972912041984",
+            "3_2095530813307883520",
+            "3_2095530846979813376"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2095530979805061297",
+        "created_at": "2026-09-03T15:14:53.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095530979805061297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9toYrY0rq",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095530979805061297/photo/1",
+              "media_key": "3_2095529972912041984",
+              "start": 81,
+              "url": "https://t.co/B9toYrY0rq"
+            },
+            {
+              "display_url": "pic.x.com/B9toYrY0rq",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095530979805061297/photo/1",
+              "media_key": "3_2095530813307883520",
+              "start": 81,
+              "url": "https://t.co/B9toYrY0rq"
+            },
+            {
+              "display_url": "pic.x.com/B9toYrY0rq",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095530979805061297/photo/1",
+              "media_key": "3_2095530846979813376",
+              "start": 81,
+              "url": "https://t.co/B9toYrY0rq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095530979805061297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095529972912041984"
+          },
+          {
+            "media_key": "3_2095530813307883520"
+          },
+          {
+            "media_key": "3_2095530846979813376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚发推不知道光标抽了什么风，没有复制也给我复制了好几遍，搞出恐怖谷来了。\n\n我的GPT是真的崩了，网站都进不去了，APP点进对话也自动给我退出来，不知道为什么 https://t.co/B9toYrY0rq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2095533101854478656",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14139,
+          "following_count": 3271,
+          "like_count": 49829,
+          "listed_count": 43,
+          "media_count": 5350,
+          "tweet_count": 26542
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095532996824826132",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8849,
+          "following_count": 1296,
+          "like_count": 225098,
+          "listed_count": 7,
+          "media_count": 1310,
+          "tweet_count": 9490
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

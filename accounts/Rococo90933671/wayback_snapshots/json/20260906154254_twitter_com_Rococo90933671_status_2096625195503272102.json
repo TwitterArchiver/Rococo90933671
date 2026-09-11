@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096625154579464192",
+        "3_2096625178210123776"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096604825228284268",
+    "created_at": "2026-09-06T15:42:54.000Z",
+    "display_text_range": [
+      26,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096625195503272102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "992385051764506624",
+          "start": 0,
+          "username": "Moegcat"
+        },
+        {
+          "end": 25,
+          "id": "1783404524906196992",
+          "start": 9,
+          "username": "fanzeiwocaonima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvzbudWIL4",
+          "end": 106,
+          "expanded_url": "https://x.com/Rococo90933671/status/2096625195503272102/photo/1",
+          "media_key": "3_2096625154579464192",
+          "start": 83,
+          "url": "https://t.co/rvzbudWIL4"
+        },
+        {
+          "display_url": "pic.x.com/rvzbudWIL4",
+          "end": 106,
+          "expanded_url": "https://x.com/Rococo90933671/status/2096625195503272102/photo/1",
+          "media_key": "3_2096625178210123776",
+          "start": 83,
+          "url": "https://t.co/rvzbudWIL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096625195503272102",
+    "in_reply_to_user_id": "992385051764506624",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096625154579464192"
+      },
+      {
+        "media_key": "3_2096625178210123776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096618879346713027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moegcat @fanzeiwocaonima 我在中学没有学过日语，是大学以后自学的，但是高中的时候就因为感兴趣买过一本教材，里面的那个蒙古族人物刚好叫巴特尔 https://t.co/rvzbudWIL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3974,
+        "media_key": "3_2096625154579464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1eD3bgAA8Wc3.jpg",
+        "width": 2774
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096625178210123776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi1fb5awAAuJD4.jpg",
+        "width": 2808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096625154579464192",
+            "3_2096625178210123776"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096604825228284268",
+        "created_at": "2026-09-06T15:42:54.000Z",
+        "display_text_range": [
+          26,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096625195503272102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "992385051764506624",
+              "start": 0,
+              "username": "Moegcat"
+            },
+            {
+              "end": 25,
+              "id": "1783404524906196992",
+              "start": 9,
+              "username": "fanzeiwocaonima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvzbudWIL4",
+              "end": 106,
+              "expanded_url": "https://x.com/Rococo90933671/status/2096625195503272102/photo/1",
+              "media_key": "3_2096625154579464192",
+              "start": 83,
+              "url": "https://t.co/rvzbudWIL4"
+            },
+            {
+              "display_url": "pic.x.com/rvzbudWIL4",
+              "end": 106,
+              "expanded_url": "https://x.com/Rococo90933671/status/2096625195503272102/photo/1",
+              "media_key": "3_2096625178210123776",
+              "start": 83,
+              "url": "https://t.co/rvzbudWIL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096625195503272102",
+        "in_reply_to_user_id": "992385051764506624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096625154579464192"
+          },
+          {
+            "media_key": "3_2096625178210123776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096618879346713027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moegcat @fanzeiwocaonima 我在中学没有学过日语，是大学以后自学的，但是高中的时候就因为感兴趣买过一本教材，里面的那个蒙古族人物刚好叫巴特尔 https://t.co/rvzbudWIL4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992385051764506624",
+        "conversation_id": "2096604825228284268",
+        "created_at": "2026-09-06T15:17:48.000Z",
+        "display_text_range": [
+          17,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096618879346713027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783404524906196992",
+              "start": 0,
+              "username": "fanzeiwocaonima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096618879346713027",
+        "in_reply_to_user_id": "1783404524906196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096614818216378573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanzeiwocaonima 我只记得我的蒙古姓氏是巴特尔，至于名是什么，已经彻底忘了，我从9岁起就已经彻底生活在了汉语环境中，而我曾经就读的小学本身也是蒙汉双语学校……\n😳\n现在我们家族当中会说蒙语的也不多了，会说蒙语的基本都是年过七旬以上的长辈，而且是远房亲戚……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2096625195503272102",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14386,
+          "following_count": 3274,
+          "like_count": 50176,
+          "listed_count": 44,
+          "media_count": 5413,
+          "tweet_count": 26725
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-04T12:46:48.000Z",
+        "description": "1⃣️This greeting from Hollow Investigative Associations......\n2⃣️Leading to build Belobog Heavy Industrial engineering.\n3⃣️No attempt to make against Section 6.",
+        "id": "992385051764506624",
+        "is_identity_verified": false,
+        "location": "Lumina Square,New Eridu",
+        "most_recent_tweet_id": "2096618879346713027",
+        "name": "薛鼎懋🇪🇺🇨🇳Katte Schrödinger",
+        "pinned_tweet_id": "1834409018842120363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992385051764506624/1749652154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932809465059008512/hvLnCwyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 781,
+          "like_count": 3768,
+          "listed_count": 7,
+          "media_count": 1793,
+          "tweet_count": 7643
+        },
+        "url": "",
+        "username": "Moegcat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-25T07:56:00.000Z",
+        "description": "聪明的人容易变成赤色分子，基本盘，半工半读人，号炸了，推友寻回中。Our mission is the great rejuvenation of the Chinese nation",
+        "id": "1783404524906196992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096624825590763924",
+        "name": "胜利主义三叶同志☘️",
+        "pinned_tweet_id": "2006697720795599083",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783404524906196992/1785945659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091341923504250880/CHRR3M6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 864,
+          "like_count": 58812,
+          "listed_count": 18,
+          "media_count": 1257,
+          "tweet_count": 10480
+        },
+        "url": "",
+        "username": "fanzeiwocaonima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

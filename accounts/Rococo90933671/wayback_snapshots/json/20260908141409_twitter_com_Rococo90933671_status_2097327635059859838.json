@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097327624544768000"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2097326651826946233",
+    "created_at": "2026-09-08T14:14:09.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097327635059859838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iB2ONyyiCc",
+          "end": 44,
+          "expanded_url": "https://x.com/Rococo90933671/status/2097327635059859838/photo/1",
+          "media_key": "3_2097327624544768000",
+          "start": 21,
+          "url": "https://t.co/iB2ONyyiCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097327635059859838",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097327624544768000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097326651826946233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "它显示，真正的服务连接在另一个地方：香港 https://t.co/iB2ONyyiCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2442,
+        "media_key": "3_2097327624544768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRs0XMaa0AAQl6L.jpg",
+        "width": 1272
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097326638916943872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRszd0qbwAA44js.jpg",
+        "width": 1880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097327624544768000"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2097326651826946233",
+        "created_at": "2026-09-08T14:14:09.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097327635059859838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iB2ONyyiCc",
+              "end": 44,
+              "expanded_url": "https://x.com/Rococo90933671/status/2097327635059859838/photo/1",
+              "media_key": "3_2097327624544768000",
+              "start": 21,
+              "url": "https://t.co/iB2ONyyiCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097327635059859838",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097327624544768000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097326651826946233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "它显示，真正的服务连接在另一个地方：香港 https://t.co/iB2ONyyiCc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097326638916943872"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          }
+        ],
+        "conversation_id": "2097326651826946233",
+        "created_at": "2026-09-08T14:10:14.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097326651826946233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T70t8ZZ0A9",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2097326651826946233/photo/1",
+              "media_key": "3_2097326638916943872",
+              "start": 15,
+              "url": "https://t.co/T70t8ZZ0A9"
+            },
+            {
+              "display_url": "x.com/ProtonVPN/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ProtonVPN/status/2096895640148021561",
+              "start": 39,
+              "url": "https://t.co/n9ORoXAp6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097326651826946233",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097326638916943872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096895640148021561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们，真的有了，以前没有的 https://t.co/T70t8ZZ0A9 https://t.co/n9ORoXAp6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2097327635059859838",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14411,
+          "following_count": 3276,
+          "like_count": 50359,
+          "listed_count": 44,
+          "media_count": 5435,
+          "tweet_count": 26809
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

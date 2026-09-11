@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2090094459866562875",
+    "created_at": "2026-08-20T12:38:58.000Z",
+    "display_text_range": [
+      14,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090418312404664625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919761076264304641",
+          "start": 0,
+          "username": "newxiaoshaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090418312404664625",
+    "in_reply_to_user_id": "1919761076264304641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090094459866562875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newxiaoshaye 宝马啊，小时候玩的极品飞车9里的蓝白色BWM M3 GTR E46一直是我的白月光，尽管我知道它太特殊了，我不可能真的拥有🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090094453784788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGB1PjbQAAG_5G.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090094453776424963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGB1PhboAME1P5.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2090094459866562875",
+        "created_at": "2026-08-20T12:38:58.000Z",
+        "display_text_range": [
+          14,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090418312404664625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919761076264304641",
+              "start": 0,
+              "username": "newxiaoshaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090418312404664625",
+        "in_reply_to_user_id": "1919761076264304641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090094459866562875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newxiaoshaye 宝马啊，小时候玩的极品飞车9里的蓝白色BWM M3 GTR E46一直是我的白月光，尽管我知道它太特殊了，我不可能真的拥有🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090094453784788992",
+            "3_2090094453776424963"
+          ]
+        },
+        "author_id": "1919761076264304641",
+        "conversation_id": "2090094459866562875",
+        "created_at": "2026-08-19T15:12:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090094459866562875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/letG66pE5F",
+              "end": 37,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2090094459866562875/photo/1",
+              "media_key": "3_2090094453784788992",
+              "start": 14,
+              "url": "https://t.co/letG66pE5F"
+            },
+            {
+              "display_url": "pic.x.com/letG66pE5F",
+              "end": 37,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2090094459866562875/photo/1",
+              "media_key": "3_2090094453776424963",
+              "start": 14,
+              "url": "https://t.co/letG66pE5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090094459866562875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090094453784788992"
+          },
+          {
+            "media_key": "3_2090094453776424963"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算考完驾照就去都试一下（ https://t.co/letG66pE5F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2090418312404664625",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13820,
+          "following_count": 3261,
+          "like_count": 48636,
+          "listed_count": 40,
+          "media_count": 5161,
+          "tweet_count": 25836
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-06T14:28:37.000Z",
+        "description": "前中推少弟弟/NTE/doro/Nikke/互fo欢迎",
+        "id": "1919761076264304641",
+        "is_identity_verified": false,
+        "location": "Melbourne, Victoria",
+        "most_recent_tweet_id": "2090406585243947050",
+        "name": "Newxiaoshaoye🇨🇳",
+        "pinned_tweet_id": "2025528175124766908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059544395989553152/n-6HeQtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 2718,
+          "like_count": 117314,
+          "listed_count": 4,
+          "media_count": 1590,
+          "tweet_count": 8309
+        },
+        "url": "",
+        "username": "newxiaoshaye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090268727887695872"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2090268745197617545",
+    "created_at": "2026-08-20T02:44:38.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090268745197617545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/isa1V3UPfh",
+          "end": 123,
+          "expanded_url": "https://x.com/Rococo90933671/status/2090268745197617545/photo/1",
+          "media_key": "3_2090268727887695872",
+          "start": 100,
+          "url": "https://t.co/isa1V3UPfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090268745197617545",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090268727887695872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "从小米14换过来的，第一次用OPPO系，是真的大开眼界了。\n\n多如牛毛的个性化推荐广告和密密麻麻牛皮癣一样的小插件，还有自带大量广告的系统应用、应用商店和负一屏与上滑搜索。你就用吧，一用一个不吱声。\n\n最后只好进行坚壁清野，把能关的通知都关了，能关的个性化推荐都关了，还用开发者模式和Shizuku把会收集信息的系统应用的网络权限给关了（直接关还关不了）。\n\n现在也清净了😋"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从小米14换过来的，第一次用OPPO系，是真的大开眼界了。\n\n多如牛毛的个性化推荐广告和密密麻麻牛皮癣一样的小插件，还有自带大量广告的系统应用、应用商店和负一屏与上滑搜索。你就用吧，一用一个不吱声。 https://t.co/isa1V3UPfh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1988,
+        "media_key": "3_2090268727887695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIgVVLakAA8piH.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090268727887695872"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2090268745197617545",
+        "created_at": "2026-08-20T02:44:38.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090268745197617545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isa1V3UPfh",
+              "end": 123,
+              "expanded_url": "https://x.com/Rococo90933671/status/2090268745197617545/photo/1",
+              "media_key": "3_2090268727887695872",
+              "start": 100,
+              "url": "https://t.co/isa1V3UPfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090268745197617545",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090268727887695872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "从小米14换过来的，第一次用OPPO系，是真的大开眼界了。\n\n多如牛毛的个性化推荐广告和密密麻麻牛皮癣一样的小插件，还有自带大量广告的系统应用、应用商店和负一屏与上滑搜索。你就用吧，一用一个不吱声。\n\n最后只好进行坚壁清野，把能关的通知都关了，能关的个性化推荐都关了，还用开发者模式和Shizuku把会收集信息的系统应用的网络权限给关了（直接关还关不了）。\n\n现在也清净了😋"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小米14换过来的，第一次用OPPO系，是真的大开眼界了。\n\n多如牛毛的个性化推荐广告和密密麻麻牛皮癣一样的小插件，还有自带大量广告的系统应用、应用商店和负一屏与上滑搜索。你就用吧，一用一个不吱声。 https://t.co/isa1V3UPfh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2090268745197617545",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13809,
+          "following_count": 3263,
+          "like_count": 48526,
+          "listed_count": 43,
+          "media_count": 5154,
+          "tweet_count": 25799
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

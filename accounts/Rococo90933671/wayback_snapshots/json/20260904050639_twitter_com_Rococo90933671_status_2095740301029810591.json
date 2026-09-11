@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095740260429008896",
+        "3_2095740268888936448",
+        "3_2095740278607134721",
+        "3_2095740289801682944"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Gemini",
+          "id": "1138860889631629312",
+          "name": "Gemini"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gemini",
+          "id": "1138860889631629312",
+          "name": "Gemini"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2095740301029810591",
+    "created_at": "2026-09-04T05:06:39.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095740301029810591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRg9op3ibW",
+          "end": 56,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+          "media_key": "3_2095740260429008896",
+          "start": 33,
+          "url": "https://t.co/XRg9op3ibW"
+        },
+        {
+          "display_url": "pic.x.com/XRg9op3ibW",
+          "end": 56,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+          "media_key": "3_2095740268888936448",
+          "start": 33,
+          "url": "https://t.co/XRg9op3ibW"
+        },
+        {
+          "display_url": "pic.x.com/XRg9op3ibW",
+          "end": 56,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+          "media_key": "3_2095740278607134721",
+          "start": 33,
+          "url": "https://t.co/XRg9op3ibW"
+        },
+        {
+          "display_url": "pic.x.com/XRg9op3ibW",
+          "end": 56,
+          "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+          "media_key": "3_2095740289801682944",
+          "start": 33,
+          "url": "https://t.co/XRg9op3ibW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095740301029810591",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095740260429008896"
+      },
+      {
+        "media_key": "3_2095740268888936448"
+      },
+      {
+        "media_key": "3_2095740278607134721"
+      },
+      {
+        "media_key": "3_2095740289801682944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来认领一下你的星座吧🫰🏻🩷\n\n白羊、金牛、双子、巨蟹\n(1/3) https://t.co/XRg9op3ibW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2095740260429008896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQqcRbEAAF-lU.jpg",
+        "width": 720
+      },
+      {
+        "height": 708,
+        "media_key": "3_2095740268888936448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQq7ybUAAy2G8.jpg",
+        "width": 720
+      },
+      {
+        "height": 696,
+        "media_key": "3_2095740278607134721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQrf_bQAE48dO.jpg",
+        "width": 720
+      },
+      {
+        "height": 708,
+        "media_key": "3_2095740289801682944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQsJsagAAdmu_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095740260429008896",
+            "3_2095740268888936448",
+            "3_2095740278607134721",
+            "3_2095740289801682944"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2095740301029810591",
+        "created_at": "2026-09-04T05:06:39.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095740301029810591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRg9op3ibW",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+              "media_key": "3_2095740260429008896",
+              "start": 33,
+              "url": "https://t.co/XRg9op3ibW"
+            },
+            {
+              "display_url": "pic.x.com/XRg9op3ibW",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+              "media_key": "3_2095740268888936448",
+              "start": 33,
+              "url": "https://t.co/XRg9op3ibW"
+            },
+            {
+              "display_url": "pic.x.com/XRg9op3ibW",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+              "media_key": "3_2095740278607134721",
+              "start": 33,
+              "url": "https://t.co/XRg9op3ibW"
+            },
+            {
+              "display_url": "pic.x.com/XRg9op3ibW",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/2095740301029810591/photo/1",
+              "media_key": "3_2095740289801682944",
+              "start": 33,
+              "url": "https://t.co/XRg9op3ibW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095740301029810591",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095740260429008896"
+          },
+          {
+            "media_key": "3_2095740268888936448"
+          },
+          {
+            "media_key": "3_2095740278607134721"
+          },
+          {
+            "media_key": "3_2095740289801682944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来认领一下你的星座吧🫰🏻🩷\n\n白羊、金牛、双子、巨蟹\n(1/3) https://t.co/XRg9op3ibW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2095740301029810591",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14199,
+          "following_count": 3270,
+          "like_count": 49882,
+          "listed_count": 42,
+          "media_count": 5360,
+          "tweet_count": 26578
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
