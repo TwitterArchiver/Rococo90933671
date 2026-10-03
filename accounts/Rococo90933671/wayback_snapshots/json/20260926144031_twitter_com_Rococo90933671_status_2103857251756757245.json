@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103857236460158976"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2103857251756757245",
+    "created_at": "2026-09-26T14:40:31.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103857251756757245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VwhXpmRYPw",
+          "end": 43,
+          "expanded_url": "https://x.com/Rococo90933671/status/2103857251756757245/photo/1",
+          "media_key": "3_2103857236460158976",
+          "start": 20,
+          "url": "https://t.co/VwhXpmRYPw"
+        },
+        {
+          "display_url": "x.com/wxb_NB/status/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/wxb_NB/status/2103855118420701366",
+          "start": 44,
+          "url": "https://t.co/Ig3ADy0WV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103857251756757245",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103857236460158976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103855118420701366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Threads也一样，而且更是完全无关 https://t.co/VwhXpmRYPw https://t.co/Ig3ADy0WV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2243,
+        "media_key": "3_2103857236460158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJnAoVXwAAiYYm.jpg",
+        "width": 1272
+      },
+      {
+        "height": 744,
+        "media_key": "3_2103855042503806977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJlA7NakAESnUq.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103857236460158976"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2103857251756757245",
+        "created_at": "2026-09-26T14:40:31.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103857251756757245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwhXpmRYPw",
+              "end": 43,
+              "expanded_url": "https://x.com/Rococo90933671/status/2103857251756757245/photo/1",
+              "media_key": "3_2103857236460158976",
+              "start": 20,
+              "url": "https://t.co/VwhXpmRYPw"
+            },
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2103855118420701366",
+              "start": 44,
+              "url": "https://t.co/Ig3ADy0WV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103857251756757245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103857236460158976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103855118420701366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Threads也一样，而且更是完全无关 https://t.co/VwhXpmRYPw https://t.co/Ig3ADy0WV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103855042503806977"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103855118420701366",
+        "created_at": "2026-09-26T14:32:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103855118420701366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEyLi50e0V",
+              "end": 34,
+              "expanded_url": "https://x.com/wxb_NB/status/2103855118420701366/photo/1",
+              "media_key": "3_2103855042503806977",
+              "start": 11,
+              "url": "https://t.co/FEyLi50e0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103855118420701366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103855042503806977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远搜不到想要的答案 https://t.co/FEyLi50e0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2103857251756757245",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14884,
+          "following_count": 3295,
+          "like_count": 52163,
+          "listed_count": 46,
+          "media_count": 5604,
+          "tweet_count": 27683
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 我的世界里才是家 / 梗图爱好者 / 编程全靠AI / 作业写不完 / 梗图收不停",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "is_identity_verified": false,
+        "location": "我喜欢你，请和我生小草莓！",
+        "most_recent_tweet_id": "2103855118420701366",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900168705847500800/1771642631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 520,
+          "like_count": 12557,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

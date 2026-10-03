@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2100150619499868203",
+    "created_at": "2026-09-16T11:47:10.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100189749265010770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100189749265010770",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100150619499868203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 帅啊哥们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3445,
+        "media_key": "3_2100150602995277824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU72KpbIAAV14B.jpg",
+        "width": 1914
+      },
+      {
+        "height": 2062,
+        "media_key": "3_2100150612726022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU72u5agAAx4nU.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2100150619499868203",
+        "created_at": "2026-09-16T11:47:10.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100189749265010770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100189749265010770",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100150619499868203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 帅啊哥们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100150602995277824",
+            "3_2100150612726022144"
+          ]
+        },
+        "author_id": "1193167151596634112",
+        "conversation_id": "2100150619499868203",
+        "created_at": "2026-09-16T09:11:41.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100150619499868203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwfZjJk6VT",
+              "end": 44,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/2100150619499868203/photo/1",
+              "media_key": "3_2100150602995277824",
+              "start": 21,
+              "url": "https://t.co/rwfZjJk6VT"
+            },
+            {
+              "display_url": "pic.x.com/rwfZjJk6VT",
+              "end": 44,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/2100150619499868203/photo/1",
+              "media_key": "3_2100150612726022144",
+              "start": 21,
+              "url": "https://t.co/rwfZjJk6VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100150619499868203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100150602995277824"
+          },
+          {
+            "media_key": "3_2100150612726022144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2566,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉老登🥴\n\n頭髮估計得十月多才長回來了（ https://t.co/rwfZjJk6VT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2100189749265010770",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14541,
+          "following_count": 3273,
+          "like_count": 50878,
+          "listed_count": 47,
+          "media_count": 5494,
+          "tweet_count": 27134
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|威權壬|排用機槍兵|藍綠白和無腦粉紅勿擾 \n好哥們@AyanamiRikako 廚子@GlunekiKCA  小綠@lamte15072 老保之友 @caswerlebel05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "lamte15072"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "caswerlebel05"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "is_identity_verified": false,
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "most_recent_tweet_id": "2100181614156501048",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193167151596634112/1766143693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086341671093157889/qfbbOFxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21160,
+          "following_count": 2958,
+          "like_count": 326535,
+          "listed_count": 32,
+          "media_count": 6230,
+          "tweet_count": 62801
+        },
+        "url": "",
+        "username": "KiminTW_Offical",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

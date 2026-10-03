@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2098592117937614959",
+    "created_at": "2026-09-14T00:03:48.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T01:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099287965621244297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072745074853548032",
+          "start": 0,
+          "username": "PangeaVPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099287965621244297",
+    "in_reply_to_user_id": "2072745074853548032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099232227901022312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PangeaVPN 哇，感谢科普🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2098592117937614959",
+        "created_at": "2026-09-14T00:03:48.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T01:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099287965621244297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072745074853548032",
+              "start": 0,
+              "username": "PangeaVPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099287965621244297",
+        "in_reply_to_user_id": "2072745074853548032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099232227901022312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PangeaVPN 哇，感谢科普🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072745074853548032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2098592117937614959",
+        "created_at": "2026-09-13T20:22:19.000Z",
+        "display_text_range": [
+          16,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099232227901022312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099232227901022312",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098592117937614959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 OpenVPN默认走1194端口,很多校园网/公共wifi现在只放行80和443两个端口,走别的端口直接被丢包,看着像连不上其实是端口根本没开。Pangea有专门走443伪装成正常Chrome流量的NaiveProxy,还有走UDP/QUIC的Hysteria2,专门应付只开80/443或者封TCP的网络。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2099287965621244297",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14550,
+          "following_count": 3279,
+          "like_count": 50615,
+          "listed_count": 47,
+          "media_count": 5468,
+          "tweet_count": 27013
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T18:14:38.000Z",
+        "description": "250 million years ago the continents split. We're patching the internet back together. Zero logs. One internet. No borders.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pangeavpn.org",
+                "end": 23,
+                "expanded_url": "https://pangeavpn.org",
+                "start": 0,
+                "url": "https://t.co/NNgHnGjDZV"
+              }
+            ]
+          }
+        },
+        "id": "2072745074853548032",
+        "is_identity_verified": false,
+        "location": "the same continent as you",
+        "most_recent_tweet_id": "2099232412249080213",
+        "name": "PangeaVPN",
+        "pinned_tweet_id": "2081699146478596482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072745074853548032/1783029505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093447971740192768/IYffuF9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 13,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/NNgHnGjDZV",
+        "username": "PangeaVPN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

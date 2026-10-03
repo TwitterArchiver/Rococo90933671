@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2030587328851226804",
+    "created_at": "2026-09-30T09:57:05.000Z",
+    "display_text_range": [
+      51,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105235475413794826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 21,
+          "id": "1950992820212473856",
+          "start": 6,
+          "username": "punished4life_"
+        },
+        {
+          "end": 33,
+          "id": "1445066346534948874",
+          "start": 22,
+          "username": "maurishsan"
+        },
+        {
+          "end": 50,
+          "id": "1963702366571728896",
+          "start": 34,
+          "username": "consciousphilos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105235475413794826",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104315997138117058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @punished4life_ @maurishsan @consciousphilos 吓哭了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [punished4life_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "punished4life_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "punished4life_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2030587328851226804",
+        "created_at": "2026-09-30T09:57:05.000Z",
+        "display_text_range": [
+          51,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105235475413794826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "1950992820212473856",
+              "start": 6,
+              "username": "punished4life_"
+            },
+            {
+              "end": 33,
+              "id": "1445066346534948874",
+              "start": 22,
+              "username": "maurishsan"
+            },
+            {
+              "end": 50,
+              "id": "1963702366571728896",
+              "start": 34,
+              "username": "consciousphilos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105235475413794826",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104315997138117058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @punished4life_ @maurishsan @consciousphilos 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2030587328851226804",
+        "created_at": "2026-09-27T21:03:24.000Z",
+        "display_text_range": [
+          45,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104315997138117058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950992820212473856",
+              "start": 0,
+              "username": "punished4life_"
+            },
+            {
+              "end": 27,
+              "id": "1445066346534948874",
+              "start": 16,
+              "username": "maurishsan"
+            },
+            {
+              "end": 44,
+              "id": "1963702366571728896",
+              "start": 28,
+              "username": "consciousphilos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104315997138117058",
+        "in_reply_to_user_id": "1950992820212473856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4451,
+          "impression_count": 2040645,
+          "like_count": 27016,
+          "quote_count": 627,
+          "reply_count": 370,
+          "retweet_count": 4671
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104315789524296002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@punished4life_ @maurishsan @consciousphilos 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥\n🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥\n🟥⬜⬛⬜⬜⬛⬛⬛⬛⬜🟥\n🟥⬜⬛⬜⬜⬛⬜⬜⬜⬜🟥\n🟥⬜⬛⬜⬜⬛⬜⬜⬜⬜🟥\n🟥⬜⬛⬛⬛⬛⬛⬛⬛⬜🟥\n🟥⬜⬜⬜⬜⬛⬜⬜⬛⬜🟥\n🟥⬜⬜⬜⬜⬛⬜⬜⬛⬜🟥\n🟥⬜⬛⬛⬛⬛⬜⬜⬛⬜🟥\n🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥\n🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2105235475413794826",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14943,
+          "following_count": 3285,
+          "like_count": 52593,
+          "listed_count": 47,
+          "media_count": 5649,
+          "tweet_count": 27870
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105235487287853388",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9115714,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7702,
+          "media_count": 3970094,
+          "tweet_count": 137943760
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-04T16:41:27.000Z",
+        "description": "🇲🇽 | ENTJ | El 90% de las cosas que digo aquí, son de chill | Me gustan los autos, el K-Pop y el cine.",
+        "id": "1445066346534948874",
+        "is_identity_verified": false,
+        "location": "Monterrey, Nuevo León",
+        "most_recent_tweet_id": "2105180894512452084",
+        "name": "Mau Bond (Karina’s bf) 🇲🇽",
+        "pinned_tweet_id": "1968401626533605462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445066346534948874/1778515017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102401872774508544/w16nCg72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 469,
+          "like_count": 346176,
+          "listed_count": 1,
+          "media_count": 3900,
+          "tweet_count": 44085
+        },
+        "url": "",
+        "username": "maurishsan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-04T20:35:11.000Z",
+        "description": "Conscious philosophers examine the nature of subjective experience, often debating whether consciousness is a physical process, an illusion, or something else.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/consciousphilo…",
+                "end": 23,
+                "expanded_url": "https://x.com/consciousphilos/status/2049290258895024270",
+                "start": 0,
+                "url": "https://t.co/3NFFPocuke"
+              }
+            ]
+          }
+        },
+        "id": "1963702366571728896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102749975868543127",
+        "name": "Universe",
+        "pinned_tweet_id": "2070981244217913415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963702366571728896/1782595320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070980989711785984/rkKKGY8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/3NFFPocuke",
+        "username": "consciousphilos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

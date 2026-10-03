@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2100877986987983235",
+    "created_at": "2026-09-18T10:36:22.000Z",
+    "display_text_range": [
+      30,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100896705898221971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697287808015282177",
+          "start": 0,
+          "username": "naiyounaiyou23"
+        },
+        {
+          "end": 29,
+          "id": "2054197521690611712",
+          "start": 16,
+          "username": "AnnaYanamimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100896705898221971",
+    "in_reply_to_user_id": "1697287808015282177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100889203240497493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyounaiyou23 @AnnaYanamimi 我的是在Github上找的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2100877986987983235",
+        "created_at": "2026-09-18T10:36:22.000Z",
+        "display_text_range": [
+          30,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100896705898221971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697287808015282177",
+              "start": 0,
+              "username": "naiyounaiyou23"
+            },
+            {
+              "end": 29,
+              "id": "2054197521690611712",
+              "start": 16,
+              "username": "AnnaYanamimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100896705898221971",
+        "in_reply_to_user_id": "1697287808015282177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100889203240497493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyounaiyou23 @AnnaYanamimi 我的是在Github上找的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697287808015282177",
+        "conversation_id": "2100877986987983235",
+        "created_at": "2026-09-18T10:06:33.000Z",
+        "display_text_range": [
+          30,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100889203240497493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "AnnaYanamimi"
+            },
+            {
+              "end": 29,
+              "id": "1303335410609790976",
+              "start": 14,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100889203240497493",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100888359191380277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnaYanamimi @Rococo90933671 看发送人用的什么手段下载安装的，一般不会出现这种情况，如果有，可能是因为发送不完整或者安卓版本不对"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2100896705898221971",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14664,
+          "following_count": 3277,
+          "like_count": 51191,
+          "listed_count": 47,
+          "media_count": 5514,
+          "tweet_count": 27246
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T16:40:42.000Z",
+        "description": "",
+        "id": "1697287808015282177",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100890783876547006",
+        "name": "贝利亚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903327240701849600/xBpHKT6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1504,
+          "like_count": 61270,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "naiyounaiyou23",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.cn",
+                "end": 23,
+                "expanded_url": "https://www.4399.cn",
+                "start": 0,
+                "url": "https://t.co/SLOmgRZx14"
+              }
+            ]
+          }
+        },
+        "id": "2054197521690611712",
+        "is_identity_verified": false,
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "most_recent_tweet_id": "2100888597444301173",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2100588524994994594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054197521690611712/1780590750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090786187770564608/B6imL5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1941,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/SLOmgRZx14",
+        "username": "AnnaYanamimi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

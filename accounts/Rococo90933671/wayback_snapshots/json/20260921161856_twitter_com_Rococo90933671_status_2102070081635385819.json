@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2101982765340410064",
+    "created_at": "2026-09-21T16:18:56.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102070081635385819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "853162972000038912",
+          "start": 0,
+          "username": "thisisMartin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102070081635385819",
+    "in_reply_to_user_id": "853162972000038912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102056555088933099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisisMartin 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2101982765340410064",
+        "created_at": "2026-09-21T16:18:56.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102070081635385819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "853162972000038912",
+              "start": 0,
+              "username": "thisisMartin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102070081635385819",
+        "in_reply_to_user_id": "853162972000038912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102056555088933099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisisMartin 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853162972000038912",
+        "conversation_id": "2101982765340410064",
+        "created_at": "2026-09-21T15:25:11.000Z",
+        "display_text_range": [
+          16,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102056555088933099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102056555088933099",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101982765340410064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 这是因为对于旗帜类emoji，其实并没有一个标准的规范说必须展示成什么样子。所以各方对其的实现拥有差异。\n\n图中输入法使用的是Apple Color Emoji，而评论区安卓端X使用的是Twemoji。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2102070081635385819",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 3278,
+          "like_count": 51581,
+          "listed_count": 47,
+          "media_count": 5543,
+          "tweet_count": 27431
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-15T08:27:58.000Z",
+        "description": "中国人-iOS工程师/iOSエンジニア🏳️‍🌈 マスターレベル：中国語標準語 勉強中：英語/日本語/朝鮮語/広東語 浙江省出身です。 「Korean」を「朝鮮語」と呼ぶか「韓国語」と呼ぶかはみんなの自由。",
+        "id": "853162972000038912",
+        "is_identity_verified": false,
+        "location": "IP 位置: 中国・北京市",
+        "most_recent_tweet_id": "2102067393677988004",
+        "name": "𝕄𝕒𝕣𝕥𝕚𝕟 ﾏｰﾃｨﾝ 마틴 مارتىن",
+        "pinned_tweet_id": "1906369762235666754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853162972000038912/1706856556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946860086732750849/IAOuGTLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 1584,
+          "like_count": 68381,
+          "listed_count": 6,
+          "media_count": 3302,
+          "tweet_count": 55261
+        },
+        "url": "",
+        "username": "thisisMartin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

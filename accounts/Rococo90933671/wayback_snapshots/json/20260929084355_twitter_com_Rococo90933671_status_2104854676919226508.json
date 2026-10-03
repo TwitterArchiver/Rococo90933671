@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2104854676919226508",
+    "created_at": "2026-09-29T08:43:55.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104854676919226508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takenak5473/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/takenak5473/status/2104541225852326128",
+          "start": 8,
+          "url": "https://t.co/oe7uiAvvyN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104854676919226508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104541225852326128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看不得这种事😢 https://t.co/oe7uiAvvyN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2104541215547121664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTVFc_a4AAg9lH.jpg",
+        "width": 720
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2104541220789968896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTVFwhaYAAL7wV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2104854676919226508",
+        "created_at": "2026-09-29T08:43:55.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104854676919226508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takenak5473/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/takenak5473/status/2104541225852326128",
+              "start": 8,
+              "url": "https://t.co/oe7uiAvvyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104854676919226508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104541225852326128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不得这种事😢 https://t.co/oe7uiAvvyN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104541215547121664",
+            "3_2104541220789968896"
+          ]
+        },
+        "author_id": "736423498956996608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2104541225852326128",
+        "created_at": "2026-09-28T11:58:23.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104541225852326128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IOnuA1mxM",
+              "end": 61,
+              "expanded_url": "https://x.com/takenak5473/status/2104541225852326128/photo/1",
+              "media_key": "3_2104541215547121664",
+              "start": 38,
+              "url": "https://t.co/7IOnuA1mxM"
+            },
+            {
+              "display_url": "pic.x.com/7IOnuA1mxM",
+              "end": 61,
+              "expanded_url": "https://x.com/takenak5473/status/2104541225852326128/photo/1",
+              "media_key": "3_2104541220789968896",
+              "start": 38,
+              "url": "https://t.co/7IOnuA1mxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104541225852326128",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104541215547121664"
+          },
+          {
+            "media_key": "3_2104541220789968896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1610,
+          "impression_count": 2810670,
+          "like_count": 12650,
+          "quote_count": 220,
+          "reply_count": 147,
+          "retweet_count": 516
+        },
+        "reply_settings": "everyone",
+        "text": "インフルエンザで\n亡くなったアイドルがいるんだ\n😱😱😱😱(つ﹏&lt;。) https://t.co/7IOnuA1mxM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2104854676919226508",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14919,
+          "following_count": 3289,
+          "like_count": 52477,
+          "listed_count": 47,
+          "media_count": 5634,
+          "tweet_count": 27825
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-28T05:06:59.000Z",
+        "description": "",
+        "id": "736423498956996608",
+        "is_identity_verified": false,
+        "location": "千葉",
+        "most_recent_tweet_id": "2104771903219241318",
+        "name": "竹さんPちゃ@",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103916789747130368/c8NQsh8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 2573,
+          "like_count": 339146,
+          "listed_count": 12,
+          "media_count": 7820,
+          "tweet_count": 68067
+        },
+        "url": "",
+        "username": "takenak5473",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

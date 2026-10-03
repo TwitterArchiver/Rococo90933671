@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2101636621842157680",
+    "created_at": "2026-09-21T08:58:08.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101959150536102354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "17306975",
+          "start": 0,
+          "username": "livedoornews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101959150536102354",
+    "in_reply_to_user_id": "17306975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101636621842157680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@livedoornews 四个卦象全错了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2101636621842157680",
+        "created_at": "2026-09-21T08:58:08.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101959150536102354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "17306975",
+              "start": 0,
+              "username": "livedoornews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101959150536102354",
+        "in_reply_to_user_id": "17306975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101636621842157680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@livedoornews 四个卦象全错了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "TBS アジア大会 愛知・名古屋 特設ページ\nアジア大会 愛知・名古屋の最新情報がチェックできる特設ページです。\n試合映像やその他コンテンツを配信します。\n\nhttps://www.tbs.co.jp/asiangames/",
+              "id": "2094310428117508096",
+              "name": "TBS アジア大会 愛知・名古屋 "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TBS アジア大会 愛知・名古屋 特設ページ\nアジア大会 愛知・名古屋の最新情報がチェックできる特設ページです。\n試合映像やその他コンテンツを配信します。\n\nhttps://www.tbs.co.jp/asiangames/",
+              "id": "2094310428117508096",
+              "name": "TBS アジア大会 愛知・名古屋 "
+            }
+          }
+        ],
+        "conversation_id": "2101636621842157680",
+        "created_at": "2026-09-20T11:36:31.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101636621842157680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「アジア大会・バスケットボール男子・決勝、日本代表－韓国代表」（２０日、愛知国際アリーナ）悲願の初優勝を狙う日本と、３大会ぶりの金メダルを狙う韓国による頂上決戦を前にまさかの事態が起こった。",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 60,
+              "expanded_url": "https://news.livedoor.com/article/detail/32374707/",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2101636622102228992/xisp9GmZ?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101636622102228992/xisp9GmZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "バスケ男子　決勝日韓戦を前にまさかのトラブル　韓国代表、移動バスこず当日練習できず「意図的な妨害疑わざるを得ない」現地報道　組織委、ＯＣＡに抗議へ",
+              "unwound_url": "https://news.livedoor.com/article/detail/32374707/",
+              "url": "https://t.co/Er4kvTgYGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101636621842157680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 1294404,
+          "like_count": 4741,
+          "quote_count": 444,
+          "reply_count": 310,
+          "retweet_count": 1245
+        },
+        "reply_settings": "everyone",
+        "text": "【アジア大会】韓国代表にトラブル「意図的な妨害疑わざるを得ない」現地報道\nhttps://t.co/Er4kvTgYGn\n\n20日、バスケ男子国代表の練習が午前に予定されていたが、移動用のバスが来ず中止になった。現地紙は、日本との決勝を前にしたトラブルに「意図的な妨害も疑わざるを得ない」と伝えているという。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2101959150536102354",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 3277,
+          "like_count": 51508,
+          "listed_count": 47,
+          "media_count": 5540,
+          "tweet_count": 27400
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101957584563634685",
+        "name": "ライブドアニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17306975/1693883446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215199,
+          "following_count": 108,
+          "like_count": 2278,
+          "listed_count": 14054,
+          "media_count": 296746,
+          "tweet_count": 477987
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

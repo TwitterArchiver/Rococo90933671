@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2103719517390086612",
+    "created_at": "2026-09-27T23:41:44.000Z",
+    "display_text_range": [
+      23,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104355843453976971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1460987988943392771",
+          "start": 0,
+          "username": "heicha141"
+        },
+        {
+          "end": 22,
+          "id": "2074038118060285952",
+          "start": 11,
+          "username": "Haozi_Star"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104355843453976971",
+    "in_reply_to_user_id": "1460987988943392771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104235616435400787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heicha141 @Haozi_Star 满命刻晴，放在崩铁早就路边一条了，但是在原神可以被新反应新体系带飞😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2103719517390086612",
+        "created_at": "2026-09-27T23:41:44.000Z",
+        "display_text_range": [
+          23,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104355843453976971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1460987988943392771",
+              "start": 0,
+              "username": "heicha141"
+            },
+            {
+              "end": 22,
+              "id": "2074038118060285952",
+              "start": 11,
+              "username": "Haozi_Star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104355843453976971",
+        "in_reply_to_user_id": "1460987988943392771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104235616435400787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heicha141 @Haozi_Star 满命刻晴，放在崩铁早就路边一条了，但是在原神可以被新反应新体系带飞😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460987988943392771",
+        "conversation_id": "2103719517390086612",
+        "created_at": "2026-09-27T15:44:00.000Z",
+        "display_text_range": [
+          28,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104235616435400787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2074038118060285952",
+              "start": 0,
+              "username": "Haozi_Star"
+            },
+            {
+              "end": 27,
+              "id": "1303335410609790976",
+              "start": 12,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104235616435400787",
+        "in_reply_to_user_id": "2074038118060285952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233364802920762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haozi_Star @Rococo90933671 1450买下来的账号，角色还是挺多的，专武多到用不完，我当初是奔着满命刻晴才买的这个号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2104355843453976971",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14907,
+          "following_count": 3292,
+          "like_count": 52316,
+          "listed_count": 47,
+          "media_count": 5616,
+          "tweet_count": 27754
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-17T15:07:48.000Z",
+        "description": "一个喜欢看⏰笑话的乐子人\n尊重他人命运，放下助人情节。\n爱家人，爱朋友，爱自己。\n只要自己活的开心就好，\n哪管它外面风雨滔天。\n这个世界很苦，\n但是瑟瑟和梗图会拯救我。",
+        "id": "1460987988943392771",
+        "is_identity_verified": false,
+        "location": "灘黒岩水仙郷",
+        "most_recent_tweet_id": "2104275082717831475",
+        "name": "热白开℃",
+        "pinned_tweet_id": "2074937879550373966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460987988943392771/1789909277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101657900624252929/JtDONKkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 343,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "heicha141",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T07:51:02.000Z",
+        "description": "A Chinese 爱国爱党爱人民\nI want to be your friend! Hoyoverse player\nEverything will be OK\nMy Instagram👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/seeyou_laterti…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/seeyou_latertime/",
+                "start": 0,
+                "url": "https://t.co/pbBXx5B2pX"
+              }
+            ]
+          }
+        },
+        "id": "2074038118060285952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104238118379626933",
+        "name": "Haozi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074038118060285952/1788587734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099049198683578368/d0-xeV4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/pbBXx5B2pX",
+        "username": "Haozi_Star",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation about the Japanese Cabinet",
+          "id": "858945566687993856",
+          "name": "Cabinet of Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about the Japanese Cabinet",
+          "id": "858945566687993856",
+          "name": "Cabinet of Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2100086599858245778",
+    "created_at": "2026-09-16T13:31:26.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T14:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100215987891261577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676412497748975616",
+          "start": 0,
+          "username": "FocalorsOffice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/takaichi_sanae…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/takaichi_sanae/status/2079198063672098918",
+          "start": 19,
+          "url": "https://t.co/FM4XiGi0Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100215987891261577",
+    "in_reply_to_user_id": "1676412497748975616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079198063672098918",
+        "type": "quoted"
+      },
+      {
+        "id": "2100086599858245778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FocalorsOffice 🤓👍 https://t.co/FM4XiGi0Ar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2100086599858245778",
+        "created_at": "2026-09-16T13:31:26.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100215987891261577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676412497748975616",
+              "start": 0,
+              "username": "FocalorsOffice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/2079198063672098918",
+              "start": 19,
+              "url": "https://t.co/FM4XiGi0Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100215987891261577",
+        "in_reply_to_user_id": "1676412497748975616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079198063672098918",
+            "type": "quoted"
+          },
+          {
+            "id": "2100086599858245778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FocalorsOffice 🤓👍 https://t.co/FM4XiGi0Ar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676412497748975616",
+        "conversation_id": "2100086599858245778",
+        "created_at": "2026-09-16T04:57:17.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100086599858245778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poca2381/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Poca2381/status/2099769837384081566",
+              "start": 26,
+              "url": "https://t.co/Ym93OgoGrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100086599858245778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 456,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099769837384081566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐂🍺每天只睡2小时\n让我想到岛上的某个神秘奇女子🤣 https://t.co/Ym93OgoGrZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2079198063672098918",
+        "created_at": "2026-07-20T13:33:42.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079198063672098918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079198063672098918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月に入ってからの土日は、公邸で『骨太方針』『日本成長戦略』『地域未来戦略』に関する分厚い資料を早朝から深夜まで読み続け、2週目は与党審査で加筆修正された部分を熟読検討するなど、高市内閣が初めて骨太方針や概算要求段階から関われる令和９年度予算や本格的に取り組める中長期の成長戦略に向けて、半端ない情熱を注いでいました。\n併せて、先週末までは、週明けの国会答弁に備えた資料読みやペン入れなどもあり、書類の山と格闘して過ごしていました。\n\nこの土日も、閣議決定を目前に控えた3本の文書の最終案を再度読み込んだり、数千通も溜まってしまったメール処理で今日（月）の明け方まで仕事に追われていましたが、今日の海の日の午後は、私的に使える貴重な時間になりました。\n\n平日は、公邸に戻ってから、風呂掃除、入浴、夕食、夕食後の洗い物、洗濯、簡単な掃除まででプライベートな時間は精一杯で、後の深夜時間帯は明け方まで官邸から持ち帰りの資料読みや国会答弁資料読みに追われます。\n\n今日のお休みは本当に有難く、久々に5時間も睡眠を取れた上（総理就任以来、0時間〜3時間睡眠が常態化）、昼からは、手付かずだった大量の洗濯後のハンカチやインナーのアイロンかけと、お裁縫（スカートの裾のほつれのまつり縫いやジャケットの緩んだボタンの補強）を一気に処理。\n\n私は特にアイロンかけが下手で時間がかかるので、つい先延ばしにしていた結果、スーツに合わせるインナーが殆ど無い状況に。\nこれで会期末までのハンカチとインナーを確保でき、明日から又、頑張れます！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3884,
+          "impression_count": 38251641,
+          "like_count": 56580,
+          "quote_count": 14438,
+          "reply_count": 14241,
+          "retweet_count": 6507
+        },
+        "reply_settings": "everyone",
+        "text": "7月に入ってからの土日は、公邸で『骨太方針』『日本成長戦略』『地域未来戦略』に関する分厚い資料を早朝から深夜まで読み続け、2週目は与党審査で加筆修正された部分を熟読検討するなど、高市内閣が初めて骨太方針や概算要求段階から関われる令和９年度予算や本格的に取り組める中長期の成長戦略に向"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2100215987891261577",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14544,
+          "following_count": 3274,
+          "like_count": 50897,
+          "listed_count": 47,
+          "media_count": 5496,
+          "tweet_count": 27146
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-05T02:07:45.000Z",
+        "description": "男的.查成分互fo\n平平无奇的魔法师（法学专业→魔法师可爱的称呼）\n持有法律职业资格证书，但只对法律粗浅之认知\n对什么都略懂一点，喜欢健身、阅读。\n见习魔法师已经挂了\n背景图算AI自设吧，还没驯服好AI，细节出入较大军迷勿喷。另外请勿盗用",
+        "id": "1676412497748975616",
+        "is_identity_verified": false,
+        "location": "兵家不争之地",
+        "most_recent_tweet_id": "2100208255477878912",
+        "name": "Focalors",
+        "pinned_tweet_id": "2090808400955515391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676412497748975616/1789383162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026343009013612544/KZdZbe3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 210,
+          "like_count": 9384,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 2776
+        },
+        "url": "",
+        "username": "FocalorsOffice",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100168389700554978",
+        "name": "高市早苗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218434058/1778462883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995205,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6614,
+          "media_count": 537,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

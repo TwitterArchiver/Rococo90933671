@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2100877986987983235",
+    "created_at": "2026-09-18T15:00:03.000Z",
+    "display_text_range": [
+      30,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100963067345711527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697287808015282177",
+          "start": 0,
+          "username": "naiyounaiyou23"
+        },
+        {
+          "end": 29,
+          "id": "2054197521690611712",
+          "start": 16,
+          "username": "AnnaYanamimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100963067345711527",
+    "in_reply_to_user_id": "1697287808015282177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100905447184322623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyounaiyou23 @AnnaYanamimi 我后来直接用telegram传了，其实实在要用QQ的话，我也知道压缩一下就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2100877986987983235",
+        "created_at": "2026-09-18T15:00:03.000Z",
+        "display_text_range": [
+          30,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100963067345711527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697287808015282177",
+              "start": 0,
+              "username": "naiyounaiyou23"
+            },
+            {
+              "end": 29,
+              "id": "2054197521690611712",
+              "start": 16,
+              "username": "AnnaYanamimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100963067345711527",
+        "in_reply_to_user_id": "1697287808015282177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100905447184322623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyounaiyou23 @AnnaYanamimi 我后来直接用telegram传了，其实实在要用QQ的话，我也知道压缩一下就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697287808015282177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2100877986987983235",
+        "created_at": "2026-09-18T11:11:06.000Z",
+        "display_text_range": [
+          30,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100905447184322623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 29,
+              "id": "2054197521690611712",
+              "start": 16,
+              "username": "AnnaYanamimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100905447184322623",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100896705898221971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @AnnaYanamimi 你这个情况只是校验码被标记了而已，如果是google play安装的，格式不是apk，直接用手机的分享功能可能会不完整"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2100963067345711527",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14664,
+          "following_count": 3276,
+          "like_count": 51214,
+          "listed_count": 47,
+          "media_count": 5514,
+          "tweet_count": 27251
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T16:40:42.000Z",
+        "description": "",
+        "id": "1697287808015282177",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100933810242363672",
+        "name": "贝利亚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903327240701849600/xBpHKT6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1505,
+          "like_count": 61290,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "naiyounaiyou23",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.cn",
+                "end": 23,
+                "expanded_url": "https://www.4399.cn",
+                "start": 0,
+                "url": "https://t.co/SLOmgRZx14"
+              }
+            ]
+          }
+        },
+        "id": "2054197521690611712",
+        "is_identity_verified": false,
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "most_recent_tweet_id": "2100958557424488730",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2100588524994994594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054197521690611712/1780590750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090786187770564608/B6imL5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 1951,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/SLOmgRZx14",
+        "username": "AnnaYanamimi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

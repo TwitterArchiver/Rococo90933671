@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2101914454275281365",
+    "created_at": "2026-09-21T08:46:14.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101956153454547184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        },
+        {
+          "end": 22,
+          "id": "1366512947015520259",
+          "start": 14,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101956153454547184",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101933459761660152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ @gsjzyyy 确实神了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2101933459761660152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2101933459761660152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2101933459761660152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2101914454275281365",
+        "created_at": "2026-09-21T08:46:14.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101956153454547184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            },
+            {
+              "end": 22,
+              "id": "1366512947015520259",
+              "start": 14,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101956153454547184",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101933459761660152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ @gsjzyyy 确实神了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2101956153454547184",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 3277,
+          "like_count": 51499,
+          "listed_count": 47,
+          "media_count": 5539,
+          "tweet_count": 27396
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨疯狂宇宙型人格丨有时可能没看到消息请见谅丨戾气极重请谨慎关注丨反物质级别负能量场丨习近平在此百鬼退避",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/I0k2RlWNWk"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "is_identity_verified": false,
+        "location": "au bout de la terre",
+        "most_recent_tweet_id": "2084633152782561374",
+        "name": "🦇𝔉𝔩𝔞𝔫𝔡𝔯𝔢🐦‍⬛",
+        "pinned_tweet_id": "2081178507733065799",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378723007762366467/1789578633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097909586221219840/9KDQftk7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 4433,
+          "like_count": 60924,
+          "listed_count": 1,
+          "media_count": 3953,
+          "tweet_count": 33976
+        },
+        "url": "https://t.co/I0k2RlWNWk",
+        "username": "Flandre_OvO_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "我们将吟唱着古老诗句，持续那场终将到来的游行。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goresee.com/w/aCB6wp6TYaMy…",
+                "end": 23,
+                "expanded_url": "https://goresee.com/w/aCB6wp6TYaMyPNc1zG7MRN",
+                "start": 0,
+                "url": "https://t.co/w5WnMfQV3I"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "is_identity_verified": false,
+        "location": "距离您的位置50米",
+        "most_recent_tweet_id": "2101927269463982150",
+        "name": "❄焚蒿🍺【胧月🌙雪华斩🧊】🤧",
+        "pinned_tweet_id": "1905459125469020289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366512947015520259/1728116815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101251935773093888/iP2dIp0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1610,
+          "like_count": 127597,
+          "listed_count": 10,
+          "media_count": 2201,
+          "tweet_count": 29597
+        },
+        "url": "https://t.co/w5WnMfQV3I",
+        "username": "gsjzyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

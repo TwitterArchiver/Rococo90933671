@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "The Telegraph",
+          "id": "1066114840832356353",
+          "name": "The Telegraph"
+        }
+      }
+    ],
+    "conversation_id": "2099183115835240769",
+    "created_at": "2026-09-13T17:07:10.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099183115835240769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Telegraph/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Telegraph/status/2099023264123162643",
+          "start": 45,
+          "url": "https://t.co/vUy6hCMEVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099183115835240769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099023264123162643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥们好歹是五大常任理事国啊，别真给干解体了……等等，好像上一个解体的确实也是常任理事国😋 https://t.co/vUy6hCMEVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2099023260323045389",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSE6iL7WYA0tqAE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Telegraph",
+              "id": "1066114840832356353",
+              "name": "The Telegraph"
+            }
+          }
+        ],
+        "conversation_id": "2099183115835240769",
+        "created_at": "2026-09-13T17:07:10.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099183115835240769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Telegraph/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Telegraph/status/2099023264123162643",
+              "start": 45,
+              "url": "https://t.co/vUy6hCMEVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099183115835240769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099023264123162643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥们好歹是五大常任理事国啊，别真给干解体了……等等，好像上一个解体的确实也是常任理事国😋 https://t.co/vUy6hCMEVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099023260323045389"
+          ]
+        },
+        "author_id": "16343974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Telegraph",
+              "id": "1066114840832356353",
+              "name": "The Telegraph"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1113138554496942080",
+              "name": "The Daily Telegraph"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331942448524738560",
+              "name": "Wales national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331946773263253506",
+              "name": "Northern Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1332026264777998337",
+              "name": "Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331942448524738560",
+              "name": "Wales national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331946773263253506",
+              "name": "Northern Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332026264777998337",
+              "name": "Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331942448524738560",
+              "name": "Wales national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1331946773263253506",
+              "name": "Northern Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1332026264777998337",
+              "name": "Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331936767818100737",
+              "name": "Scotland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331942448524738560",
+              "name": "Wales national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331946773263253506",
+              "name": "Northern Ireland national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332026264777998337",
+              "name": "Ireland national news"
+            }
+          }
+        ],
+        "conversation_id": "2099023264123162643",
+        "created_at": "2026-09-13T06:31:58.000Z",
+        "display_text_range": [
+          0,
+          203
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099023264123162643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pro-independence first ministers will sign ‘memorandum of understanding’ at Cardiff summit and demand referendums",
+              "display_url": "telegraph.co.uk/politics/2026/…",
+              "end": 203,
+              "expanded_url": "https://www.telegraph.co.uk/politics/2026/09/13/irish-scots-and-welsh-leaders-meet-to-plot-break-up-uk/?WT.mc_id=tmgoff_tw_post_to-plot-break-up-uk/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2099023265763127296/nts72o_d?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099023265763127296/nts72o_d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 180,
+              "status": 200,
+              "title": "Irish, Scots and Welsh leaders meet to plot break-up of United Kingdom",
+              "unwound_url": "https://www.telegraph.co.uk/politics/2026/09/13/irish-scots-and-welsh-leaders-meet-to-plot-break-up-uk/?WT.mc_id=tmgoff_tw_post_to-plot-break-up-uk/",
+              "url": "https://t.co/VeumqCHVkT"
+            },
+            {
+              "display_url": "pic.x.com/2tvusq3woe",
+              "end": 227,
+              "expanded_url": "https://x.com/Telegraph/status/2099023264123162643/photo/1",
+              "media_key": "3_2099023260323045389",
+              "start": 204,
+              "url": "https://t.co/2tvusq3woe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099023264123162643",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099023260323045389"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9705,
+          "impression_count": 10974091,
+          "like_count": 56245,
+          "quote_count": 5261,
+          "reply_count": 1951,
+          "retweet_count": 8172
+        },
+        "reply_settings": "everyone",
+        "text": "The leaders of Scotland, Wales and Northern Ireland will gather on Monday to sign a deal designed to kick-start the break-up of the United Kingdom, The Telegraph can disclose.\n\n🔗: https://t.co/VeumqCHVkT https://t.co/2tvusq3woe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2099183115835240769",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14550,
+          "following_count": 3280,
+          "like_count": 50608,
+          "listed_count": 47,
+          "media_count": 5468,
+          "tweet_count": 27006
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-09-18T06:50:54.000Z",
+        "description": "The Daily Telegraph & Sunday Telegraph\n\nWe speak your mind. Join the conversation today.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegraph.co.uk/?WT.mc_id=tw",
+                "end": 23,
+                "expanded_url": "http://www.telegraph.co.uk/?WT.mc_id=tw",
+                "start": 0,
+                "url": "https://t.co/ALkkPczVm5"
+              }
+            ]
+          }
+        },
+        "id": "16343974",
+        "is_identity_verified": false,
+        "location": "London, UK",
+        "most_recent_tweet_id": "2099181418131710090",
+        "name": "The Telegraph",
+        "pinned_tweet_id": "2098905083140333938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16343974/1678701134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605188195574026240/XDJv944l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426817,
+          "following_count": 825,
+          "like_count": 8731,
+          "listed_count": 22394,
+          "media_count": 149799,
+          "tweet_count": 634666
+        },
+        "url": "https://t.co/ALkkPczVm5",
+        "username": "Telegraph",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

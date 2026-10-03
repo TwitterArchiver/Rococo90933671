@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2100982794730275041",
+    "created_at": "2026-09-18T23:44:58.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T00:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101095165674799394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101095165674799394",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100982794730275041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 还真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2100982783837683712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgwtd3bQAAFuU0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2100982794730275041",
+        "created_at": "2026-09-18T23:44:58.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101095165674799394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101095165674799394",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100982794730275041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100982783837683712"
+          ]
+        },
+        "author_id": "1626578993821675521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2100982794730275041",
+        "created_at": "2026-09-18T16:18:27.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100982794730275041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B73bqkr6G7",
+              "end": 152,
+              "expanded_url": "https://x.com/linmen589064/status/2100982794730275041/photo/1",
+              "media_key": "3_2100982783837683712",
+              "start": 129,
+              "url": "https://t.co/B73bqkr6G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100982794730275041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100982783837683712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 301,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理学中有一个冷知识，就是你以为自己是一个性格内向的人，喜欢独处，但实际上你只是喜欢内心的平静，再能给你带来平静的人面前，你其实是外向的。人和人之间是有磁场的，遇到灵魂相似的人，立马就会变得外向且积极，所以谁能给你带来平静和滋养，谁就应该获得你最多的时间。 https://t.co/B73bqkr6G7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2101095165674799394",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14663,
+          "following_count": 3276,
+          "like_count": 51226,
+          "listed_count": 47,
+          "media_count": 5516,
+          "tweet_count": 27262
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "绝艺如君天下少，闲人似我世间无",
+        "id": "1626578993821675521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100987066561732841",
+        "name": "Soyo丶Chihaya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626578993821675521/1783577065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090797826720899072/2D6kBovs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 421,
+          "like_count": 72474,
+          "listed_count": 4,
+          "media_count": 1186,
+          "tweet_count": 21556
+        },
+        "url": "",
+        "username": "linmen589064",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

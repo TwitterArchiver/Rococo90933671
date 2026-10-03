@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103157573977292800"
+      ]
+    },
+    "author_id": "1303335410609790976",
+    "conversation_id": "2103157586891620811",
+    "created_at": "2026-09-24T16:20:18.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103157586891620811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQJUN9MyQe",
+          "end": 44,
+          "expanded_url": "https://x.com/Rococo90933671/status/2103157586891620811/photo/1",
+          "media_key": "3_2103157573977292800",
+          "start": 21,
+          "url": "https://t.co/iQJUN9MyQe"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2042878331394412763",
+          "start": 45,
+          "url": "https://t.co/w0zg5bJM9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103157586891620811",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103157573977292800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042878331394412763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逆天了，4月发的，刚刚才收到敏感内容标记 https://t.co/iQJUN9MyQe https://t.co/w0zg5bJM9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2103157573977292800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_qq6eWwAAWJCU.jpg",
+        "width": 1270
+      },
+      {
+        "duration_ms": 7524,
+        "height": 576,
+        "media_key": "7_2042878297554718721",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042878297554718721/pu/img/iVRqI6suW-wBmlNK.jpg",
+        "public_metrics": {
+          "view_count": 12801
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042878297554718721/pu/vid/avc1/600x270/YaWDaL3MWN_RnRtS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042878297554718721/pu/vid/avc1/800x360/doHmph7kQhb1KSai.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042878297554718721/pu/vid/avc1/1280x576/5LC20dzy4jJnioV7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042878297554718721/pu/pl/BFGjxl6aBTvq2cWm.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103157573977292800"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2103157586891620811",
+        "created_at": "2026-09-24T16:20:18.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103157586891620811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQJUN9MyQe",
+              "end": 44,
+              "expanded_url": "https://x.com/Rococo90933671/status/2103157586891620811/photo/1",
+              "media_key": "3_2103157573977292800",
+              "start": 21,
+              "url": "https://t.co/iQJUN9MyQe"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2042878331394412763",
+              "start": 45,
+              "url": "https://t.co/w0zg5bJM9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103157586891620811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103157573977292800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042878331394412763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天了，4月发的，刚刚才收到敏感内容标记 https://t.co/iQJUN9MyQe https://t.co/w0zg5bJM9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042878297554718721"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2042878331394412763",
+        "created_at": "2026-04-11T08:12:03.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042878331394412763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNaqVDEwmP",
+              "end": 34,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042878331394412763/video/1",
+              "media_key": "7_2042878297554718721",
+              "start": 11,
+              "url": "https://t.co/GNaqVDEwmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042878331394412763",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2042878297554718721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 23385,
+          "like_count": 189,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "是故意的还是不小心？ https://t.co/GNaqVDEwmP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2103157586891620811",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14766,
+          "following_count": 3288,
+          "like_count": 51950,
+          "listed_count": 47,
+          "media_count": 5575,
+          "tweet_count": 27594
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

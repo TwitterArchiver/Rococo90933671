@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2099352258525937997",
+    "created_at": "2026-09-14T04:31:11.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T05:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099355256069169306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099355256069169306",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099352258525937997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 立场，很神奇吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2099352249873129472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJlv5ga4AAQ_-D.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1269,
+        "media_key": "3_2099352249898311680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJlv5mbIAAGHEj.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2099352258525937997",
+        "created_at": "2026-09-14T04:31:11.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099355256069169306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099355256069169306",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099352258525937997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 立场，很神奇吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099352249873129472",
+            "3_2099352249898311680"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "2099352258525937997",
+        "created_at": "2026-09-14T04:19:17.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099352258525937997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmDPSY1cbM",
+              "end": 63,
+              "expanded_url": "https://x.com/Konekoutena/status/2099352258525937997/photo/1",
+              "media_key": "3_2099352249873129472",
+              "start": 40,
+              "url": "https://t.co/TmDPSY1cbM"
+            },
+            {
+              "display_url": "pic.x.com/TmDPSY1cbM",
+              "end": 63,
+              "expanded_url": "https://x.com/Konekoutena/status/2099352258525937997/photo/1",
+              "media_key": "3_2099352249898311680",
+              "start": 40,
+              "url": "https://t.co/TmDPSY1cbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099352258525937997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099352249873129472"
+          },
+          {
+            "media_key": "3_2099352249898311680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "李老师做了一辈子反贼，遇到不利女的事，就开始相信共产党了。这人龟得真是由来已久 https://t.co/TmDPSY1cbM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2099355256069169306",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14551,
+          "following_count": 3278,
+          "like_count": 50657,
+          "listed_count": 47,
+          "media_count": 5470,
+          "tweet_count": 27028
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "AI画师｜独立的社会观察员｜一个怀着理想主义的跨性别小说家，也是一个成长在地狱般原生家庭的抑郁症患者 🍥hrt 2026.9.4\n付费1对1聊天100RMB/h，需要请私信备注\n生活号@yexinstory \nYouTube频道：https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 138,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 115,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZFez"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "is_identity_verified": true,
+        "location": "喵星",
+        "most_recent_tweet_id": "2099352258525937997",
+        "name": "枫糖小猫🏳️‍⚧️",
+        "pinned_tweet_id": "2098785277741584670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1788451323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095475881162702849/jpuFM3oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18256,
+          "following_count": 1810,
+          "like_count": 16036,
+          "listed_count": 12,
+          "media_count": 7831,
+          "tweet_count": 30429
+        },
+        "url": "https://t.co/hP17kdZFez",
+        "username": "Konekoutena",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

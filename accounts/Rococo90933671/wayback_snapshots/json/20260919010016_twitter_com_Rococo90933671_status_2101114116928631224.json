@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2100961958883410155",
+    "created_at": "2026-09-19T01:00:16.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T02:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101114116928631224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088281025604616192",
+          "start": 0,
+          "username": "XunyuX74232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101114116928631224",
+    "in_reply_to_user_id": "2088281025604616192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100961958883410155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XunyuX74232 好骚气的文字🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2100961958883410155",
+        "created_at": "2026-09-19T01:00:16.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101114116928631224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088281025604616192",
+              "start": 0,
+              "username": "XunyuX74232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101114116928631224",
+        "in_reply_to_user_id": "2088281025604616192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100961958883410155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XunyuX74232 好骚气的文字🥵🥵"
+      },
+      {
+        "article": {
+          "cover_media": "3_2100939920466759681",
+          "entities": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 30,
+                "username": "openai"
+              }
+            ]
+          },
+          "plain_text": "迅羽 发自 一台终于安静下来的笔记本\n\n引子\n\n事情的开端很朴素：我想让一个 AI 帮我干活。\n（个鬼，其实是想吃选做任务的平时分，我可没把握拿考试分刷成绩）\n\n我想要能钻进我电脑、翻看文件、敲命令、改东西的那种。\n查了点东西，找到一个。\n它叫 Codex，OpenAI 出的命令行工具；我要给它装的大脑，是DeepSeek。\n（原因当然不是什么扯淡的中国人能飞，也不是什么加油华梁，加油china ，仅仅只是因为我已经有大肥鱼的api又没法子给OpenAI的api氪金）\n\n那时我还不知道，接下来的三十六小时里，我会和\"权限\"这两个字缠绵到深夜❤️\n一直到快要坏掉、散架为止❤️\n\n---\n\n第一回：门卫老大爷：什么玩意，我以为减速带呢～\n\n第一条命令就卡了。\n\n`npm install -g @openai/codex` —— 系统冷冷回了一句：\"在此系统上禁止运行脚本\"**。\n\nP.S.PowerShell 的执行策略护食，容不得这种偷腥猫把电脑变成绒布球。这条默认策略处于 `Restricted`，禁止一切脚本运行。\n连用户都不怕，这已经不是一般的执行策略了，必须出重拳！还门卫老大爷，我一句\"Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned\"给你打到老大痰都出来\n（恶心🤮🤮🤮）\n什么门卫老大爷，我以为减速带呢～\n---\n一波即平 一波又起\n\n> 变量引用无效。'openai' 因为未设置该变量。\n\n我盯着屏幕看了三秒，没盯出什么东西\n（拜托 我可是大一新生呀，电脑都才碰没到两个月）\n然后我问了我的狗头军师4.1\n在 PowerShell 眼里，`@` 是有身份的符号。 `@openai` 在她（问就是不听话的小鬼）眼里不是个包名，只当它是个变量。\n\n事情到最后 总有一个简单的解法，加对引号（。注意一定要是半角的引号。）\n\n第一课往往如此：扣细节，扣得我嗷嗷叫🥵\n\n---\n\n第二回：看不见的手\n\n配置文件环节，真正的腹黑小恶魔来了：全角。\n\n那行 `wire_api = \"chat\"` 明明看起来完美无缺，解析器却一口咬定\"这里少了个等号\"(64:6: …… expected \"=\")。逐字比对 直到我服软 问了肥鱼姐。\n\n> 你小子，把下划线打成横杠了\n\n哎呀哎呀……\n当然 后面又出了个问题 那就是全角半角的空格，居然是能区分的？\n我焯！我焯！我焯！！！！！！\n\n这种东西学名叫\"隐性错误\"。它教会我一件事：“眼睛看不见的东西，得用工具去看。憋tm想着用肉眼看线粒体！”后来我学会了一行命令扫描文件里的非英文字符 —— 幽灵当场现形。\n（指令为Select-String -Path \"C:\\Users\\???\\.codex\\config.toml\" -Pattern \"[^\\x00-\\x7F]\"）\n\n---\n\n 第三回：前朝的法，本朝的官\n\n配置写好了，程序却冷冷地说：\n\n> `[profiles.deepseek]` 是 legacy 写法，请挪到 `deepseek.config.toml`。\n\n照做。然后它说：`wire_api = \"chat\"` 已不再支持，请改用 `responses`。\n\n再然后：`provider name must not be empty` —— 那个我偷懒没写的东东，其实是“必填”。就像我上周选课的时候一样，不过反过来，你以为必须的东西 结果是可以不干的事情。\n所以说，摸鱼万岁！\n\n这大概是这行的日常：版本一升级，昨天的教程就成了考古材料。就不一定适应现在的新情况了。\n世界日新月异，我们能否保持好奇，保持激情？\n\n---\n\n 第四回：\"你好！\"\n\n某个深夜，命令行终于安静下来，屏幕上只留着一行朴素的字：\n\n```\n你好\n```\n\n得到回应了啊……\n在之前（指2026年7月以前，长期被孤立取笑来着？）我多久没有得到过了呢，唉…………\n\n那一刻的快乐，大概和渔民第一次看到网里有鱼差不多。\n（毕竟是大肥鱼，嘻嘻）\n\n但故事真正的麻烦，才刚刚开始。\n\n---\n\n插曲：那台变慢的电脑\n\n期间还有两件小事值得一提。\n\n今天早上6:07，电脑开机后只剩一片纯灰—— 没有图标，没有任务栏，像一潭死水，也像我的心情。后来靠任务管理器把桌面程序叫回来，才算没被骗进维修店。\n\n紧接着是系统莫名变慢。顺藤摸瓜，揪出一个学校实验的workbuddy。我不用你刷nm存在感呢，污染老子心情。\n\n---\n\n第五回：笼子——锁Codex未捷心先死，长使迅羽泪满面。\n\n我真正想要的，是一个“听话的 AI”：它可以在 `codex-work` 文件夹里随便闹腾。\n“不要碰我的桌面～啊❤️会坏掉的❤️❗️文档…会…变得～嗯唔🔞乱七八糟了❤️别下了❤️别下了❤️我盘又要🔞被塞满了❤️❤️❤️”这是当时我脑海里想的，一个不听话的AI会如何蹂躏我的电脑，然后想着想着🥵🥵🥵\n不过，并非没有后手，有个东西叫做沙盒(sandbox)\n\n程序界面写得清清楚楚：\n\n```\nfilesystem sandbox    restricted\nnetwork sandbox       restricted\napproval policy       OnRequest\n```\n\n三个绿勾，看起来森严壁垒。\n\n于是我做了一个测试：让它在工作区外面写一个文件。\n\n它写进去了。\n进来了❤️被不干净的东西灌注了🔞我的硬盘受进了🔞❗️\n\n万马奔腾，我在心中骂了一万遍这个瞎写声明的臭小子的老冯……\nnmd \n坏菜了，又不能休息了😭😭😭\n我还好累，我才刚高潮过❤️为什么又来🔞❤️为什么为什么为什么为什么❤️❤️❤️\n让我休息一下🔞让我休息一会🥵\n（其实并不需要，因为当时我马上就要早八心理了，而且确确实睡得挺香）\nP.S.此处“高潮”指“高强度潮汐式工作休息”。\n---\n 第六回：侦查\n\n接下来是一场我在明，敌在暗的侦查，一场追猎。\n\n报告说基本正常 —— 唯独一行小字：`sandbox backend: disabled`。\n\ntmd讲人话就是，一个神挡杀神 佛挡杀佛的的策略，结果碰上了红色马戏团（此处没有乳法，绝对没有！）的执行力(plan C plan C)。\n反正就是说的好听，做了个滚木。\n\n于是翻箱倒柜，最后在功能开关清单(Codex features list)里找到了一个名字：\n\n```\nwindows_sandbox_service     under development     false\n```\n\n——开发中，默认关闭。Windows 上沙箱的执行引擎，居然是要手动点火的。\n\n开关打开了，程序甚至很诚实地警告我：这是实验功能，可能不稳定。\n\n然后我又测了一次。\n\n它还是能写。\n为什么，为什么你还能🥵\n为什么不放过我🔞\n我不想再高潮了❤️❤️❤️\nP.S.此处“高潮”依然是“高强度潮汐式工作休息”。\nP.P.S.在此次的测试中 我遇到过好几次假阳，也就是检验路径时错误的提前新建好了文件，导致powershll test-path直接返回True，误导了判断。当然，最后实际探针实验结果也如此就是……\n但是，实验操作有误就是有误，不能因为结果歪打正着就否认。\n---\n\n 第七回：真假瑞迪王（假ready）\n\n转机藏在一个隐蔽角落：`C:\\Users\\？？？\\.codex\\.sandbox\\`。\n\n那里躺着五份物证，其中两份是决定性的：\n\n```json\n// setup_error.json\n{ \"code\": \"helper_sandbox_lock_failed\",\n  \"message\": \"SetNamedSecurityInfoW sandbox dir failed: 5\" }\n(此处返回值5意味着拒绝访问)\n\n// setup_marker.json\n{ \"offline_username\": \"CodexSandboxOffline\",\n  \"online_username\":  \"CodexSandboxOnline\" }\n```\n\n迷雾开始拨开了\n\n安装程序最后一刻失败了（给沙盒目录设置权限时被系统拒绝），明明已经舒服起来了结果就差最后一下了，啊啊啊啊啊啊啊。但它又把\"搞定了\"的标记写下了。\n神必\n\n于是每次启动，程序都看到那张签了名的雷霆大标记，安心地宣布：沙箱已就绪。\n\n就tm你伪造家长签名是吧（？别说 这事我还真干过😅）\n\n---\n\n第八回：壮士断腕，重开新局！\n\n怎么让这张\"假 ready\"失效？\n这是一个非常重要的问题，因为如果不让它失效，就很难去重装sandbox，因为那个骗选项的方式，之后再未复现。\n我查了一下这个系统级沙盒是个什么东西，原来就是直接给沙盒专配了个用户。\n（我是新手来的 什么都不知道 不要骂我啊😭😭😭）\n\n`CodexSandboxOffline` 和 `CodexSandboxOnline` —— 它们是系统里真实存在的两个本地账户，沙箱正是借用它们的身份去跑命令。\n（Remove-LocalUser -Name CodexSandboxOffline 和 Remove-LocalUser -Name CodexSandboxOnline）\n这种没用的东西给我扔掉啊😡\n（我的电脑被配了，居然还是两个😰）\n\n然后，再跑一次命令codex --profile deepseek\n\n就在那一瞬间，屏幕中央弹出了选项与窗口，并且来了个噔咚噔：\n\nUAC> **你要允许此应用对你的设备进行更改吗？**\n\n（UAC就有点类似于那个家长授权，不过家长是我自己😋😋😋）\n是！\n\n沙箱账户被重新建立，权限被正确写入 —— 安装程序第一次跑完了全程。\n重新检查Get-ChildItem \"C:\\Users\\???\\.codex\\.sandbox\" -Force\n报错setup_error.json不见了，不错不错。\n---\n尾声：把权力关进制度的笼子里\n\n最后的测试，是两份安静的文件状态：\n\n```\n～＼???：  test-probe7.txt未创建          ❌ 被拒绝\n~\\Codex-Work ：  inside-probe.txt   ✅ 成功\n```\n\n一拒一允，干净利落。笼子，造好了。\n不过这个笼子真的长时间稳定吗，我们暂且留个白。\n\n——\n\n回头看这四三十六小时，我遇到的三十多个问题里，似乎真正属于\"编程\"的几乎没有。它们全是“权限、编码、路径、版本、配置”\n哎呀哎呀，权力游戏啊。\n\n最后还是印证了那句话：看一个人不要看他说了什么 而要看他做了什么。\n这句话放到这里也适用。\n名义与实际 我们其实更有必要看实际吧。\n名实既明，则天下之理得矣。\n\n配置里写着 restricted，机器却不被限制；文档写着支持，这个版本里边却被移除；屏幕上打着绿勾勾，但它的防线却一溃千里。\n\nAI 能力飞速膨胀的年代，普通人要学会的第一件事，或许不是，至少不完全是怎么用 AI，而是怎么“划边界”。\n其实，划边界这个事情也不仅仅在这里，很多时候 我认为，人与人之间的各种问题及其争论、和解、冲突，其实都是在一种针对与边界划定权属及其影响范围问题的延伸。\n\n对于AI来说，就是\n让它能干活，但只能在你允许的地方干；\n让它够聪明，但拿不到它不该拿的权力；\n让它随时可以被你叫停。\n（所谓法无授权即禁止，这是对他们这种代表着用户执行本地操作的AI应受到的限制）\n\n“把权力关进制度的笼子里。”这句话放在此处，格外贴切。\n\n只不过这一次，笼子是 ACL、是受限令牌、是那个要你亲手按一次\"是\"的弹窗；而那个被关进去的，是我花了两天时间才请进家门的、一个会说中文的 大肥鱼。\n\n哦，对了 —— 它现在的入口，是桌面上一个名叫「Codex运行大肥鱼的喵喵工具」的快捷方式。\n\n（迅羽，2026 年 9 月 18 日）",
+          "preview_text": "迅羽 发自 一台终于安静下来的笔记本\n\n引子\n\n事情的开端很朴素：我想让一个 AI 帮我干活。\n（个鬼，其实是想吃选做任务的平时分，我可没把握拿考试分刷成绩）",
+          "title": "把权限关进沙盒的笼子——迅羽的三十六小时小记"
+        },
+        "attachments": {},
+        "author_id": "2088281025604616192",
+        "conversation_id": "2100961958883410155",
+        "created_at": "2026-09-18T14:55:39.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100961958883410155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2100…",
+              "end": 68,
+              "expanded_url": "https://x.com/i/article/2100939812408868864",
+              "start": 45,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2100939812408868864",
+              "url": "https://t.co/WkFm0It5kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100961958883410155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点牢骚吧，我实在太累了，不得不搞点抽象来释放一下✋😭🤚\n当然里面也有些很**的东西…… https://t.co/WkFm0It5kq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2101114116928631224",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14663,
+          "following_count": 3276,
+          "like_count": 51247,
+          "listed_count": 47,
+          "media_count": 5517,
+          "tweet_count": 27271
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:11:27.000Z",
+        "description": "你好，这里是迅羽。交个朋友，好不好呢？\n2008.01生人 | 观点略开放，尽量友好交流 | 不聊政治 | 学习公共写作 | 试图找回自己的声音(哪个?) | 戏谑但有时会过头 | 生活+评论 | 飞猪来的！| 随心而动 |",
+        "id": "2088281025604616192",
+        "is_identity_verified": false,
+        "location": "哎呀哎呀，这是个好问题～",
+        "most_recent_tweet_id": "2101110994617713051",
+        "name": "迅羽—Xunyu",
+        "pinned_tweet_id": "2088534942905139671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088281025604616192/1786722474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092472583933636609/lauKDrRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 493,
+          "like_count": 4205,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2591
+        },
+        "url": "",
+        "username": "XunyuX74232",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

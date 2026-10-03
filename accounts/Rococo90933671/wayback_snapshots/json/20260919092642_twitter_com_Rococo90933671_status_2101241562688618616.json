@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2101167149750562881",
+    "created_at": "2026-09-19T09:26:42.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101241562688618616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "853162972000038912",
+          "start": 0,
+          "username": "thisisMartin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101241562688618616",
+    "in_reply_to_user_id": "853162972000038912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101167149750562881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisisMartin 如果这种错误激起了话题和讨论度，那也是好事啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2101166472815087616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjXxkoakAAjJDQ.jpg",
+        "width": 1606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2101167149750562881",
+        "created_at": "2026-09-19T09:26:42.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101241562688618616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "853162972000038912",
+              "start": 0,
+              "username": "thisisMartin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101241562688618616",
+        "in_reply_to_user_id": "853162972000038912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101167149750562881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisisMartin 如果这种错误激起了话题和讨论度，那也是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101166472815087616"
+          ]
+        },
+        "author_id": "853162972000038912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "TBS アジア大会 愛知・名古屋 特設ページ\nアジア大会 愛知・名古屋の最新情報がチェックできる特設ページです。\n試合映像やその他コンテンツを配信します。\n\nhttps://www.tbs.co.jp/asiangames/",
+              "id": "2094310428117508096",
+              "name": "TBS アジア大会 愛知・名古屋 "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TBS アジア大会 愛知・名古屋 特設ページ\nアジア大会 愛知・名古屋の最新情報がチェックできる特設ページです。\n試合映像やその他コンテンツを配信します。\n\nhttps://www.tbs.co.jp/asiangames/",
+              "id": "2094310428117508096",
+              "name": "TBS アジア大会 愛知・名古屋 "
+            }
+          }
+        ],
+        "conversation_id": "2101167149750562881",
+        "created_at": "2026-09-19T04:31:00.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101167149750562881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1156610944404869120",
+              "start": 25,
+              "username": "AsianGames_2026"
+            },
+            {
+              "end": 83,
+              "id": "1156610944404869120",
+              "start": 67,
+              "username": "AsianGames_2026"
+            },
+            {
+              "end": 151,
+              "id": "1156610944404869120",
+              "start": 135,
+              "username": "AsianGames_2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkegDYvUPx",
+              "end": 175,
+              "expanded_url": "https://x.com/thisisMartin/status/2101167149750562881/photo/1",
+              "media_key": "3_2101166472815087616",
+              "start": 152,
+              "url": "https://t.co/KkegDYvUPx"
+            },
+            {
+              "display_url": "x.com/thisisMartin/s…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/thisisMartin/status/2100316787716116653",
+              "start": 176,
+              "url": "https://t.co/pRO6tdmaUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101167149750562881",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101166472815087616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100316787716116653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱知名古屋亚运会首页展示了错误的“中华台北”会旗。@AsianGames_2026\n愛知名古屋亞運會首頁展示了錯誤的“中華台北”會旗。@AsianGames_2026\n愛知・名古屋アジア大会のトップページには、誤った「チャイニーズ・タイペイ」の大会旗が表示されています。@AsianGames_2026 https://t.co/KkegDYvUPx https://t.co/pRO6tdmaUf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2101241562688618616",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14680,
+          "following_count": 3275,
+          "like_count": 51279,
+          "listed_count": 47,
+          "media_count": 5519,
+          "tweet_count": 27290
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-15T08:27:58.000Z",
+        "description": "中国人-iOS工程师/iOSエンジニア🏳️‍🌈 マスターレベル：中国語標準語 勉強中：英語/日本語/朝鮮語/広東語 浙江省出身です。 「Korean」を「朝鮮語」と呼ぶか「韓国語」と呼ぶかはみんなの自由。",
+        "id": "853162972000038912",
+        "is_identity_verified": false,
+        "location": "IP 位置: 中国・北京市",
+        "most_recent_tweet_id": "2101229606888194517",
+        "name": "𝕄𝕒𝕣𝕥𝕚𝕟 ﾏｰﾃｨﾝ 마틴 مارتىن",
+        "pinned_tweet_id": "1906369762235666754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853162972000038912/1706856556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946860086732750849/IAOuGTLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 1585,
+          "like_count": 68277,
+          "listed_count": 6,
+          "media_count": 3302,
+          "tweet_count": 55183
+        },
+        "url": "",
+        "username": "thisisMartin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

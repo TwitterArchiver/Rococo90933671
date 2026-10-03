@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2098959534786330827",
+    "created_at": "2026-09-13T03:04:06.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098970951669153990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805486587666644992",
+          "start": 0,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098970951669153990",
+    "in_reply_to_user_id": "1805486587666644992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098959534786330827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akebono__Yohira 这明明是我😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2098959534786330827",
+        "created_at": "2026-09-13T03:04:06.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098970951669153990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098970951669153990",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098959534786330827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira 这明明是我😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805486587666644992",
+        "conversation_id": "2098959534786330827",
+        "created_at": "2026-09-13T02:18:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098959534786330827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2098937597548740934",
+              "start": 9,
+              "url": "https://t.co/yjHWaBAteA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098959534786330827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098937597548740934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐这简直就是我 https://t.co/yjHWaBAteA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2098970951669153990",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14540,
+          "following_count": 3280,
+          "like_count": 50525,
+          "listed_count": 47,
+          "media_count": 5464,
+          "tweet_count": 26969
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了, 相同的梦\n2️⃣@Akebono6sqrt249\n🔑@OshimaKamome",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "OshimaKamome"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "is_identity_verified": false,
+        "location": "江原道 元山市     강원도 원산시",
+        "most_recent_tweet_id": "2098964126345429023",
+        "name": "✿ YOHIRA ⍜",
+        "pinned_tweet_id": "2091155516382965833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1784786651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096349809477361665/uRDVpDlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 3321,
+          "like_count": 28046,
+          "listed_count": 1,
+          "media_count": 880,
+          "tweet_count": 5355
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

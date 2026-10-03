@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2103432346506596372",
+    "created_at": "2026-09-25T10:32:05.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103432346506596372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YXZ_GX/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YXZ_GX/status/2103424166909415638",
+          "start": 5,
+          "url": "https://t.co/BDAdRKHabY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103432346506596372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103424166909415638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有高手 https://t.co/BDAdRKHabY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103424159518957568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDdIPAaIAAgWhb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2103432346506596372",
+        "created_at": "2026-09-25T10:32:05.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103432346506596372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YXZ_GX/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YXZ_GX/status/2103424166909415638",
+              "start": 5,
+              "url": "https://t.co/BDAdRKHabY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103432346506596372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103424166909415638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有高手 https://t.co/BDAdRKHabY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103424159518957568"
+          ]
+        },
+        "author_id": "1722322884511911936",
+        "conversation_id": "2103126328551641394",
+        "created_at": "2026-09-25T09:59:35.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103424166909415638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auHGVNXdHn",
+              "end": 44,
+              "expanded_url": "https://x.com/YXZ_GX/status/2103424166909415638/photo/1",
+              "media_key": "3_2103424159518957568",
+              "start": 21,
+              "url": "https://t.co/auHGVNXdHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103424166909415638",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103424159518957568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103126328551641394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 还没结束 https://t.co/auHGVNXdHn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2103432346506596372",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 3290,
+          "like_count": 52041,
+          "listed_count": 46,
+          "media_count": 5586,
+          "tweet_count": 27636
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-08T18:39:18.000Z",
+        "description": "孤星照月明",
+        "id": "1722322884511911936",
+        "is_identity_verified": false,
+        "location": "east",
+        "most_recent_tweet_id": "2103424166909415638",
+        "name": "孤星照明月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722322884511911936/1700309513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773246110586548224/LEqqBgdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 78,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "YXZ_GX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

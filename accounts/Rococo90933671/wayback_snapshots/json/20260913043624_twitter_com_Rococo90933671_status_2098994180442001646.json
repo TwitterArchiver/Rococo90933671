@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1303335410609790976",
+    "conversation_id": "2098705709752103246",
+    "created_at": "2026-09-13T04:36:24.000Z",
+    "display_text_range": [
+      27,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098994180442001646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847086547419729920",
+          "start": 0,
+          "username": "GabriolaDiana"
+        },
+        {
+          "end": 26,
+          "id": "1322177813932331008",
+          "start": 15,
+          "username": "Shuyingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098994180442001646",
+    "in_reply_to_user_id": "1847086547419729920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098984910170239123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabriolaDiana @Shuyingyue 可以这么说吧，因为黄本身确实没什么意思，我的xp系统根本就不在那里，玩galgame就是来体会那个故事的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098984910170239123].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098984910170239123",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098984910170239123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2098705709752103246",
+        "created_at": "2026-09-13T04:36:24.000Z",
+        "display_text_range": [
+          27,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098994180442001646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847086547419729920",
+              "start": 0,
+              "username": "GabriolaDiana"
+            },
+            {
+              "end": 26,
+              "id": "1322177813932331008",
+              "start": 15,
+              "username": "Shuyingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098994180442001646",
+        "in_reply_to_user_id": "1847086547419729920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098984910170239123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabriolaDiana @Shuyingyue 可以这么说吧，因为黄本身确实没什么意思，我的xp系统根本就不在那里，玩galgame就是来体会那个故事的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2098994180442001646",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14542,
+          "following_count": 3280,
+          "like_count": 50533,
+          "listed_count": 47,
+          "media_count": 5464,
+          "tweet_count": 26972
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T01:25:38.000Z",
+        "description": "",
+        "id": "1847086547419729920",
+        "is_identity_verified": false,
+        "location": "ᴢᴇʀᴏᴄᴀғé",
+        "most_recent_tweet_id": "2098985072171028971",
+        "name": "小澪✨",
+        "pinned_tweet_id": "2017915613294035153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847086547419729920/1772541013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097924678841237504/j6Xsfl-1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 120,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 990
+        },
+        "url": "",
+        "username": "GabriolaDiana",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-30T14:05:41.000Z",
+        "description": "",
+        "id": "1322177813932331008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098712854010720633",
+        "name": "疏影月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322177813932331008/1782143396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069085439043272704/ZOvYI9og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 674,
+          "like_count": 21333,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 4805
+        },
+        "url": "",
+        "username": "Shuyingyue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
